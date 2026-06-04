@@ -1,19 +1,12 @@
 # Journal Summary
 
-_Generated 2026-06-03 21:24 from 7 of 24 entries (2026-05-26 → 2026-06-03)_
+_Generated 2026-06-04 20:55 from 7 of 25 entries (2026-05-27 → 2026-06-04)_
 
-## Latest Portfolio Status _(from 2026-06-03)_
+## Latest Portfolio Status _(from 2026-06-04)_
 
-- Cash: $40,117.88
-- Positions (15 open): AAOI (15 @ $162.17, +17.2%), ALAB (9 @ $200.00, +78.0%), ANET (35 @ $141.56, +24.1%), AVGO (11 @ $420.67, +16.1%), CIEN (7 @ $528.73, +19.0%), COHR (13 @ $334.23, +26.2%), CRDO (15 @ $218.67, -2.0%), CSCO (43 @ $119.30, +7.7%), GFS (52 @ $67.53, +27.9%), GLW (27 @ $189.20, +6.6%), KEYS (14 @ $352.15, -0.1%), MRVL (20 @ $168.58, +82.3%), NVDA (24 @ $216.53, -0.0%), TSM (12 @ $403.55, +9.5%), VECO (73 @ $49.75, +23.8%)
-- Total Value: $112,323.37
+_not recorded_
 
 ## Recent Trades (last 7 days)
-
-### 2026-05-26
-| Time | Symbol | Action | Qty | Limit | Status | Reasoning |
-|------|--------|--------|-----|-------|--------|-----------|
-| 15:05 | MTSI | BUY | 5 | $376.32 | pending_new | Barclays Overweight upgrade (PT $450 = 20%+ upside), strong bullish MA momentum; high-conviction new entry within 3% allocation cap |
 
 ### 2026-05-27
 | Time (ET) | Symbol | Action | Qty | Price | Conviction | Reasoning |
@@ -69,10 +62,12 @@ _Generated 2026-06-03 21:24 from 7 of 24 entries (2026-05-26 → 2026-06-03)_
 - CRDO: -2.0% unrealized, -7.2% intraday weakness on recent entry (2026-06-02); hold without panic-selling, thesis intact
 - KEYS: +0.1% unrealized, barely in the money; thesis intact but no urgency signal
 
-## Recent Reflections (last 3 days)
+### 2026-06-04
+| Time | Symbol | Action | Qty | Price | Conviction | Reasoning |
+|------|--------|--------|-----|-------|------------|-----------|
+| — | — | — | — | — | — | Zero trades: all five top-5 picks held due to sector weakness or allocation constraints |
 
-### 2026-06-01
-All three trim orders filled by close: MRVL 1 @ avg $217.5 (+3.08), CSCO 1 @ avg $121.68 (+1.24), CIEN 2 @ avg $568.5 (total ~$1,137). Portfolio closed at $106,688.01 with cash at $42,278.07, positioning stable across 14 holdings with strong upside momentum (AAOI +17%, ANET +7.3%, MRVL +7.3%, NVDA +6.2%). Allocation compliance restored. GLW at -6.3%, KEYS at -6.3% — both monitoring for 8% threshold. All catalyst narratives intact (MRVL T100, NVDA Computex, CSCO infra, CIEN BofA). Ready for next session with cash buffer at 39.6% of portfolio.
+## Recent Reflections (last 3 days)
 
 ### 2026-06-02
 MRVL's +44% intraday surge on NVIDIA CEO validation confirms AI infrastructure thesis; trim to 5% cap preserved compliance and freed dry powder. CRDO filled (+4.3% EOD) on analyst catalyst, validating thesis; LITE failed to fill at $948.55 despite bullish structure — thesis intact, gaps in momentum markets tested limit execution. Portfolio +$1.6k net despite cash deployment; no loss thresholds breached. Ready for next session: 15 positions solid, thesis structure validated, dry powder positioned for next catalyst entry.
@@ -83,3 +78,28 @@ Disciplined position management: All five morning picks reflect the AI infrastru
 MRVL's +82% gain has lifted position to 5.48% (past the 5% watchlist max), requiring monitoring for potential trim at next market move. TSM and CRDO theses remain intact—TSM held due to tight allocation, CRDO held due to day-1 entry weakness (no thesis break). KEYS held as an existing position with solid thesis but lower conviction.
 
 Risk management in focus: maintained 35.8% cash reserve ($40.1K), no positions below -8% threshold, only new allocation that stays within cap constraints. Ready for next session.
+
+### 2026-06-04
+**Trading Rationale:**
+All five morning picks were analyzed and held. Photonics/AI infrastructure sector showed intraday weakness (CIEN -18.76%, ANET -6.46%, AVGO -14.80%), contradicting bullish MA theses for new entries. 
+
+- **CIEN**: -18.76% intraday shock on earnings despite bullish MA. Per lesson 2026-06-02, sector momentum crashes >5% expire limit orders unfilled. No point bidding into weakness.
+- **CRDO**: At allocation cap (2.93% / 3% max). Cannot add despite Roth PT $300 thesis.
+- **ALAB**: Strong position (+54.87% unrealized) entered yesterday; thesis fresh. Let consolidate rather than chase intraday dips.
+- **VIAV**: Product launch occurred pre-session (10:37 AM); medium conviction insufficient during sector pullback. No fresh quotes to validate market reaction.
+- **MTSI**: Barclays rating dated 2026-05-22 (13 days old); medium conviction. High-conviction picks already positioned.
+
+**Portfolio Status:**
+- 15 positions intact, all bullish MA structures hold
+- MRVL +78%, ALAB +54.87%, COHR +18.68%, ANET +15.23% — core thesis thrive despite intraday volatility
+- No positions breach -8% mandatory close (CIEN at -4.68%, NVDA at -0.57%, most green)
+- Cash $39.4K (36% reserve) provides dry powder for next catalyst window
+- Market chop typical of sector rotation; thesis integrity unchanged
+
+**Risk Management:**
+Intraday drawdowns in breadth (AVGO -14.80%) suggest caution justified. Holding positions with fresh theses (ALAB, CRDO, CIEN) while deferring new entries until sector stabilization makes prudent risk/reward sense.
+
+**Tomorrow's Watch:**
+- CIEN washout recovery setup if stabilizes above MA20 ($551.82)
+- AVGO and ANET for reversal signals within MA structures
+- Catalyst calendar: check for LITE order fill status, COHR thesis validation
