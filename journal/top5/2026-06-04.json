@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-06-04",
+  "picks": [
+    {
+      "symbol": "CIEN",
+      "thesis": "Fresh earnings call validates photonics/AI infrastructure growth narrative; bullish MA intact (551.82 > 489.43)",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Earnings call release 2026-06-04"
+    },
+    {
+      "symbol": "CRDO",
+      "thesis": "Roth Capital Buy PT $300 (+35% upside) confirms AI infrastructure analog semiconductor thesis; bullish MA (187.26 > 151.93)",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Roth Capital Buy PT $300 (2026-06-02)"
+    },
+    {
+      "symbol": "ALAB",
+      "thesis": "Taiwan operations expansion validates geographic positioning for AI capex; bullish MA (228.59 > 177.71), just entered yesterday",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Taiwan operations expansion announcement (2026-06-03)"
+    },
+    {
+      "symbol": "VIAV",
+      "thesis": "AI Experts product launch (today 10:37 AM) expands software capabilities for AI infrastructure monitoring; bullish MA (51.2 > 43.54)",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "AI Experts product launch (2026-06-04)"
+    },
+    {
+      "symbol": "MTSI",
+      "thesis": "Barclays Overweight PT $450 (+10% upside) confirms MACOM RF/microwave components critical for AI infrastructure ecosystem; bullish MA (342.36 > 285.32)",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Barclays Overweight PT $450 (2026-05-22)"
+    }
+  ]
+}
