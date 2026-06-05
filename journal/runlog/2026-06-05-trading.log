@@ -1,0 +1,13 @@
+2026-06-05T15:01:36Z [INFO] [setup/start] setup starting routine=trading et_date=2026-06-05
+2026-06-05T15:01:36Z [INFO] [setup/env] env validated alpaca_base=https://paper-api.alpaca.markets sendgrid_present=false
+2026-06-05T15:01:36Z [INFO] [setup/ready] setup complete runlog=/home/runner/work/trading-agent/trading-agent/journal/runlog/2026-06-05-trading.log marker=journal/.current-routine
+2026-06-05T15:02:07Z [INFO] [trade/market_status] fetched clock http_status=200 is_open=True next_open=2026-06-08T09:30:00-04:00 next_close=2026-06-05T16:00:00-04:00
+2026-06-05T15:02:08Z [INFO] [research/account] fetched account http_status=200 cash=39403.97 portfolio_value=108355.08
+2026-06-05T15:02:08Z [INFO] [research/positions] fetched positions http_status=200 n_positions=15
+2026-06-05T15:03:18Z [INFO] [trade/order_request] received order request symbol=MRVL qty=2 side=sell limit_price=292.21 thesis_type=portfolio_management conviction=high
+2026-06-05T15:03:19Z [INFO] [trade/order_submit] alpaca response symbol=MRVL side=sell qty=2 limit_price=292.21 http_status=200 order_id=c9550215-87a9-4a7b-8415-54c428ce4ba3 order_status=pending_new
+2026-06-05T15:03:21Z [INFO] [trade/order_request] received order request symbol=ANET qty=1 side=sell limit_price=157.84 thesis_type=portfolio_management conviction=high
+2026-06-05T15:03:21Z [INFO] [trade/order_submit] alpaca response symbol=ANET side=sell qty=1 limit_price=157.84 http_status=200 order_id=7edb6e0c-56d8-43a3-8746-ea949a2f359d order_status=pending_new
+2026-06-05T15:03:24Z [INFO] [trade/order_request] received order request symbol=CRDO qty=1 side=sell limit_price=225.93 thesis_type=portfolio_management conviction=high
+2026-06-05T15:03:24Z [INFO] [trade/order_submit] alpaca response symbol=CRDO side=sell qty=1 limit_price=225.93 http_status=200 order_id=521e1994-05c5-4579-888b-5f3e45caf0ec order_status=pending_new
+2026-06-05T15:04:19Z [INFO] [finalize/start] finalizing routine=trading et_date=2026-06-05
