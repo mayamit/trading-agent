@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-06-05",
+  "picks": [
+    {
+      "symbol": "NVDA",
+      "thesis": "BofA reiterates Buy with $350 PT (60% upside) on CFO keynote; bullish MA intact (214.67 > 197.49)",
+      "conviction": "high",
+      "thesis_type": "news+ma",
+      "signal_source": "BofA Vivek Arya CFO keynote reaction"
+    },
+    {
+      "symbol": "CSCO",
+      "thesis": "CEO admits AI 'just changed the game' in Cisco's favor; bullish MA breakout (103.32 > 90.7)",
+      "conviction": "high",
+      "thesis_type": "news+ma",
+      "signal_source": "Cisco exec strategy statement, bullish MA inflection"
+    },
+    {
+      "symbol": "CIEN",
+      "thesis": "Analyst maintains rating post-shock; bullish MA intact (551.82 > 489.43) for recovery setup",
+      "conviction": "medium",
+      "thesis_type": "news+ma",
+      "signal_source": "Analyst support 2026-06-05 + MA structure"
+    },
+    {
+      "symbol": "VIAV",
+      "thesis": "Nitro AI Experts product launch delivers diagnostic precision for AI infrastructure software stack",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Viavi Solutions Nitro AI product launch 2026-06-04"
+    },
+    {
+      "symbol": "CRDO",
+      "thesis": "Roth Capital PT $300 validates AI infrastructure data-center positioning; bullish MA (187.26 > 151.93)",
+      "conviction": "medium",
+      "thesis_type": "news+ma",
+      "signal_source": "Roth Capital PT $300 2026-06-02"
+    }
+  ]
+}
