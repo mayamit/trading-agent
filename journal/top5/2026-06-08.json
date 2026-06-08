@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-06-08",
+  "picks": [
+    {
+      "symbol": "ALAB",
+      "thesis": "Taiwan operations expansion validates AI infrastructure capex positioning; bullish MA structure intact.",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Company announcement 6/3; bullish MA"
+    },
+    {
+      "symbol": "CIEN",
+      "thesis": "Convertible offering provides capital for infrastructure growth; bullish MA despite recent weakness.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Convertible debt announcement 6/8; bullish MA"
+    },
+    {
+      "symbol": "MRVL",
+      "thesis": "T100 validation thesis intact; strong momentum and bullish MA structure.",
+      "conviction": "high",
+      "thesis_type": "ma_crossover",
+      "signal_source": "Bullish MA; continued outperformance +77.9%"
+    },
+    {
+      "symbol": "TSM",
+      "thesis": "AI demand narrative strengthened; bullish MA intact with allocation room.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "AI demand coverage 6/7; bullish MA"
+    },
+    {
+      "symbol": "GFS",
+      "thesis": "Photonics/AI infrastructure capex thesis validated by Keysight integration.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Keysight partnership 6/3; bullish MA"
+    }
+  ]
+}
