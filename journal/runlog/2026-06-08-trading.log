@@ -1,0 +1,9 @@
+2026-06-08T15:08:42Z [INFO] [setup/start] setup starting routine=trading et_date=2026-06-08
+2026-06-08T15:08:42Z [INFO] [setup/env] env validated alpaca_base=https://paper-api.alpaca.markets sendgrid_present=false
+2026-06-08T15:08:42Z [INFO] [setup/ready] setup complete runlog=/home/runner/work/trading-agent/trading-agent/journal/runlog/2026-06-08-trading.log marker=journal/.current-routine
+2026-06-08T15:09:11Z [INFO] [trade/market_status] fetched clock http_status=200 is_open=True next_open=2026-06-09T09:30:00-04:00 next_close=2026-06-08T16:00:00-04:00
+2026-06-08T15:09:11Z [INFO] [research/account] fetched account http_status=200 cash=40372.42 portfolio_value=108113.48
+2026-06-08T15:09:12Z [INFO] [research/positions] fetched positions http_status=200 n_positions=15
+2026-06-08T15:09:45Z [INFO] [trade/order_request] received order request symbol=CIEN qty=7 side=sell limit_price=472.50 thesis_type=loss_threshold conviction=high
+2026-06-08T15:09:45Z [INFO] [trade/order_submit] alpaca response symbol=CIEN side=sell qty=7 limit_price=472.50 http_status=200 order_id=c6c3bb5d-df53-4a94-8acd-f6e334f2c33e order_status=pending_new
+2026-06-08T15:10:32Z [INFO] [finalize/start] finalizing routine=trading et_date=2026-06-08
