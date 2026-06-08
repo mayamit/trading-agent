@@ -11,19 +11,9 @@
       "max_allocation_pct": 5
     },
     {
-      "symbol": "LWLG",
-      "description": "Lightwave Logic — pre-revenue EO polymer modulators; speculative",
-      "max_allocation_pct": 1
-    },
-    {
       "symbol": "COHR",
       "description": "Coherent Corp — transceivers/lasers; 25% market share; best risk/reward of pure plays",
       "max_allocation_pct": 5
-    },
-    {
-      "symbol": "POET",
-      "description": "POET Technologies — optical interposer platform; speculative",
-      "max_allocation_pct": 1
     },
     {
       "symbol": "FN",
@@ -116,16 +106,6 @@
       "max_allocation_pct": 5
     },
     {
-      "symbol": "CLFD",
-      "description": "Clearfield — fiber connectivity hardware; below 2022 highs despite AI demand",
-      "max_allocation_pct": 2
-    },
-    {
-      "symbol": "AXTI",
-      "description": "AXT Inc — InP wafer substrate chokepoint; speculative post +5,400% run",
-      "max_allocation_pct": 1
-    },
-    {
       "symbol": "LASR",
       "description": "nLight — defense / industrial lasers; $162M defense backlog",
       "max_allocation_pct": 3
@@ -134,6 +114,11 @@
       "symbol": "IPGP",
       "description": "IPG Photonics — industrial fiber lasers; classic 'picks and shovels' value setup",
       "max_allocation_pct": 5
+    },
+    {
+      "symbol": "SOFI",
+      "description": "SoFi Technologies — consumer fintech / digital lending. OFF-THESIS vs the AI-infrastructure book; added 2026-06-04 by user request. NOTE: 15% cap is a deliberate per-symbol override of the CLAUDE.md 5% hard rule (user-approved, SOFI only).",
+      "max_allocation_pct": 15
     }
   ],
   "cash_reserve_pct": 15

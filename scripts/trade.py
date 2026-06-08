@@ -24,6 +24,26 @@ AUTH_HEADERS = {
 HTTP_TIMEOUT = (5, 15)
 
 TRADES_LOG = Path(__file__).resolve().parent.parent / "journal" / "trades.jsonl"
+WATCHLIST_PATH = Path(__file__).resolve().parent.parent / "watchlist.json"
+
+
+def _symbol_cap(symbol):
+    """Per-order allocation cap (%) for a symbol.
+
+    Defaults to the CLAUDE.md 5% hard rule. A symbol's watchlist
+    max_allocation_pct can RAISE this ceiling (e.g. SOFI=15, a user-approved
+    per-symbol override) but never lowers it below 5 — so honoring the watchlist
+    only ever grants extra room to explicitly-raised names, leaving every other
+    symbol on the original 5%-per-order behavior.
+    """
+    try:
+        data = json.loads(WATCHLIST_PATH.read_text())
+        for entry in data.get("watchlist", []):
+            if entry.get("symbol") == symbol:
+                return max(5.0, float(entry.get("max_allocation_pct", 5)))
+    except (OSError, ValueError, KeyError):
+        pass
+    return 5.0
 
 
 def _log_trade_event(symbol, qty, side, price, order_response, agent_meta):
@@ -66,12 +86,15 @@ def validate_order(symbol, qty, side, current_price, account_value, current_posi
     order_value = qty * current_price
     allocation_pct = (order_value / account_value) * 100
 
-    # Check max position size
-    if allocation_pct > 5:
-        reason = f"Order exceeds 5% allocation limit: {allocation_pct:.1f}%"
+    # Check max position size. Default ceiling is the CLAUDE.md 5% hard rule;
+    # a watchlist max_allocation_pct above 5 raises it for that symbol only
+    # (e.g. SOFI=15, user-approved override).
+    cap = _symbol_cap(symbol)
+    if allocation_pct > cap:
+        reason = f"Order exceeds {cap:.0f}% allocation limit for {symbol}: {allocation_pct:.1f}%"
         log("trade", "validate", "rejected", level="WARN",
             symbol=symbol, qty=qty, side=side, reason=reason,
-            allocation_pct=round(allocation_pct, 2))
+            allocation_pct=round(allocation_pct, 2), cap_pct=cap)
         return False, reason
 
     # Check total exposure (positions + this order < 80%)
