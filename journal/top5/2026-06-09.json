@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-06-09",
+  "picks": [
+    {
+      "symbol": "ANET",
+      "thesis": "Institutional upgrade validates network infrastructure positioning; bullish MA intact",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "B of A Securities PT raise to $200"
+    },
+    {
+      "symbol": "TSM",
+      "thesis": "AI infrastructure capex cycle expands beyond Nvidia, fresh Google order signal",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Google AI chip order"
+    },
+    {
+      "symbol": "ALAB",
+      "thesis": "Taiwan capex expansion validates AI infrastructure positioning, fresh thesis",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Taiwan operations expansion announcement"
+    },
+    {
+      "symbol": "LITE",
+      "thesis": "Optical photonics capex cycle validation; Needham reiterates Buy, tried entry 6/2",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Needham reiterates Buy $1040 PT"
+    },
+    {
+      "symbol": "CRDO",
+      "thesis": "Credit infrastructure thesis validated; bullish MA intact, allocation at cap",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "TD Cowen PT $260 validation from 2026-06-02"
+    }
+  ]
+}
