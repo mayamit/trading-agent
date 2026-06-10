@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-06-10",
+  "picks": [
+    {
+      "symbol": "CIEN",
+      "thesis": "Quantum-safe transatlantic trial validates 800GbE optical networking infrastructure, thesis recovering post-mandatory close.",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Colt/Ciena quantum-safe trial announcement 2026-06-10 08:50"
+    },
+    {
+      "symbol": "LITE",
+      "thesis": "Bullish MA with photonics sector momentum (listed in big movers), capex cycle intact.",
+      "conviction": "high",
+      "thesis_type": "news+ma",
+      "signal_source": "Casey's earnings catalyst, LITE among big gainers 2026-06-10 13:58"
+    },
+    {
+      "symbol": "ALAB",
+      "thesis": "Taiwan expansion validates AI infrastructure growth capex, bullish MA intact, hold existing position.",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Taiwan operations expansion 2026-06-03, AI infrastructure theme"
+    },
+    {
+      "symbol": "AAOI",
+      "thesis": "Optical infrastructure play, bullish MA, listed in big movers validating sector strength.",
+      "conviction": "high",
+      "thesis_type": "news+ma",
+      "signal_source": "Big movers list 2026-06-10 13:58, optical theme"
+    },
+    {
+      "symbol": "CRDO",
+      "thesis": "Bullish MA (200.02 > 163.97), listed in big movers, thesis intact, hold existing position.",
+      "conviction": "medium",
+      "thesis_type": "ma_crossover",
+      "signal_source": "Big movers list 2026-06-10 13:58"
+    }
+  ]
+}
