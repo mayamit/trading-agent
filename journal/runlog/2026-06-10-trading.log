@@ -1,0 +1,24 @@
+2026-06-10T15:05:28Z [INFO] [setup/start] setup starting routine=trading et_date=2026-06-10
+2026-06-10T15:05:28Z [INFO] [setup/env] env validated alpaca_base=https://paper-api.alpaca.markets sendgrid_present=false
+2026-06-10T15:05:28Z [INFO] [setup/ready] setup complete runlog=/home/runner/work/trading-agent/trading-agent/journal/runlog/2026-06-10-trading.log marker=journal/.current-routine
+2026-06-10T15:05:54Z [INFO] [trade/market_status] fetched clock http_status=200 is_open=True next_open=2026-06-11T09:30:00-04:00 next_close=2026-06-10T16:00:00-04:00
+2026-06-10T15:05:55Z [INFO] [research/account] fetched account http_status=200 cash=46550.55 portfolio_value=105378.47
+2026-06-10T15:05:56Z [INFO] [research/positions] fetched positions http_status=200 n_positions=13
+2026-06-10T15:06:28Z [INFO] [research/account] fetched account http_status=200 cash=46550.55 portfolio_value=105351.19
+2026-06-10T15:06:31Z [INFO] [research/account] fetched account http_status=200 cash=46550.55 portfolio_value=105392.84
+2026-06-10T15:06:32Z [INFO] [research/account] fetched account http_status=200 cash=46550.55 portfolio_value=105400.67
+2026-06-10T15:06:32Z [INFO] [research/account] fetched account http_status=200 cash=46550.55 portfolio_value=105403.43
+2026-06-10T15:07:33Z [INFO] [trade/order_request] received order request symbol=GLW qty=27 side=sell limit_price=171.80 thesis_type=mandatory_stop conviction=high
+2026-06-10T15:07:34Z [INFO] [trade/order_submit] alpaca response symbol=GLW side=sell qty=27 limit_price=171.80 http_status=200 order_id=368e1d9e-cf31-4597-a0ab-7a4b166d1c8d order_status=pending_new
+2026-06-10T15:07:36Z [INFO] [trade/order_request] received order request symbol=CRDO qty=1 side=sell limit_price=244.00 thesis_type=allocation_compliance conviction=high
+2026-06-10T15:07:36Z [INFO] [trade/order_submit] alpaca response symbol=CRDO side=sell qty=1 limit_price=244.00 http_status=200 order_id=4bf8c85e-ed84-4f33-80b2-2d5c37d383b6 order_status=pending_new
+2026-06-10T15:07:39Z [INFO] [trade/order_request] received order request symbol=CIEN qty=8 side=buy limit_price=629.06 thesis_type=news_catalyst conviction=high
+2026-06-10T15:07:39Z [INFO] [trade/validate] passed symbol=CIEN qty=8.0 side=buy allocation_pct=4.79
+2026-06-10T15:07:39Z [INFO] [trade/order_submit] alpaca response symbol=CIEN side=buy qty=8 limit_price=629.06 http_status=200 order_id=62c08ca5-e64b-4af1-9a86-f496569c88e5 order_status=pending_new
+2026-06-10T15:07:42Z [INFO] [trade/order_request] received order request symbol=LITE qty=5 side=buy limit_price=1031.07 thesis_type=news_ma conviction=high
+2026-06-10T15:07:42Z [INFO] [trade/validate] passed symbol=LITE qty=5.0 side=buy allocation_pct=4.9
+2026-06-10T15:07:42Z [INFO] [trade/order_submit] alpaca response symbol=LITE side=buy qty=5 limit_price=1031.07 http_status=200 order_id=64a791fc-d659-49ae-9092-223c1dfe9525 order_status=pending_new
+2026-06-10T15:07:45Z [INFO] [trade/order_request] received order request symbol=AAOI qty=15 side=buy limit_price=172.41 thesis_type=news_ma conviction=high
+2026-06-10T15:07:45Z [INFO] [trade/validate] passed symbol=AAOI qty=15.0 side=buy allocation_pct=2.46
+2026-06-10T15:07:46Z [INFO] [trade/order_submit] alpaca response symbol=AAOI side=buy qty=15 limit_price=172.41 http_status=200 order_id=c8f90922-1ad9-499d-a2b3-4827d555f022 order_status=pending_new
+2026-06-10T15:08:38Z [INFO] [finalize/start] finalizing routine=trading et_date=2026-06-10
