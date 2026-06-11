@@ -1,0 +1,9 @@
+2026-06-11T15:11:34Z [INFO] [setup/start] setup starting routine=trading et_date=2026-06-11
+2026-06-11T15:11:34Z [INFO] [setup/env] env validated alpaca_base=https://paper-api.alpaca.markets sendgrid_present=false
+2026-06-11T15:11:34Z [INFO] [setup/ready] setup complete runlog=/home/runner/work/trading-agent/trading-agent/journal/runlog/2026-06-11-trading.log marker=journal/.current-routine
+2026-06-11T15:12:01Z [INFO] [trade/market_status] fetched clock http_status=200 is_open=True next_open=2026-06-12T09:30:00-04:00 next_close=2026-06-11T16:00:00-04:00
+2026-06-11T15:12:02Z [INFO] [research/account] fetched account http_status=200 cash=36486.47 portfolio_value=105436.12
+2026-06-11T15:12:02Z [INFO] [research/positions] fetched positions http_status=200 n_positions=15
+2026-06-11T15:12:48Z [INFO] [trade/order_request] received order request symbol=GLW qty=27 side=sell limit_price=170.16 thesis_type=mandatory_stop conviction=high
+2026-06-11T15:12:48Z [INFO] [trade/order_submit] alpaca response symbol=GLW side=sell qty=27 limit_price=170.16 http_status=200 order_id=6be7d3f8-1a6c-474c-a5d3-8fefcba3cda2 order_status=pending_new
+2026-06-11T15:13:28Z [INFO] [finalize/start] finalizing routine=trading et_date=2026-06-11
