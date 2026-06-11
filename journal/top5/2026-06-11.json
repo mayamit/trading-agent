@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-06-11",
+  "picks": [
+    {
+      "symbol": "AAOI",
+      "thesis": "Cramer endorsement for AI investors on optical infrastructure; bullish MA; sector breadth validates capex",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Cramer 2026-06-11 11:40; big movers list"
+    },
+    {
+      "symbol": "MRVL",
+      "thesis": "Golden cross confirmation with strong premarket momentum; T100/Taiwan foundry thesis intact",
+      "conviction": "high",
+      "thesis_type": "ma_crossover",
+      "signal_source": "Technical golden cross + premarket momentum 2026-06-11 12:13"
+    },
+    {
+      "symbol": "LITE",
+      "thesis": "Big movers validation; bullish MA; photonics sector breadth confirms capex cycle",
+      "conviction": "high",
+      "thesis_type": "news+ma",
+      "signal_source": "Big movers list 2026-06-10; bullish MA (940.11 > 874.58)"
+    },
+    {
+      "symbol": "CIEN",
+      "thesis": "Quantum-safe transatlantic trial validates 800GbE infrastructure demand; bullish MA intact",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Quantum-safe transatlantic trial 2026-06-10 08:50"
+    },
+    {
+      "symbol": "ALAB",
+      "thesis": "Taiwan operations expansion validates AI capex positioning; bullish MA; room within 5% cap",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Big movers list 2026-06-11; Taiwan expansion catalyst"
+    }
+  ]
+}
