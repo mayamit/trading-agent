@@ -1,27 +1,14 @@
 # Journal Summary
 
-_Generated 2026-06-11 21:06 from 7 of 30 entries (2026-06-03 → 2026-06-11)_
+_Generated 2026-06-12 20:57 from 7 of 31 entries (2026-06-04 → 2026-06-12)_
 
-## Latest Portfolio Status _(from 2026-06-11)_
+## Latest Portfolio Status _(from 2026-06-12)_
 
-- Cash: $36,486.47
-- Positions: 14 holdings (AAOI, ALAB, ANET, CIEN, COHR, CRDO, CSCO, GFS, GLW, KEYS, LITE, MRVL, NVDA, TSM, VECO)
-- Total Value: $105,001.79
+- Cash: $41,103.45
+- Positions: 14 holdings (AAOI, ALAB, ANET, CIEN, COHR, CRDO, CSCO, GFS, KEYS, LITE, MRVL, NVDA, TSM, VECO)
+- Total Value: $108,275.48
 
 ## Recent Trades (last 7 days)
-
-### 2026-06-03
-| Time (ET) | Symbol | Action | Qty | Limit | Order ID | Thesis Type | Signal | Conviction | Rationale |
-|-----------|--------|--------|-----|-------|----------|-------------|--------|------------|-----------|
-| 15:36 | ALAB | BUY | 2 | $357.07 | 4ef1ce91 | news_catalyst | Taiwan_operations_expansion | high | ai_infrastructure_capex_validation |
-
-**Execution Details**: ALAB order placed at 0.2% above current ask ($356.36 → $357.07 limit). Taiwan operations expansion announcement validates geographic positioning for AI infrastructure growth capex. Position rises from 2.86% to 3.49% allocation, maintaining comfort within 5% watchlist cap.
-
-**Skipped Picks**:
-- MRVL: Position already at 5.48% (exceeds 5% allocation cap), thesis intact but cannot add
-- TSM: Position at 4.71% allocation with 0.3% room to cap; thesis intact but skip to avoid overallocation risk
-- CRDO: -2.0% unrealized, -7.2% intraday weakness on recent entry (2026-06-02); hold without panic-selling, thesis intact
-- KEYS: +0.1% unrealized, barely in the money; thesis intact but no urgency signal
 
 ### 2026-06-04
 | Time | Symbol | Action | Qty | Price | Conviction | Reasoning |
@@ -71,10 +58,18 @@ None — all five top-5 picks (AAOI, MRVL, LITE, CIEN, ALAB) already held with t
 |------|--------|--------|-----|-------|-----------|-----------|
 | (N/A) | — | — | — | — | — | — |
 
-## Recent Reflections (last 3 days)
+### 2026-06-12
+| Time | Symbol | Action | Qty | Price | Thesis Type | Signal | Conviction | Reasoning |
+|------|--------|--------|-----|-------|-------------|--------|-----------|-----------|
+| 11:04 | CIEN | BUY | 4 | $456.08 | news_catalyst | quantum_safe_trial | medium | 800GbE trial validates infrastructure capex; 0.5% limit respects 2026-06-02 volatility lesson (11am-2pm window) |
+| 11:04 | LITE | BUY | 1 | $920.32 | ma_crossover | photonics_sector_momentum | medium | Photonics breadth + bullish MA; narrow room to cap (4.20% → 4.36%), small add; 0.5% limit for morning volatility |
 
-### 2026-06-09
-Disciplined risk management executed: AVGO mandatory -8.23% loss closure honored hard CLAUDE.md rule, freeing capital. ALAB buy limit expired unfilled (0.5% above ask during high sector momentum), consistent with lesson 2026-06-02 pattern. Sector volatility high (VECO +11.4% intraday, CRDO +6.1%, MRVL -6.4%); NVDA, COHR, ANET weak on broader rotation. Portfolio core thesis intact: AI infrastructure (TSM, ALAB, ANET) holding well despite today's pullback; optical/photonics cycle (COHR, LITE waitlist) showing volatility. Tomorrow: monitor TSM post-Google capex news, evaluate LITE re-entry if sector stabilizes below 10% daily swings.
+**Skipped Picks:**
+- ALAB: Position at 5.08% (allocation cap), thesis intact but cannot add
+- MRVL: Room to 5% cap, high conviction (B. Riley $345 PT), but 68% unrealized gains + 4.64% allocation; portfolio core thesis already expressed
+- TSM: Minimal room (<$434), thesis intact but allocation at 4.67% leaves insufficient headroom
+
+## Recent Reflections (last 3 days)
 
 ### 2026-06-10
 Disciplined execution of mandatory rules + top5 thesis alignment:
@@ -94,3 +89,6 @@ Cash position: ~$42k remaining dry powder for next catalyst window or sector rot
 Monitoring: CIEN/LITE/AAOI fill rates (lesson 2026-06-02: 0.2% limits may expire during >5% sector momentum), TSM post-Google capex news, KEYS breakeven point (-6.6% unrealized).
 
 Next: EOD routine will run summarize.py then notify.py to email digest.
+
+### 2026-06-12
+Semiconductor/optical capex thesis continues to validate: MRVL +65% unrealized, ALAB +42%, VECO +55%, and both new positions (CIEN, LITE) filled and up intraday despite sector volatility. The 0.5% limit discipline (lesson 2026-06-02) paid off — fills came through on high-conviction trades during 11am window momentum. Disciplined position sizing held: rejected ALAB/MRVL/TSM adds at allocation caps, keeping portfolio balanced. CRDO weakness (-7.9% intraday) signals reversal risk; watch for stabilization next session. NVDA still -5.2% overall but core thesis intact — patience until 8% mandatory close triggered.
