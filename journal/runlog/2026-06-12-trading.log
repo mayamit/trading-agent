@@ -1,0 +1,13 @@
+2026-06-12T15:03:29Z [INFO] [setup/start] setup starting routine=trading et_date=2026-06-12
+2026-06-12T15:03:29Z [INFO] [setup/env] env validated alpaca_base=https://paper-api.alpaca.markets sendgrid_present=false
+2026-06-12T15:03:29Z [INFO] [setup/ready] setup complete runlog=/home/runner/work/trading-agent/trading-agent/journal/runlog/2026-06-12-trading.log marker=journal/.current-routine
+2026-06-12T15:03:54Z [INFO] [trade/market_status] fetched clock http_status=200 is_open=True next_open=2026-06-15T09:30:00-04:00 next_close=2026-06-12T16:00:00-04:00
+2026-06-12T15:03:55Z [INFO] [research/account] fetched account http_status=200 cash=41103.45 portfolio_value=108710.52
+2026-06-12T15:03:56Z [INFO] [research/positions] fetched positions http_status=200 n_positions=14
+2026-06-12T15:04:31Z [INFO] [trade/order_request] received order request symbol=CIEN qty=4 side=buy limit_price=456.08 thesis_type=news_catalyst conviction=medium
+2026-06-12T15:04:31Z [INFO] [trade/validate] passed symbol=CIEN qty=4.0 side=buy allocation_pct=1.68
+2026-06-12T15:04:31Z [INFO] [trade/order_submit] alpaca response symbol=CIEN side=buy qty=4 limit_price=456.08 http_status=200 order_id=43e53476-6320-4311-b3b0-2ca39a7482f5 order_status=pending_new
+2026-06-12T15:04:35Z [INFO] [trade/order_request] received order request symbol=LITE qty=1 side=buy limit_price=920.32 thesis_type=ma_crossover conviction=medium
+2026-06-12T15:04:35Z [INFO] [trade/validate] passed symbol=LITE qty=1.0 side=buy allocation_pct=0.85
+2026-06-12T15:04:35Z [INFO] [trade/order_submit] alpaca response symbol=LITE side=buy qty=1 limit_price=920.32 http_status=200 order_id=2f2e4e76-9496-4b55-a91f-078d38ed91a1 order_status=pending_new
+2026-06-12T15:05:06Z [INFO] [finalize/start] finalizing routine=trading et_date=2026-06-12
