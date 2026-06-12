@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-06-12",
+  "picks": [
+    {
+      "symbol": "ALAB",
+      "thesis": "Nasdaq-100 addition + Cramer endorsement ('big deal') = structural index tailwind + analyst validation",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Nasdaq-100 index action + Cramer 2026-06-12"
+    },
+    {
+      "symbol": "MRVL",
+      "thesis": "B. Riley upgrade to $345 PT validates bullish MA breakout; +65% unrealized gains with sector momentum intact",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "B. Riley 2026-06-12 $345 PT upgrade"
+    },
+    {
+      "symbol": "TSM",
+      "thesis": "3nm supply scarcity triggers +15% price hike late 2026; supply-constrained premium inflection point",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "3nm pricing power thesis 2026-06-12"
+    },
+    {
+      "symbol": "CIEN",
+      "thesis": "Quantum-safe transatlantic trial at 800GbE validates optical infrastructure capex cycle thesis",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Colt + Ciena quantum-safe trial 2026-06-10"
+    },
+    {
+      "symbol": "LITE",
+      "thesis": "Photonics sector big movers validation + bullish MA structure confirms capex cycle breadth",
+      "conviction": "medium",
+      "thesis_type": "ma_crossover",
+      "signal_source": "Big movers + bullish MA 2026-06-10"
+    }
+  ]
+}
