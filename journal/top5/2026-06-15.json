@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-06-15",
+  "picks": [
+    {
+      "symbol": "MRVL",
+      "thesis": "Bullish MA with AI chip rally momentum; room to 5% allocation cap",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "AI chips rally 2026-06-15"
+    },
+    {
+      "symbol": "CRDO",
+      "thesis": "Bullish MA, Cramer endorsement validates thesis; at 3% watchlist cap",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Cramer: 'Just So Good' 2026-06-15"
+    },
+    {
+      "symbol": "TSM",
+      "thesis": "Bullish MA with geopolitical catalyst (Trump-Iran deal); room to 5% cap",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Trump-Iran deal 2026-06-15"
+    },
+    {
+      "symbol": "ALAB",
+      "thesis": "Bullish MA validates AI capex thesis via SpaceX mega IPO acceleration",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "SpaceX mega IPO AI deals 2026-06-13"
+    },
+    {
+      "symbol": "AAOI",
+      "thesis": "Fresh catalyst (AI datacenter plumbing) validates sector breadth; room to add",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "AI datacenter plumbing narrative 2026-06-15"
+    }
+  ]
+}
