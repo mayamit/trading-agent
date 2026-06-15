@@ -1,0 +1,14 @@
+2026-06-15T15:59:35Z [INFO] [setup/start] setup starting routine=trading et_date=2026-06-15
+2026-06-15T15:59:35Z [INFO] [setup/env] env validated alpaca_base=https://paper-api.alpaca.markets sendgrid_present=false
+2026-06-15T15:59:35Z [INFO] [setup/ready] setup complete runlog=/home/runner/work/trading-agent/trading-agent/journal/runlog/2026-06-15-trading.log marker=journal/.current-routine
+2026-06-15T15:59:58Z [INFO] [trade/market_status] fetched clock http_status=200 is_open=True next_open=2026-06-16T09:30:00-04:00 next_close=2026-06-15T16:00:00-04:00
+2026-06-15T15:59:58Z [INFO] [research/account] fetched account http_status=200 cash=38369.1 portfolio_value=111579.13
+2026-06-15T15:59:59Z [INFO] [research/positions] fetched positions http_status=200 n_positions=14
+2026-06-15T16:01:44Z [INFO] [trade/order_request] received order request symbol=VECO qty=7 side=sell limit_price=83.63 thesis_type=compliance_rebalance conviction=high
+2026-06-15T16:01:44Z [INFO] [trade/order_submit] alpaca response symbol=VECO side=sell qty=7 limit_price=83.63 http_status=200 order_id=c1f3219f-d2ba-4d4f-a37b-c3e2ae16fd3e order_status=pending_new
+2026-06-15T16:01:46Z [INFO] [trade/order_request] received order request symbol=ALAB qty=1 side=sell limit_price=393.58 thesis_type=compliance_rebalance conviction=high
+2026-06-15T16:01:46Z [INFO] [trade/order_submit] alpaca response symbol=ALAB side=sell qty=1 limit_price=393.58 http_status=200 order_id=2b92146b-05e9-481b-ba24-6d8bd68d8b82 order_status=pending_new
+2026-06-15T16:01:49Z [INFO] [trade/order_request] received order request symbol=MRVL qty=1 side=buy limit_price=297.80 thesis_type=news_catalyst conviction=high
+2026-06-15T16:01:49Z [INFO] [trade/validate] passed symbol=MRVL qty=1.0 side=buy allocation_pct=0.27
+2026-06-15T16:01:49Z [INFO] [trade/order_submit] alpaca response symbol=MRVL side=buy qty=1 limit_price=297.80 http_status=200 order_id=66247d98-a75f-4513-a174-67c3fbc3e05a order_status=pending_new
+2026-06-15T16:02:27Z [INFO] [finalize/start] finalizing routine=trading et_date=2026-06-15
