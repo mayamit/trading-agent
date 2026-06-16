@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-06-16",
+  "picks": [
+    {
+      "symbol": "COHR",
+      "thesis": "Bullish MA + TODAY CHIPS Act $50M funding validates semiconductor capex cycle",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "CHIPS Act funding announcement (2026-06-16)"
+    },
+    {
+      "symbol": "TSM",
+      "thesis": "Bullish MA + TODAY 10-year Amkor packaging deal expands foundry supply chain",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Amkor 10-year partnership (2026-06-16)"
+    },
+    {
+      "symbol": "CSCO",
+      "thesis": "Bullish MA + TODAY Equinix/Nvidia collaboration validates data center infrastructure thesis",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Equinix Secure AI Factory deployment (2026-06-16)"
+    },
+    {
+      "symbol": "MRVL",
+      "thesis": "Bullish MA + premarket momentum after 10.4% surge validates AI chip rally momentum",
+      "conviction": "high",
+      "thesis_type": "ma_crossover",
+      "signal_source": "Intraday momentum validation (2026-06-16)"
+    },
+    {
+      "symbol": "AAOI",
+      "thesis": "Bullish MA + Jun 15 AI datacenter plumbing narrative during Nasdaq strength",
+      "conviction": "high",
+      "thesis_type": "news+ma",
+      "signal_source": "AI datacenter capex (2026-06-15)"
+    }
+  ]
+}
