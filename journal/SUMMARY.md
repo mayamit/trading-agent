@@ -1,31 +1,15 @@
 # Journal Summary
 
-_Generated 2026-06-15 21:20 from 7 of 32 entries (2026-06-05 → 2026-06-15)_
+_Generated 2026-06-16 21:20 from 7 of 33 entries (2026-06-08 → 2026-06-16)_
 
-## Latest Portfolio Status _(from 2026-06-15)_
+## Latest Portfolio Status _(from 2026-06-16)_
 
-- Cash: $38,369.10
+- Cash: $39,054.14
 - Positions: 14 holdings (AAOI, ALAB, ANET, CIEN, COHR, CRDO, CSCO, GFS, KEYS, LITE, MRVL, NVDA, TSM, VECO)
-- Total Value: $111,496.89
-- Intraday: +$1.74k (+1.59%), strong sector breadth across photonics/semiconductors
+- Total Value: $108,374.50
+- EOD Close: -$473.56 intraday from 11:41 AM snapshot, recovered from -$3.48k peak morning loss
 
 ## Recent Trades (last 7 days)
-
-### 2026-06-05
-| Time | Symbol | Action | Qty | Price | Status | Reasoning |
-|------|--------|--------|-----|-------|--------|-----------|
-| 11:03 | MRVL | SELL | 2 | $292.21 | pending_new | Trim from 5.40% to 4.86% (watchlist max 5%); thesis intact, cash freed for dry powder |
-| 11:03 | ANET | SELL | 1 | $157.84 | pending_new | Trim from 5.10% to 4.96% (watchlist max 5%); thesis intact, sector weakness |
-| 11:03 | CRDO | SELL | 1 | $225.93 | pending_new | Trim from 3.13% to 2.93% (watchlist max 3%); thesis validated by +4.13% intraday |
-
-**No new entries today.** All five top-5 picks analyzed:
-- NVDA (high conviction): existing position 4.66% alloc, sector weakness (-3.81% intraday) prevents new entry, thesis intact
-- CSCO (high conviction): existing position 4.96% alloc (at cap), thesis intact but no new signal, sector weak
-- CIEN (medium conviction): existing position 3.35% alloc, recovery setup intact but entry risk post-shock too high
-- VIAV (medium conviction): not held, product launch pre-session, insufficient signal during sector weakness
-- CRDO (medium conviction): existing position at allocation cap after trim, thesis validated by +4.13% intraday move
-
-**Rationale:** Sector weakness across holdings (-2% to -4% intraday). Compliance trims restore allocation limits while preserving thesis exposure. All existing positions maintain bullish MA structures and intact theses. New entry risk is elevated given intraday volatility and lesson from 2026-06-02 (limit orders expire unfilled during momentum swings >5%). Cash ~$1,100 freed from trims positions portfolio for next catalyst window.
 
 ### 2026-06-08
 | Time | Symbol | Action | Qty | Limit | Status | Conviction | Reasoning |
@@ -72,6 +56,20 @@ None — all five top-5 picks (AAOI, MRVL, LITE, CIEN, ALAB) already held with t
 | 16:01 | ALAB | SELL | 1 | $393.58 | pending_new | high | Compliance trim: 5.30% → 5.0% allocation cap. Position +52.3% unrealized; thesis intact, AI capex cycle still intact. |
 | 16:01 | MRVL | BUY | 1 | $297.80 | pending_new | high | AI chip rally momentum validates bullish MA. 0.5% limit respects 11am-2pm volatility window (lesson 2026-06-02: >5% intraday moves expire 0.2% limits). MRVL +5.8% intraday. |
 
+### 2026-06-16
+| Time | Symbol | Action | Qty | Price | Status | Rationale |
+|------|--------|--------|-----|-------|--------|-----------|
+| 11:41 | ANET | SELL | 2 | $167.33 | unfilled | Compliance trim: 5.23% → 4.92% allocation, +18.42% unrealized gains preserved |
+| 11:41 | MRVL | SELL | 1 | $292.55 | unfilled | Compliance trim: 5.11% → 4.84% allocation, +67.15% unrealized gains preserved |
+| 11:41 | COHR | BUY | 1 | $388.77 | unfilled | CHIPS Act $50M TX facility validates capex; 0.5% limit for 11am-2pm volatility window |
+| 11:41 | CSCO | BUY | 2 | $119.94 | unfilled | Equinix/Nvidia Secure AI Factory deployment validates infra thesis; minimal intraday move |
+
+**Thesis mapping:**
+- COHR: news_catalyst (CHIPS Act), bullish MA, high conviction → 0.5% limit strategy per 2026-06-02 lesson
+- CSCO: news_catalyst (Equinix), bullish MA, high conviction → 0.2% limit (low volatility)
+- ANET trim: compliance_trim (over 5% cap at 5.23%), profitable position maintained
+- MRVL trim: compliance_trim (over 5% cap at 5.11%), massive gains (+67%) preserved
+
 ## Recent Reflections (last 3 days)
 
 ### 2026-06-12
@@ -87,3 +85,14 @@ Semiconductor/optical capex thesis continues to validate: MRVL +65% unrealized, 
 **Market context:** Portfolio +1.59% intraday ($1.74k gains). Semiconductor/photonics sector breadth strong (MRVL +5.8%, LITE +2.3%, COHR +4.8%, GFS +2.5%, VECO +8.2%). Compliance trims executed during peak volatility window (11:59 AM) to ensure fills; MRVL add uses 0.5% limit per lesson 2026-06-02.
 
 _Final reflection and EOD summary routine (summarize.py, notify.py) to be run at 4:15 PM ET._
+
+### 2026-06-16
+**Market close (4:00 PM ET):**
+- All 4 morning orders submitted @ 11:41 AM expired unfilled. Limit order strategy captured thesis timing but missed fills during volatile 11am-2pm window.
+- ANET/MRVL sell limits for compliance trim never hit (ANET closed $167.98, 0.39% above our $167.33 sell limit; MRVL closed $284.50, 2.87% below our $292.55 limit). Portfolio remains slightly over allocation caps.
+- COHR/CSCO buy limits never hit (COHR closed $385.15, 0.97% below our $388.77 limit suggesting early-window strength before fade; CSCO closed $119.33, 0.05% below our $119.94 limit, nearly executed but missed by cents). High-conviction theses unexecuted.
+- Portfolio recovered from peak 11 AM loss of -$3.48k to EOD -$473.56 from 11:41 snapshot. Sector volatility compressed during afternoon, but limit-order exits/entries couldn't capture recovery.
+
+**Thesis quality:** Morning research correctly identified 3 concrete catalysts (CHIPS Act COHR, Amkor TSM, Equinix CSCO). High-conviction categorization validated by catalyst strength; allocation constraints (TSM, AAOI) correctly preserved thesis without overleverage. ANET/MRVL trims serve portfolio risk management, not thesis abandonment.
+
+**Key insight:** Limit-order discipline prevented "panic fills" at morning lows but also prevented opportunistic adds during sector washout. COHR buy @ $388.77 (11:41) vs. close @ $385.15 (-0.97%) suggests post-open momentum fade — 0.5% limit captured thesis conviction but not the recovery. Pattern to track: volatile opens followed by recovery in afternoon tend to leave unfilled buy limits. Consider scaling limit strategy during known vol windows (earnings season, macro events).
