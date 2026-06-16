@@ -1,0 +1,17 @@
+2026-06-16T15:40:16Z [INFO] [setup/start] setup starting routine=trading et_date=2026-06-16
+2026-06-16T15:40:16Z [INFO] [setup/env] env validated alpaca_base=https://paper-api.alpaca.markets sendgrid_present=false
+2026-06-16T15:40:16Z [INFO] [setup/ready] setup complete runlog=/home/runner/work/trading-agent/trading-agent/journal/runlog/2026-06-16-trading.log marker=journal/.current-routine
+2026-06-16T15:40:38Z [INFO] [trade/market_status] fetched clock http_status=200 is_open=True next_open=2026-06-17T09:30:00-04:00 next_close=2026-06-16T16:00:00-04:00
+2026-06-16T15:40:41Z [INFO] [research/account] fetched account http_status=200 cash=39052.21 portfolio_value=108991.62
+2026-06-16T15:40:41Z [INFO] [research/positions] fetched positions http_status=200 n_positions=14
+2026-06-16T15:41:54Z [INFO] [trade/order_request] received order request symbol=ANET qty=2 side=sell limit_price=167.33 thesis_type=compliance_trim conviction=high
+2026-06-16T15:41:54Z [INFO] [trade/order_submit] alpaca response symbol=ANET side=sell qty=2 limit_price=167.33 http_status=200 order_id=c0c2df27-19a9-454e-8d4e-fc7f72e6c233 order_status=pending_new
+2026-06-16T15:41:54Z [INFO] [trade/order_request] received order request symbol=MRVL qty=1 side=sell limit_price=292.55 thesis_type=compliance_trim conviction=high
+2026-06-16T15:41:54Z [INFO] [trade/order_submit] alpaca response symbol=MRVL side=sell qty=1 limit_price=292.55 http_status=200 order_id=b7f4f4ff-ad8c-401a-93e2-5dc76ed051f1 order_status=pending_new
+2026-06-16T15:41:55Z [INFO] [trade/order_request] received order request symbol=COHR qty=1 side=buy limit_price=388.77 thesis_type=news_catalyst conviction=high
+2026-06-16T15:41:55Z [INFO] [trade/validate] passed symbol=COHR qty=1.0 side=buy allocation_pct=0.36
+2026-06-16T15:41:55Z [INFO] [trade/order_submit] alpaca response symbol=COHR side=buy qty=1 limit_price=388.77 http_status=200 order_id=ad20ae6e-c7f6-4aaa-8697-5a11516947a5 order_status=pending_new
+2026-06-16T15:41:55Z [INFO] [trade/order_request] received order request symbol=CSCO qty=2 side=buy limit_price=119.94 thesis_type=news_catalyst conviction=high
+2026-06-16T15:41:55Z [INFO] [trade/validate] passed symbol=CSCO qty=2.0 side=buy allocation_pct=0.22
+2026-06-16T15:41:55Z [INFO] [trade/order_submit] alpaca response symbol=CSCO side=buy qty=2 limit_price=119.94 http_status=200 order_id=3282db2d-23b6-43ec-9400-5be718a5dd35 order_status=pending_new
+2026-06-16T15:42:49Z [INFO] [finalize/start] finalizing routine=trading et_date=2026-06-16
