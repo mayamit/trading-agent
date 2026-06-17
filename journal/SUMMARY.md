@@ -1,20 +1,15 @@
 # Journal Summary
 
-_Generated 2026-06-16 21:20 from 7 of 33 entries (2026-06-08 → 2026-06-16)_
+_Generated 2026-06-17 20:59 from 7 of 34 entries (2026-06-09 → 2026-06-17)_
 
-## Latest Portfolio Status _(from 2026-06-16)_
+## Latest Portfolio Status _(from 2026-06-17)_
 
-- Cash: $39,054.14
+- Cash: $39,054.12
 - Positions: 14 holdings (AAOI, ALAB, ANET, CIEN, COHR, CRDO, CSCO, GFS, KEYS, LITE, MRVL, NVDA, TSM, VECO)
-- Total Value: $108,374.50
-- EOD Close: -$473.56 intraday from 11:41 AM snapshot, recovered from -$3.48k peak morning loss
+- Total Value: $109,407.90
+- Intraday: Morning volatility spike recovered; current time 11:05 AM ET in peak volatility window
 
 ## Recent Trades (last 7 days)
-
-### 2026-06-08
-| Time | Symbol | Action | Qty | Limit | Status | Conviction | Reasoning |
-|------|--------|--------|-----|-------|--------|-----------|-----------|
-| 11:09 | CIEN | SELL | 7 | $472.50 | pending_new | high | Mandatory close: position down -10.46% from entry ($528.73 → $473.42), triggers CLAUDE.md 8% loss rule. No discretion. Freed ~$3,313 cash to redeploy. |
 
 ### 2026-06-09
 | Time | Symbol | Action | Qty | Limit | Status | Conviction | Rationale |
@@ -70,10 +65,10 @@ None — all five top-5 picks (AAOI, MRVL, LITE, CIEN, ALAB) already held with t
 - ANET trim: compliance_trim (over 5% cap at 5.23%), profitable position maintained
 - MRVL trim: compliance_trim (over 5% cap at 5.11%), massive gains (+67%) preserved
 
-## Recent Reflections (last 3 days)
+### 2026-06-17
+None — All 5 top picks already held at/near allocation caps with intact theses. No positions meet 8% loss rule for mandatory closure. Volatile 11am-2pm window defers fractional adds per lesson 2026-06-02.
 
-### 2026-06-12
-Semiconductor/optical capex thesis continues to validate: MRVL +65% unrealized, ALAB +42%, VECO +55%, and both new positions (CIEN, LITE) filled and up intraday despite sector volatility. The 0.5% limit discipline (lesson 2026-06-02) paid off — fills came through on high-conviction trades during 11am window momentum. Disciplined position sizing held: rejected ALAB/MRVL/TSM adds at allocation caps, keeping portfolio balanced. CRDO weakness (-7.9% intraday) signals reversal risk; watch for stabilization next session. NVDA still -5.2% overall but core thesis intact — patience until 8% mandatory close triggered.
+## Recent Reflections (last 3 days)
 
 ### 2026-06-15
 **Allocation compliance enforcement:** VECO and ALAB trimmed to restore 5% caps per CLAUDE.md hard rule (≤5% per position). Both remain profitable high-conviction holders; trims free capital while preserving thesis exposure.
@@ -96,3 +91,6 @@ _Final reflection and EOD summary routine (summarize.py, notify.py) to be run at
 **Thesis quality:** Morning research correctly identified 3 concrete catalysts (CHIPS Act COHR, Amkor TSM, Equinix CSCO). High-conviction categorization validated by catalyst strength; allocation constraints (TSM, AAOI) correctly preserved thesis without overleverage. ANET/MRVL trims serve portfolio risk management, not thesis abandonment.
 
 **Key insight:** Limit-order discipline prevented "panic fills" at morning lows but also prevented opportunistic adds during sector washout. COHR buy @ $388.77 (11:41) vs. close @ $385.15 (-0.97%) suggests post-open momentum fade — 0.5% limit captured thesis conviction but not the recovery. Pattern to track: volatile opens followed by recovery in afternoon tend to leave unfilled buy limits. Consider scaling limit strategy during known vol windows (earnings season, macro events).
+
+### 2026-06-17
+Portfolio closed down $697.29 (-0.64%) to $108,710.61 despite morning volatility spike. All five top-thesis positions (MRVL +5.41%, ALAB +4.78%, TSM +1.83%, COHR -0.15%, CSCO -1.44%) held at near-optimal allocations with theses intact—no 8% loss triggers, no forced exits. NVDA watch stands at -5.279% (2.72% buffer before mandatory close). Discipline applied: deferred fractional adds during 11am-2pm peak-volatility window per lesson 2026-06-02, preserving capital and avoiding unfilled limit orders. Thesis thesis validation: morning selloff didn't shake conviction in AI capex supply chain positioning.
