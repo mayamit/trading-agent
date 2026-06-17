@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-06-17",
+  "picks": [
+    {
+      "symbol": "MRVL",
+      "thesis": "Bullish MA + Nvidia CEO $2B AI chip alliance validates trillion-dollar ecosystem play",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Nvidia CEO Huang prediction, premarket +3.01%"
+    },
+    {
+      "symbol": "COHR",
+      "thesis": "Nvidia supply chain boost: Texas facility expansion for AI networking tech",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Coherent Texas expansion, Nvidia production dependency"
+    },
+    {
+      "symbol": "CSCO",
+      "thesis": "Bullish MA + Equinix/Nvidia Secure AI Factory deployment validates infrastructure capex",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Equinix partnership, datacenter AI infrastructure"
+    },
+    {
+      "symbol": "TSM",
+      "thesis": "Bullish MA + Amkor contract news validates foundry leadership in AI supply chain",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Amkor/TSM collaboration, foundry capacity"
+    },
+    {
+      "symbol": "ALAB",
+      "thesis": "Bullish MA + Taiwan expansion thesis validates AI capex cycle continuation",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Taiwan facilities for Astera Labs memory interconnect"
+    }
+  ]
+}
