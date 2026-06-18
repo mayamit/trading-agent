@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-06-18",
+  "picks": [
+    {
+      "symbol": "MRVL",
+      "thesis": "Bullish MA + Keybanc $385 PT upgrade catalyzes AI chip rally continuation",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Keybanc PT raise to $385"
+    },
+    {
+      "symbol": "TSM",
+      "thesis": "Bullish MA + Intel news signals foundry demand strength in AI capex cycle",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Intel next-move news catalyst"
+    },
+    {
+      "symbol": "CRDO",
+      "thesis": "Bullish MA + Jabil earnings upbeat validates composite/capex thesis",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Jabil upbeat Q3 earnings"
+    },
+    {
+      "symbol": "CSCO",
+      "thesis": "Bullish MA + Equinix/Nvidia Secure AI Factory deployment validates infrastructure play",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Equinix Cisco/Nvidia collaboration"
+    },
+    {
+      "symbol": "ALAB",
+      "thesis": "Bullish MA + dip opportunity validates AI capex memory thesis, positioned for sector rebound",
+      "conviction": "medium",
+      "thesis_type": "ma_crossover",
+      "signal_source": "Bullish MA crossover + AI capex theme"
+    }
+  ]
+}
