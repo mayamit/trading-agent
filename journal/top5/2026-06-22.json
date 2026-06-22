@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-06-22",
+  "picks": [
+    {
+      "symbol": "TSM",
+      "thesis": "Golden cross breakout to 52-week high validates AI capex cycle acceleration.",
+      "conviction": "high",
+      "thesis_type": "ma_crossover",
+      "signal_source": "Golden cross + $473.50 premarket 52-week high breakout"
+    },
+    {
+      "symbol": "CRDO",
+      "thesis": "Stifel/Evercore analyst upgrades to $350 PT validate infrastructure chip demand.",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Stifel/Evercore upgrade to $350 PT"
+    },
+    {
+      "symbol": "COHR",
+      "thesis": "Trump CHIPS Act US alliance validates domestic semiconductor capex cycle.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Trump US-Intel-Apple chip alliance announcement"
+    },
+    {
+      "symbol": "MRVL",
+      "thesis": "Bullish MA continuation + AI chip momentum validates thesis; room to rebalance.",
+      "conviction": "high",
+      "thesis_type": "news+ma",
+      "signal_source": "AI competitor analysis validates momentum; ma_20 233.66→279.69"
+    },
+    {
+      "symbol": "ALAB",
+      "thesis": "Bullish MA + Intel-Apple chip pact validates AI capex supply chain positioning.",
+      "conviction": "medium",
+      "thesis_type": "news+ma",
+      "signal_source": "Intel-Apple chip pact validates AI capex; ma_20 236.75→367.1"
+    }
+  ]
+}
