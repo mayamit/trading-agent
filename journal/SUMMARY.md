@@ -1,19 +1,14 @@
 # Journal Summary
 
-_Generated 2026-06-19 20:47 from 7 of 36 entries (2026-06-11 → 2026-06-19)_
+_Generated 2026-06-22 21:15 from 7 of 37 entries (2026-06-12 → 2026-06-22)_
 
-## Latest Portfolio Status _(from 2026-06-19)_
+## Latest Portfolio Status _(from 2026-06-22)_
 
-_not recorded_
+- Cash: $40,056.37
+- Positions: 14 holdings at total market value $71,410.84
+- Total Value: $111,467.57
 
 ## Recent Trades (last 7 days)
-
-### 2026-06-11
-None — all five top-5 picks (AAOI, MRVL, LITE, CIEN, ALAB) already held with theses validating. Current time 11:12 AM ET is peak volatility window (lesson 2026-06-02: >5% intraday swings cause 0.2% limit orders to expire unfilled). Deferring new BUY adds until post-2pm sector stabilization.
-
-| Time | Symbol | Action | Qty | Price | Conviction | Rationale |
-|------|--------|--------|-----|-------|-----------|-----------|
-| (N/A) | — | — | — | — | — | — |
 
 ### 2026-06-12
 | Time | Symbol | Action | Qty | Price | Thesis Type | Signal | Conviction | Reasoning |
@@ -57,13 +52,23 @@ None — All 5 top picks already held at/near allocation caps with intact theses
 | 11:07 | MRVL | SELL | 1 | $321.00 | Compliance trim: 5.24% → ~4.81%; Keybanc PT upgrade validates thesis, conviction high, position over 5% cap |
 | 11:07 | CRDO | SELL | 1 | $266.00 | Compliance trim: 3.12% → ~2.81%; Jabil earnings validates composite/capex, conviction high, position over 3% cap |
 
-## Recent Reflections (last 3 days)
+### 2026-06-22
+| Time | Symbol | Action | Qty | Price | Reasoning |
+|------|--------|--------|-----|-------|-----------|
+| 11:43 | TSM | SELL | 1 | $468.65 | Compliance trim: position at 5.06% allocation exceeds 5% cap; golden cross thesis intact |
+| 11:43 | CRDO | SELL | 1 | $302.27 | Compliance trim: position at 3.27% allocation exceeds 3% cap; Stifel/Evercore upgrades intact |
+| 11:43 | COHR | SELL | 1 | $402.83 | Compliance trim: position at 5.08% allocation exceeds 5% cap; CHIPS Act thesis intact |
 
-### 2026-06-17
-Portfolio closed down $697.29 (-0.64%) to $108,710.61 despite morning volatility spike. All five top-thesis positions (MRVL +5.41%, ALAB +4.78%, TSM +1.83%, COHR -0.15%, CSCO -1.44%) held at near-optimal allocations with theses intact—no 8% loss triggers, no forced exits. NVDA watch stands at -5.279% (2.72% buffer before mandatory close). Discipline applied: deferred fractional adds during 11am-2pm peak-volatility window per lesson 2026-06-02, preserving capital and avoiding unfilled limit orders. Thesis thesis validation: morning selloff didn't shake conviction in AI capex supply chain positioning.
+**Trade rationale:**
+All three positions exceeded their watchlist allocation caps after this morning's rally. CRDO was up +11.4% intraday (Stifel/Evercore upgrades to $350 PT), TSM +1.6% (golden cross breakout), COHR +3.7% (Trump CHIPS Act alliance). Compliance trims return allocations to within watchlist caps while preserving thesis exposure. MRVL and ALAB held (theses intact but peak volatility window defers new buys per lesson 2026-06-02).
+
+## Recent Reflections (last 3 days)
 
 ### 2026-06-18
 Strong execution on sector thesis: all three compliance trims filled during the 11 AM peak-volatility window without missing upside, positioning portfolio within caps while still capturing +7-11% moves in MRVL/ALAB/CRDO. Portfolio +2.92% on the day validated AI chip + infrastructure momentum as expected; Keybanc's fresh $385 PT on MRVL and Intel catalyst (TSM) kept conviction high across the trimmed positions. Cash position ($40k) provides room for post-2 PM entry if volatility settles and new signals emerge. Watch for continuation vs. profit-taking reversal on Friday.
 
 ### 2026-06-19
 Markets were closed for Juneteenth; all 15 positions held without change. Portfolio value: $110,790.40. Cash position: $40,056.37. Resume trading 2026-06-20 after market opens. No action taken.
+
+### 2026-06-22
+Portfolio gained +$1,797.53 intraday to close at $113,265.10, driven by sustained AI capex thesis validation: TSM golden cross breakout (+1.13%), CRDO analyst upgrades (+10.96%), COHR CHIPS Act momentum (+10.12%), ALAB strength (+5.03%), all moving in tight lockstep with semicap sector leadership. Compliance trims (TSM, CRDO, COHR × 1 share each) executed cleanly during intraday run, returning positions to watchlist caps while preserving thesis exposure — trim timing caught positions at +1.6%, +11.4%, +3.7% respectively, slightly suboptimal in hindsight but mandatory for cap adherence. MRVL (-1.35%) and VECO (-2.40%) ended day in minor red, but both hold strong unrealized gains (+73.98%, +56.26%) and ma thesis intact. Tomorrow: Monitor ALAB breakout past $438 resistance and watch for LITE re-entry opportunity post-trim, as photonics sector momentum remains robust.
