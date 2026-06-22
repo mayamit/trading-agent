@@ -1,0 +1,13 @@
+2026-06-22T15:40:09Z [INFO] [setup/start] setup starting routine=trading et_date=2026-06-22
+2026-06-22T15:40:10Z [INFO] [setup/env] env validated alpaca_base=https://paper-api.alpaca.markets sendgrid_present=false
+2026-06-22T15:40:10Z [INFO] [setup/ready] setup complete runlog=/home/runner/work/trading-agent/trading-agent/journal/runlog/2026-06-22-trading.log marker=journal/.current-routine
+2026-06-22T15:40:34Z [INFO] [trade/market_status] fetched clock http_status=200 is_open=True next_open=2026-06-23T09:30:00-04:00 next_close=2026-06-22T16:00:00-04:00
+2026-06-22T15:40:35Z [INFO] [research/account] fetched account http_status=200 cash=40056.37 portfolio_value=111439.5
+2026-06-22T15:40:36Z [INFO] [research/positions] fetched positions http_status=200 n_positions=14
+2026-06-22T15:43:03Z [INFO] [trade/order_request] received order request symbol=TSM qty=1 side=sell limit_price=468.65 thesis_type=compliance_trim conviction=high
+2026-06-22T15:43:03Z [INFO] [trade/order_submit] alpaca response symbol=TSM side=sell qty=1 limit_price=468.65 http_status=200 order_id=c7006c14-df97-4928-8a2b-f59a7ad1181d order_status=pending_new
+2026-06-22T15:43:04Z [INFO] [trade/order_request] received order request symbol=CRDO qty=1 side=sell limit_price=302.27 thesis_type=compliance_trim conviction=high
+2026-06-22T15:43:04Z [INFO] [trade/order_submit] alpaca response symbol=CRDO side=sell qty=1 limit_price=302.27 http_status=200 order_id=840613a6-0873-41a8-9ac9-85af8587c67e order_status=pending_new
+2026-06-22T15:43:05Z [INFO] [trade/order_request] received order request symbol=COHR qty=1 side=sell limit_price=402.83 thesis_type=compliance_trim conviction=high
+2026-06-22T15:43:05Z [INFO] [trade/order_submit] alpaca response symbol=COHR side=sell qty=1 limit_price=402.83 http_status=200 order_id=2fc1dbcb-c86d-4db3-9e7c-3f66fda2672e order_status=pending_new
+2026-06-22T15:44:54Z [INFO] [finalize/start] finalizing routine=trading et_date=2026-06-22
