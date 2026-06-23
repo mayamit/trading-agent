@@ -1,0 +1,15 @@
+2026-06-23T15:02:05Z [INFO] [setup/start] setup starting routine=trading et_date=2026-06-23
+2026-06-23T15:02:05Z [INFO] [setup/env] env validated alpaca_base=https://paper-api.alpaca.markets sendgrid_present=false
+2026-06-23T15:02:05Z [INFO] [setup/ready] setup complete runlog=/home/runner/work/trading-agent/trading-agent/journal/runlog/2026-06-23-trading.log marker=journal/.current-routine
+2026-06-23T15:02:37Z [INFO] [trade/market_status] fetched clock http_status=200 is_open=True next_open=2026-06-24T09:30:00-04:00 next_close=2026-06-23T16:00:00-04:00
+2026-06-23T15:02:38Z [INFO] [research/account] fetched account http_status=200 cash=41233.37 portfolio_value=109056.1
+2026-06-23T15:02:43Z [INFO] [research/positions] fetched positions http_status=200 n_positions=14
+2026-06-23T15:04:28Z [INFO] [research/account] fetched account http_status=200 cash=41233.37 portfolio_value=109024.61
+2026-06-23T15:04:47Z [INFO] [trade/order_request] received order request symbol=MRVL qty=2 side=buy limit_price=284.23 thesis_type=news_catalyst conviction=high
+2026-06-23T15:04:47Z [INFO] [trade/validate] passed symbol=MRVL qty=2.0 side=buy allocation_pct=0.52
+2026-06-23T15:04:48Z [INFO] [trade/order_submit] alpaca response symbol=MRVL side=buy qty=2 limit_price=284.23 http_status=200 order_id=a8580b68-cd46-4dfe-907c-965fc34bd734 order_status=pending_new
+2026-06-23T15:04:52Z [INFO] [trade/order_request] received order request symbol=CRDO qty=1 side=buy limit_price=271.12 thesis_type=news_catalyst conviction=high
+2026-06-23T15:04:52Z [INFO] [trade/validate] passed symbol=CRDO qty=1.0 side=buy allocation_pct=0.25
+2026-06-23T15:04:52Z [INFO] [trade/order_submit] alpaca response symbol=CRDO side=buy qty=1 limit_price=271.12 http_status=200 order_id=2f7be7aa-b926-478b-b4d1-469ee9fb1b37 order_status=pending_new
+2026-06-23T15:04:58Z [INFO] [research/account] fetched account http_status=200 cash=40398.28 portfolio_value=109005.74
+2026-06-23T15:05:45Z [INFO] [finalize/start] finalizing routine=trading et_date=2026-06-23
