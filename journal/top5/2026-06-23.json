@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-06-23",
+  "picks": [
+    {
+      "symbol": "MRVL",
+      "thesis": "Bullish MA crossover with fresh B of A Buy rating, PT raised to $365.",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "B of A Securities 2026-06-23 — Buy, PT $365"
+    },
+    {
+      "symbol": "CRDO",
+      "thesis": "Bullish MA with fresh B of A Buy rating, PT raised to $340.",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "B of A Securities 2026-06-23 — Buy, PT $340"
+    },
+    {
+      "symbol": "CIEN",
+      "thesis": "Needham reiterates Buy rating, maintains $600 PT on quantum-safe infrastructure catalyst.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Needham 2026-06-23 — Buy, PT $600"
+    },
+    {
+      "symbol": "ALAB",
+      "thesis": "Bullish MA momentum, B of A raises PT to $450 on AI memory/processor demand.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "B of A Securities 2026-06-23 — PT $450"
+    },
+    {
+      "symbol": "GFS",
+      "thesis": "Bullish MA with fresh Infosys multi-year AI-led managed services partnership catalyst.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Infosys 2026-06-23 — AI managed services deal"
+    }
+  ]
+}
