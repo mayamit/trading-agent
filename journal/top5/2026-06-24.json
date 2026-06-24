@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-06-24",
+  "picks": [
+    {
+      "symbol": "MRVL",
+      "thesis": "AI chip momentum validates bullish MA; core capex cycle thesis intact",
+      "conviction": "high",
+      "thesis_type": "ma_crossover",
+      "signal_source": "Bullish MA (20: 245.74 > 50: 190.41) + sector momentum"
+    },
+    {
+      "symbol": "ALAB",
+      "thesis": "Bullish MA + fresh Stifel upgrade to $460 validates memory capex play",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Stifel upgrade (2026-06-24 @ $460 PT)"
+    },
+    {
+      "symbol": "CRDO",
+      "thesis": "Bullish MA + B of A upgrade to $340 validates composite/packaging thesis",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "B of A upgrade (2026-06-23 @ $340 PT)"
+    },
+    {
+      "symbol": "COHR",
+      "thesis": "Bullish MA crossover holds; CHIPS Act momentum thesis intact (Trump alliance signaled)",
+      "conviction": "high",
+      "thesis_type": "ma_crossover",
+      "signal_source": "Bullish MA (20: 381.7 > 50: 352.61) + CHIPS Act regulatory catalyst"
+    },
+    {
+      "symbol": "ANET",
+      "thesis": "Bullish MA + hyperscaler capex cycle validates network infra play",
+      "conviction": "high",
+      "thesis_type": "ma_crossover",
+      "signal_source": "Bullish MA (20: 158.5 > 50: 157.43) + hyperscaler build-out thesis"
+    }
+  ]
+}
