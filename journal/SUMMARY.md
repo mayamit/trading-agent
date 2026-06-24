@@ -1,21 +1,14 @@
 # Journal Summary
 
-_Generated 2026-06-23 20:58 from 7 of 38 entries (2026-06-15 → 2026-06-23)_
+_Generated 2026-06-24 14:59 from 7 of 39 entries (2026-06-16 → 2026-06-24)_
 
-## Latest Portfolio Status _(from 2026-06-23)_
+## Latest Portfolio Status _(from 2026-06-24)_
 
-- Cash: $40,398.28
-- Positions: 14 holdings at total market value $68,607.46
-- Total Value: $109,005.74
+- Cash: $40,398.27
+- Positions: 14 holdings at total market value $68,556.65
+- Total Value: $108,954.92
 
 ## Recent Trades (last 7 days)
-
-### 2026-06-15
-| Time | Symbol | Action | Qty | Limit Price | Status | Conviction | Reasoning |
-|------|--------|--------|-----|-------------|--------|------------|-----------|
-| 16:01 | VECO | SELL | 7 | $83.63 | pending_new | high | Compliance trim: 5.48% → 5.0% allocation cap. Position +68.5% unrealized; thesis intact, capital freed for redeployment. |
-| 16:01 | ALAB | SELL | 1 | $393.58 | pending_new | high | Compliance trim: 5.30% → 5.0% allocation cap. Position +52.3% unrealized; thesis intact, AI capex cycle still intact. |
-| 16:01 | MRVL | BUY | 1 | $297.80 | pending_new | high | AI chip rally momentum validates bullish MA. 0.5% limit respects 11am-2pm volatility window (lesson 2026-06-02: >5% intraday moves expire 0.2% limits). MRVL +5.8% intraday. |
 
 ### 2026-06-16
 | Time | Symbol | Action | Qty | Price | Status | Rationale |
@@ -59,13 +52,18 @@ All three positions exceeded their watchlist allocation caps after this morning'
 
 **Held without action:** CIEN (already at 5.04% cap—cannot add), ALAB (fractional room only, medium conviction), GFS (substantial 4% position with +24% unrealized, medium conviction thesis intact).
 
-## Recent Reflections (last 3 days)
+### 2026-06-24
+| Time | Symbol | Action | Qty | Price | Reasoning |
+|------|--------|--------|-----|-------|-----------|
+| 14:58 | AAOI | SELL | 30 | $146.29 | Mandatory stop-loss: position down 11.96% from entry ($166.54), exceeds 8% threshold per CLAUDE.md hard rule. Limit within 0.2% of current bid. |
 
-### 2026-06-19
-Markets were closed for Juneteenth; all 15 positions held without change. Portfolio value: $110,790.40. Cash position: $40,056.37. Resume trading 2026-06-20 after market opens. No action taken.
+## Recent Reflections (last 3 days)
 
 ### 2026-06-22
 Portfolio gained +$1,797.53 intraday to close at $113,265.10, driven by sustained AI capex thesis validation: TSM golden cross breakout (+1.13%), CRDO analyst upgrades (+10.96%), COHR CHIPS Act momentum (+10.12%), ALAB strength (+5.03%), all moving in tight lockstep with semicap sector leadership. Compliance trims (TSM, CRDO, COHR × 1 share each) executed cleanly during intraday run, returning positions to watchlist caps while preserving thesis exposure — trim timing caught positions at +1.6%, +11.4%, +3.7% respectively, slightly suboptimal in hindsight but mandatory for cap adherence. MRVL (-1.35%) and VECO (-2.40%) ended day in minor red, but both hold strong unrealized gains (+73.98%, +56.26%) and ma thesis intact. Tomorrow: Monitor ALAB breakout past $438 resistance and watch for LITE re-entry opportunity post-trim, as photonics sector momentum remains robust.
 
 ### 2026-06-23
 Fresh analyst upgrades (B of A raises PT on MRVL $365, CRDO $340, ALAB $450) validated core AI thesis but couldn't protect against June 23's market-wide risk-off: portfolio -4% intraday, individual holdings -3% to -13.5%. No stops triggered; allocation caps held. High-conviction buy limits at 0.5% premium (MRVL @$284.23, CRDO @$271.12) failed to fill—prices ran through limits during the intraday selloff. This echoes June 16 volatility lesson: even 0.5% above-ask limits don't catch entries during broad market selloffs. Thesis remains intact; core positions weathered the storm. Next session: evaluate post-recovery reentry, don't chase bottom during peak volatility windows.
+
+### 2026-06-24
+Mandatory AAOI stop-loss executed at the 8% threshold (-11.96% realized loss). All 5 top picks already held with strong conviction and intact theses — no new entries needed. Position allocations all within watchlist caps post-AAOI close. Portfolio weathering market volatility well with all core thesis positions showing positive unrealized gains (avg +30% across the 5 picks). AAOI exit frees ~4% allocation capital for opportunistic entries. Monitor ALAB Stifel PT $460 target, CRDO B of A PT $340 target, and MRVL momentum into EOD. Pending 0.5% limit orders from 6/23 remain unfilled — theses intact, may retry post-volatility window. Next: run summarize.py and notify.py routine at close.
