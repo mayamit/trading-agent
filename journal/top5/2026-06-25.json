@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-06-25",
+  "picks": [
+    {
+      "symbol": "MRVL",
+      "thesis": "Bullish MA crossover (20>50), today's industry analysis validates position strength. Core AI capex thesis.",
+      "conviction": "high",
+      "thesis_type": "news+ma",
+      "signal_source": "Today's MRVL analysis article + MA crossover (20@245.74 > 50@190.41)"
+    },
+    {
+      "symbol": "ALAB",
+      "thesis": "Bullish MA (20>50), Stifel validates $460 PT. Strongest single-position unrealized gains (+51%).",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Stifel Maintains Buy @ $460 PT (2026-06-24)"
+    },
+    {
+      "symbol": "CRDO",
+      "thesis": "Bullish MA (20>50), B of A validates positioning. Currently at 3% allocation cap — room to scale.",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "B of A raised Micron PT to $1,500 (AI capex story) (2026-06-23)"
+    },
+    {
+      "symbol": "TSM",
+      "thesis": "Bullish MA (20>50), today's Micron earnings news validates foundry demand tailwind. Golden cross thesis intact.",
+      "conviction": "high",
+      "thesis_type": "news+ma",
+      "signal_source": "Today's TSM premarket jump on Micron AI capex boom validation"
+    },
+    {
+      "symbol": "AVGO",
+      "thesis": "Fresh OpenAI Jalapeño AI inference chip co-development (2026-06-24) validates hyperscaler infrastructure demand, despite mixed MA currently.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Broadcom/OpenAI Jalapeño AI Inference Chip Announcement (2026-06-24)"
+    }
+  ]
+}
