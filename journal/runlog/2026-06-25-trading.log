@@ -1,0 +1,13 @@
+2026-06-25T14:59:07Z [INFO] [setup/start] setup starting routine=trading et_date=2026-06-25
+2026-06-25T14:59:07Z [INFO] [setup/env] env validated alpaca_base=https://paper-api.alpaca.markets sendgrid_present=false
+2026-06-25T14:59:07Z [INFO] [setup/ready] setup complete runlog=/home/runner/work/trading-agent/trading-agent/journal/runlog/2026-06-25-trading.log marker=journal/.current-routine
+2026-06-25T14:59:38Z [INFO] [trade/market_status] fetched clock http_status=200 is_open=True next_open=2026-06-26T09:30:00-04:00 next_close=2026-06-25T16:00:00-04:00
+2026-06-25T14:59:39Z [INFO] [research/account] fetched account http_status=200 cash=44830.75 portfolio_value=109348.91
+2026-06-25T14:59:39Z [INFO] [research/positions] fetched positions http_status=200 n_positions=13
+2026-06-25T15:00:10Z [INFO] [research/account] fetched account http_status=200 cash=44830.75 portfolio_value=109303.4
+2026-06-25T15:00:11Z [INFO] [research/account] fetched account http_status=200 cash=44830.75 portfolio_value=109303.22
+2026-06-25T15:00:19Z [INFO] [trade/order_request] received order request symbol=NVDA qty=24 side=sell limit_price=195.22 thesis_type=stop_loss conviction=high
+2026-06-25T15:00:19Z [INFO] [trade/order_submit] alpaca response symbol=NVDA side=sell qty=24 limit_price=195.22 http_status=200 order_id=a04a4242-6d8e-4ef9-876d-35ac462037b6 order_status=pending_new
+2026-06-25T15:00:23Z [INFO] [trade/order_request] received order request symbol=CIEN qty=1 side=sell limit_price=480.76 thesis_type=compliance_trim conviction=high
+2026-06-25T15:00:23Z [INFO] [trade/order_submit] alpaca response symbol=CIEN side=sell qty=1 limit_price=480.76 http_status=200 order_id=cf927127-1342-4a02-847e-06c285dd910d order_status=pending_new
+2026-06-25T15:01:07Z [INFO] [finalize/start] finalizing routine=trading et_date=2026-06-25
