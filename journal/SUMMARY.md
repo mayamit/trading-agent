@@ -1,28 +1,14 @@
 # Journal Summary
 
-_Generated 2026-06-24 20:53 from 7 of 39 entries (2026-06-16 → 2026-06-24)_
+_Generated 2026-06-25 20:55 from 7 of 40 entries (2026-06-17 → 2026-06-25)_
 
-## Latest Portfolio Status _(from 2026-06-24)_
+## Latest Portfolio Status _(from 2026-06-25)_
 
-- Cash: $40,398.27
-- Positions: 14 holdings at total market value $68,556.65
-- Total Value: $108,954.92
+- Cash: $44,830.75
+- Positions: 13 holdings at market value $64,502.23
+- Total Value: $109,332.98
 
 ## Recent Trades (last 7 days)
-
-### 2026-06-16
-| Time | Symbol | Action | Qty | Price | Status | Rationale |
-|------|--------|--------|-----|-------|--------|-----------|
-| 11:41 | ANET | SELL | 2 | $167.33 | unfilled | Compliance trim: 5.23% → 4.92% allocation, +18.42% unrealized gains preserved |
-| 11:41 | MRVL | SELL | 1 | $292.55 | unfilled | Compliance trim: 5.11% → 4.84% allocation, +67.15% unrealized gains preserved |
-| 11:41 | COHR | BUY | 1 | $388.77 | unfilled | CHIPS Act $50M TX facility validates capex; 0.5% limit for 11am-2pm volatility window |
-| 11:41 | CSCO | BUY | 2 | $119.94 | unfilled | Equinix/Nvidia Secure AI Factory deployment validates infra thesis; minimal intraday move |
-
-**Thesis mapping:**
-- COHR: news_catalyst (CHIPS Act), bullish MA, high conviction → 0.5% limit strategy per 2026-06-02 lesson
-- CSCO: news_catalyst (Equinix), bullish MA, high conviction → 0.2% limit (low volatility)
-- ANET trim: compliance_trim (over 5% cap at 5.23%), profitable position maintained
-- MRVL trim: compliance_trim (over 5% cap at 5.11%), massive gains (+67%) preserved
 
 ### 2026-06-17
 None — All 5 top picks already held at/near allocation caps with intact theses. No positions meet 8% loss rule for mandatory closure. Volatile 11am-2pm window defers fractional adds per lesson 2026-06-02.
@@ -57,13 +43,21 @@ All three positions exceeded their watchlist allocation caps after this morning'
 |------|--------|--------|-----|-------|-----------|
 | 14:58 | AAOI | SELL | 30 | $146.29 | Mandatory stop-loss: position down 11.96% from entry ($166.54), exceeds 8% threshold per CLAUDE.md hard rule. Limit within 0.2% of current bid. |
 
-## Recent Reflections (last 3 days)
+### 2026-06-25
+| Time | Symbol | Action | Qty | Limit Price | Status | Reasoning |
+|------|--------|--------|-----|------------|--------|-----------|
+| 10:59 | NVDA | SELL | 24 | $195.22 | pending_new | Mandatory stop-loss: position down 9.66% from entry ($216.53 → $195.61), exceeds 8% closure threshold per CLAUDE.md hard rule. Realized loss ~$502. |
+| 11:00 | CIEN | SELL | 1 | $480.76 | pending_new | Compliance trim: position at 5.29% allocation exceeds 5% watchlist cap. Bullish MA thesis intact; trim returns allocation to 4.85%. |
 
-### 2026-06-22
-Portfolio gained +$1,797.53 intraday to close at $113,265.10, driven by sustained AI capex thesis validation: TSM golden cross breakout (+1.13%), CRDO analyst upgrades (+10.96%), COHR CHIPS Act momentum (+10.12%), ALAB strength (+5.03%), all moving in tight lockstep with semicap sector leadership. Compliance trims (TSM, CRDO, COHR × 1 share each) executed cleanly during intraday run, returning positions to watchlist caps while preserving thesis exposure — trim timing caught positions at +1.6%, +11.4%, +3.7% respectively, slightly suboptimal in hindsight but mandatory for cap adherence. MRVL (-1.35%) and VECO (-2.40%) ended day in minor red, but both hold strong unrealized gains (+73.98%, +56.26%) and ma thesis intact. Tomorrow: Monitor ALAB breakout past $438 resistance and watch for LITE re-entry opportunity post-trim, as photonics sector momentum remains robust.
+## Recent Reflections (last 3 days)
 
 ### 2026-06-23
 Fresh analyst upgrades (B of A raises PT on MRVL $365, CRDO $340, ALAB $450) validated core AI thesis but couldn't protect against June 23's market-wide risk-off: portfolio -4% intraday, individual holdings -3% to -13.5%. No stops triggered; allocation caps held. High-conviction buy limits at 0.5% premium (MRVL @$284.23, CRDO @$271.12) failed to fill—prices ran through limits during the intraday selloff. This echoes June 16 volatility lesson: even 0.5% above-ask limits don't catch entries during broad market selloffs. Thesis remains intact; core positions weathered the storm. Next session: evaluate post-recovery reentry, don't chase bottom during peak volatility windows.
 
 ### 2026-06-24
 Mandatory AAOI stop-loss executed at the 8% threshold (-11.96% realized loss). All 5 top picks already held with strong conviction and intact theses — no new entries needed. Position allocations all within watchlist caps post-AAOI close. Portfolio weathering market volatility well with all core thesis positions showing positive unrealized gains (avg +30% across the 5 picks). AAOI exit frees ~4% allocation capital for opportunistic entries. Monitor ALAB Stifel PT $460 target, CRDO B of A PT $340 target, and MRVL momentum into EOD. Pending 0.5% limit orders from 6/23 remain unfilled — theses intact, may retry post-volatility window. Next: run summarize.py and notify.py routine at close.
+
+### 2026-06-25
+Position structure remains highly concentrated in AI capex thesis beneficiaries (MRVL, ALAB, CRDO, TSM). NVDA mandatory closure removes an underperforming position (-9.66%) that had diverged from core supply-chain thesis. CIEN trim restores compliance with 5% watchlist cap. All high-conviction morning picks (MRVL, ALAB, CRDO, TSM) already held at near-full allocation limits; no new entries warranted given position constraints. AVGO's medium conviction and lack of current thesis positioning ruled it out. Post-closure, expect cash near $49.5K after NVDA and CIEN sales, giving optionality for post-11:30 AM window re-entries if volatility improves fills on high-conviction picks or LITE/AVGO thesis entries. Lessons affirmed: portfolio near-capacity by 11am limits intraday adds during peak volatility (11am–2pm); better to execute tactical trims (CIEN, NVDA) than force positions beyond watchlist caps. Thesis integrity preserved across core 4 picks.
+
+**Next:** Monitor ALAB $460 PT (Stifel), CRDO B of A PT $340, MRVL momentum, LITE photonics reentry opportunity. Pending buy limits from 6/23 (MRVL @$284.23, CRDO @$271.12) remain available for potential fills if market weakness creates opportunity.
