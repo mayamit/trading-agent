@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-06-26",
+  "picks": [
+    {
+      "symbol": "MRVL",
+      "thesis": "Bullish MA crossover (245.74 > 190.41) with AI capex leadership; B of A upgrade validates momentum.",
+      "conviction": "high",
+      "thesis_type": "ma_crossover",
+      "signal_source": "Marvell sector leadership in AI, bullish MA, today's headline"
+    },
+    {
+      "symbol": "ALAB",
+      "thesis": "Bullish MA (334.48 > 247.07) with fresh Stifel PT $460 (+27% upside); core AI capex thesis.",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Stifel PT $460 (2026-06-24)"
+    },
+    {
+      "symbol": "CRDO",
+      "thesis": "Bullish MA (223.39 > 191.27) with B of A AI memory boom thesis; PT $340 (+42% from current).",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "B of A AI-driven memory shortage & pricing power (2026-06-23)"
+    },
+    {
+      "symbol": "TSM",
+      "thesis": "Bullish MA golden cross (421.95 > 401.95); AI capex foundation supplier, long-term uptrend intact.",
+      "conviction": "high",
+      "thesis_type": "ma_crossover",
+      "signal_source": "Bullish long-term uptrend, today's headline"
+    },
+    {
+      "symbol": "COHR",
+      "thesis": "Bullish MA (381.7 > 352.61) with Trump CHIPS Act alliance catalyst; semiconductor manufacturing leadership.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Trump US chip alliance & Intel partnership signal (2026-06-21)"
+    }
+  ]
+}
