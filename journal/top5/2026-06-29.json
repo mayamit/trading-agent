@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-06-29",
+  "picks": [
+    {
+      "symbol": "MRVL",
+      "thesis": "Cantor Fitzgerald fresh PT $300 upgrade validates AI data center momentum; bullish MA breakout (20 > 50)",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Cantor Fitzgerald PT $300 (2026-06-29)"
+    },
+    {
+      "symbol": "ALAB",
+      "thesis": "Stifel PT $460 affirms AI memory controller supply-chain play; strong bullish MA structure",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Stifel PT $460 (2026-06-24)"
+    },
+    {
+      "symbol": "CRDO",
+      "thesis": "B of A PT $340 validates composite/semiconductor capex thesis; currently 2.84% (room to 3% watchlist cap)",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "B of A PT $340 (2026-06-23)"
+    },
+    {
+      "symbol": "TSM",
+      "thesis": "Samsung/SK Hynix $520B AI semiconductor initiative drives foundry demand; bullish MA golden cross intact",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Samsung/SK Hynix $520B AI push (2026-06-29)"
+    },
+    {
+      "symbol": "MTSI",
+      "thesis": "Stifel PT $450 targets AI test/measurement infrastructure play; bullish MA (20 > 50); new entry within 4% cap",
+      "conviction": "medium-high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Stifel PT $450 (2026-06-24)"
+    }
+  ]
+}
