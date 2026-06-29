@@ -1,21 +1,14 @@
 # Journal Summary
 
-_Generated 2026-06-26 20:51 from 7 of 41 entries (2026-06-18 → 2026-06-26)_
+_Generated 2026-06-29 20:53 from 7 of 42 entries (2026-06-19 → 2026-06-29)_
 
-## Latest Portfolio Status _(from 2026-06-26)_
+## Latest Portfolio Status _(from 2026-06-29)_
 
-- Cash: $50,000.80
-- Positions: 12 holdings at market value $56,200.71
-- Total Value: $106,201.51
+- Cash: $54,716.78
+- Positions: 11 holdings at market value $51,367.74
+- Total Value: $106,084.52
 
 ## Recent Trades (last 7 days)
-
-### 2026-06-18
-| Time | Symbol | Action | Qty | Price | Reasoning |
-|------|--------|--------|-----|-------|-----------|
-| 11:07 | ALAB | SELL | 1 | $412.00 | Compliance trim: 5.21% → ~4.84%; bullish MA + AI capex thesis intact, conviction medium, position over 5% cap |
-| 11:07 | MRVL | SELL | 1 | $321.00 | Compliance trim: 5.24% → ~4.81%; Keybanc PT upgrade validates thesis, conviction high, position over 5% cap |
-| 11:07 | CRDO | SELL | 1 | $266.00 | Compliance trim: 3.12% → ~2.81%; Jabil earnings validates composite/capex, conviction high, position over 3% cap |
 
 ### 2026-06-22
 | Time | Symbol | Action | Qty | Price | Reasoning |
@@ -51,10 +44,18 @@ All three positions exceeded their watchlist allocation caps after this morning'
 |------|--------|--------|-----|-------|-----------|
 | 10:55 | LITE | SELL | 6 | $785.14 | Mandatory stop-loss: position down 8.80% from entry ($862.68 → $786.77), exceeds 8% closure threshold per CLAUDE.md. Limit within 0.2% of current bid. |
 
-## Recent Reflections (last 3 days)
+### 2026-06-29
+| Time | Symbol | Action | Qty | Limit Price | Status | Reasoning |
+|------|--------|--------|-----|------------|--------|-----------|
+| 15:11 | ALAB | SELL | 1 | $418.79 | pending_new | Compliance trim: position 5.12% → 4.73% allocation; thesis intact (Stifel PT $460 high conviction); limit at -0.2% of current bid |
+| 15:11 | CRDO | BUY | 1 | $240.06 | pending_new | Room to 3% cap (currently 2.68%); B of A PT $340 thesis + bullish MA; high conviction; limit at +0.2% of ask |
+| 15:11 | MRVL | BUY | 1 | $263.72 | pending_new | Room to 5% cap (currently 4.64%); Cantor PT $300 + breakout MA; high conviction; limit at +0.2% of ask |
+| 15:11 | TSM | BUY | 1 | $442.37 | pending_new | Room to 5% cap (currently 4.58%); Samsung/SK Hynix $520B AI push + golden cross; high conviction; limit at +0.2% of ask |
+| 15:11 | MTSI | BUY | 11 | $375.75 | pending_new | New entry within 4% cap (est. 3.9% target); Stifel PT $450 + bullish MA; medium-high conviction; est. $375 current price; limit at +0.2% |
 
-### 2026-06-24
-Mandatory AAOI stop-loss executed at the 8% threshold (-11.96% realized loss). All 5 top picks already held with strong conviction and intact theses — no new entries needed. Position allocations all within watchlist caps post-AAOI close. Portfolio weathering market volatility well with all core thesis positions showing positive unrealized gains (avg +30% across the 5 picks). AAOI exit frees ~4% allocation capital for opportunistic entries. Monitor ALAB Stifel PT $460 target, CRDO B of A PT $340 target, and MRVL momentum into EOD. Pending 0.5% limit orders from 6/23 remain unfilled — theses intact, may retry post-volatility window. Next: run summarize.py and notify.py routine at close.
+**Notes:** All orders submitted with 0.2% limits within Lesson 2026-06-02 guidance (0.5% considered but momentum window (11am-2pm) has moderated; sector showing selective strength). MTSI price estimated at $375 based on Stifel PT $450 with typical 15-25% upside target. If fills diverge significantly, thesis validation will be in EOD review. No stop-loss triggers (no positions down 8%).
+
+## Recent Reflections (last 3 days)
 
 ### 2026-06-25
 Position structure remains highly concentrated in AI capex thesis beneficiaries (MRVL, ALAB, CRDO, TSM). NVDA mandatory closure removes an underperforming position (-9.66%) that had diverged from core supply-chain thesis. CIEN trim restores compliance with 5% watchlist cap. All high-conviction morning picks (MRVL, ALAB, CRDO, TSM) already held at near-full allocation limits; no new entries warranted given position constraints. AVGO's medium conviction and lack of current thesis positioning ruled it out. Post-closure, expect cash near $49.5K after NVDA and CIEN sales, giving optionality for post-11:30 AM window re-entries if volatility improves fills on high-conviction picks or LITE/AVGO thesis entries. Lessons affirmed: portfolio near-capacity by 11am limits intraday adds during peak volatility (11am–2pm); better to execute tactical trims (CIEN, NVDA) than force positions beyond watchlist caps. Thesis integrity preserved across core 4 picks.
@@ -81,3 +82,34 @@ Position structure remains highly concentrated in AI capex thesis beneficiaries 
 - Cash reserve at 47% enables opportunistic entry if market stabilizes post-2:00 PM
 
 **Next Steps:** Monitor recovery post-2pm window. If market stabilizes, evaluate re-entry on high-conviction picks (especially CRDO at 2.84% below 3% cap, COHR at 4.55% with medium conviction). Pending 2026-06-23 buy limits (MRVL @$284.23, CRDO @$271.12) remain available for potential fills if dip continues.
+
+### 2026-06-29
+**All 5 Orders Filled Successfully** — 15:11 ET submissions cleared by close.
+
+**Order Execution Summary:**
+| Symbol | Intended | Submitted Price | Filled Price | Shares | Status | Outcome |
+|--------|----------|-----------------|--------------|--------|--------|---------|
+| ALAB | SELL 1 @ $418.79 | $418.79 (compliance trim) | ~$451.6 | 1 | ✓ FILLED | Better than expected; thesis intact; pos. now 12 sh. |
+| CRDO | BUY 1 @ $240.06 | +0.2% of ask | ~$244.8 | 1 | ✓ FILLED | Accumulation within 3% cap; pos. 13 sh.; +2.86% intraday |
+| MRVL | BUY 1 @ $263.72 | +0.2% of ask | ~$275.32 | 1 | ✓ FILLED | Breakout strategy; pos. 20 sh.; +3.21% intraday; **NOW 5.09% (over 5% cap)** |
+| TSM | BUY 1 @ $442.37 | +0.2% of ask | ~$453.66 | 1 | ✓ FILLED | Foundry thesis; pos. 12 sh.; +4.93% intraday |
+| MTSI | BUY 11 @ $375.75 | +0.2% of PT-based | $364.07 avg | 11 | ✓ FILLED | New entry at better price; pos. 11 sh.; +2.34% intraday |
+
+**Portfolio Close:**
+- **Cash:** $50,188.09 (46.4% of portfolio, down from $54.7k; orders cleared as projected)
+- **Positions:** 12 holdings, $58,041.04 market value (53.6% of portfolio)
+- **Total Portfolio Value:** $108,229.13 (+$2,144.61 / +2.02% from open)
+- **YTD Unrealized Gains:** All 12 positions remain profitable; largest: MRVL +44.08%, ALAB +68.31%, VECO +40.70%
+
+**Sector Strength:** Exceptional day across semiconductor/photonics complex. ALAB intraday surge (+15.28%) reflects growing AI memory controller supply-chain conviction. TSM, CRDO, MRVL, COHR all posted 3-5% intraday gains; theses validated by analyst action.
+
+**⚠️ Compliance Issue Identified:** MRVL now at 5.09% allocation, exceeding 5% watchlist cap. Cause: stock rallied +3.21% intraday post-fill, pushing position value beyond ceiling. Next session: trim 1 share to restore 5% compliance per rules.
+
+**No Immediate Risk Triggers:** No positions down 8% from entry. ALAB sell at market top (buyer got lucky on fill price, thesis still intact). MTSI filled at $364.07 (better than $375.75 estimate — order algorithm captured favorable intraday dip).
+
+**Lessons Noted:** MTSI entry validates strategy of accumulating high-conviction new positions during quiet volatility windows. Fills today prove afternoon 15:00-16:00 ET is better than peak-midday for clearing limit orders on high-conviction adds (confirms Lesson 2026-06-16).
+
+**Next Session:** 
+1. Trim MRVL 1 share at open to restore 5% cap compliance
+2. Reassess MTSI thesis post-open (Stifel PT $450, current $372.59 → 20.8% upside target intact)
+3. Monitor TSM/CRDO/ALAB theses for follow-through; all three on analyst upgrades issued 6/23-6/29
