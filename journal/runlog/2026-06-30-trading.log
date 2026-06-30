@@ -1,0 +1,13 @@
+2026-06-30T14:52:08Z [INFO] [setup/start] setup starting routine=trading et_date=2026-06-30
+2026-06-30T14:52:08Z [INFO] [setup/env] env validated alpaca_base=https://paper-api.alpaca.markets sendgrid_present=false
+2026-06-30T14:52:08Z [INFO] [setup/ready] setup complete runlog=/home/runner/work/trading-agent/trading-agent/journal/runlog/2026-06-30-trading.log marker=journal/.current-routine
+2026-06-30T14:52:41Z [INFO] [trade/market_status] fetched clock http_status=200 is_open=True next_open=2026-07-01T09:30:00-04:00 next_close=2026-06-30T16:00:00-04:00
+2026-06-30T14:52:41Z [INFO] [research/account] fetched account http_status=200 cash=50188.07 portfolio_value=110492.38
+2026-06-30T14:52:42Z [INFO] [research/positions] fetched positions http_status=200 n_positions=12
+2026-06-30T14:53:17Z [INFO] [trade/order_request] received order request symbol=MRVL qty=1 side=sell limit_price=294.8 thesis_type=compliance_trim conviction=high
+2026-06-30T14:53:17Z [INFO] [trade/order_submit] alpaca response symbol=MRVL side=sell qty=1 limit_price=294.8 http_status=200 order_id=b3a8e3bc-4c19-4c5f-ae02-871cf3d640be order_status=pending_new
+2026-06-30T14:53:17Z [INFO] [trade/order_request] received order request symbol=ALAB qty=1 side=sell limit_price=493.8 thesis_type=compliance_trim conviction=high
+2026-06-30T14:53:18Z [INFO] [trade/order_submit] alpaca response symbol=ALAB side=sell qty=1 limit_price=493.8 http_status=200 order_id=9509f656-792b-4c32-ace2-b662c6d0f3c6 order_status=pending_new
+2026-06-30T14:53:18Z [INFO] [trade/order_request] received order request symbol=TSM qty=1 side=sell limit_price=466.5 thesis_type=compliance_trim conviction=high
+2026-06-30T14:53:18Z [INFO] [trade/order_submit] alpaca response symbol=TSM side=sell qty=1 limit_price=466.5 http_status=200 order_id=9a8b046c-44b2-4838-98dc-e77cc5792901 order_status=pending_new
+2026-06-30T14:54:16Z [INFO] [finalize/start] finalizing routine=trading et_date=2026-06-30
