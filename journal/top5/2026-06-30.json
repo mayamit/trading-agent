@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-06-30",
+  "picks": [
+    {
+      "symbol": "ALAB",
+      "thesis": "AI memory controller supply-chain play; bullish MA breakout (359 > 269); +78% unrealized validates thesis continuation; room to trim for cap compliance then re-add post-trim.",
+      "conviction": "high",
+      "thesis_type": "ma_crossover",
+      "signal_source": "Bullish 20/50 MA crossover + YTD sector outperformance"
+    },
+    {
+      "symbol": "TSM",
+      "thesis": "Foundry capacity critical to AI capex cycle; TODAY's analyst upgrades (PT increases) + bullish MA (431 > 408); +14.7% unrealized on foundry thesis; room to trim for cap compliance.",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Today's analyst PT upgrades on massive AI demand"
+    },
+    {
+      "symbol": "CRDO",
+      "thesis": "Power management semiconductor for AI servers; bullish MA (239 > 204); small-cap AI infrastructure trend validates B of A upgrade (PT $340); +19.9% unrealized.",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "B of A upgrade + small-cap AI infrastructure rotation (6/29)"
+    },
+    {
+      "symbol": "MRVL",
+      "thesis": "Fabless semiconductor breakout pattern; bullish MA (267 > 204); +54% unrealized; core AI capex exposure; position over cap — trim 1 share to compliance, preserve thesis.",
+      "conviction": "high",
+      "thesis_type": "ma_crossover",
+      "signal_source": "Breakout pattern intact + bullish MA continuation"
+    },
+    {
+      "symbol": "COHR",
+      "thesis": "Photonics substrate provider for packaging/cooling infrastructure; TODAY's news theme on 'next wave of AI winners' beyond chips; +16.2% unrealized validates photonics pivot; room to add within cap.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Today's packaging/cooling theme + existing thesis on Trump CHIPS Act"
+    }
+  ]
+}
