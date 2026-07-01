@@ -1,25 +1,14 @@
 # Journal Summary
 
-_Generated 2026-06-30 20:55 from 7 of 43 entries (2026-06-22 → 2026-06-30)_
+_Generated 2026-07-01 20:52 from 7 of 44 entries (2026-06-23 → 2026-07-01)_
 
-## Latest Portfolio Status _(from 2026-06-30)_
+## Latest Portfolio Status _(from 2026-07-01)_
 
-- Cash: $50,188.07
-- Positions: 12 holdings at market value $60,245.06
-- Total Value: $110,433.13
-- **⚠️ Compliance Alert:** MRVL (5.33%), TSM (5.07%), ALAB (5.32%), CRDO (3.16%) all exceed allocation caps due to overnight rallies. Trim required before new additions.
+- Cash: $51,443.43
+- Positions: 12 holdings at market value $56,941.26
+- Total Value: $108,384.69
 
 ## Recent Trades (last 7 days)
-
-### 2026-06-22
-| Time | Symbol | Action | Qty | Price | Reasoning |
-|------|--------|--------|-----|-------|-----------|
-| 11:43 | TSM | SELL | 1 | $468.65 | Compliance trim: position at 5.06% allocation exceeds 5% cap; golden cross thesis intact |
-| 11:43 | CRDO | SELL | 1 | $302.27 | Compliance trim: position at 3.27% allocation exceeds 3% cap; Stifel/Evercore upgrades intact |
-| 11:43 | COHR | SELL | 1 | $402.83 | Compliance trim: position at 5.08% allocation exceeds 5% cap; CHIPS Act thesis intact |
-
-**Trade rationale:**
-All three positions exceeded their watchlist allocation caps after this morning's rally. CRDO was up +11.4% intraday (Stifel/Evercore upgrades to $350 PT), TSM +1.6% (golden cross breakout), COHR +3.7% (Trump CHIPS Act alliance). Compliance trims return allocations to within watchlist caps while preserving thesis exposure. MRVL and ALAB held (theses intact but peak volatility window defers new buys per lesson 2026-06-02).
 
 ### 2026-06-23
 | Time | Symbol | Action | Qty | Limit Price | Status | Reasoning |
@@ -63,28 +52,20 @@ All three positions exceeded their watchlist allocation caps after this morning'
 | 10:53 | ALAB | SELL | 1 | $493.80 | pending_new | Compliance trim: position 5.32% → ~4.95% allocation; thesis intact; limit 0.2% below bid |
 | 10:53 | TSM | SELL | 1 | $466.50 | pending_new | Compliance trim: position 5.07% → ~4.65% allocation; thesis intact; limit 0.2% below bid |
 
+### 2026-07-01
+| Time | Symbol | Action | Qty | Limit Price | Status | Reasoning |
+|------|--------|--------|-----|-------------|--------|-----------|
+| 15:01 | CRDO | SELL | 1 | $261.33 | pending | Compliance trim: position 3.16% → 2.92% allocation (exceeds 3% watchlist cap). MA bullish thesis intact (20-day $242.35 > 50-day $206.97); analyst upgrades (B of A PT $340) holding. Trim returns position to cap compliance while preserving thesis exposure. |
+| 15:01 | ALAB | BUY | 1 | $450.22 | pending | High conviction accumulation within 5% allocation cap (4.62% → 4.78% target). Bullish MA structure ($363.14 > $273.83) + chip sector rally momentum (6/30) validate AI memory controller supply-chain thesis. Room to cap at current 4.62%. |
+
+**Decision Rationale for Top 5:**
+- **CRDO (High):** Override morning BUY lean with SELL (compliance trim). Position at 3.16% exceeds 3% cap due to overnight rally. Thesis intact; action corrects allocation breach.
+- **ALAB (High):** Execute morning HOLD/ACCUMULATE lean with BUY 1. High conviction + bullish MA + sector momentum; room within 5% cap.
+- **COHR (Medium):** HOLD. Bullish MA intact, packaging/cooling thesis aligned with sector, but 4.43% allocation adequate.
+- **GLW (Medium):** HOLD. Fresh Mizuho Outperform catalyst + bullish MA compelling, but prioritize high-conviction ALAB add given capital allocation.
+- **TSM (Medium):** HOLD. Foundry thesis intact, 4.62% allocation sufficient; golden cross structure preserved post-trim.
+
 ## Recent Reflections (last 3 days)
-
-### 2026-06-26
-**Market Context:** Strong early-morning intraday selloff across portfolio (-3% to -8% range at 10:54 AM ET when trading decision was made). All core thesis positions preserved with allocations within watchlist caps.
-
-**Decision Framework Applied:**
-1. **Portfolio Cash & Positions:** Cash $50,000.80 (47% of portfolio), 12 active holdings within allocation caps
-2. **Current News & MAs:** All 5 morning picks showed bullish MA structures (20 > 50) with fresh analyst thesis validation (Stifel, B of A upgrades intact)
-3. **Risk Assessment:** LITE down 8.8% triggered mandatory stop-loss per CLAUDE.md; no other positions exceeded 8% loss threshold from entry
-4. **Volatility Timing:** 10:55 AM submission during peak intraday volatility window (11am-2pm) per lesson 2026-06-02 → deferred new entries on top5 picks despite available allocation room
-
-**Trade Rationale:**
-- LITE stop-loss mandatory (8.8% down) — non-negotiable per CLAUDE.md
-- All 5 top picks held: MRVL (4.77% → 5% cap, +42% unrealized), ALAB (4.63% → 5% cap, +41% unrealized), CRDO (2.84% → 3% cap, +13% unrealized), TSM (4.39% → 5% cap, +5% unrealized), COHR (4.55% → 5% cap, +10% unrealized)
-- No new entries despite room: Theses intact but timing (peak volatility window) favors preserving existing positions. Lesson 2026-06-02 validated: high-conviction adds during 11am-2pm momentum runs expire unfilled; better to hold and re-evaluate post-recovery.
-
-**Portfolio Impact:**
-- LITE closure improves cash position by ~$4,710 (proceeds at fill)
-- Core AI capex thesis concentrated in MRVL, ALAB, CRDO (primary drivers: avg +32% unrealized)
-- Cash reserve at 47% enables opportunistic entry if market stabilizes post-2:00 PM
-
-**Next Steps:** Monitor recovery post-2pm window. If market stabilizes, evaluate re-entry on high-conviction picks (especially CRDO at 2.84% below 3% cap, COHR at 4.55% with medium conviction). Pending 2026-06-23 buy limits (MRVL @$284.23, CRDO @$271.12) remain available for potential fills if dip continues.
 
 ### 2026-06-29
 **All 5 Orders Filled Successfully** — 15:11 ET submissions cleared by close.
@@ -116,3 +97,15 @@ All three positions exceeded their watchlist allocation caps after this morning'
 1. Trim MRVL 1 share at open to restore 5% cap compliance
 2. Reassess MTSI thesis post-open (Stifel PT $450, current $372.59 → 20.8% upside target intact)
 3. Monitor TSM/CRDO/ALAB theses for follow-through; all three on analyst upgrades issued 6/23-6/29
+
+### 2026-07-01
+**Market Action & Order Outcome:** Sharp intraday selloff (most holdings down 5–11%) caused both pending limit orders to expire unfilled by close. CRDO sell @ $261.33 and ALAB buy @ $450.22 were within 0.2% of morning prices but market gapped down hard mid-day, leaving limits stranded above execution levels. CRDO remained at 3.16% (compliance breach unresolved), ALAB unchanged at 4.62%.
+
+**Portfolio Close:** $107.2k total (-1.1% intraday), cash $51.3k, 12 holdings at $55.9k market value. No positions triggered 8% stop-loss; largest hits were ALAB (-10.98%), MRVL (-8.94%), GFS (-7.05%), MTSI (-7.82%), TSM (-6.40%), COHR (-6.76%) — all sector-wide photonics/AI sell-off signature, not thesis breaks. All core holdings remain profitable on cost basis.
+
+**Key Observations:**
+1. **Thesis Resilience:** ALAB (AI memory supply-chain) down 11% intraday but closed $430 still above $363 20-day MA; CRDO, COHR, TSM structure intact despite -5–6% daily pullback. Thesis confidence unchanged; positioning intact.
+2. **Compliance Drift:** CRDO at 3.16% exceeds 3% cap. Planned trim (CRDO sell) did not fill. Must re-attempt tomorrow with tighter limit or wider spread if momentum confirms lower.
+3. **Order Timing Lesson:** Limit orders placed 10:00 AM in calm conditions expired by 15:00 during -3% intraday swing. Pattern emerging: high-conviction entries on quiet mornings get stranded when volatility hits. Consider widening limit price or delaying submission during known high-vol hours (11 AM–2 PM per 6/16 lesson).
+
+**Tomorrow Outlook:** ALAB thesis (chip sector rally, supply-chain bottleneck) still intact despite 11% pullback. CRDO compliance need remains; prioritize trim if hold thesis. Watch for sector stabilization in research — if photonics/optical capex thesis re-confirms, re-engage GLW (Mizuho Outperform fresh catalyst) and consider adding on dip.
