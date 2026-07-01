@@ -1,0 +1,12 @@
+2026-07-01T14:59:40Z [INFO] [setup/start] setup starting routine=trading et_date=2026-07-01
+2026-07-01T14:59:40Z [INFO] [setup/env] env validated alpaca_base=https://paper-api.alpaca.markets sendgrid_present=false
+2026-07-01T14:59:40Z [INFO] [setup/ready] setup complete runlog=/home/runner/work/trading-agent/trading-agent/journal/runlog/2026-07-01-trading.log marker=journal/.current-routine
+2026-07-01T15:00:02Z [INFO] [trade/market_status] fetched clock http_status=200 is_open=True next_open=2026-07-02T09:30:00-04:00 next_close=2026-07-01T16:00:00-04:00
+2026-07-01T15:00:03Z [INFO] [research/account] fetched account http_status=200 cash=51443.43 portfolio_value=107766.13
+2026-07-01T15:00:04Z [INFO] [research/positions] fetched positions http_status=200 n_positions=12
+2026-07-01T15:01:00Z [INFO] [trade/order_request] received order request symbol=CRDO qty=1 side=sell limit_price=261.33 thesis_type=compliance_rebalance conviction=high
+2026-07-01T15:01:00Z [INFO] [trade/order_submit] alpaca response symbol=CRDO side=sell qty=1 limit_price=261.33 http_status=200 order_id=72e7ae7b-b23d-4f6e-a563-d6fec3116b06 order_status=pending_new
+2026-07-01T15:01:01Z [INFO] [trade/order_request] received order request symbol=ALAB qty=1 side=buy limit_price=450.22 thesis_type=news_ma conviction=high
+2026-07-01T15:01:01Z [INFO] [trade/validate] passed symbol=ALAB qty=1.0 side=buy allocation_pct=0.42
+2026-07-01T15:01:01Z [INFO] [trade/order_submit] alpaca response symbol=ALAB side=buy qty=1 limit_price=450.22 http_status=200 order_id=68065a3b-adc3-487d-944f-6a5b27b3d4cc order_status=pending_new
+2026-07-01T15:02:00Z [INFO] [finalize/start] finalizing routine=trading et_date=2026-07-01
