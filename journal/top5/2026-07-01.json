@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-07-01",
+  "picks": [
+    {
+      "symbol": "CRDO",
+      "thesis": "Bullish MA crossover (242.35>206.97) + analyst upgrade thesis from prior days; room to 3% cap; high conviction accumulation",
+      "conviction": "high",
+      "thesis_type": "ma_crossover",
+      "signal_source": "MA bullish structure + analyst upgrades (B of A PT $340)"
+    },
+    {
+      "symbol": "ALAB",
+      "thesis": "Bullish MA (363.14>273.83) + fresh momentum (jumps on chip sector rally); AI memory controller supply-chain thesis intact; high conviction",
+      "conviction": "high",
+      "thesis_type": "news+ma",
+      "signal_source": "Bullish MA + 'Astera Labs stock jumps as chip shares rally' (6/30)"
+    },
+    {
+      "symbol": "COHR",
+      "thesis": "Bullish MA (387.63>363.26) + 'next wave AI winners' (packaging/cooling bottleneck thesis); aligned with sector momentum; medium-high conviction",
+      "conviction": "medium",
+      "thesis_type": "news+ma",
+      "signal_source": "Bullish MA + 'Forget AMD/Micron—next wave of AI winners solve packaging/cooling' (6/30)"
+    },
+    {
+      "symbol": "GLW",
+      "thesis": "Bullish MA (186.95>181.08) + fresh Mizuho Outperform upgrade PT $270 (today); materials play for AI packaging and thermal; medium conviction",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Mizuho Maintains Outperform, PT $270 (2026-07-01)"
+    },
+    {
+      "symbol": "TSM",
+      "thesis": "Bullish MA (433.02>410.41) + golden cross intact; foundry capacity narrative for AI; Samsung/SK Hynix $520B AI push validates demand; medium-high conviction",
+      "conviction": "medium",
+      "thesis_type": "ma_crossover",
+      "signal_source": "Bullish MA structure + foundry demand thesis"
+    }
+  ]
+}
