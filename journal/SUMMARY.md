@@ -1,22 +1,14 @@
 # Journal Summary
 
-_Generated 2026-07-01 20:52 from 7 of 44 entries (2026-06-23 → 2026-07-01)_
+_Generated 2026-07-02 20:41 from 7 of 45 entries (2026-06-24 → 2026-07-02)_
 
-## Latest Portfolio Status _(from 2026-07-01)_
+## Latest Portfolio Status _(from 2026-07-02)_
 
-- Cash: $51,443.43
-- Positions: 12 holdings at market value $56,941.26
-- Total Value: $108,384.69
+- Cash: $51,256.46
+- Positions: 12 holdings at market value $54,433.08
+- Total Value: $105,689.54
 
 ## Recent Trades (last 7 days)
-
-### 2026-06-23
-| Time | Symbol | Action | Qty | Limit Price | Status | Reasoning |
-|------|--------|--------|-----|-------------|--------|-----------|
-| 15:04 | MRVL | BUY | 2 | $284.23 | pending_new | Fresh B of A upgrade (PT $365, +29% upside) + bullish MA crossover + high conviction; 0.5% limit accommodates peak 11am-2pm volatility window (-8% intraday selloff). Adds to position within 5% allocation cap (4.41% → ~4.6%). |
-| 15:04 | CRDO | BUY | 1 | $271.12 | pending_new | Fresh B of A upgrade (PT $340, +25.6% upside) + bullish MA + high conviction; 0.5% limit for volatility. Moves allocation from 2.73% toward 3% cap. |
-
-**Held without action:** CIEN (already at 5.04% cap—cannot add), ALAB (fractional room only, medium conviction), GFS (substantial 4% position with +24% unrealized, medium conviction thesis intact).
 
 ### 2026-06-24
 | Time | Symbol | Action | Qty | Price | Reasoning |
@@ -65,38 +57,13 @@ _Generated 2026-07-01 20:52 from 7 of 44 entries (2026-06-23 → 2026-07-01)_
 - **GLW (Medium):** HOLD. Fresh Mizuho Outperform catalyst + bullish MA compelling, but prioritize high-conviction ALAB add given capital allocation.
 - **TSM (Medium):** HOLD. Foundry thesis intact, 4.62% allocation sufficient; golden cross structure preserved post-trim.
 
+### 2026-07-02
+| Time | Symbol | Action | Qty | Limit Price | Status | Reasoning |
+|------|--------|--------|-----|-------------|--------|-----------|
+| 14:46 | MTSI | SELL | 11 | $333.89 | pending_new | Mandatory stop-loss: position down 8.05% from entry ($364.07 → $334.76), exceeds 8% threshold per CLAUDE.md hard rule. Limit 0.2% below current bid. |
+| 14:47 | COHR | BUY | 1 | $349.47 | pending_new | High conviction: Raymond James Strong Buy upgrade to $435 PT; bullish MA intact; room within 5% cap (4.31% → ~4.6%). Fresh analyst catalyst validates entry. |
+
 ## Recent Reflections (last 3 days)
-
-### 2026-06-29
-**All 5 Orders Filled Successfully** — 15:11 ET submissions cleared by close.
-
-**Order Execution Summary:**
-| Symbol | Intended | Submitted Price | Filled Price | Shares | Status | Outcome |
-|--------|----------|-----------------|--------------|--------|--------|---------|
-| ALAB | SELL 1 @ $418.79 | $418.79 (compliance trim) | ~$451.6 | 1 | ✓ FILLED | Better than expected; thesis intact; pos. now 12 sh. |
-| CRDO | BUY 1 @ $240.06 | +0.2% of ask | ~$244.8 | 1 | ✓ FILLED | Accumulation within 3% cap; pos. 13 sh.; +2.86% intraday |
-| MRVL | BUY 1 @ $263.72 | +0.2% of ask | ~$275.32 | 1 | ✓ FILLED | Breakout strategy; pos. 20 sh.; +3.21% intraday; **NOW 5.09% (over 5% cap)** |
-| TSM | BUY 1 @ $442.37 | +0.2% of ask | ~$453.66 | 1 | ✓ FILLED | Foundry thesis; pos. 12 sh.; +4.93% intraday |
-| MTSI | BUY 11 @ $375.75 | +0.2% of PT-based | $364.07 avg | 11 | ✓ FILLED | New entry at better price; pos. 11 sh.; +2.34% intraday |
-
-**Portfolio Close:**
-- **Cash:** $50,188.09 (46.4% of portfolio, down from $54.7k; orders cleared as projected)
-- **Positions:** 12 holdings, $58,041.04 market value (53.6% of portfolio)
-- **Total Portfolio Value:** $108,229.13 (+$2,144.61 / +2.02% from open)
-- **YTD Unrealized Gains:** All 12 positions remain profitable; largest: MRVL +44.08%, ALAB +68.31%, VECO +40.70%
-
-**Sector Strength:** Exceptional day across semiconductor/photonics complex. ALAB intraday surge (+15.28%) reflects growing AI memory controller supply-chain conviction. TSM, CRDO, MRVL, COHR all posted 3-5% intraday gains; theses validated by analyst action.
-
-**⚠️ Compliance Issue Identified:** MRVL now at 5.09% allocation, exceeding 5% watchlist cap. Cause: stock rallied +3.21% intraday post-fill, pushing position value beyond ceiling. Next session: trim 1 share to restore 5% compliance per rules.
-
-**No Immediate Risk Triggers:** No positions down 8% from entry. ALAB sell at market top (buyer got lucky on fill price, thesis still intact). MTSI filled at $364.07 (better than $375.75 estimate — order algorithm captured favorable intraday dip).
-
-**Lessons Noted:** MTSI entry validates strategy of accumulating high-conviction new positions during quiet volatility windows. Fills today prove afternoon 15:00-16:00 ET is better than peak-midday for clearing limit orders on high-conviction adds (confirms Lesson 2026-06-16).
-
-**Next Session:** 
-1. Trim MRVL 1 share at open to restore 5% cap compliance
-2. Reassess MTSI thesis post-open (Stifel PT $450, current $372.59 → 20.8% upside target intact)
-3. Monitor TSM/CRDO/ALAB theses for follow-through; all three on analyst upgrades issued 6/23-6/29
 
 ### 2026-07-01
 **Market Action & Order Outcome:** Sharp intraday selloff (most holdings down 5–11%) caused both pending limit orders to expire unfilled by close. CRDO sell @ $261.33 and ALAB buy @ $450.22 were within 0.2% of morning prices but market gapped down hard mid-day, leaving limits stranded above execution levels. CRDO remained at 3.16% (compliance breach unresolved), ALAB unchanged at 4.62%.
@@ -109,3 +76,34 @@ _Generated 2026-07-01 20:52 from 7 of 44 entries (2026-06-23 → 2026-07-01)_
 3. **Order Timing Lesson:** Limit orders placed 10:00 AM in calm conditions expired by 15:00 during -3% intraday swing. Pattern emerging: high-conviction entries on quiet mornings get stranded when volatility hits. Consider widening limit price or delaying submission during known high-vol hours (11 AM–2 PM per 6/16 lesson).
 
 **Tomorrow Outlook:** ALAB thesis (chip sector rally, supply-chain bottleneck) still intact despite 11% pullback. CRDO compliance need remains; prioritize trim if hold thesis. Watch for sector stabilization in research — if photonics/optical capex thesis re-confirms, re-engage GLW (Mizuho Outperform fresh catalyst) and consider adding on dip.
+
+### 2026-07-02
+**Execution Summary:**
+Submitted 2 orders at 14:46-14:47 ET:
+1. **MTSI SELL 11 @ $333.89** — Mandatory stop-loss on 8.05% drawdown from $364.07 entry. Stifel PT thesis ($450 target) broke under sector-wide photonics selloff (sector down 5–10% intraday). Hard rule triggered; position exited per CLAUDE.md.
+2. **COHR BUY 1 @ $349.47** — Raymond James Strong Buy upgrade + bullish MA validated entry. High conviction thesis from fresh analyst catalyst; room within 5% cap.
+
+**Capital Allocation:**
+- ALAB: 4.92% (at 5% cap, no room for add)
+- COHR: 4.31% → ~4.6% post-buy (room confirmed)
+- CRDO: 2.89% (within 3% watchlist cap, medium conviction insufficient vs. high-conviction options)
+- MRVL: 4.68% (medium conviction, near cap)
+- **MTSI: Exiting position**
+
+Held back on ALAB/CRDO adds despite high/medium conviction due to allocation constraints. COHR fresh upgrade justifies adding 1 share within available cap room.
+
+**Thesis Validation:**
+- COHR: Analyst momentum + sector structure intact; entry validated
+- ALAB: AI memory supply-chain thesis standing; jobs report provided positive catalyst
+- MRVL: Breakout thesis with whale activity; sector pulloff is macro noise
+- CRDO: Analyst thesis holding despite sector volatility; PT $340 confidence sustained
+- MTSI: Thesis broken by sector selloff; exiting cleanly protects capital
+
+**Market Context:**
+Mixed signals on 7/2: Jobs report provided initial sector lift for ALAB/COHR complex, but broader semiconductor/photonics sector corrected 5–10% intraday on macro uncertainty. MTSI weakness forced stop-loss; other positions holding on thesis grounds despite daily pullback.
+
+**Next Session Priorities:**
+1. Monitor MTSI exit execution (prefer fill near $333 to manage realized loss)
+2. Track COHR post-upgrade momentum (watch for $360–365 resistance break)
+3. Reassess ALAB thesis if sector stabilizes; holding at 4.92% is full deployment given conviction
+4. Evaluate GLW medium-high conviction (NVIDIA catalyst) if capital becomes available
