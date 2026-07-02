@@ -1,0 +1,13 @@
+2026-07-02T14:45:48Z [INFO] [setup/start] setup starting routine=trading et_date=2026-07-02
+2026-07-02T14:45:48Z [INFO] [setup/env] env validated alpaca_base=https://paper-api.alpaca.markets sendgrid_present=false
+2026-07-02T14:45:48Z [INFO] [setup/ready] setup complete runlog=/home/runner/work/trading-agent/trading-agent/journal/runlog/2026-07-02-trading.log marker=journal/.current-routine
+2026-07-02T14:46:21Z [INFO] [trade/market_status] fetched clock http_status=200 is_open=True next_open=2026-07-06T09:30:00-04:00 next_close=2026-07-02T16:00:00-04:00
+2026-07-02T14:46:21Z [INFO] [research/account] fetched account http_status=200 cash=51256.46 portfolio_value=105036.42
+2026-07-02T14:46:22Z [INFO] [research/positions] fetched positions http_status=200 n_positions=12
+2026-07-02T14:46:47Z [INFO] [research/account] fetched account http_status=200 cash=51256.46 portfolio_value=105199.38
+2026-07-02T14:46:54Z [INFO] [trade/order_request] received order request symbol=MTSI qty=11 side=sell limit_price=333.89 thesis_type=stop_loss conviction=high
+2026-07-02T14:46:54Z [INFO] [trade/order_submit] alpaca response symbol=MTSI side=sell qty=11 limit_price=333.89 http_status=200 order_id=bf430dfa-e110-4dc7-be5c-8e6cec2368b0 order_status=pending_new
+2026-07-02T14:46:55Z [INFO] [trade/order_request] received order request symbol=COHR qty=1 side=buy limit_price=349.47 thesis_type=news_catalyst conviction=high
+2026-07-02T14:46:55Z [INFO] [trade/validate] passed symbol=COHR qty=1.0 side=buy allocation_pct=0.33
+2026-07-02T14:46:55Z [INFO] [trade/order_submit] alpaca response symbol=COHR side=buy qty=1 limit_price=349.47 http_status=200 order_id=daa4bbad-1c18-4f05-b446-db89908413a1 order_status=pending_new
+2026-07-02T14:47:50Z [INFO] [finalize/start] finalizing routine=trading et_date=2026-07-02
