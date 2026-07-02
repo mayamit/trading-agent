@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-07-02",
+  "picks": [
+    {
+      "symbol": "COHR",
+      "thesis": "Strong Buy upgrade from Raymond James with $435 PT (upside from $392.76); bullish MA structure (387.63 > 363.26) intact.",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Raymond James Strong Buy upgrade (7/2)"
+    },
+    {
+      "symbol": "ALAB",
+      "thesis": "Bullish MA crossover (363.14 > 273.83, strongest spread) + AI memory controller thesis validated by today's jobs rally catalyst.",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Jobs report rally catalyst (7/2)"
+    },
+    {
+      "symbol": "GLW",
+      "thesis": "Bullish MA (186.95 > 181.08) + fresh Nvidia AI infrastructure announcement catalyst; photonics/cooling sector strength continues.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Nvidia AI infrastructure announcement (7/2)"
+    },
+    {
+      "symbol": "MRVL",
+      "thesis": "Bullish MA (271.07 > 207.63, 30% above 50-day) + whale activity breakout; semiconductor sector momentum sustained.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Whale activity (7/1)"
+    },
+    {
+      "symbol": "CRDO",
+      "thesis": "Bullish MA (242.35 > 206.97) + analyst upgrades (B of A PT $340, 26% upside); optical networking capex thesis intact.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "B of A upgrade (6/23), sector validation (7/1)"
+    }
+  ]
+}
