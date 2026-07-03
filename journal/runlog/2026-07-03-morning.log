@@ -1,0 +1,7 @@
+2026-07-03T15:43:36Z [INFO] [setup/start] setup starting routine=morning et_date=2026-07-03
+2026-07-03T15:43:36Z [INFO] [setup/env] env validated alpaca_base=https://paper-api.alpaca.markets sendgrid_present=false
+2026-07-03T15:43:36Z [INFO] [setup/ready] setup complete runlog=/home/runner/work/trading-agent/trading-agent/journal/runlog/2026-07-03-morning.log marker=journal/.current-routine
+2026-07-03T15:44:05Z [INFO] [trade/market_status] fetched clock http_status=200 is_open=False next_open=2026-07-06T09:30:00-04:00 next_close=2026-07-06T16:00:00-04:00
+2026-07-03T15:44:05Z [INFO] [research/scan_start] scanning watchlist n_tickers=24
+2026-07-03T15:44:16Z [INFO] [research/scan_done] scan complete n_tickers=24 n_errors=0 n_bullish=10 n_bearish=7
+2026-07-03T15:44:30Z [INFO] [finalize/start] finalizing routine=morning et_date=2026-07-03
