@@ -1,0 +1,23 @@
+2026-07-06T16:49:21Z [INFO] [setup/start] setup starting routine=trading et_date=2026-07-06
+2026-07-06T16:49:21Z [INFO] [setup/env] env validated alpaca_base=https://paper-api.alpaca.markets sendgrid_present=false
+2026-07-06T16:49:21Z [INFO] [setup/ready] setup complete runlog=/home/runner/work/trading-agent/trading-agent/journal/runlog/2026-07-06-trading.log marker=journal/.current-routine
+2026-07-06T16:49:49Z [INFO] [trade/market_status] fetched clock http_status=200 is_open=True next_open=2026-07-07T09:30:00-04:00 next_close=2026-07-06T16:00:00-04:00
+2026-07-06T16:49:50Z [INFO] [research/account] fetched account http_status=200 cash=54597.78 portfolio_value=105196.14
+2026-07-06T16:49:50Z [INFO] [research/positions] fetched positions http_status=200 n_positions=11
+2026-07-06T16:50:07Z [INFO] [research/account] fetched account http_status=200 cash=54597.78 portfolio_value=105206.79
+2026-07-06T16:50:14Z [INFO] [research/account] fetched account http_status=200 cash=54597.78 portfolio_value=105203.61
+2026-07-06T16:50:35Z [INFO] [trade/order_request] received order request symbol=KEYS qty=14 side=sell limit_price=321.87 thesis_type=stop_loss conviction=high
+2026-07-06T16:50:35Z [INFO] [trade/order_submit] alpaca response symbol=KEYS side=sell qty=14 limit_price=321.87 http_status=200 order_id=bce37611-7442-4a9b-867a-9f17242f35da order_status=pending_new
+2026-07-06T16:50:37Z [INFO] [trade/order_request] received order request symbol=MRVL qty=1 side=buy limit_price=255.04 thesis_type=news_and_ma conviction=high
+2026-07-06T16:50:38Z [INFO] [trade/validate] passed symbol=MRVL qty=1.0 side=buy allocation_pct=0.24
+2026-07-06T16:50:38Z [INFO] [trade/order_submit] alpaca response symbol=MRVL side=buy qty=1 limit_price=255.04 http_status=200 order_id=d869c7f9-1595-41c9-92a0-83f3c617525b order_status=pending_new
+2026-07-06T16:50:45Z [INFO] [trade/order_request] received order request symbol=GLW qty=1 side=buy limit_price=200.00
+2026-07-06T16:50:45Z [INFO] [trade/validate] passed symbol=GLW qty=1.0 side=buy allocation_pct=0.19
+2026-07-06T16:50:46Z [INFO] [trade/order_submit] alpaca response symbol=GLW side=buy qty=1 limit_price=200.00 http_status=200 order_id=59d62fef-2374-4bb2-b8f9-161e2a01e5ce order_status=pending_new
+2026-07-06T16:50:51Z [INFO] [trade/cancel_all] alpaca response http_status=207
+2026-07-06T16:50:56Z [INFO] [trade/order_request] received order request symbol=GLW qty=1 side=buy limit_price=200.40 thesis_type=ma_crossover conviction=high
+2026-07-06T16:50:57Z [INFO] [trade/validate] passed symbol=GLW qty=1.0 side=buy allocation_pct=0.19
+2026-07-06T16:50:57Z [INFO] [trade/order_submit] alpaca response symbol=GLW side=buy qty=1 limit_price=200.40 http_status=200 order_id=4e6b4ea3-bc18-4d1b-a65a-1671d1dcc949 order_status=pending_new
+2026-07-06T16:51:23Z [INFO] [summarize/start] scanning journal n_entries=47
+2026-07-06T16:51:23Z [INFO] [summarize/done] wrote summary path=/home/runner/work/trading-agent/trading-agent/journal/SUMMARY.md latest=2026-07-06 window_start=2026-06-26 window_end=2026-07-06 n_trade_blocks=6 n_reflection_blocks=3
+2026-07-06T16:51:38Z [INFO] [finalize/start] finalizing routine=trading et_date=2026-07-06

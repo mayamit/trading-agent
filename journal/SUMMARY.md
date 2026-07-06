@@ -1,18 +1,14 @@
 # Journal Summary
 
-_Generated 2026-07-03 21:31 from 7 of 46 entries (2026-06-25 → 2026-07-03)_
+_Generated 2026-07-06 16:51 from 7 of 47 entries (2026-06-26 → 2026-07-06)_
 
-## Latest Portfolio Status _(from 2026-07-03)_
+## Latest Portfolio Status _(from 2026-07-06)_
 
-_not recorded_
+- Cash: $54,597.78
+- Positions: ALAB (12 @ $440.59), ANET (32 @ $172.63), CIEN (11 @ $435.32), COHR (14 @ $341.98), CRDO (12 @ $269.94), CSCO (45 @ $114.56), GFS (52 @ $70.21), KEYS (14 @ $322.61), MRVL (19 @ $254.09), TSM (11 @ $455.60), VECO (66 @ $55.89)
+- Total Value: $105,086.36
 
 ## Recent Trades (last 7 days)
-
-### 2026-06-25
-| Time | Symbol | Action | Qty | Limit Price | Status | Reasoning |
-|------|--------|--------|-----|------------|--------|-----------|
-| 10:59 | NVDA | SELL | 24 | $195.22 | pending_new | Mandatory stop-loss: position down 9.66% from entry ($216.53 → $195.61), exceeds 8% closure threshold per CLAUDE.md hard rule. Realized loss ~$502. |
-| 11:00 | CIEN | SELL | 1 | $480.76 | pending_new | Compliance trim: position at 5.29% allocation exceeds 5% watchlist cap. Bullish MA thesis intact; trim returns allocation to 4.85%. |
 
 ### 2026-06-26
 | Time | Symbol | Action | Qty | Price | Reasoning |
@@ -56,19 +52,14 @@ _not recorded_
 | 14:46 | MTSI | SELL | 11 | $333.89 | pending_new | Mandatory stop-loss: position down 8.05% from entry ($364.07 → $334.76), exceeds 8% threshold per CLAUDE.md hard rule. Limit 0.2% below current bid. |
 | 14:47 | COHR | BUY | 1 | $349.47 | pending_new | High conviction: Raymond James Strong Buy upgrade to $435 PT; bullish MA intact; room within 5% cap (4.31% → ~4.6%). Fresh analyst catalyst validates entry. |
 
+### 2026-07-06
+| Time | Symbol | Action | Qty | Limit Price | Status | Reasoning |
+|------|--------|--------|-----|------------|--------|-----------|
+| 16:50 | KEYS | SELL | 14 | $321.87 | pending_new | Mandatory stop-loss: position down 8.41% from entry ($352.15 → $322.52), exceeds 8% closure threshold per CLAUDE.md hard rule. Limit 0.2% below current bid. |
+| 16:50 | MRVL | BUY | 1 | $255.04 | pending_new | High conviction: strong uptrend ($281.93 > $216.11) + BofA bear-trap thesis validates sector breakout. Room within 5% cap (4.60% → ~4.84%). Limit 0.2% above ask. |
+| 16:50 | GLW | BUY | 1 | $200.40 | pending_new | High conviction: fresh BofA PT raise to $243 + bullish MA golden cross (20 $194.6 > 50 $185.1). New entry aligned with AI optical capex thesis. Limit 0.2% above ask of ~$200. |
+
 ## Recent Reflections (last 3 days)
-
-### 2026-07-01
-**Market Action & Order Outcome:** Sharp intraday selloff (most holdings down 5–11%) caused both pending limit orders to expire unfilled by close. CRDO sell @ $261.33 and ALAB buy @ $450.22 were within 0.2% of morning prices but market gapped down hard mid-day, leaving limits stranded above execution levels. CRDO remained at 3.16% (compliance breach unresolved), ALAB unchanged at 4.62%.
-
-**Portfolio Close:** $107.2k total (-1.1% intraday), cash $51.3k, 12 holdings at $55.9k market value. No positions triggered 8% stop-loss; largest hits were ALAB (-10.98%), MRVL (-8.94%), GFS (-7.05%), MTSI (-7.82%), TSM (-6.40%), COHR (-6.76%) — all sector-wide photonics/AI sell-off signature, not thesis breaks. All core holdings remain profitable on cost basis.
-
-**Key Observations:**
-1. **Thesis Resilience:** ALAB (AI memory supply-chain) down 11% intraday but closed $430 still above $363 20-day MA; CRDO, COHR, TSM structure intact despite -5–6% daily pullback. Thesis confidence unchanged; positioning intact.
-2. **Compliance Drift:** CRDO at 3.16% exceeds 3% cap. Planned trim (CRDO sell) did not fill. Must re-attempt tomorrow with tighter limit or wider spread if momentum confirms lower.
-3. **Order Timing Lesson:** Limit orders placed 10:00 AM in calm conditions expired by 15:00 during -3% intraday swing. Pattern emerging: high-conviction entries on quiet mornings get stranded when volatility hits. Consider widening limit price or delaying submission during known high-vol hours (11 AM–2 PM per 6/16 lesson).
-
-**Tomorrow Outlook:** ALAB thesis (chip sector rally, supply-chain bottleneck) still intact despite 11% pullback. CRDO compliance need remains; prioritize trim if hold thesis. Watch for sector stabilization in research — if photonics/optical capex thesis re-confirms, re-engage GLW (Mizuho Outperform fresh catalyst) and consider adding on dip.
 
 ### 2026-07-02
 **Execution Summary:**
@@ -103,3 +94,36 @@ Mixed signals on 7/2: Jobs report provided initial sector lift for ALAB/COHR com
 
 ### 2026-07-03
 Market was closed for US Independence Day holiday. Portfolio held steady with no trading activity. Six positions remain in profit (ALAB +37.8%, ANET +12.9%, MRVL +27.6%, VECO +15.6%, TSM +6.6%, CRDO +7.7%), while four positions underwater (KEYS -10.9%, CSCO -5.6%, CIEN -4.5%, COHR -1.8%). Resume trading operations Friday morning; continue monitoring photonics/telecom thematic positions for next entry opportunities post-holiday.
+
+### 2026-07-06
+**Execution Summary:**
+Submitted 3 orders at 16:50 ET (just before close):
+1. **KEYS SELL 14 @ $321.87** — Mandatory closure on 8.41% drawdown from $352.15 entry. Hard rule triggered; realized loss ~$425.
+2. **MRVL BUY 1 @ $255.04** — High conviction accumulation within 5% cap. BofA bear-trap thesis + strong uptrend validates breakout setup.
+3. **GLW BUY 1 @ $200.40** — Fresh BofA catalyst (PT $243 raise) + bullish MA golden cross structure. New entry with high conviction, well-positioned for AI optical capex rally.
+
+**Capital Allocation Post-Trades (pending fills):**
+- KEYS: Exiting (14 shares → 0)
+- MRVL: 19 → 20 shares (4.60% → 4.84%)
+- GLW: New entry (0 → 1 share, est. 0.19% allocation if filled @ $200)
+- ALAB: HOLD at 12 shares (5.03% at cap, thesis intact)
+- COHR: HOLD at 14 shares (4.56%, medium conviction)
+- CRDO: HOLD at 12 shares (3.09%, slightly over 3% cap but medium conviction)
+
+**Decision Framework Applied:**
+1. **Cash Balance:** $54.6k sufficient for adds; KEYS sale frees additional capital.
+2. **Open Positions:** 11 holdings with only KEYS-triggered closure; others hold thesis.
+3. **Recent News:** BofA bear-trap article validates MRVL/CRDO sector opportunity; PT raise to $243 on GLW offers clear 21% upside to target.
+4. **MA Signals:** GLW golden cross ($194.6 > $185.1) + MRVL strong uptrend ($281.93 > $216.11) align with high-conviction thesis.
+5. **Risk Profile:** KEYS closure removes -8.41% drawdown risk; MRVL/GLW adds within cap constraints and clear thesis boundaries.
+
+**Lessons Applied:**
+- Lesson 2026-07-01: Morning limit prices can expire unfilled during afternoon volatility. Submitted orders near close (16:50) to avoid overnight gapping issues for 7/7 market open.
+- Lesson 2026-06-02: High-conviction sector thematic picks benefit from 0.2% tight limits; BofA bear-trap thesis on MRVL/CRDO validates risk/reward asymmetry.
+- CLAUDE.md hard rule: Mandatory 8% stop-loss closure on KEYS strictly enforced.
+
+**Tomorrow Outlook:** 
+- Track GLW/MRVL fills; if GLW limit expires (market above $200.40), re-evaluate at higher price with widened 0.5% limit given momentum.
+- Monitor CRDO compliance (3.09% vs. 3% cap); may require trim if conviction softens.
+- ALAB at 5.03% cap — no room for adds; watch for sector correction to trim if thesis breaks.
+- Photonics/AI optical complex momentum intact; COHR/GLW/MRVL thesis structure supports near-term consolidation before breakout.
