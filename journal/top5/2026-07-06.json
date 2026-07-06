@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-07-06",
+  "picks": [
+    {
+      "symbol": "GLW",
+      "thesis": "Bullish MA golden cross (20 $194.6 > 50 $185.1) + fresh BofA PT raise to $243 validates AI optical capex thesis.",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "BofA upgrade 7/6 16:02; AI infrastructure demand"
+    },
+    {
+      "symbol": "ALAB",
+      "thesis": "Bullish MA ($374.55 > $288.47) + positive 7/6 news confirms AI memory supply-chain tailwind.",
+      "conviction": "high",
+      "thesis_type": "ma_crossover",
+      "signal_source": "Bullish MA structure; sector momentum"
+    },
+    {
+      "symbol": "MRVL",
+      "thesis": "Strong uptrend ($281.93 > $216.11); BofA 'bear trap' article validates sector opportunity despite daily weakness.",
+      "conviction": "high",
+      "thesis_type": "news+ma",
+      "signal_source": "BofA 7/6 16:00; breakout thesis"
+    },
+    {
+      "symbol": "CRDO",
+      "thesis": "Mixed MA ($246.04 > $212.32) but analyst PT $340 + BofA bear-trap thesis sustain conviction.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "BofA 7/6; analyst thesis intact"
+    },
+    {
+      "symbol": "COHR",
+      "thesis": "Bullish MA ($390.58 > $367.83); post-holiday consolidation on recent Raymond James Strong Buy thesis.",
+      "conviction": "medium",
+      "thesis_type": "ma_crossover",
+      "signal_source": "Raymond James 7/2 upgrade; photonics sector"
+    }
+  ]
+}
