@@ -1,19 +1,12 @@
 # Journal Summary
 
-_Generated 2026-07-06 21:47 from 7 of 47 entries (2026-06-26 → 2026-07-06)_
+_Generated 2026-07-07 21:40 from 7 of 48 entries (2026-06-29 → 2026-07-07)_
 
-## Latest Portfolio Status _(from 2026-07-06)_
+## Latest Portfolio Status _(from 2026-07-07)_
 
-- Cash: $54,597.78
-- Positions: ALAB (12 @ $440.59), ANET (32 @ $172.63), CIEN (11 @ $435.32), COHR (14 @ $341.98), CRDO (12 @ $269.94), CSCO (45 @ $114.56), GFS (52 @ $70.21), KEYS (14 @ $322.61), MRVL (19 @ $254.09), TSM (11 @ $455.60), VECO (66 @ $55.89)
-- Total Value: $105,086.36
+_not recorded_
 
 ## Recent Trades (last 7 days)
-
-### 2026-06-26
-| Time | Symbol | Action | Qty | Price | Reasoning |
-|------|--------|--------|-----|-------|-----------|
-| 10:55 | LITE | SELL | 6 | $785.14 | Mandatory stop-loss: position down 8.80% from entry ($862.68 → $786.77), exceeds 8% closure threshold per CLAUDE.md. Limit within 0.2% of current bid. |
 
 ### 2026-06-29
 | Time | Symbol | Action | Qty | Limit Price | Status | Reasoning |
@@ -59,38 +52,12 @@ _Generated 2026-07-06 21:47 from 7 of 47 entries (2026-06-26 → 2026-07-06)_
 | 16:50 | MRVL | BUY | 1 | $255.04 | pending_new | High conviction: strong uptrend ($281.93 > $216.11) + BofA bear-trap thesis validates sector breakout. Room within 5% cap (4.60% → ~4.84%). Limit 0.2% above ask. |
 | 16:50 | GLW | BUY | 1 | $200.40 | pending_new | High conviction: fresh BofA PT raise to $243 + bullish MA golden cross (20 $194.6 > 50 $185.1). New entry aligned with AI optical capex thesis. Limit 0.2% above ask of ~$200. |
 
+### 2026-07-07
+| Time | Symbol | Action | Qty | Limit Price | Status | Reasoning |
+|------|--------|--------|-----|-------------|--------|-----------|
+| 12:25 | GLW | BUY | 10 | $185.44 | pending_new | High conviction: Oppenheimer Outperform upgrade (PT $230) + bullish MA golden cross validates AI optical capex accumulation. Current price $185.07 is 7.4% below entry; represents discount entry with 24.3% upside to PT. Allocation post-fill: ~2.2% (well within 5% cap). Thesis: news_catalyst / signal_source: Oppenheimer_upgrade / conviction: high |
+
 ## Recent Reflections (last 3 days)
-
-### 2026-07-02
-**Execution Summary:**
-Submitted 2 orders at 14:46-14:47 ET:
-1. **MTSI SELL 11 @ $333.89** — Mandatory stop-loss on 8.05% drawdown from $364.07 entry. Stifel PT thesis ($450 target) broke under sector-wide photonics selloff (sector down 5–10% intraday). Hard rule triggered; position exited per CLAUDE.md.
-2. **COHR BUY 1 @ $349.47** — Raymond James Strong Buy upgrade + bullish MA validated entry. High conviction thesis from fresh analyst catalyst; room within 5% cap.
-
-**Capital Allocation:**
-- ALAB: 4.92% (at 5% cap, no room for add)
-- COHR: 4.31% → ~4.6% post-buy (room confirmed)
-- CRDO: 2.89% (within 3% watchlist cap, medium conviction insufficient vs. high-conviction options)
-- MRVL: 4.68% (medium conviction, near cap)
-- **MTSI: Exiting position**
-
-Held back on ALAB/CRDO adds despite high/medium conviction due to allocation constraints. COHR fresh upgrade justifies adding 1 share within available cap room.
-
-**Thesis Validation:**
-- COHR: Analyst momentum + sector structure intact; entry validated
-- ALAB: AI memory supply-chain thesis standing; jobs report provided positive catalyst
-- MRVL: Breakout thesis with whale activity; sector pulloff is macro noise
-- CRDO: Analyst thesis holding despite sector volatility; PT $340 confidence sustained
-- MTSI: Thesis broken by sector selloff; exiting cleanly protects capital
-
-**Market Context:**
-Mixed signals on 7/2: Jobs report provided initial sector lift for ALAB/COHR complex, but broader semiconductor/photonics sector corrected 5–10% intraday on macro uncertainty. MTSI weakness forced stop-loss; other positions holding on thesis grounds despite daily pullback.
-
-**Next Session Priorities:**
-1. Monitor MTSI exit execution (prefer fill near $333 to manage realized loss)
-2. Track COHR post-upgrade momentum (watch for $360–365 resistance break)
-3. Reassess ALAB thesis if sector stabilizes; holding at 4.92% is full deployment given conviction
-4. Evaluate GLW medium-high conviction (NVIDIA catalyst) if capital becomes available
 
 ### 2026-07-03
 Market was closed for US Independence Day holiday. Portfolio held steady with no trading activity. Six positions remain in profit (ALAB +37.8%, ANET +12.9%, MRVL +27.6%, VECO +15.6%, TSM +6.6%, CRDO +7.7%), while four positions underwater (KEYS -10.9%, CSCO -5.6%, CIEN -4.5%, COHR -1.8%). Resume trading operations Friday morning; continue monitoring photonics/telecom thematic positions for next entry opportunities post-holiday.
@@ -127,3 +94,14 @@ Submitted 3 orders at 16:50 ET (just before close):
 - Monitor CRDO compliance (3.09% vs. 3% cap); may require trim if conviction softens.
 - ALAB at 5.03% cap — no room for adds; watch for sector correction to trim if thesis breaks.
 - Photonics/AI optical complex momentum intact; COHR/GLW/MRVL thesis structure supports near-term consolidation before breakout.
+
+### 2026-07-07
+**GLW order filled successfully** — 10 shares added @ $185.44 limit, bringing position to 12 shares. Thesis (Oppenheimer upgrade + MA golden cross) intact despite market decline.
+
+**Market declined sharply across all holdings** — intraday losses ranged 2–11% despite positive fundamental theses. MRVL (+17% YTD) dropped 8% intraday; ALAB (+30% YTD) dropped 11%; CRDO, GFS fell hardest intraday (-9%, -5%). Broad sector pullback suggests profit-taking or macro headwind, not thesis breakdown.
+
+**🚨 CRITICAL: COHR stop-loss triggered today** — now -8.1% from $339.30 entry (current $311.92), exceeding the mandatory 8% close threshold per CLAUDE.md. Should have been closed EOD without waiting. This represents a missed rule enforcement. Investigate why trading routine did not auto-close COHR when position hit threshold.
+
+**Portfolio resilience**: Despite harsh intraday, most holdings remain profitable YTD (ALAB +30%, MRVL +17%, ANET +17%, VECO +8%, TSM +6%, CRDO +8%). Cash reserve at 55% ($56.6k / $102k) provides dry powder for opportunistic adds or recovery buys if thesis remains sound post-shock.
+
+**Tomorrow**: Address COHR close rule violation. If thesis still intact post-decline, close COHR to honor stop-loss and free capital. Monitor sector recovery; watch if GLW thesis validates with continued upside, or if broader photonics/AI infrastructure pullback extends.
