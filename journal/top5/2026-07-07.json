@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-07-07",
+  "picks": [
+    {
+      "symbol": "GLW",
+      "thesis": "Fresh Oppenheimer Outperform upgrade (PT $230) + bullish MA golden cross; AI optical capex breakout.",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Oppenheimer 7/7 Outperform"
+    },
+    {
+      "symbol": "MRVL",
+      "thesis": "Bullish MA breakout ($285.83 > $219.27) + BofA bear-trap thesis validates sector rally; accumulation.",
+      "conviction": "high",
+      "thesis_type": "news+ma",
+      "signal_source": "BofA bear-trap + bullish uptrend"
+    },
+    {
+      "symbol": "COHR",
+      "thesis": "Bullish MA intact ($392.16 > $368.82) + Raymond James Strong Buy; photonics/AI packaging theme.",
+      "conviction": "high",
+      "thesis_type": "news+ma",
+      "signal_source": "Raymond James Strong Buy upgrade"
+    },
+    {
+      "symbol": "ALAB",
+      "thesis": "Bullish MA explosive ($382.67 > $294.64) + chip sector momentum validates AI memory controller thesis.",
+      "conviction": "high",
+      "thesis_type": "news+ma",
+      "signal_source": "Chip sector rally + PSI outperformance (7/6)"
+    },
+    {
+      "symbol": "CSCO",
+      "thesis": "Fresh $230M Army GEMSS contract catalyst (7/7) + mixed MA validates enterprise networking thesis.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Cisco Army contract 7/7"
+    }
+  ]
+}
