@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-07-08",
+  "picks": [
+    {
+      "symbol": "AVGO",
+      "thesis": "UBS identifies chip pullback as buying opportunity; oversold fundamentals intact despite 6% drawdown",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "UBS (2026-07-08)"
+    },
+    {
+      "symbol": "GFS",
+      "thesis": "Bullish MA golden cross validated by SEALSQ quantum cryptography partnership; small-cap breakout setup",
+      "conviction": "high",
+      "thesis_type": "news+ma",
+      "signal_source": "SEALSQ_MoU (2026-07-08)"
+    },
+    {
+      "symbol": "MTSI",
+      "thesis": "Bullish MA intact; BofA bear-trap thesis validates AI infrastructure buildout sector rotation",
+      "conviction": "high",
+      "thesis_type": "news+ma",
+      "signal_source": "BofA (2026-07-06)"
+    },
+    {
+      "symbol": "FN",
+      "thesis": "RSI oversold (<30) presents accumulation opportunity; photonics theme intact despite bearish MA drawdown",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "RSI_oversold (2026-07-08)"
+    },
+    {
+      "symbol": "CSCO",
+      "thesis": "Fresh $230M Army GEMSS IT modernization contract validates infrastructure thesis; modest MA structure",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Army_contract (2026-07-07)"
+    }
+  ]
+}
