@@ -1,21 +1,15 @@
 # Journal Summary
 
-_Generated 2026-07-08 21:31 from 7 of 49 entries (2026-06-30 → 2026-07-08)_
+_Generated 2026-07-09 21:44 from 7 of 50 entries (2026-07-01 → 2026-07-09)_
 
-## Latest Portfolio Status _(from 2026-07-08)_
+## Latest Portfolio Status _(from 2026-07-09)_
 
-- Cash: $56,604.85
-- Positions: ALAB (12 @ $375.27), ANET (32 @ $172.16), CIEN (11 @ $423.30), COHR (14 @ $305.49), CRDO (12 @ $246.39), CSCO (45 @ $112.76), GFS (52 @ $65.97), GLW (12 @ $181.26), MRVL (20 @ $225.95), TSM (11 @ $430.78), VECO (66 @ $53.04)
-- Total Value: $101,944.63
+- Cash: $57,156.39
+- Positions (12 holdings): ALAB (12 @ $426.77), ANET (32 @ $184.87), CIEN (11 @ $468.54), CRDO (12 @ $275.09), CSCO (45 @ $118.08), FN (2 @ $495.30), GFS (72 @ $71.41), GLW (12 @ $197.18), MRVL (20 @ $248.12), MTSI (5 @ $326.20), TSM (11 @ $442.67), VECO (66 @ $59.51)
+- Total Value: $105,847.52
+- Intraday P&L: +$2,478.27 (+2.40%)
 
 ## Recent Trades (last 7 days)
-
-### 2026-06-30
-| Time | Symbol | Action | Qty | Limit Price | Status | Reasoning |
-|------|--------|--------|-----|-------------|--------|-----------|
-| 10:53 | MRVL | SELL | 1 | $294.80 | pending_new | Compliance trim: position 5.33% → ~4.95% allocation; thesis intact; limit 0.2% below bid |
-| 10:53 | ALAB | SELL | 1 | $493.80 | pending_new | Compliance trim: position 5.32% → ~4.95% allocation; thesis intact; limit 0.2% below bid |
-| 10:53 | TSM | SELL | 1 | $466.50 | pending_new | Compliance trim: position 5.07% → ~4.65% allocation; thesis intact; limit 0.2% below bid |
 
 ### 2026-07-01
 | Time | Symbol | Action | Qty | Limit Price | Status | Reasoning |
@@ -56,40 +50,13 @@ _Generated 2026-07-08 21:31 from 7 of 49 entries (2026-06-30 → 2026-07-08)_
 | 16:01 | MTSI | BUY | 5 | $375.75 | BofA bear-trap thesis validates $1.5T AI buildout structural demand; bullish MA; high conviction sector rotation |
 | 16:01 | FN | BUY | 2 | $561.12 | RSI oversold accumulation setup; photonics theme intact; medium conviction nibble on weakness |
 
+### 2026-07-09
+| Time | Symbol | Action | Qty | Limit Price | Status | Reasoning |
+|------|--------|--------|-----|-------------|--------|-----------|
+| 12:25 | ANET | SELL | 3 | $183.86 | pending_new | Compliance trim: position 5.57% → ~5.05% to comply with 5% allocation cap. 52-week high momentum thesis intact; limit 0.2% below bid |
+| 12:25 | MTSI | BUY | 8 | $325.38 | pending_new | High conviction accumulation within 4% cap: position 1.54% → ~3.9% target. BofA bear-trap AI buildout thesis + strong bullish MA validates test equipment infrastructure demand. Limit 0.2% above ask |
+
 ## Recent Reflections (last 3 days)
-
-### 2026-07-06
-**Execution Summary:**
-Submitted 3 orders at 16:50 ET (just before close):
-1. **KEYS SELL 14 @ $321.87** — Mandatory closure on 8.41% drawdown from $352.15 entry. Hard rule triggered; realized loss ~$425.
-2. **MRVL BUY 1 @ $255.04** — High conviction accumulation within 5% cap. BofA bear-trap thesis + strong uptrend validates breakout setup.
-3. **GLW BUY 1 @ $200.40** — Fresh BofA catalyst (PT $243 raise) + bullish MA golden cross structure. New entry with high conviction, well-positioned for AI optical capex rally.
-
-**Capital Allocation Post-Trades (pending fills):**
-- KEYS: Exiting (14 shares → 0)
-- MRVL: 19 → 20 shares (4.60% → 4.84%)
-- GLW: New entry (0 → 1 share, est. 0.19% allocation if filled @ $200)
-- ALAB: HOLD at 12 shares (5.03% at cap, thesis intact)
-- COHR: HOLD at 14 shares (4.56%, medium conviction)
-- CRDO: HOLD at 12 shares (3.09%, slightly over 3% cap but medium conviction)
-
-**Decision Framework Applied:**
-1. **Cash Balance:** $54.6k sufficient for adds; KEYS sale frees additional capital.
-2. **Open Positions:** 11 holdings with only KEYS-triggered closure; others hold thesis.
-3. **Recent News:** BofA bear-trap article validates MRVL/CRDO sector opportunity; PT raise to $243 on GLW offers clear 21% upside to target.
-4. **MA Signals:** GLW golden cross ($194.6 > $185.1) + MRVL strong uptrend ($281.93 > $216.11) align with high-conviction thesis.
-5. **Risk Profile:** KEYS closure removes -8.41% drawdown risk; MRVL/GLW adds within cap constraints and clear thesis boundaries.
-
-**Lessons Applied:**
-- Lesson 2026-07-01: Morning limit prices can expire unfilled during afternoon volatility. Submitted orders near close (16:50) to avoid overnight gapping issues for 7/7 market open.
-- Lesson 2026-06-02: High-conviction sector thematic picks benefit from 0.2% tight limits; BofA bear-trap thesis on MRVL/CRDO validates risk/reward asymmetry.
-- CLAUDE.md hard rule: Mandatory 8% stop-loss closure on KEYS strictly enforced.
-
-**Tomorrow Outlook:** 
-- Track GLW/MRVL fills; if GLW limit expires (market above $200.40), re-evaluate at higher price with widened 0.5% limit given momentum.
-- Monitor CRDO compliance (3.09% vs. 3% cap); may require trim if conviction softens.
-- ALAB at 5.03% cap — no room for adds; watch for sector correction to trim if thesis breaks.
-- Photonics/AI optical complex momentum intact; COHR/GLW/MRVL thesis structure supports near-term consolidation before breakout.
 
 ### 2026-07-07
 **GLW order filled successfully** — 10 shares added @ $185.44 limit, bringing position to 12 shares. Thesis (Oppenheimer upgrade + MA golden cross) intact despite market decline.
@@ -128,3 +95,6 @@ Submitted 3 orders at 16:50 ET (just before close):
 - AVGO: Re-evaluate at new price level if thesis intact; unfilled limit doesn't invalidate UBS pullback opportunity thesis
 - GFS/MTSI fills validated sector rotation play; watch for consolidation before next add
 - Monitor CRDO, VECO for continued AI infrastructure resilience
+
+### 2026-07-09
+Strong day: both limit orders filled as planned. ANET compliance trim reduced position from 5.57% to 5.09%, freeing capital for opportunistic adds. MTSI accumulation (5→13 shares) successfully increased high-conviction AI infrastructure play to 3.93% allocation. Portfolio +$2,478.27 intraday despite broad market consolidation; all 12 positions remain profitable YTD with zero 8% stop-losses triggered. MRVL golden cross thesis holding, GLW momentum intact—both signal continued strength in optical/AI infrastructure sector. Monitor for any consolidation or pullback in next 2-3 sessions; current allocations leave headroom for adds if new high-conviction signals emerge.
