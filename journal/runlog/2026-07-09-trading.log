@@ -1,0 +1,13 @@
+2026-07-09T16:23:56Z [INFO] [setup/start] setup starting routine=trading et_date=2026-07-09
+2026-07-09T16:23:56Z [INFO] [setup/env] env validated alpaca_base=https://paper-api.alpaca.markets sendgrid_present=false
+2026-07-09T16:23:56Z [INFO] [setup/ready] setup complete runlog=/home/runner/work/trading-agent/trading-agent/journal/runlog/2026-07-09-trading.log marker=journal/.current-routine
+2026-07-09T16:24:30Z [INFO] [trade/market_status] fetched clock http_status=200 is_open=True next_open=2026-07-10T09:30:00-04:00 next_close=2026-07-09T16:00:00-04:00
+2026-07-09T16:24:31Z [INFO] [research/account] fetched account http_status=200 cash=57156.39 portfolio_value=105770.13
+2026-07-09T16:24:32Z [INFO] [research/positions] fetched positions http_status=200 n_positions=12
+2026-07-09T16:25:05Z [INFO] [research/account] fetched account http_status=200 cash=57156.39 portfolio_value=105798.91
+2026-07-09T16:25:29Z [INFO] [trade/order_request] received order request symbol=ANET qty=3 side=sell limit_price=183.86 thesis_type=ma_crossover conviction=medium
+2026-07-09T16:25:29Z [INFO] [trade/order_submit] alpaca response symbol=ANET side=sell qty=3 limit_price=183.86 http_status=200 order_id=feb29c4b-d0ee-4b9f-af1d-6f21c75c93a7 order_status=pending_new
+2026-07-09T16:25:32Z [INFO] [trade/order_request] received order request symbol=MTSI qty=8 side=buy limit_price=325.38 thesis_type=news_catalyst conviction=high
+2026-07-09T16:25:32Z [INFO] [trade/validate] passed symbol=MTSI qty=8.0 side=buy allocation_pct=2.46
+2026-07-09T16:25:32Z [INFO] [trade/order_submit] alpaca response symbol=MTSI side=buy qty=8 limit_price=325.38 http_status=200 order_id=bca9c47a-4f09-470f-b02c-77f2b3b4ad2a order_status=pending_new
+2026-07-09T16:26:01Z [INFO] [finalize/start] finalizing routine=trading et_date=2026-07-09
