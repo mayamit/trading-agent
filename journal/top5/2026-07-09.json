@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-07-09",
+  "picks": [
+    {
+      "symbol": "MRVL",
+      "thesis": "Bullish MA intact + RBC $360 PT reaffirm validates $1.5T AI buildout structural demand",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "RBC Capital Markets $360 PT (7/9)"
+    },
+    {
+      "symbol": "GLW",
+      "thesis": "Bullish MA golden cross + Oppenheimer PT raise to $230 supports AI optical capex accumulation",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Oppenheimer Outperform, PT $230 (7/7)"
+    },
+    {
+      "symbol": "MTSI",
+      "thesis": "Bullish MA + BofA bear-trap thesis validates AI semiconductor test equipment demand",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Bank of America $1.5T AI buildout bear-trap thesis (7/6)"
+    },
+    {
+      "symbol": "TSM",
+      "thesis": "Bullish MA + fresh thesis on TSMC backbone role in AI chip production supports foundry leadership",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Futurum analyst TSMC AI dependency thesis (7/9)"
+    },
+    {
+      "symbol": "ANET",
+      "thesis": "Bullish MA + trading near 52-week high signals momentum continuation in AI networking infrastructure",
+      "conviction": "medium",
+      "thesis_type": "ma_crossover",
+      "signal_source": "52-week high momentum signal (7/9)"
+    }
+  ]
+}
