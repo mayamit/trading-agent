@@ -1,0 +1,17 @@
+2026-07-10T16:21:11Z [INFO] [setup/start] setup starting routine=trading et_date=2026-07-10
+2026-07-10T16:21:12Z [INFO] [setup/env] env validated alpaca_base=https://paper-api.alpaca.markets sendgrid_present=false
+2026-07-10T16:21:12Z [INFO] [setup/ready] setup complete runlog=/home/runner/work/trading-agent/trading-agent/journal/runlog/2026-07-10-trading.log marker=journal/.current-routine
+2026-07-10T16:21:42Z [INFO] [trade/market_status] fetched clock http_status=200 is_open=True next_open=2026-07-13T09:30:00-04:00 next_close=2026-07-10T16:00:00-04:00
+2026-07-10T16:21:42Z [INFO] [research/account] fetched account http_status=200 cash=55109.37 portfolio_value=104791.14
+2026-07-10T16:21:43Z [INFO] [research/positions] fetched positions http_status=200 n_positions=12
+2026-07-10T16:22:00Z [INFO] [research/account] fetched account http_status=200 cash=55109.37 portfolio_value=104789.5
+2026-07-10T16:22:45Z [INFO] [trade/order_request] received order request symbol=MRVL qty=1 side=buy limit_price=237.70 thesis_type=ma_crossover conviction=high
+2026-07-10T16:22:45Z [INFO] [trade/validate] passed symbol=MRVL qty=1.0 side=buy allocation_pct=0.23
+2026-07-10T16:22:45Z [INFO] [trade/order_submit] alpaca response symbol=MRVL side=buy qty=1 limit_price=237.70 http_status=200 order_id=32bb9a0c-a9da-46a2-9e87-d950c62b07e5 order_status=pending_new
+2026-07-10T16:22:45Z [INFO] [trade/order_request] received order request symbol=GLW qty=4 side=buy limit_price=191.03 thesis_type=news_catalyst conviction=high
+2026-07-10T16:22:46Z [INFO] [trade/validate] passed symbol=GLW qty=4.0 side=buy allocation_pct=0.73
+2026-07-10T16:22:46Z [INFO] [trade/order_submit] alpaca response symbol=GLW side=buy qty=4 limit_price=191.03 http_status=200 order_id=8f2ab284-6127-4145-88e3-cebeca093168 order_status=pending_new
+2026-07-10T16:22:46Z [INFO] [trade/order_request] received order request symbol=LASR qty=15 side=buy limit_price=58.07 thesis_type=news_catalyst conviction=medium
+2026-07-10T16:22:46Z [INFO] [trade/validate] passed symbol=LASR qty=15.0 side=buy allocation_pct=0.83
+2026-07-10T16:22:46Z [INFO] [trade/order_submit] alpaca response symbol=LASR side=buy qty=15 limit_price=58.07 http_status=200 order_id=22a60f08-bc24-4b03-9bef-3826bb78562c order_status=pending_new
+2026-07-10T16:23:11Z [INFO] [finalize/start] finalizing routine=trading et_date=2026-07-10
