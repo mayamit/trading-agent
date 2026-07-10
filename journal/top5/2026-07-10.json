@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-07-10",
+  "picks": [
+    {
+      "symbol": "MRVL",
+      "thesis": "Bullish MA golden cross with RBC Capital reaffirming $360 PT validates AI chip consolidation thesis",
+      "conviction": "high",
+      "thesis_type": "ma_crossover",
+      "signal_source": "RBC Capital PT reaffirm"
+    },
+    {
+      "symbol": "MTSI",
+      "thesis": "Bullish MA coupled with BofA bear-trap thesis on $1.5T AI buildout validates test equipment infrastructure demand",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "BofA bear-trap report"
+    },
+    {
+      "symbol": "GLW",
+      "thesis": "Bullish MA golden cross with Oppenheimer upgrade to $230 PT validates optical AI capex infrastructure thesis",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Oppenheimer upgrade"
+    },
+    {
+      "symbol": "LASR",
+      "thesis": "Fresh nLIGHT $627M defense contract today with Needham PT raise to $90 opens new photonics/defense infrastructure opportunity",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "nLIGHT defense contract + Needham PT raise"
+    },
+    {
+      "symbol": "GFS",
+      "thesis": "Bullish MA with SEALSQ post-quantum cryptography partnership validates semiconductor security infrastructure thesis",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "SEALSQ partnership"
+    }
+  ]
+}
