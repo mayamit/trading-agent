@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-07-13",
+  "picks": [
+    {
+      "symbol": "MRVL",
+      "thesis": "RBC PT reaffirm $360 validates AI chip consolidation; golden cross (MA_20 $278.73 > MA_50 $225.48) intact; accumulate on weakness.",
+      "conviction": "high",
+      "thesis_type": "news_catalyst + ma_crossover",
+      "signal_source": "RBC Capital reaffirm $360 PT (2026-07-09)"
+    },
+    {
+      "symbol": "GLW",
+      "thesis": "Oppenheimer PT raise to $230 validates optical AI capex thesis; bullish MA trend ($199.18 > $189.17); photonics infrastructure demand.",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Oppenheimer Outperform raise to $230 (2026-07-07)"
+    },
+    {
+      "symbol": "GFS",
+      "thesis": "SEALSQ post-quantum cryptography partnership fresh catalyst; bullish MA ($79.85 > $75.96); emerging structural demand in quantum computing.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "SEALSQ MoU post-quantum cryptography/quantum computing (2026-07-08)"
+    },
+    {
+      "symbol": "ALAB",
+      "thesis": "Strong bullish MA golden cross ($392.29 > $308.79) validates AI infrastructure momentum; position +23% YTD, thesis intact on strength.",
+      "conviction": "high",
+      "thesis_type": "ma_crossover",
+      "signal_source": "Bullish MA_20 > MA_50 golden cross"
+    },
+    {
+      "symbol": "SOFI",
+      "thesis": "Bullish MA ($17.33 > $16.86) + favorable macro backdrop; fintech exposure; new entry with room under 15% cap; diversification into AI beneficiary ecosystem.",
+      "conviction": "medium",
+      "thesis_type": "ma_crossover + macro",
+      "signal_source": "Bullish MA trend + favorable macro conditions (2026-07-10)"
+    }
+  ]
+}
