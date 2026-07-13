@@ -1,21 +1,15 @@
 # Journal Summary
 
-_Generated 2026-07-10 21:21 from 7 of 51 entries (2026-07-02 → 2026-07-10)_
+_Generated 2026-07-13 21:13 from 7 of 52 entries (2026-07-03 → 2026-07-13)_
 
-## Latest Portfolio Status _(from 2026-07-10)_
+## Latest Portfolio Status _(from 2026-07-13)_
 
-- Cash: $54,110.80
-- Positions (12 holdings): ALAB (12 @ $413.02), ANET (29 @ $187.42), CIEN (11 @ $460.70), CRDO (12 @ $258.20), CSCO (45 @ $121.40), FN (2 @ $471.13), GFS (72 @ $68.97), GLW (16 @ $190.83), MRVL (21 @ $236.74), MTSI (13 @ $308.52), TSM (11 @ $435.05), VECO (66 @ $58.54)
-- Total Value: $104,724.12
-- EOD P&L: +$12.32 intraday (mixed session, 2 of 3 buy limits filled)
+- Cash: $54,110.79
+- Positions (12 holdings): ALAB (12 @ $363.71), ANET (29 @ $185.95), CIEN (11 @ $452.16), CRDO (12 @ $242.45), CSCO (45 @ $119.90), FN (2 @ $477.25), GFS (72 @ $66.09), GLW (16 @ $186.81), MRVL (21 @ $220.77), MTSI (13 @ $296.44), TSM (11 @ $428.67), VECO (66 @ $56.28)
+- Total Value: $102,767.65
+- Intraday: Mixed sentiment; sector rotation testing photonics/AI infrastructure
 
 ## Recent Trades (last 7 days)
-
-### 2026-07-02
-| Time | Symbol | Action | Qty | Limit Price | Status | Reasoning |
-|------|--------|--------|-----|-------------|--------|-----------|
-| 14:46 | MTSI | SELL | 11 | $333.89 | pending_new | Mandatory stop-loss: position down 8.05% from entry ($364.07 → $334.76), exceeds 8% threshold per CLAUDE.md hard rule. Limit 0.2% below current bid. |
-| 14:47 | COHR | BUY | 1 | $349.47 | pending_new | High conviction: Raymond James Strong Buy upgrade to $435 PT; bullish MA intact; room within 5% cap (4.31% → ~4.6%). Fresh analyst catalyst validates entry. |
 
 ### 2026-07-06
 | Time | Symbol | Action | Qty | Limit Price | Status | Reasoning |
@@ -50,37 +44,20 @@ _Generated 2026-07-10 21:21 from 7 of 51 entries (2026-07-02 → 2026-07-10)_
 | 16:22 | GLW | BUY | 4 | $191.03 | pending_new | High conviction: Oppenheimer upgrade to $230 PT + bullish MA golden cross validates optical AI capex thesis. Allocation 2.18% → 2.91% (room within 5% cap). |
 | 16:22 | LASR | BUY | 15 | $58.07 | pending_new | Medium conviction: nLIGHT $627M defense contract award + Needham PT raise to $90 opens photonics/defense infrastructure opportunity. New entry, 0.83% allocation (within 3% cap). |
 
+### 2026-07-13
+| Time | Symbol | Action | Qty | Limit Price | Status | Reasoning |
+|------|--------|--------|-----|-------------|--------|-----------|
+| 12:27 | MRVL | BUY | 2 | $220.05 | pending_new | High conviction accumulation: RBC PT $360 validates AI chip consolidation, golden cross MA intact ($278.73 > $225.48). Intraday dip (-6.4%) creates entry opportunity. Allocation 4.51% → ~4.65% (within 5% cap). Limit 0.2% above current ask. |
+| 12:27 | GLW | BUY | 11 | $186.40 | pending_new | High conviction accumulation: Oppenheimer Outperform upgrade to $230 validates optical AI capex thesis. Bullish MA trend ($199.18 > $189.17) intact. Allocation 2.91% → ~4.59% (within 5% cap). Intraday dip (-2.1%) is buying opportunity. Limit 0.2% above current ask. |
+| 12:27 | SOFI | BUY | 30 | $17.54 | pending_new | Medium conviction new entry: Bullish MA ($17.33 > $16.86) + favorable macro backdrop. Initial position 0% → ~0.51% allocation (ample room under 15% cap). Fintech diversification into AI beneficiary ecosystem. Limit 0.2% above current ask. |
+
 ## Recent Reflections (last 3 days)
-
-### 2026-07-08
-**CRITICAL RULE ENFORCEMENT:** COHR closed at -9.80% ($305.42 realized); hard stop-loss rule now enforced. GFS, MTSI, FN all filled as submitted; AVGO limit expired unfilled (price ran past $375.75 during afternoon rally). Net result: freed $4.3k capital from losing COHR thesis while adding 3 high-/medium-conviction positions.
-
-**Execution Summary:**
-- COHR: ✓ Closed (mandatory 8% stop-loss rule enforced)
-- GFS: ✓ Filled 20 shares @ $66.17 limit (now 72 total, +0.61% on day)
-- MTSI: ✓ Filled 5 shares @ $299.74 (sector rotation validates BofA thesis)
-- FN: ✓ Filled 2 shares @ $459.07 (RSI oversold nibble confirmed)
-- AVGO: ✗ Expired unfilled ($375.75 limit vs $395+ close; price ran during momentum)
-
-**Portfolio Performance:**
-- Opening value (7/7 close): $102,061.04
-- Closing value (7/8 close): $103,286.75
-- Gain: +$1,225.71 (+1.20%)
-- Cash position: $57,156.41 (55.4% reserves)
-- Positions value: $46,130.34 (44.6% deployed)
-
-**Key Observations:**
-- ALAB (+33.3%), ANET (+27.7%), MRVL (+18.7%) showing strength; thematic convictions holding during broader volatility
-- CSCO recovered to -4.69% from yesterday's near-stop-loss; Army contract thesis remains valid, no room to add within 5% cap
-- Photonics rotation intact: GLW -1.50%, CIEN -1.00% despite sector dip; both remain thesis-positive
-
-**Tomorrow Watch:**
-- AVGO: Re-evaluate at new price level if thesis intact; unfilled limit doesn't invalidate UBS pullback opportunity thesis
-- GFS/MTSI fills validated sector rotation play; watch for consolidation before next add
-- Monitor CRDO, VECO for continued AI infrastructure resilience
 
 ### 2026-07-09
 Strong day: both limit orders filled as planned. ANET compliance trim reduced position from 5.57% to 5.09%, freeing capital for opportunistic adds. MTSI accumulation (5→13 shares) successfully increased high-conviction AI infrastructure play to 3.93% allocation. Portfolio +$2,478.27 intraday despite broad market consolidation; all 12 positions remain profitable YTD with zero 8% stop-losses triggered. MRVL golden cross thesis holding, GLW momentum intact—both signal continued strength in optical/AI infrastructure sector. Monitor for any consolidation or pullback in next 2-3 sessions; current allocations leave headroom for adds if new high-conviction signals emerge.
 
 ### 2026-07-10
 Two of three limit orders filled by close: MRVL (+1 share to 21 total, avg entry $197.37) and GLW (+4 shares to 16 total, avg entry $188.46) executed within 0.2% limits as intended. LASR (15 shares @ $58.07) expired unfilled—defense contract thesis compelling but market pricing outpaced limit on a 7% intraday move. Portfolio cash now $54.1k (51.6% deployed), 12 holdings all above -8% threshold, positions remain balanced within allocation caps. MTSI still -2.1% reflects divergence timing risk; thesis intact but no incremental adds warranted today given capital conservation. Tomorrow: monitor LASR re-entry opportunity if thesis catalyst re-presents at more competitive prices; reassess MTSI for hold/add decision pending any new structural AI demand signals.
+
+### 2026-07-13
+Market faced sector-wide weakness today (broad AI/semiconductor rotation selling). Two of three accumulation orders filled: MRVL +2 and GLW +11 (high-conviction thesis remained intact despite intraday dips). SOFI new position order expired unfilled during peak volatility — a known pattern from earlier lessons when market turnover exceeds typical intraday moves. Portfolio held resilience: +$2,140 net unrealized gains despite -$882.91 intraday drawdown (-0.86%); no positions triggered the 8% mandatory stop-loss. Tomorrow: monitor MTSI closely (approached -6.8%, approaching danger zone) and reassess fintech entry if macro stabilizes.
