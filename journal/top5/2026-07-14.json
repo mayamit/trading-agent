@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-07-14",
+  "picks": [
+    {
+      "symbol": "GLW",
+      "thesis": "Optical AI capex: Citigroup PT $240 + bullish MA golden cross validates infrastructure expansion",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Citigroup_PT_raise"
+    },
+    {
+      "symbol": "ALAB",
+      "thesis": "AI memory infrastructure: TD Cowen PT $425 upgrade + bullish MA trend confirms chipset cycle strength",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "TD_Cowen_upgrade"
+    },
+    {
+      "symbol": "SOFI",
+      "thesis": "Fintech/AI diversification: bullish MA golden cross + favorable macro backdrop, unfilled yesterday but thesis holds",
+      "conviction": "medium",
+      "thesis_type": "ma_crossover",
+      "signal_source": "bullish_MA_entry"
+    },
+    {
+      "symbol": "TSM",
+      "thesis": "Semiconductor macro: hedge funds accumulating at 3.5-year pace + bullish MA trend validates foundry demand",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "hedge_fund_accumulation"
+    },
+    {
+      "symbol": "GFS",
+      "thesis": "Quantum infrastructure: SEALSQ post-quantum cryptography partnership + bullish MA, structural long-term play",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "SEALSQ_partnership"
+    }
+  ]
+}
