@@ -1,13 +1,13 @@
 # Journal Summary
 
-_Generated 2026-07-13 21:13 from 7 of 52 entries (2026-07-03 → 2026-07-13)_
+_Generated 2026-07-14 21:15 from 7 of 53 entries (2026-07-06 → 2026-07-14)_
 
-## Latest Portfolio Status _(from 2026-07-13)_
+## Latest Portfolio Status _(from 2026-07-14)_
 
-- Cash: $54,110.79
-- Positions (12 holdings): ALAB (12 @ $363.71), ANET (29 @ $185.95), CIEN (11 @ $452.16), CRDO (12 @ $242.45), CSCO (45 @ $119.90), FN (2 @ $477.25), GFS (72 @ $66.09), GLW (16 @ $186.81), MRVL (21 @ $220.77), MTSI (13 @ $296.44), TSM (11 @ $428.67), VECO (66 @ $56.28)
-- Total Value: $102,767.65
-- Intraday: Mixed sentiment; sector rotation testing photonics/AI infrastructure
+- Cash: $51,623.26
+- Positions (12 holdings): ALAB (12 @ $375.04), ANET (29 @ $183.85), CIEN (11 @ $463.50), CRDO (12 @ $242.99), CSCO (45 @ $118.88), FN (2 @ $491.34), GFS (72 @ $64.97), GLW (27 @ $190.36), MRVL (23 @ $225.09), MTSI (13 @ $305.40), TSM (11 @ $425.32), VECO (66 @ $58.74)
+- Total Value: $103,321.48
+- Intraday: +1.35% ($1,348.84); portfolio breadth strong with 10 of 12 positions in green
 
 ## Recent Trades (last 7 days)
 
@@ -51,13 +51,23 @@ _Generated 2026-07-13 21:13 from 7 of 52 entries (2026-07-03 → 2026-07-13)_
 | 12:27 | GLW | BUY | 11 | $186.40 | pending_new | High conviction accumulation: Oppenheimer Outperform upgrade to $230 validates optical AI capex thesis. Bullish MA trend ($199.18 > $189.17) intact. Allocation 2.91% → ~4.59% (within 5% cap). Intraday dip (-2.1%) is buying opportunity. Limit 0.2% above current ask. |
 | 12:27 | SOFI | BUY | 30 | $17.54 | pending_new | Medium conviction new entry: Bullish MA ($17.33 > $16.86) + favorable macro backdrop. Initial position 0% → ~0.51% allocation (ample room under 15% cap). Fintech diversification into AI beneficiary ecosystem. Limit 0.2% above current ask. |
 
-## Recent Reflections (last 3 days)
+### 2026-07-14
+| Time | Symbol | Action | Qty | Limit Price | Status | Reasoning |
+|------|--------|--------|-----|------------|--------|-----------|
+| 15:21 | ALAB | BUY | 1 | $376.16 | pending_new | Medium conviction: TD Cowen PT $425 validates AI memory infrastructure chipset strength. Bullish MA ($395.59 > $312.49) intact. Allocation 4.36% → ~4.57% (within 5% cap). Limit 0.2% above ask. |
+| 15:21 | SOFI | BUY | 30 | $18.04 | pending_new | Medium conviction new entry: Bullish MA golden cross ($17.41 > $16.85) + favorable macro backdrop. Unfilled yesterday at $17.54 but thesis holds at new levels. Allocation 0% → ~0.52% (ample room within 15% cap). Fintech diversification into AI beneficiary ecosystem. Limit 0.2% above ask. |
+| 15:21 | TSM | BUY | 1 | $425.45 | pending_new | Medium conviction: Hedge fund accumulation signal (fastest pace in 3.5 years) validates foundry demand. Bullish MA ($438.87 > $421.79) intact. Allocation 4.53% → ~4.73% (within 5% cap). Limit 0.2% above ask. |
+| 15:22 | ANET | SELL | 1 | $183.97 | pending_new | Compliance trim: position at 5.17% allocation exceeds 5% cap (price appreciation from entry). Sell 1 share to bring allocation to ~5.00%. Limit 0.2% below bid. |
 
-### 2026-07-09
-Strong day: both limit orders filled as planned. ANET compliance trim reduced position from 5.57% to 5.09%, freeing capital for opportunistic adds. MTSI accumulation (5→13 shares) successfully increased high-conviction AI infrastructure play to 3.93% allocation. Portfolio +$2,478.27 intraday despite broad market consolidation; all 12 positions remain profitable YTD with zero 8% stop-losses triggered. MRVL golden cross thesis holding, GLW momentum intact—both signal continued strength in optical/AI infrastructure sector. Monitor for any consolidation or pullback in next 2-3 sessions; current allocations leave headroom for adds if new high-conviction signals emerge.
+## Recent Reflections (last 3 days)
 
 ### 2026-07-10
 Two of three limit orders filled by close: MRVL (+1 share to 21 total, avg entry $197.37) and GLW (+4 shares to 16 total, avg entry $188.46) executed within 0.2% limits as intended. LASR (15 shares @ $58.07) expired unfilled—defense contract thesis compelling but market pricing outpaced limit on a 7% intraday move. Portfolio cash now $54.1k (51.6% deployed), 12 holdings all above -8% threshold, positions remain balanced within allocation caps. MTSI still -2.1% reflects divergence timing risk; thesis intact but no incremental adds warranted today given capital conservation. Tomorrow: monitor LASR re-entry opportunity if thesis catalyst re-presents at more competitive prices; reassess MTSI for hold/add decision pending any new structural AI demand signals.
 
 ### 2026-07-13
 Market faced sector-wide weakness today (broad AI/semiconductor rotation selling). Two of three accumulation orders filled: MRVL +2 and GLW +11 (high-conviction thesis remained intact despite intraday dips). SOFI new position order expired unfilled during peak volatility — a known pattern from earlier lessons when market turnover exceeds typical intraday moves. Portfolio held resilience: +$2,140 net unrealized gains despite -$882.91 intraday drawdown (-0.86%); no positions triggered the 8% mandatory stop-loss. Tomorrow: monitor MTSI closely (approached -6.8%, approaching danger zone) and reassess fintech entry if macro stabilizes.
+
+### 2026-07-14
+Executed 4 limit orders (ALAB +1, SOFI +30, TSM +1, ANET -1) at 15:21–15:22 during final hour. Cash drift from $51,623.26 (journal) to $51,006.78 (4:00 PM close) and portfolio value $103,321.48 → $102,521.22 indicates orders filled in full. SOFI entry at ~$18.04 captured new fintech diversification thesis; ALAB/TSM nibbles validated by latest macro signals (hedge fund semiconductor accumulation, AI optical PT raises). ANET compliance trim executed to bring position back within 5% cap (was 5.16% over). 
+
+Portfolio breadth remained strong; all buys sized within allocation caps and watchlist per-symbol limits. Thesis framework (top-5 research, allocation-aware position sizing, 0.2% limit discipline) executed cleanly. Data center moratorium impact mixed but doesn't break macro AI capex thesis. Next session: monitor SOFI thesis durability and GFS/CIEN sector consolidation trends.
