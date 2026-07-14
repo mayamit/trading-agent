@@ -1,0 +1,20 @@
+2026-07-14T15:19:37Z [INFO] [setup/start] setup starting routine=trading et_date=2026-07-14
+2026-07-14T15:19:37Z [INFO] [setup/env] env validated alpaca_base=https://paper-api.alpaca.markets sendgrid_present=false
+2026-07-14T15:19:37Z [INFO] [setup/ready] setup complete runlog=/home/runner/work/trading-agent/trading-agent/journal/runlog/2026-07-14-trading.log marker=journal/.current-routine
+2026-07-14T15:20:08Z [INFO] [trade/market_status] fetched clock http_status=200 is_open=True next_open=2026-07-15T09:30:00-04:00 next_close=2026-07-14T16:00:00-04:00
+2026-07-14T15:20:09Z [INFO] [research/account] fetched account http_status=200 cash=51623.26 portfolio_value=103353.56
+2026-07-14T15:20:09Z [INFO] [research/positions] fetched positions http_status=200 n_positions=12
+2026-07-14T15:20:30Z [INFO] [research/account] fetched account http_status=200 cash=51623.26 portfolio_value=103375.87
+2026-07-14T15:20:33Z [INFO] [research/account] fetched account http_status=200 cash=51623.26 portfolio_value=103388.6
+2026-07-14T15:21:23Z [INFO] [trade/order_request] received order request symbol=ALAB qty=1 side=buy limit_price=376.16 thesis_type=news_catalyst conviction=medium
+2026-07-14T15:21:23Z [INFO] [trade/validate] passed symbol=ALAB qty=1.0 side=buy allocation_pct=0.36
+2026-07-14T15:21:23Z [INFO] [trade/order_submit] alpaca response symbol=ALAB side=buy qty=1 limit_price=376.16 http_status=200 order_id=432e4f31-7897-4e45-b18e-43c3f9aa6dd9 order_status=pending_new
+2026-07-14T15:21:25Z [INFO] [trade/order_request] received order request symbol=SOFI qty=30 side=buy limit_price=18.04 thesis_type=ma_crossover conviction=medium
+2026-07-14T15:21:25Z [INFO] [trade/validate] passed symbol=SOFI qty=30.0 side=buy allocation_pct=0.52
+2026-07-14T15:21:25Z [INFO] [trade/order_submit] alpaca response symbol=SOFI side=buy qty=30 limit_price=18.04 http_status=200 order_id=c22e1f4b-034c-4ba5-8962-e273c6bde455 order_status=pending_new
+2026-07-14T15:21:27Z [INFO] [trade/order_request] received order request symbol=TSM qty=1 side=buy limit_price=425.45 thesis_type=news_catalyst conviction=medium
+2026-07-14T15:21:27Z [INFO] [trade/validate] passed symbol=TSM qty=1.0 side=buy allocation_pct=0.41
+2026-07-14T15:21:27Z [INFO] [trade/order_submit] alpaca response symbol=TSM side=buy qty=1 limit_price=425.45 http_status=200 order_id=1d97fe0f-d1ec-4882-9110-8a0a6418a741 order_status=pending_new
+2026-07-14T15:22:08Z [INFO] [trade/order_request] received order request symbol=ANET qty=1 side=sell limit_price=183.97 thesis_type=compliance_trim conviction=high
+2026-07-14T15:22:08Z [INFO] [trade/order_submit] alpaca response symbol=ANET side=sell qty=1 limit_price=183.97 http_status=200 order_id=67b9a7e7-535f-4fae-9634-58455b783926 order_status=pending_new
+2026-07-14T15:22:21Z [INFO] [finalize/start] finalizing routine=trading et_date=2026-07-14
