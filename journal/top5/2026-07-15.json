@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-07-15",
+  "picks": [
+    {
+      "symbol": "ANET",
+      "thesis": "Bullish MA + data center infrastructure demand persists despite NY moratorium; momentum intact.",
+      "conviction": "high",
+      "thesis_type": "news+ma",
+      "signal_source": "Data center moratorium (contradicted by infrastructure demand catalyst)"
+    },
+    {
+      "symbol": "MRVL",
+      "thesis": "Consolidation breakout (MA 274 > 228), PPI easing macro tailwind, RBC PT $360 validates AI chip consolidation.",
+      "conviction": "high",
+      "thesis_type": "news+ma",
+      "signal_source": "PPI inflation easing signal; RBC reaffirmation"
+    },
+    {
+      "symbol": "ALAB",
+      "thesis": "Strong uptrend (MA 398 > 316), TD Cowen PT $425 upgrade validates AI memory infrastructure demand.",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "TD Cowen price target upgrade"
+    },
+    {
+      "symbol": "GLW",
+      "thesis": "Bullish MA trend intact (199 > 190), Citigroup Buy + PT $240 validates optical AI capex thesis.",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Citigroup Buy rating and PT raise"
+    },
+    {
+      "symbol": "SOFI",
+      "thesis": "Bullish MA golden cross (17.48 > 16.84), whale alert activity, fintech AI diversification play.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Whale alert accumulation signal"
+    }
+  ]
+}
