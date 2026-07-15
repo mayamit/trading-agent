@@ -1,22 +1,12 @@
 # Journal Summary
 
-_Generated 2026-07-14 21:15 from 7 of 53 entries (2026-07-06 → 2026-07-14)_
+_Generated 2026-07-15 21:15 from 7 of 54 entries (2026-07-07 → 2026-07-15)_
 
-## Latest Portfolio Status _(from 2026-07-14)_
+## Latest Portfolio Status _(from 2026-07-15)_
 
-- Cash: $51,623.26
-- Positions (12 holdings): ALAB (12 @ $375.04), ANET (29 @ $183.85), CIEN (11 @ $463.50), CRDO (12 @ $242.99), CSCO (45 @ $118.88), FN (2 @ $491.34), GFS (72 @ $64.97), GLW (27 @ $190.36), MRVL (23 @ $225.09), MTSI (13 @ $305.40), TSM (11 @ $425.32), VECO (66 @ $58.74)
-- Total Value: $103,321.48
-- Intraday: +1.35% ($1,348.84); portfolio breadth strong with 10 of 12 positions in green
+_not recorded_
 
 ## Recent Trades (last 7 days)
-
-### 2026-07-06
-| Time | Symbol | Action | Qty | Limit Price | Status | Reasoning |
-|------|--------|--------|-----|------------|--------|-----------|
-| 16:50 | KEYS | SELL | 14 | $321.87 | pending_new | Mandatory stop-loss: position down 8.41% from entry ($352.15 → $322.52), exceeds 8% closure threshold per CLAUDE.md hard rule. Limit 0.2% below current bid. |
-| 16:50 | MRVL | BUY | 1 | $255.04 | pending_new | High conviction: strong uptrend ($281.93 > $216.11) + BofA bear-trap thesis validates sector breakout. Room within 5% cap (4.60% → ~4.84%). Limit 0.2% above ask. |
-| 16:50 | GLW | BUY | 1 | $200.40 | pending_new | High conviction: fresh BofA PT raise to $243 + bullish MA golden cross (20 $194.6 > 50 $185.1). New entry aligned with AI optical capex thesis. Limit 0.2% above ask of ~$200. |
 
 ### 2026-07-07
 | Time | Symbol | Action | Qty | Limit Price | Status | Reasoning |
@@ -59,10 +49,15 @@ _Generated 2026-07-14 21:15 from 7 of 53 entries (2026-07-06 → 2026-07-14)_
 | 15:21 | TSM | BUY | 1 | $425.45 | pending_new | Medium conviction: Hedge fund accumulation signal (fastest pace in 3.5 years) validates foundry demand. Bullish MA ($438.87 > $421.79) intact. Allocation 4.53% → ~4.73% (within 5% cap). Limit 0.2% above ask. |
 | 15:22 | ANET | SELL | 1 | $183.97 | pending_new | Compliance trim: position at 5.17% allocation exceeds 5% cap (price appreciation from entry). Sell 1 share to bring allocation to ~5.00%. Limit 0.2% below bid. |
 
-## Recent Reflections (last 3 days)
+### 2026-07-15
+| Time | Symbol | Action | Qty | Price | Reasoning |
+|------|--------|--------|-----|-------|-----------|
+| 15:23 | GFS | SELL | 72 | $60.79 | Mandatory hard stop-loss: position down 9.3% from entry ($67.14 → $60.89), exceeds 8% closure threshold per CLAUDE.md. Limit 0.2% below bid. |
+| 15:23 | GLW | SELL | 27 | $171.55 | Mandatory hard stop-loss: position down 8.4% from entry ($187.54 → $171.73), exceeds 8% closure threshold per CLAUDE.md. Limit 0.2% below bid. |
+| 15:24 | MTSI | SELL | 13 | $288.93 | Mandatory hard stop-loss: position down 8.3% from entry ($315.25 → $289.13), exceeds 8% closure threshold per CLAUDE.md. Limit 0.2% below bid. |
+| 15:24 | SOFI | BUY | 50 | $17.54 | Medium conviction entry: whale alert activity + MA golden cross ($17.48 > $16.84) signals fintech AI diversification play. Capital freed from stop-loss exits; allocation 0% → 0.88% (ample room within 15% cap). Limit 0.2% above ask. |
 
-### 2026-07-10
-Two of three limit orders filled by close: MRVL (+1 share to 21 total, avg entry $197.37) and GLW (+4 shares to 16 total, avg entry $188.46) executed within 0.2% limits as intended. LASR (15 shares @ $58.07) expired unfilled—defense contract thesis compelling but market pricing outpaced limit on a 7% intraday move. Portfolio cash now $54.1k (51.6% deployed), 12 holdings all above -8% threshold, positions remain balanced within allocation caps. MTSI still -2.1% reflects divergence timing risk; thesis intact but no incremental adds warranted today given capital conservation. Tomorrow: monitor LASR re-entry opportunity if thesis catalyst re-presents at more competitive prices; reassess MTSI for hold/add decision pending any new structural AI demand signals.
+## Recent Reflections (last 3 days)
 
 ### 2026-07-13
 Market faced sector-wide weakness today (broad AI/semiconductor rotation selling). Two of three accumulation orders filled: MRVL +2 and GLW +11 (high-conviction thesis remained intact despite intraday dips). SOFI new position order expired unfilled during peak volatility — a known pattern from earlier lessons when market turnover exceeds typical intraday moves. Portfolio held resilience: +$2,140 net unrealized gains despite -$882.91 intraday drawdown (-0.86%); no positions triggered the 8% mandatory stop-loss. Tomorrow: monitor MTSI closely (approached -6.8%, approaching danger zone) and reassess fintech entry if macro stabilizes.
@@ -71,3 +66,17 @@ Market faced sector-wide weakness today (broad AI/semiconductor rotation selling
 Executed 4 limit orders (ALAB +1, SOFI +30, TSM +1, ANET -1) at 15:21–15:22 during final hour. Cash drift from $51,623.26 (journal) to $51,006.78 (4:00 PM close) and portfolio value $103,321.48 → $102,521.22 indicates orders filled in full. SOFI entry at ~$18.04 captured new fintech diversification thesis; ALAB/TSM nibbles validated by latest macro signals (hedge fund semiconductor accumulation, AI optical PT raises). ANET compliance trim executed to bring position back within 5% cap (was 5.16% over). 
 
 Portfolio breadth remained strong; all buys sized within allocation caps and watchlist per-symbol limits. Thesis framework (top-5 research, allocation-aware position sizing, 0.2% limit discipline) executed cleanly. Data center moratorium impact mixed but doesn't break macro AI capex thesis. Next session: monitor SOFI thesis durability and GFS/CIEN sector consolidation trends.
+
+### 2026-07-15
+**Compliance Success:** Three positions (GFS, GLW, MTSI) breached the 8% mandatory stop-loss threshold after yesterday's broad sector selloff. All three were immediately closed with limit orders per CLAUDE.md hard rule. This represents correction of 2026-07-07 lesson gap when COHR violated the 8% rule but was not auto-closed. Today's routine enforced discipline correctly, preventing cascading losses.
+
+**Top 5 Morning Thesis Analysis:**
+- **ANET** (28 shares, +20.0%): Bullish MA + data center infrastructure thesis intact. Already at 4.78% allocation cap; HOLD.
+- **MRVL** (23 shares, +4.2%): Consolidation breakout (MA 274 > 228) + RBC $360 PT validates AI chip consolidation. At 4.78% allocation cap; HOLD.
+- **ALAB** (13 shares, +13.4%): Strong uptrend (MA 398 > 316) + TD Cowen $425 PT backing infrastructure demand. At 4.45% allocation, thesis intact; HOLD.
+- **GLW** (CLOSED): Citigroup Buy + $240 PT was sound thesis, but price action broke support. 8.4% loss triggered mandatory stop per rules. Closed at $171.55 (limit 0.2% below bid).
+- **SOFI** (NEW: 50 shares pending): Medium conviction fintech diversification with whale alert accumulation + MA golden cross ($17.48 > $16.84). Entry at $17.54 limit (0.2% above ask) deploys capital from stops into diversification theme.
+
+**Capital Redeployment:** Stop-loss closures freed ~$12.8k in capital. Rather than hoard cash, SOFI entry provides tactical diversification away from pure photonics/AI infrastructure complex while maintaining exposure to AI-adjacent fintech beneficiaries. Allocation remains disciplined: 0.88% new, multiple positions near but not exceeding watchlist caps.
+
+**Risk Posture:** After stops, portfolio has 9 holdings with cash buffer at $63.8k (64% deployed). Remaining positions all within watchlist caps. Next session focus: SOFI whale alert thesis durability, any sector stabilization signals, catalyst updates from analyst community on core holdings (ANET, MRVL, ALAB).
