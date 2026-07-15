@@ -1,0 +1,20 @@
+2026-07-15T15:22:20Z [INFO] [setup/start] setup starting routine=trading et_date=2026-07-15
+2026-07-15T15:22:20Z [INFO] [setup/env] env validated alpaca_base=https://paper-api.alpaca.markets sendgrid_present=false
+2026-07-15T15:22:20Z [INFO] [setup/ready] setup complete runlog=/home/runner/work/trading-agent/trading-agent/journal/runlog/2026-07-15-trading.log marker=journal/.current-routine
+2026-07-15T15:23:10Z [INFO] [trade/market_status] fetched clock http_status=200 is_open=True next_open=2026-07-16T09:30:00-04:00 next_close=2026-07-15T16:00:00-04:00
+2026-07-15T15:23:11Z [INFO] [research/account] fetched account http_status=200 cash=51006.76 portfolio_value=99753.53
+2026-07-15T15:23:11Z [INFO] [research/positions] fetched positions http_status=200 n_positions=12
+2026-07-15T15:23:25Z [INFO] [trade/order_request] received order request symbol=GFS qty=72 side=sell limit_price=60.79 thesis_type=mandatory_stop_loss conviction=hard_rule
+2026-07-15T15:23:25Z [INFO] [trade/order_submit] alpaca response symbol=GFS side=sell qty=72 limit_price=60.79 http_status=200 order_id=d559392d-0c1a-45ff-92ab-71c8c09c4ffe order_status=pending_new
+2026-07-15T15:23:29Z [INFO] [trade/order_request] received order request symbol=GLW qty=27 side=sell limit_price=171.55 thesis_type=mandatory_stop_loss conviction=hard_rule
+2026-07-15T15:23:29Z [INFO] [trade/order_submit] alpaca response symbol=GLW side=sell qty=27 limit_price=171.55 http_status=200 order_id=6a9c9bde-5236-47f9-8831-3b50b13c0f33 order_status=pending_new
+2026-07-15T15:23:32Z [INFO] [trade/order_request] received order request symbol=MTSI qty=13 side=sell limit_price=288.93 thesis_type=mandatory_stop_loss conviction=hard_rule
+2026-07-15T15:23:32Z [INFO] [trade/order_submit] alpaca response symbol=MTSI side=sell qty=13 limit_price=288.93 http_status=200 order_id=ba14d868-6532-49f0-b3e7-a4e0eccc4a06 order_status=pending_new
+2026-07-15T15:23:56Z [INFO] [research/account] fetched account http_status=200 cash=63777.07 portfolio_value=99705.79
+2026-07-15T15:24:06Z [INFO] [research/account] fetched account http_status=200 cash=63777.07 portfolio_value=99694.46
+2026-07-15T15:24:39Z [INFO] [trade/order_request] received order request symbol=SOFI qty=50 side=buy limit_price=17.54 thesis_type=news_catalyst conviction=medium
+2026-07-15T15:24:39Z [INFO] [trade/validate] passed symbol=SOFI qty=50.0 side=buy allocation_pct=0.88
+2026-07-15T15:24:39Z [INFO] [trade/order_submit] alpaca response symbol=SOFI side=buy qty=50 limit_price=17.54 http_status=200 order_id=fa5abd5a-65cf-41b4-bcc2-3303a427b3e4 order_status=pending_new
+2026-07-15T15:24:44Z [INFO] [research/positions] fetched positions http_status=200 n_positions=9
+2026-07-15T15:24:51Z [INFO] [research/account] fetched account http_status=200 cash=63777.07 portfolio_value=99780.28
+2026-07-15T15:26:11Z [INFO] [finalize/start] finalizing routine=trading et_date=2026-07-15
