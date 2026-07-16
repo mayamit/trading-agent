@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-07-16",
+  "picks": [
+    {
+      "symbol": "ANET",
+      "thesis": "Bullish MA ($164.96 > $159.69) + Wells Fargo PT $200 upgrade today; data center infrastructure thesis intact",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Wells Fargo upgrade 2026-07-16"
+    },
+    {
+      "symbol": "SOFI",
+      "thesis": "Bullish MA golden cross ($17.48 > $16.84) + whale alert accumulation; fintech AI diversification",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Whale alert 2026-07-14 + ma_signal"
+    },
+    {
+      "symbol": "GLW",
+      "thesis": "Bullish MA ($199.41 > $189.65) + Citigroup Buy $240 PT; optical AI capex thesis survives stop-loss",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Citigroup Buy 2026-07-13"
+    },
+    {
+      "symbol": "MRVL",
+      "thesis": "Bullish MA golden cross ($274.24 > $228.13) + RBC $360 PT; today's -5% is profit-taking noise",
+      "conviction": "medium",
+      "thesis_type": "ma_crossover",
+      "signal_source": "ma_signal + RBC PT"
+    },
+    {
+      "symbol": "CRDO",
+      "thesis": "Bullish MA ($257.34 > $221.39); Fed pivot thesis reasonable but news aging (9 days)",
+      "conviction": "low",
+      "thesis_type": "ma_crossover",
+      "signal_source": "ma_signal"
+    }
+  ]
+}
