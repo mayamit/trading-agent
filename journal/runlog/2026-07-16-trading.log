@@ -1,0 +1,15 @@
+2026-07-16T15:28:56Z [INFO] [setup/start] setup starting routine=trading et_date=2026-07-16
+2026-07-16T15:28:56Z [INFO] [setup/env] env validated alpaca_base=https://paper-api.alpaca.markets sendgrid_present=false
+2026-07-16T15:28:56Z [INFO] [setup/ready] setup complete runlog=/home/runner/work/trading-agent/trading-agent/journal/runlog/2026-07-16-trading.log marker=journal/.current-routine
+2026-07-16T15:29:28Z [INFO] [trade/market_status] fetched clock http_status=200 is_open=True next_open=2026-07-17T09:30:00-04:00 next_close=2026-07-16T16:00:00-04:00
+2026-07-16T15:29:29Z [INFO] [research/account] fetched account http_status=200 cash=63777.04 portfolio_value=98317.28
+2026-07-16T15:29:29Z [INFO] [research/positions] fetched positions http_status=200 n_positions=9
+2026-07-16T15:29:46Z [INFO] [research/account] fetched account http_status=200 cash=63777.04 portfolio_value=98338.24
+2026-07-16T15:30:00Z [INFO] [trade/order_request] received order request symbol=CIEN qty=11 side=sell limit_price=394.88 thesis_type=mandatory_stop_loss conviction=high
+2026-07-16T15:30:00Z [INFO] [trade/order_submit] alpaca response symbol=CIEN side=sell qty=11 limit_price=394.88 http_status=200 order_id=b0788773-f9ad-4150-a77a-48422e7443bb order_status=pending_new
+2026-07-16T15:30:00Z [INFO] [trade/order_request] received order request symbol=CSCO qty=45 side=sell limit_price=108.05 thesis_type=mandatory_stop_loss conviction=high
+2026-07-16T15:30:01Z [INFO] [trade/order_submit] alpaca response symbol=CSCO side=sell qty=45 limit_price=108.05 http_status=200 order_id=f8e95776-e121-41bf-8d7f-510fd0fea4fb order_status=pending_new
+2026-07-16T15:30:49Z [INFO] [trade/order_request] received order request symbol=SOFI qty=50 side=buy limit_price=17.54 thesis_type=news_catalyst conviction=medium
+2026-07-16T15:30:50Z [INFO] [trade/validate] passed symbol=SOFI qty=50.0 side=buy allocation_pct=0.89
+2026-07-16T15:30:50Z [INFO] [trade/order_submit] alpaca response symbol=SOFI side=buy qty=50 limit_price=17.54 http_status=200 order_id=4d62c671-94df-4f04-8b96-cf39570818ac order_status=pending_new
+2026-07-16T15:31:51Z [INFO] [finalize/start] finalizing routine=trading et_date=2026-07-16
