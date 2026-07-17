@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-07-17",
+  "picks": [
+    {
+      "symbol": "ANET",
+      "thesis": "Data center infrastructure resilience through broad semiconductor selloff validates AI infrastructure thesis; bullish MA trend intact.",
+      "conviction": "high",
+      "thesis_type": "ma_crossover",
+      "signal_source": "Bullish MA 164.96 > 159.69; +15.73% cumulative"
+    },
+    {
+      "symbol": "VECO",
+      "thesis": "Small-cap quantum/tech outperformer maintaining gains despite sector rotation; bullish MA with allocation buffer for nibble.",
+      "conviction": "medium",
+      "thesis_type": "other",
+      "signal_source": "Bullish MA 70.07 > 62.27; +5.45% YTD, -3.5% intraday resilience"
+    },
+    {
+      "symbol": "ALAB",
+      "thesis": "AI memory infrastructure play; intraday weakness (-6.81%) creates dip-buy opportunity if TD Cowen $425 PT thesis holds through sector volatility.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "TD Cowen $425 PT; bullish MA 397.97 > 316.11; intraday -6.81% = entry signal"
+    },
+    {
+      "symbol": "CRDO",
+      "thesis": "Optical interconnect for AI data center scaling; bullish MA but -13.64% overall approaches -8% hard stop-loss; hold with tight stop discipline.",
+      "conviction": "medium",
+      "thesis_type": "ma_crossover",
+      "signal_source": "Bullish MA 257.34 > 221.39; watch -8% stop-loss threshold (currently -6.68% intraday)"
+    },
+    {
+      "symbol": "MRVL",
+      "thesis": "AI chip consolidation supported by RBC $360 PT; sector headwinds today ('Is AI Trade Cracking?') test thesis but fundamentals intact; dip-buy if sector stabilizes.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "RBC $360 PT; today's sector pressure (-20% vs entry) = opportunity if analyst thesis holds"
+    }
+  ]
+}
