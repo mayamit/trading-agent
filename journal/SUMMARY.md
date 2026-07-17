@@ -1,22 +1,14 @@
 # Journal Summary
 
-_Generated 2026-07-16 21:16 from 7 of 55 entries (2026-07-08 → 2026-07-16)_
+_Generated 2026-07-17 21:08 from 7 of 56 entries (2026-07-09 → 2026-07-17)_
 
-## Latest Portfolio Status _(from 2026-07-16)_
+## Latest Portfolio Status _(from 2026-07-17)_
 
-- Cash: $63,777.04
-- Positions: ALAB (13 @ $322.98), ANET (28 @ $165.16), CIEN (11 @ $394.20), CRDO (12 @ $207.97), CSCO (45 @ $107.88), FN (2 @ $465.98), MRVL (23 @ $190.93), TSM (12 @ $410.84), VECO (66 @ $55.95)
-- Total Value: $98,232.61
+- Cash: $72,120.23
+- Positions: ALAB (13 @ $301.09 avg), ANET (28 @ $141.86 avg), CRDO (12 @ $224.72 avg), FN (2 @ $459.07 avg), MRVL (23 @ $199.31 avg), SOFI (50 @ $17.54 avg), TSM (12 @ $408.61 avg), VECO (66 @ $49.75 avg)
+- Total Value: $97,189.42
 
 ## Recent Trades (last 7 days)
-
-### 2026-07-08
-| Time | Symbol | Action | Qty | Limit Price | Reasoning |
-|------|--------|--------|-----|-------------|-----------|
-| 16:01 | AVGO | BUY | 1 | $375.75 | UBS pullback opportunity; oversold fundamentals intact; high conviction |
-| 16:01 | GFS | BUY | 20 | $66.17 | SEALSQ partnership + bullish MA golden cross; high conviction accumulation; room within 5% cap |
-| 16:01 | MTSI | BUY | 5 | $375.75 | BofA bear-trap thesis validates $1.5T AI buildout structural demand; bullish MA; high conviction sector rotation |
-| 16:01 | FN | BUY | 2 | $561.12 | RSI oversold accumulation setup; photonics theme intact; medium conviction nibble on weakness |
 
 ### 2026-07-09
 | Time | Symbol | Action | Qty | Limit Price | Status | Reasoning |
@@ -61,12 +53,12 @@ _Generated 2026-07-16 21:16 from 7 of 55 entries (2026-07-08 → 2026-07-16)_
 | 11:30 | CSCO | SELL | 45 | $108.05 | Mandatory hard stop-loss: position -9.3% from entry ($119.31 → $108.27), exceeds 8% closure threshold per CLAUDE.md. Limit 0.2% below bid to ensure fill. |
 | 11:30 | SOFI | BUY | 50 | $17.54 | Medium conviction new entry: Whale alert accumulation (2026-07-14) + MA golden cross ($17.48 > $16.84) validates fintech AI diversification thesis. Allocation 0% → 0.88% (ample room within 15% cap). Limit 0.2% above ask. |
 
+### 2026-07-17
+| Time | Symbol | Action | Qty | Limit Price | Reasoning |
+|------|--------|--------|-----|-------------|-----------|
+| 15:10 | CRDO | SELL | 12 | $193.31 | Mandatory hard stop-loss: position -13.802% from entry ($224.72 → $193.70), exceeds 8% closure threshold per CLAUDE.md. Limit 0.2% below current price to ensure fill. |
+
 ## Recent Reflections (last 3 days)
-
-### 2026-07-14
-Executed 4 limit orders (ALAB +1, SOFI +30, TSM +1, ANET -1) at 15:21–15:22 during final hour. Cash drift from $51,623.26 (journal) to $51,006.78 (4:00 PM close) and portfolio value $103,321.48 → $102,521.22 indicates orders filled in full. SOFI entry at ~$18.04 captured new fintech diversification thesis; ALAB/TSM nibbles validated by latest macro signals (hedge fund semiconductor accumulation, AI optical PT raises). ANET compliance trim executed to bring position back within 5% cap (was 5.16% over). 
-
-Portfolio breadth remained strong; all buys sized within allocation caps and watchlist per-symbol limits. Thesis framework (top-5 research, allocation-aware position sizing, 0.2% limit discipline) executed cleanly. Data center moratorium impact mixed but doesn't break macro AI capex thesis. Next session: monitor SOFI thesis durability and GFS/CIEN sector consolidation trends.
 
 ### 2026-07-15
 **Compliance Success:** Three positions (GFS, GLW, MTSI) breached the 8% mandatory stop-loss threshold after yesterday's broad sector selloff. All three were immediately closed with limit orders per CLAUDE.md hard rule. This represents correction of 2026-07-07 lesson gap when COHR violated the 8% rule but was not auto-closed. Today's routine enforced discipline correctly, preventing cascading losses.
@@ -84,3 +76,6 @@ Portfolio breadth remained strong; all buys sized within allocation caps and wat
 
 ### 2026-07-16
 Mandatory stop-loss enforcement worked: CIEN (-10.6%) and CSCO (-9.3%) were correctly closed at 11:30 AM, freeing $12.8k and validating trading discipline. SOFI's whale-alert entry at $17.54 filled but immediately underwater (-0.74%), suggesting the accumulation signal had already peaked; will monitor for stabilization. Portfolio declined only $178 despite significant sector rotation (MRVL -8.9% intraday, ALAB/CRDO -8.7% each) — broad weakness offset by VECO (+9.3%, +$304) and ANET resilience (+18.5% cumulative). CRDO approaching stop-loss territory (-7.9%, intraday -8.7%) requires monitoring for tomorrow's open; threshold remains at -8% before auto-close. Tomorrow: watch for MRVL stabilization post-golden-cross break; CRDO stop-loss trigger risk; SOFI thesis validation.
+
+### 2026-07-17
+Hard stop-loss on CRDO enforced correctly, locking in -$372 loss and preventing further deterioration despite technical breakdown. Portfolio weathered broad sector selloff ("Is AI Trade Cracking?" headline) well — ANET +18.8% fundamentals held despite intraday dip, and ALAB dipped to -6.81% without triggering the -8% hard stop. Cash raised ($74.4k) provides dry powder for dip-buying if sector volatility stabilizes tomorrow; thesis conviction remains intact across core holdings (ANET infrastructure, MRVL AI chips, ALAB memory). Monitor tomorrow for reversal signal before adding on weakness.
