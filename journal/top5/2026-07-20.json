@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-07-20",
+  "picks": [
+    {
+      "symbol": "ANET",
+      "thesis": "Bullish MA ($169.56 > $160.61) + data center infrastructure momentum with fresh market analysis catalyst.",
+      "conviction": "high",
+      "thesis_type": "ma_crossover",
+      "signal_source": "Bullish MA + market analysis (2026-07-20)"
+    },
+    {
+      "symbol": "AVGO",
+      "thesis": "Record $46B semiconductor ETF inflow TODAY (2026-07-20) signals institutional momentum despite mixed MA; dip-buying opportunity in AI buildout.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Record $46B ETF inflows (2026-07-20)"
+    },
+    {
+      "symbol": "MRVL",
+      "thesis": "BofA 'summer reset not reversal' thesis validates dip-buying (2026-07-17). MA ($269.04 > $232.70) intact; RBC $360 PT consolidation play.",
+      "conviction": "medium",
+      "thesis_type": "news+ma",
+      "signal_source": "BofA analyst (2026-07-17) + bullish MA crossover"
+    },
+    {
+      "symbol": "SOFI",
+      "thesis": "Bullish MA golden cross ($17.80 > $16.90) + Stock Whisper mention (2026-07-18) validates whale accumulation thesis; within 15% cap.",
+      "conviction": "medium",
+      "thesis_type": "news+ma",
+      "signal_source": "Bullish MA + Stock Whisper mention (2026-07-18)"
+    },
+    {
+      "symbol": "GLW",
+      "thesis": "Citigroup Buy maintained with $240 PT (+31% upside) despite sector weakness; optical AI capex infrastructure play.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Citigroup Buy + $240 PT (2026-07-13)"
+    }
+  ]
+}
