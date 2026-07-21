@@ -1,0 +1,25 @@
+2026-07-21T15:38:38Z [INFO] [setup/start] setup starting routine=trading et_date=2026-07-21
+2026-07-21T15:38:38Z [INFO] [setup/env] env validated alpaca_base=https://paper-api.alpaca.markets sendgrid_present=false
+2026-07-21T15:38:38Z [INFO] [setup/ready] setup complete runlog=/home/runner/work/trading-agent/trading-agent/journal/runlog/2026-07-21-trading.log marker=journal/.current-routine
+2026-07-21T15:39:11Z [INFO] [trade/market_status] fetched clock http_status=200 is_open=True next_open=2026-07-22T09:30:00-04:00 next_close=2026-07-21T16:00:00-04:00
+2026-07-21T15:39:11Z [INFO] [research/account] fetched account http_status=200 cash=65223.14 portfolio_value=99193.42
+2026-07-21T15:39:12Z [INFO] [research/positions] fetched positions http_status=200 n_positions=9
+2026-07-21T15:39:33Z [INFO] [research/account] fetched account http_status=200 cash=65223.14 portfolio_value=99198.15
+2026-07-21T15:39:37Z [INFO] [research/account] fetched account http_status=200 cash=65223.14 portfolio_value=99201.73
+2026-07-21T15:39:37Z [INFO] [research/account] fetched account http_status=200 cash=65223.14 portfolio_value=99201.73
+2026-07-21T15:39:38Z [INFO] [research/account] fetched account http_status=200 cash=65223.14 portfolio_value=99203.38
+2026-07-21T15:39:39Z [INFO] [research/account] fetched account http_status=200 cash=65223.14 portfolio_value=99201.61
+2026-07-21T15:39:41Z [INFO] [research/account] fetched account http_status=200 cash=65223.14 portfolio_value=99200.15
+2026-07-21T15:40:49Z [INFO] [trade/order_request] received order request symbol=CRDO qty=12 side=buy limit_price=236.57 thesis_type=news_catalyst conviction=high
+2026-07-21T15:40:49Z [INFO] [trade/validate] passed symbol=CRDO qty=12.0 side=buy allocation_pct=2.86
+2026-07-21T15:40:50Z [INFO] [trade/order_submit] alpaca response symbol=CRDO side=buy qty=12 limit_price=236.57 http_status=200 order_id=d872a18e-b0e7-4ccd-86db-81d87284da49 order_status=pending_new
+2026-07-21T15:40:52Z [INFO] [trade/order_request] received order request symbol=LITE qty=6 side=buy limit_price=815.11 thesis_type=news_plus_ma conviction=medium
+2026-07-21T15:40:53Z [INFO] [trade/validate] passed symbol=LITE qty=6.0 side=buy allocation_pct=4.93
+2026-07-21T15:40:53Z [INFO] [trade/order_submit] alpaca response symbol=LITE side=buy qty=6 limit_price=815.11 http_status=200 order_id=b576a199-0bbc-4ba9-a113-920aab0f13a1 order_status=pending_new
+2026-07-21T15:40:56Z [INFO] [trade/order_request] received order request symbol=NVDA qty=16 side=buy limit_price=212.21 thesis_type=news_catalyst conviction=medium
+2026-07-21T15:40:57Z [INFO] [trade/validate] passed symbol=NVDA qty=16.0 side=buy allocation_pct=3.42
+2026-07-21T15:40:57Z [INFO] [trade/order_submit] alpaca response symbol=NVDA side=buy qty=16 limit_price=212.21 http_status=200 order_id=3812a61d-d6e1-44f7-aee7-2ae13949fa59 order_status=pending_new
+2026-07-21T15:41:00Z [INFO] [trade/order_request] received order request symbol=TSEM qty=14 side=buy limit_price=255.99 thesis_type=ma_crossover conviction=medium
+2026-07-21T15:41:00Z [INFO] [trade/validate] passed symbol=TSEM qty=14.0 side=buy allocation_pct=3.61
+2026-07-21T15:41:01Z [INFO] [trade/order_submit] alpaca response symbol=TSEM side=buy qty=14 limit_price=255.99 http_status=200 order_id=73a68b73-ee42-4a73-aa6e-cd99bdc64eef order_status=pending_new
+2026-07-21T15:41:45Z [INFO] [finalize/start] finalizing routine=trading et_date=2026-07-21
