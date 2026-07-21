@@ -1,21 +1,14 @@
 # Journal Summary
 
-_Generated 2026-07-20 21:33 from 7 of 57 entries (2026-07-10 → 2026-07-20)_
+_Generated 2026-07-21 21:33 from 7 of 58 entries (2026-07-13 → 2026-07-21)_
 
-## Latest Portfolio Status _(from 2026-07-20)_
+## Latest Portfolio Status _(from 2026-07-21)_
 
-- Cash: $74,446.53
-- Positions: ALAB (13 @ $301.09), ANET (28 @ $141.86), FN (2 @ $459.07), MRVL (23 @ $199.31), SOFI (50 @ $17.54), TSM (12 @ $408.61), VECO (66 @ $49.75)
-- Total Value: $98,030.29
+- Cash: $65,223.14
+- Positions: ALAB (13 @ $329.27), ANET (28 @ $176.14), AVGO (12 @ $386.47), FN (2 @ $528.98), GLW (30 @ $162.32), MRVL (23 @ $209.55), SOFI (50 @ $17.41), TSM (12 @ $422.20), VECO (66 @ $54.45)
+- Total Value: $99,350.77
 
 ## Recent Trades (last 7 days)
-
-### 2026-07-10
-| Time | Symbol | Action | Qty | Limit Price | Status | Reasoning |
-|------|--------|--------|-----|-------------|--------|-----------|
-| 16:22 | MRVL | BUY | 1 | $237.70 | pending_new | High conviction: RBC Capital reaffirms $360 PT validates AI chip consolidation. Bullish MA golden cross. Allocation 4.53% → 4.65% (within 5% cap). |
-| 16:22 | GLW | BUY | 4 | $191.03 | pending_new | High conviction: Oppenheimer upgrade to $230 PT + bullish MA golden cross validates optical AI capex thesis. Allocation 2.18% → 2.91% (room within 5% cap). |
-| 16:22 | LASR | BUY | 15 | $58.07 | pending_new | Medium conviction: nLIGHT $627M defense contract award + Needham PT raise to $90 opens photonics/defense infrastructure opportunity. New entry, 0.83% allocation (within 3% cap). |
 
 ### 2026-07-13
 | Time | Symbol | Action | Qty | Limit Price | Status | Reasoning |
@@ -63,10 +56,15 @@ _Generated 2026-07-20 21:33 from 7 of 57 entries (2026-07-10 → 2026-07-20)_
 - MRVL (4.69% allocation): BofA reset-not-reversal thesis + $360 PT consolidation intact; at watchlist ceiling, no add  
 - SOFI (0.87% allocation): Stock Whisper mention fresh but position underwater (-2.3%); whale signal may have peaked (7/16 lesson); HOLD pending price stabilization
 
-## Recent Reflections (last 3 days)
+### 2026-07-21
+| Time | Symbol | Action | Qty | Limit Price | Status | Reasoning |
+|------|--------|--------|-----|-------------|--------|-----------|
+| 15:40 | CRDO | BUY | 12 | $236.57 | pending_new | High conviction: Susquehanna PT $250 validates reversal after -13.8% stop-loss on 7/17. Price already recovered above $224.72 entry. Allocation 2.86% (within 3% cap). |
+| 15:40 | LITE | BUY | 6 | $815.11 | pending_new | Medium conviction: Nvidia $2B optics capex structural theme outweighs bearish MA. 637% YTD move suggests consolidation. Allocation 4.93% (within 5% cap). |
+| 15:40 | NVDA | BUY | 16 | $212.21 | pending_new | Medium conviction: AI sector rotation mega-cap core play. Mixed MA but structural AI theme justified entry at 3.42% allocation (within 5% cap). |
+| 15:40 | TSEM | BUY | 14 | $255.99 | pending_new | Medium conviction: Bullish MA (253.28 > 251.54) + technical signal confirmation validates entry. Tower Semi under-covered. Allocation 3.61% (within 4% cap). |
 
-### 2026-07-16
-Mandatory stop-loss enforcement worked: CIEN (-10.6%) and CSCO (-9.3%) were correctly closed at 11:30 AM, freeing $12.8k and validating trading discipline. SOFI's whale-alert entry at $17.54 filled but immediately underwater (-0.74%), suggesting the accumulation signal had already peaked; will monitor for stabilization. Portfolio declined only $178 despite significant sector rotation (MRVL -8.9% intraday, ALAB/CRDO -8.7% each) — broad weakness offset by VECO (+9.3%, +$304) and ANET resilience (+18.5% cumulative). CRDO approaching stop-loss territory (-7.9%, intraday -8.7%) requires monitoring for tomorrow's open; threshold remains at -8% before auto-close. Tomorrow: watch for MRVL stabilization post-golden-cross break; CRDO stop-loss trigger risk; SOFI thesis validation.
+## Recent Reflections (last 3 days)
 
 ### 2026-07-17
 Hard stop-loss on CRDO enforced correctly, locking in -$372 loss and preventing further deterioration despite technical breakdown. Portfolio weathered broad sector selloff ("Is AI Trade Cracking?" headline) well — ANET +18.8% fundamentals held despite intraday dip, and ALAB dipped to -6.81% without triggering the -8% hard stop. Cash raised ($74.4k) provides dry powder for dip-buying if sector volatility stabilizes tomorrow; thesis conviction remains intact across core holdings (ANET infrastructure, MRVL AI chips, ALAB memory). Monitor tomorrow for reversal signal before adding on weakness.
@@ -79,3 +77,20 @@ Hard stop-loss on CRDO enforced correctly, locking in -$372 loss and preventing 
 **Thesis Status**: SOFI whale accumulation thesis weakening (-3.3% today, -2.3% YTD), now underwater on the 7/16 entry. Institutional catalysts (AVGO $46B ETF inflow, GLW $240 PT Citigroup Buy) remain intact, but immediate EOD pullback suggests caution on follow-ups until support formation clarifies direction.
 
 **Tomorrow**: Monitor AVGO and GLW for support; if either drops ≥8% from entry, auto-close per stop-loss rule. Re-evaluate SOFI whale thesis durability before considering adds.
+
+### 2026-07-21
+**Trade Execution Results:** 3 of 4 limit orders filled; LITE expired unfilled. Filled positions:
+- CRDO: 12 @ $221.93 (limit $236.57) — filled at better price, +2.2% by close
+- NVDA: 16 @ $206.59 (limit $212.21) — filled at better price, essentially flat at close
+- TSEM: 14 @ $250.28 (limit $255.99) — filled at better price, +0.73% by close
+- LITE: 6 @ $815.11 limit — expired unfilled (close $814.48, below limit). Thesis intact but Nvidia optics capex news didn't drive stock today.
+
+**Capital Deployment:** $9,472.46 deployed across 3 positions ($2,663 CRDO / $3,305 NVDA / $3,504 TSEM), reducing cash from $65,223 to $55,751. Positions now 44% of portfolio; ample dry powder remains for dip-buying or thesis rotation.
+
+**Allocation Review:** CRDO now 2.74%, NVDA 3.33%, TSEM 3.55% — all well within symbol caps. TSM at 5.14% (above 5% cap) and ANET at 4.91% (below 4.96% watchlist ceiling) will monitor for trim signals.
+
+**Thesis Validation:** CRDO reversal thesis validated at-market; bullish MA (253.28 > 251.54) held on TSEM; NVDA core holding reaffirmed despite tight recent range. GLW +7.38% intraday (photonics sector tail-wind), MRVL +8.72% (AI infrastructure rotation continues). Whale signal on SOFI fading as expected (0.88% allocation, +0.34% realized).
+
+**Risk Status:** No positions breach -8% stop-loss threshold. All new entries sized conservatively within thesis. Core holdings (ANET +22.9%, VECO +9.3%, ALAB +7.2%) remain aligned. Daily unrealized gain +$119 to $99,470 portfolio value.
+
+**Tomorrow:** Watch LITE for re-entry if Nvidia optics thesis catalyzes intraday volatility. Monitor TSM for trim opportunity if sector momentum sustains (currently 5.14% vs 5% target). Track CRDO reversal confirmation post-analyst PT. Continue sector rotation thesis on AI infrastructure (ANET, MRVL, GLW) as mega-cap core diversifier.
