@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-07-21",
+  "picks": [
+    {
+      "symbol": "CRDO",
+      "thesis": "Susquehanna maintains Positive PT $250 (7/21) — analyst conviction suggests reversal after -13.8% stop-loss test on 7/17; mixed MA but news catalyst strong",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Susquehanna PT $250 (7/21)"
+    },
+    {
+      "symbol": "LITE",
+      "thesis": "Nvidia $2B optics capex bet (7/21 breaking news) — structural multi-year theme (light replacing copper in AI data centers) despite bearish MA; 637% YTD move suggests consolidation",
+      "conviction": "medium",
+      "thesis_type": "news+ma",
+      "signal_source": "Nvidia $2B optics infrastructure bet (7/21)"
+    },
+    {
+      "symbol": "ANET",
+      "thesis": "Bullish MA (170.53 > 160.81) + fresh analyst mention (7/20) — data center infrastructure momentum intact; at watchlist ceiling (4.96% allocation) but thesis strong",
+      "conviction": "high",
+      "thesis_type": "ma_crossover",
+      "signal_source": "Bullish MA + analyst coverage (7/20)"
+    },
+    {
+      "symbol": "NVDA",
+      "thesis": "AI sector rotation back to infrastructure mega-cap (7/21) — mixed MA but core AI momentum catalyst; mega-cap core play validates broad AI theme",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Sector rotation to AI infrastructure (7/21)"
+    },
+    {
+      "symbol": "TSEM",
+      "thesis": "Bullish MA (253.28 > 251.54) + key technical signal confirmation (7/14) — Tower Semi solid bull setup with less coverage; technical confirmation validates entry",
+      "conviction": "medium",
+      "thesis_type": "ma_crossover",
+      "signal_source": "Bullish MA + key technical signal (7/14)"
+    }
+  ]
+}
