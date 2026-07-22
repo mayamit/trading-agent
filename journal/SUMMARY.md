@@ -1,21 +1,14 @@
 # Journal Summary
 
-_Generated 2026-07-21 21:33 from 7 of 58 entries (2026-07-13 → 2026-07-21)_
+_Generated 2026-07-22 21:30 from 7 of 59 entries (2026-07-14 → 2026-07-22)_
 
-## Latest Portfolio Status _(from 2026-07-21)_
+## Latest Portfolio Status _(from 2026-07-22)_
 
-- Cash: $65,223.14
-- Positions: ALAB (13 @ $329.27), ANET (28 @ $176.14), AVGO (12 @ $386.47), FN (2 @ $528.98), GLW (30 @ $162.32), MRVL (23 @ $209.55), SOFI (50 @ $17.41), TSM (12 @ $422.20), VECO (66 @ $54.45)
-- Total Value: $99,350.77
+- Cash: $55,750.67
+- Positions: ALAB (13 @ $333.86), ANET (28 @ $175.43), AVGO (12 @ $391.84), CRDO (12 @ $229.40), FN (2 @ $524.44), GLW (30 @ $160.13), MRVL (23 @ $212.84), NVDA (16 @ $212.50), SOFI (50 @ $17.28), TSEM (14 @ $251.13), TSM (12 @ $423.43), VECO (66 @ $55.74)
+- Total Value: $99,746.20
 
 ## Recent Trades (last 7 days)
-
-### 2026-07-13
-| Time | Symbol | Action | Qty | Limit Price | Status | Reasoning |
-|------|--------|--------|-----|-------------|--------|-----------|
-| 12:27 | MRVL | BUY | 2 | $220.05 | pending_new | High conviction accumulation: RBC PT $360 validates AI chip consolidation, golden cross MA intact ($278.73 > $225.48). Intraday dip (-6.4%) creates entry opportunity. Allocation 4.51% → ~4.65% (within 5% cap). Limit 0.2% above current ask. |
-| 12:27 | GLW | BUY | 11 | $186.40 | pending_new | High conviction accumulation: Oppenheimer Outperform upgrade to $230 validates optical AI capex thesis. Bullish MA trend ($199.18 > $189.17) intact. Allocation 2.91% → ~4.59% (within 5% cap). Intraday dip (-2.1%) is buying opportunity. Limit 0.2% above current ask. |
-| 12:27 | SOFI | BUY | 30 | $17.54 | pending_new | Medium conviction new entry: Bullish MA ($17.33 > $16.86) + favorable macro backdrop. Initial position 0% → ~0.51% allocation (ample room under 15% cap). Fintech diversification into AI beneficiary ecosystem. Limit 0.2% above current ask. |
 
 ### 2026-07-14
 | Time | Symbol | Action | Qty | Limit Price | Status | Reasoning |
@@ -64,10 +57,12 @@ _Generated 2026-07-21 21:33 from 7 of 58 entries (2026-07-13 → 2026-07-21)_
 | 15:40 | NVDA | BUY | 16 | $212.21 | pending_new | Medium conviction: AI sector rotation mega-cap core play. Mixed MA but structural AI theme justified entry at 3.42% allocation (within 5% cap). |
 | 15:40 | TSEM | BUY | 14 | $255.99 | pending_new | Medium conviction: Bullish MA (253.28 > 251.54) + technical signal confirmation validates entry. Tower Semi under-covered. Allocation 3.61% (within 4% cap). |
 
-## Recent Reflections (last 3 days)
+### 2026-07-22
+| Time | Symbol | Action | Qty | Limit Price | Status | Reasoning |
+|------|--------|--------|-----|-------------|--------|-----------|
+| 15:29 | AAOI | BUY | 20 | $109.58 | pending_new | Analyst upgrade signal (Needham PT $220, +101% upside) justifies new entry despite -15.9% MA drawdown. Capital deploying at $2.2k (2.18% allocation, ample room under 5% cap). Medium conviction backed by analyst action during sector dip. Allocation discipline honored on other 4 picks (ANET at ceiling, TSM over cap, NVDA/CRDO earmarked for thesis clarity before adding). |
 
-### 2026-07-17
-Hard stop-loss on CRDO enforced correctly, locking in -$372 loss and preventing further deterioration despite technical breakdown. Portfolio weathered broad sector selloff ("Is AI Trade Cracking?" headline) well — ANET +18.8% fundamentals held despite intraday dip, and ALAB dipped to -6.81% without triggering the -8% hard stop. Cash raised ($74.4k) provides dry powder for dip-buying if sector volatility stabilizes tomorrow; thesis conviction remains intact across core holdings (ANET infrastructure, MRVL AI chips, ALAB memory). Monitor tomorrow for reversal signal before adding on weakness.
+## Recent Reflections (last 3 days)
 
 ### 2026-07-20
 **Fills + EOD Reversal**: AVGO (12 @ $380.99) and GLW (30 @ $155.05) both filled at discounts to limit prices, confirming that early 11:48 AM placement captured momentum window despite 6/2 pattern concerns. Both closed slightly underwater (-0.72% AVGO, -1.27% GLW by EOD), signaling momentum exhaustion or sector pullback immediately post-fill—a reversal pattern worth monitoring for future momentum-trade entries.
@@ -94,3 +89,6 @@ Hard stop-loss on CRDO enforced correctly, locking in -$372 loss and preventing 
 **Risk Status:** No positions breach -8% stop-loss threshold. All new entries sized conservatively within thesis. Core holdings (ANET +22.9%, VECO +9.3%, ALAB +7.2%) remain aligned. Daily unrealized gain +$119 to $99,470 portfolio value.
 
 **Tomorrow:** Watch LITE for re-entry if Nvidia optics thesis catalyzes intraday volatility. Monitor TSM for trim opportunity if sector momentum sustains (currently 5.14% vs 5% target). Track CRDO reversal confirmation post-analyst PT. Continue sector rotation thesis on AI infrastructure (ANET, MRVL, GLW) as mega-cap core diversifier.
+
+### 2026-07-22
+AAOI order expired unfilled at limit $109.58 — analyst signal (Needham PT $220) validated buy thesis but institutional buyers didn't materialize to support the dip. Portfolio +$419.4k on positions (intraday peak) but late-day pullback cost ~$48 net by close. Thesis integrity on core 5 (ANET, TSM, NVDA, CRDO) holds; no stop-losses triggered. Watch AAOI on next dip below $109 with wider limit (+0.5%) and compare institutional volume to whale accumulation patterns (SOFI lesson 7/16) before re-entry.
