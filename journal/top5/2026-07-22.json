@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-07-22",
+  "picks": [
+    {
+      "symbol": "ANET",
+      "thesis": "Bullish MA intact (170.67 > 160.79) + AI data center infrastructure beneficiary",
+      "conviction": "medium",
+      "thesis_type": "ma_crossover",
+      "signal_source": "Bullish moving average trend"
+    },
+    {
+      "symbol": "TSM",
+      "thesis": "Taiwan export surge to record $95.26B confirms Nvidia-led AI supercycle acceleration",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Taiwan export record 7/22, AI supercycle confirmation"
+    },
+    {
+      "symbol": "NVDA",
+      "thesis": "Google Q2 earnings timing catalyst + AI GPU mega-cap core play",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Google earnings report 7/22, Kalshi earnings prediction market"
+    },
+    {
+      "symbol": "CRDO",
+      "thesis": "Susquehanna PT $250 validates reversal consolidation after -13.8% stop-loss",
+      "conviction": "medium",
+      "thesis_type": "analyst_upgrade",
+      "signal_source": "Susquehanna Maintains Positive, $250 PT"
+    },
+    {
+      "symbol": "AAOI",
+      "thesis": "Needham Maintains Buy PT $220 signals analyst conviction despite -15% MA drawdown",
+      "conviction": "medium",
+      "thesis_type": "analyst_upgrade",
+      "signal_source": "Needham Maintains Buy PT $220 (7/22)"
+    }
+  ]
+}
