@@ -1,22 +1,15 @@
 # Journal Summary
 
-_Generated 2026-07-22 21:30 from 7 of 59 entries (2026-07-14 → 2026-07-22)_
+_Generated 2026-07-23 21:21 from 7 of 60 entries (2026-07-15 → 2026-07-23)_
 
-## Latest Portfolio Status _(from 2026-07-22)_
+## Latest Portfolio Status _(from 2026-07-23)_
 
 - Cash: $55,750.67
-- Positions: ALAB (13 @ $333.86), ANET (28 @ $175.43), AVGO (12 @ $391.84), CRDO (12 @ $229.40), FN (2 @ $524.44), GLW (30 @ $160.13), MRVL (23 @ $212.84), NVDA (16 @ $212.50), SOFI (50 @ $17.28), TSEM (14 @ $251.13), TSM (12 @ $423.43), VECO (66 @ $55.74)
-- Total Value: $99,746.20
+- Positions: ALAB (13 @ $325.86), ANET (28 @ $174.90), AVGO (12 @ $388.77), CRDO (12 @ $232.18), FN (2 @ $516.66), GLW (30 @ $156.49), MRVL (23 @ $207.29), NVDA (16 @ $207.15), SOFI (50 @ $16.53), TSEM (14 @ $254.70), TSM (12 @ $413.98), VECO (66 @ $54.26)
+- Total Value: $99,089.19
+- Unrealized P&L: +$1,655.24 (+1.70%)
 
 ## Recent Trades (last 7 days)
-
-### 2026-07-14
-| Time | Symbol | Action | Qty | Limit Price | Status | Reasoning |
-|------|--------|--------|-----|------------|--------|-----------|
-| 15:21 | ALAB | BUY | 1 | $376.16 | pending_new | Medium conviction: TD Cowen PT $425 validates AI memory infrastructure chipset strength. Bullish MA ($395.59 > $312.49) intact. Allocation 4.36% → ~4.57% (within 5% cap). Limit 0.2% above ask. |
-| 15:21 | SOFI | BUY | 30 | $18.04 | pending_new | Medium conviction new entry: Bullish MA golden cross ($17.41 > $16.85) + favorable macro backdrop. Unfilled yesterday at $17.54 but thesis holds at new levels. Allocation 0% → ~0.52% (ample room within 15% cap). Fintech diversification into AI beneficiary ecosystem. Limit 0.2% above ask. |
-| 15:21 | TSM | BUY | 1 | $425.45 | pending_new | Medium conviction: Hedge fund accumulation signal (fastest pace in 3.5 years) validates foundry demand. Bullish MA ($438.87 > $421.79) intact. Allocation 4.53% → ~4.73% (within 5% cap). Limit 0.2% above ask. |
-| 15:22 | ANET | SELL | 1 | $183.97 | pending_new | Compliance trim: position at 5.17% allocation exceeds 5% cap (price appreciation from entry). Sell 1 share to bring allocation to ~5.00%. Limit 0.2% below bid. |
 
 ### 2026-07-15
 | Time | Symbol | Action | Qty | Price | Reasoning |
@@ -62,16 +55,12 @@ _Generated 2026-07-22 21:30 from 7 of 59 entries (2026-07-14 → 2026-07-22)_
 |------|--------|--------|-----|-------------|--------|-----------|
 | 15:29 | AAOI | BUY | 20 | $109.58 | pending_new | Analyst upgrade signal (Needham PT $220, +101% upside) justifies new entry despite -15.9% MA drawdown. Capital deploying at $2.2k (2.18% allocation, ample room under 5% cap). Medium conviction backed by analyst action during sector dip. Allocation discipline honored on other 4 picks (ANET at ceiling, TSM over cap, NVDA/CRDO earmarked for thesis clarity before adding). |
 
+### 2026-07-23
+| Time | Symbol | Action | Qty | Price | Reasoning |
+|------|--------|--------|-----|-------|-----------|
+| 15:53 | NVDA | BUY | 7 | $208.24 | Jensen Huang China AI statement (7/23) validates mega-cap GPU core structural theme. Entry at 3.37% allocation + 7 shares brings to 4.84% within 5% cap. High conviction, thesis fresh, adequate cash, room available. Limit 0.2% above ask. |
+
 ## Recent Reflections (last 3 days)
-
-### 2026-07-20
-**Fills + EOD Reversal**: AVGO (12 @ $380.99) and GLW (30 @ $155.05) both filled at discounts to limit prices, confirming that early 11:48 AM placement captured momentum window despite 6/2 pattern concerns. Both closed slightly underwater (-0.72% AVGO, -1.27% GLW by EOD), signaling momentum exhaustion or sector pullback immediately post-fill—a reversal pattern worth monitoring for future momentum-trade entries.
-
-**Allocation Discipline Held**: New positions at 4.68% (AVGO) and 4.41% (GLW) allocation; existing ceiling positions (ANET 4.87%, MRVL 4.69%) unchanged per watchlist rules. Honored Top 5 picks without re-scanning, maintaining discipline from 5/4 lesson.
-
-**Thesis Status**: SOFI whale accumulation thesis weakening (-3.3% today, -2.3% YTD), now underwater on the 7/16 entry. Institutional catalysts (AVGO $46B ETF inflow, GLW $240 PT Citigroup Buy) remain intact, but immediate EOD pullback suggests caution on follow-ups until support formation clarifies direction.
-
-**Tomorrow**: Monitor AVGO and GLW for support; if either drops ≥8% from entry, auto-close per stop-loss rule. Re-evaluate SOFI whale thesis durability before considering adds.
 
 ### 2026-07-21
 **Trade Execution Results:** 3 of 4 limit orders filled; LITE expired unfilled. Filled positions:
@@ -92,3 +81,12 @@ _Generated 2026-07-22 21:30 from 7 of 59 entries (2026-07-14 → 2026-07-22)_
 
 ### 2026-07-22
 AAOI order expired unfilled at limit $109.58 — analyst signal (Needham PT $220) validated buy thesis but institutional buyers didn't materialize to support the dip. Portfolio +$419.4k on positions (intraday peak) but late-day pullback cost ~$48 net by close. Thesis integrity on core 5 (ANET, TSM, NVDA, CRDO) holds; no stop-losses triggered. Watch AAOI on next dip below $109 with wider limit (+0.5%) and compare institutional volume to whale accumulation patterns (SOFI lesson 7/16) before re-entry.
+
+### 2026-07-23
+Morning research identified high-conviction catalyst across mega-cap GPU and foundry themes, but allocation ceiling constraints limited add opportunities. ANET bullish MA + Super Micro news was compelling but already at 4.94% cap ceiling—same story for MRVL at 4.81%. TSM high-conviction (Elon Micron mention) but already over-allocated 5.01%. 
+
+NVDA was the only available high-conviction add within cap constraints—7 shares @ $208.24 limit captures Jensen Huang's China AI endorsement while respecting 5% allocation ceiling. Order placed at 15:53 (2.07 hours to market close) **FILLED SUCCESSFULLY**. Final position: 23 shares, 4.86% allocation, within cap. Execution validated 0.2% above-ask limit strategy during late-session momentum—order filled at tight fill vs. limit without overshoot.
+
+CSCO cybersecurity AI agent theme is interesting but medium conviction and lacks institutional volume/whale validation—per 7/22 AAOI lesson (analyst PT alone insufficient), deferred until volume patterns emerge.
+
+No stop-losses triggered. Portfolio allocation discipline held. All positions within thresholds. End-of-day cash: $54,295.23 (54.5% of portfolio), down from trade execution. Portfolio value closed at $99,567.89 (+$478.70 intraday, +0.48%).
