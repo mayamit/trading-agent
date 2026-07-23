@@ -1,0 +1,11 @@
+2026-07-23T15:50:59Z [INFO] [setup/start] setup starting routine=trading et_date=2026-07-23
+2026-07-23T15:50:59Z [INFO] [setup/env] env validated alpaca_base=https://paper-api.alpaca.markets sendgrid_present=false
+2026-07-23T15:50:59Z [INFO] [setup/ready] setup complete runlog=/home/runner/work/trading-agent/trading-agent/journal/runlog/2026-07-23-trading.log marker=journal/.current-routine
+2026-07-23T15:51:35Z [INFO] [trade/market_status] fetched clock http_status=200 is_open=True next_open=2026-07-24T09:30:00-04:00 next_close=2026-07-23T16:00:00-04:00
+2026-07-23T15:51:38Z [INFO] [research/account] fetched account http_status=200 cash=55750.67 portfolio_value=99061.04
+2026-07-23T15:51:38Z [INFO] [research/positions] fetched positions http_status=200 n_positions=12
+2026-07-23T15:51:52Z [INFO] [research/account] fetched account http_status=200 cash=55750.67 portfolio_value=99021.97
+2026-07-23T15:53:13Z [INFO] [trade/order_request] received order request symbol=NVDA qty=7 side=buy limit_price=208.24 thesis_type=news_catalyst conviction=high
+2026-07-23T15:53:13Z [INFO] [trade/validate] passed symbol=NVDA qty=7.0 side=buy allocation_pct=1.47
+2026-07-23T15:53:13Z [INFO] [trade/order_submit] alpaca response symbol=NVDA side=buy qty=7 limit_price=208.24 http_status=200 order_id=72242e36-f1f6-4803-bd80-61f20e13428b order_status=pending_new
+2026-07-23T15:54:03Z [INFO] [finalize/start] finalizing routine=trading et_date=2026-07-23
