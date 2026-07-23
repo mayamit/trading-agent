@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-07-23",
+  "picks": [
+    {
+      "symbol": "ANET",
+      "thesis": "Bullish MA intact, Super Micro margin expansion validates AI data center infrastructure demand",
+      "conviction": "high",
+      "thesis_type": "news+ma",
+      "signal_source": "Super Micro gross margin near-doubling (7/23) + bullish MA 170.67 > 160.79"
+    },
+    {
+      "symbol": "NVDA",
+      "thesis": "Mega-cap GPU core, Jensen Huang China AI endorsement validates structural AI upside",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Jensen Huang China AI statement (7/23) + mega-cap theme dominance"
+    },
+    {
+      "symbol": "TSM",
+      "thesis": "Foundry demand validation from Elon Micron mention signals AI chip capex pressure",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Elon Musk Micron/memory bottleneck mention (7/23) + foundry beneficiary"
+    },
+    {
+      "symbol": "MRVL",
+      "thesis": "AI infrastructure rotation continues, BofA reset-not-reversal thesis + consolidation setup",
+      "conviction": "medium",
+      "thesis_type": "news+ma",
+      "signal_source": "Stephanie Link NVDA/MU endorsement (7/22) + AI infrastructure theme"
+    },
+    {
+      "symbol": "CSCO",
+      "thesis": "Emerging cybersecurity AI agent arms race theme, Levie warning validates new threat surface",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Aaron Levie AI agent cybersecurity risk (7/22) + emerging defensive infrastructure theme"
+    }
+  ]
+}
