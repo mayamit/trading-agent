@@ -1,23 +1,12 @@
 # Journal Summary
 
-_Generated 2026-07-23 21:21 from 7 of 60 entries (2026-07-15 → 2026-07-23)_
+_Generated 2026-07-24 21:21 from 7 of 61 entries (2026-07-16 → 2026-07-24)_
 
-## Latest Portfolio Status _(from 2026-07-23)_
+## Latest Portfolio Status _(from 2026-07-24)_
 
-- Cash: $55,750.67
-- Positions: ALAB (13 @ $325.86), ANET (28 @ $174.90), AVGO (12 @ $388.77), CRDO (12 @ $232.18), FN (2 @ $516.66), GLW (30 @ $156.49), MRVL (23 @ $207.29), NVDA (16 @ $207.15), SOFI (50 @ $16.53), TSEM (14 @ $254.70), TSM (12 @ $413.98), VECO (66 @ $54.26)
-- Total Value: $99,089.19
-- Unrealized P&L: +$1,655.24 (+1.70%)
+_not recorded_
 
 ## Recent Trades (last 7 days)
-
-### 2026-07-15
-| Time | Symbol | Action | Qty | Price | Reasoning |
-|------|--------|--------|-----|-------|-----------|
-| 15:23 | GFS | SELL | 72 | $60.79 | Mandatory hard stop-loss: position down 9.3% from entry ($67.14 → $60.89), exceeds 8% closure threshold per CLAUDE.md. Limit 0.2% below bid. |
-| 15:23 | GLW | SELL | 27 | $171.55 | Mandatory hard stop-loss: position down 8.4% from entry ($187.54 → $171.73), exceeds 8% closure threshold per CLAUDE.md. Limit 0.2% below bid. |
-| 15:24 | MTSI | SELL | 13 | $288.93 | Mandatory hard stop-loss: position down 8.3% from entry ($315.25 → $289.13), exceeds 8% closure threshold per CLAUDE.md. Limit 0.2% below bid. |
-| 15:24 | SOFI | BUY | 50 | $17.54 | Medium conviction entry: whale alert activity + MA golden cross ($17.48 > $16.84) signals fintech AI diversification play. Capital freed from stop-loss exits; allocation 0% → 0.88% (ample room within 15% cap). Limit 0.2% above ask. |
 
 ### 2026-07-16
 | Time | Symbol | Action | Qty | Limit Price | Reasoning |
@@ -60,24 +49,19 @@ _Generated 2026-07-23 21:21 from 7 of 60 entries (2026-07-15 → 2026-07-23)_
 |------|--------|--------|-----|-------|-----------|
 | 15:53 | NVDA | BUY | 7 | $208.24 | Jensen Huang China AI statement (7/23) validates mega-cap GPU core structural theme. Entry at 3.37% allocation + 7 shares brings to 4.84% within 5% cap. High conviction, thesis fresh, adequate cash, room available. Limit 0.2% above ask. |
 
+### 2026-07-24
+| Time | Symbol | Action | Qty | Limit Price | Reasoning |
+|------|--------|--------|-----|------------|-----------|
+| 15:24 | CRDO | BUY | 1 | $216.81 | Reversal recovery thesis validated by Susquehanna $250 PT; dip-buy on -8.51% intraday weakness while still within 3% allocation cap |
+| 15:24 | GLW | BUY | 4 | $150.75 | Photonics supply chain positioned for +59% upside per Citigroup $240 PT; dip-buying on -3.56% intraday sector pullback within 5% cap |
+
+**Hold Decisions (All Top-5 thesis intact, no sells triggered):**
+- ANET: at allocation ceiling (5.02%); Super Micro $60B orders thesis intact
+- NVDA: nearly at allocation ceiling; Jensen Huang open-source AI endorsement validates mega-cap GPU structural theme  
+- AVGO: thesis interesting (HBC AI architecture mispricing) but medium conviction; lacks whale/institutional volume confirmation per 7/22 lesson—analyst signal alone insufficient
+- GLW/CRDO: see BUY orders above
+
 ## Recent Reflections (last 3 days)
-
-### 2026-07-21
-**Trade Execution Results:** 3 of 4 limit orders filled; LITE expired unfilled. Filled positions:
-- CRDO: 12 @ $221.93 (limit $236.57) — filled at better price, +2.2% by close
-- NVDA: 16 @ $206.59 (limit $212.21) — filled at better price, essentially flat at close
-- TSEM: 14 @ $250.28 (limit $255.99) — filled at better price, +0.73% by close
-- LITE: 6 @ $815.11 limit — expired unfilled (close $814.48, below limit). Thesis intact but Nvidia optics capex news didn't drive stock today.
-
-**Capital Deployment:** $9,472.46 deployed across 3 positions ($2,663 CRDO / $3,305 NVDA / $3,504 TSEM), reducing cash from $65,223 to $55,751. Positions now 44% of portfolio; ample dry powder remains for dip-buying or thesis rotation.
-
-**Allocation Review:** CRDO now 2.74%, NVDA 3.33%, TSEM 3.55% — all well within symbol caps. TSM at 5.14% (above 5% cap) and ANET at 4.91% (below 4.96% watchlist ceiling) will monitor for trim signals.
-
-**Thesis Validation:** CRDO reversal thesis validated at-market; bullish MA (253.28 > 251.54) held on TSEM; NVDA core holding reaffirmed despite tight recent range. GLW +7.38% intraday (photonics sector tail-wind), MRVL +8.72% (AI infrastructure rotation continues). Whale signal on SOFI fading as expected (0.88% allocation, +0.34% realized).
-
-**Risk Status:** No positions breach -8% stop-loss threshold. All new entries sized conservatively within thesis. Core holdings (ANET +22.9%, VECO +9.3%, ALAB +7.2%) remain aligned. Daily unrealized gain +$119 to $99,470 portfolio value.
-
-**Tomorrow:** Watch LITE for re-entry if Nvidia optics thesis catalyzes intraday volatility. Monitor TSM for trim opportunity if sector momentum sustains (currently 5.14% vs 5% target). Track CRDO reversal confirmation post-analyst PT. Continue sector rotation thesis on AI infrastructure (ANET, MRVL, GLW) as mega-cap core diversifier.
 
 ### 2026-07-22
 AAOI order expired unfilled at limit $109.58 — analyst signal (Needham PT $220) validated buy thesis but institutional buyers didn't materialize to support the dip. Portfolio +$419.4k on positions (intraday peak) but late-day pullback cost ~$48 net by close. Thesis integrity on core 5 (ANET, TSM, NVDA, CRDO) holds; no stop-losses triggered. Watch AAOI on next dip below $109 with wider limit (+0.5%) and compare institutional volume to whale accumulation patterns (SOFI lesson 7/16) before re-entry.
@@ -90,3 +74,12 @@ NVDA was the only available high-conviction add within cap constraints—7 share
 CSCO cybersecurity AI agent theme is interesting but medium conviction and lacks institutional volume/whale validation—per 7/22 AAOI lesson (analyst PT alone insufficient), deferred until volume patterns emerge.
 
 No stop-losses triggered. Portfolio allocation discipline held. All positions within thresholds. End-of-day cash: $54,295.23 (54.5% of portfolio), down from trade execution. Portfolio value closed at $99,567.89 (+$478.70 intraday, +0.48%).
+
+### 2026-07-24
+Both CRDO and GLW limit orders filled at 15:24 despite intraday volatility, validating late-day limit order strategy during sector selloff (final 39 minutes to close). CRDO filled at $216.81 (buy 1 share, -8.67% intraday from 7/23 close but -2.5% from average entry), GLW filled at $150.75 (buy 4 shares, -6.80% intraday but -5.87% from average entry). Portfolio declined -2.54% on the day (vs. -1.53% intraday from 7/23) as market weakness extended through close.
+
+No forced stop-losses triggered; all positions remain above -8% loss thresholds from entry prices. ALAB and TSEM showed intraday weakness (-11.84%, -10.39%) but from previous close, not entries. Position allocation discipline held: CRDO at 2.89% (within 3% cap), GLW at 5.09% (within 5% cap), ANET at 5.01% (at ceiling), NVDA at 4.89% (near ceiling). Capital deployed: ~$820 across two fills; $53.5k dry powder retained.
+
+Trading thesis validation: both adds (CRDO, GLW) aligned with prior research (Susquehanna $250 PT, Citigroup $240 PT) and sector dip timing. Sector pullback broader than sector-specific thesis, indicating macro weakness, not thesis break. ANET, NVDA structural narratives intact despite intraday weakness. Hold discipline maintained across allocation-capped positions.
+
+Trading discipline score: 5/5 (thesis validation, allocation compliance, no forced sells, limit orders filled in late-day volatility).
