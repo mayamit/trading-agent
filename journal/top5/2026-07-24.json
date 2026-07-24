@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-07-24",
+  "picks": [
+    {
+      "symbol": "ANET",
+      "thesis": "Data center AI infrastructure positioned for Super Micro momentum.",
+      "conviction": "high",
+      "thesis_type": "news+ma",
+      "signal_source": "Super Micro $60B new AI orders (7/23), bullish MA 170.67 > 160.79"
+    },
+    {
+      "symbol": "NVDA",
+      "thesis": "Mega-cap GPU core validates open-source AI structural theme.",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Jensen Huang X post defending open-source AI (7/24)"
+    },
+    {
+      "symbol": "CRDO",
+      "thesis": "Reversal recovery validated by Susquehanna $250 PT.",
+      "conviction": "high",
+      "thesis_type": "news+ma",
+      "signal_source": "Susquehanna positive, $250 PT (7/21), bullish MA upside 256.16 > 228.22"
+    },
+    {
+      "symbol": "AVGO",
+      "thesis": "AI infrastructure HBC architecture mispricing opportunity.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Qualcomm HBC AI architecture mispricing analysis (7/24)"
+    },
+    {
+      "symbol": "GLW",
+      "thesis": "Photonics supply chain benefits from NVIDIA technical breakout.",
+      "conviction": "medium",
+      "thesis_type": "news+ma",
+      "signal_source": "NVIDIA technical breakout momentum (7/23), Citigroup $240 PT validates thesis"
+    }
+  ]
+}
