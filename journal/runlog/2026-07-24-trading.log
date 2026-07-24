@@ -1,0 +1,13 @@
+2026-07-24T15:21:55Z [INFO] [setup/start] setup starting routine=trading et_date=2026-07-24
+2026-07-24T15:21:56Z [INFO] [setup/env] env validated alpaca_base=https://paper-api.alpaca.markets sendgrid_present=false
+2026-07-24T15:21:56Z [INFO] [setup/ready] setup complete runlog=/home/runner/work/trading-agent/trading-agent/journal/runlog/2026-07-24-trading.log marker=journal/.current-routine
+2026-07-24T15:22:36Z [INFO] [trade/market_status] fetched clock http_status=200 is_open=True next_open=2026-07-27T09:30:00-04:00 next_close=2026-07-24T16:00:00-04:00
+2026-07-24T15:22:36Z [INFO] [research/account] fetched account http_status=200 cash=54295.22 portfolio_value=97694.11
+2026-07-24T15:22:37Z [INFO] [research/positions] fetched positions http_status=200 n_positions=12
+2026-07-24T15:24:04Z [INFO] [trade/order_request] received order request symbol=CRDO qty=1 side=buy limit_price=216.81 thesis_type=news+ma conviction=high
+2026-07-24T15:24:04Z [INFO] [trade/validate] passed symbol=CRDO qty=1.0 side=buy allocation_pct=0.22
+2026-07-24T15:24:05Z [INFO] [trade/order_submit] alpaca response symbol=CRDO side=buy qty=1 limit_price=216.81 http_status=200 order_id=f34570e9-1dc2-4b5f-9d6d-daa6dec47cc7 order_status=pending_new
+2026-07-24T15:24:05Z [INFO] [trade/order_request] received order request symbol=GLW qty=4 side=buy limit_price=150.75 thesis_type=news+ma conviction=medium
+2026-07-24T15:24:05Z [INFO] [trade/validate] passed symbol=GLW qty=4.0 side=buy allocation_pct=0.62
+2026-07-24T15:24:06Z [INFO] [trade/order_submit] alpaca response symbol=GLW side=buy qty=4 limit_price=150.75 http_status=200 order_id=685fb57f-dc30-4bce-9da7-bb29ff8ad9e2 order_status=pending_new
+2026-07-24T15:25:01Z [INFO] [finalize/start] finalizing routine=trading et_date=2026-07-24
