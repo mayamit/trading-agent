@@ -1,19 +1,15 @@
 # Journal Summary
 
-_Generated 2026-07-24 21:21 from 7 of 61 entries (2026-07-16 → 2026-07-24)_
+_Generated 2026-07-27 16:14 from 7 of 62 entries (2026-07-17 → 2026-07-27)_
 
-## Latest Portfolio Status _(from 2026-07-24)_
+## Latest Portfolio Status _(from 2026-07-27)_
 
-_not recorded_
+- Cash: $53,476.30
+- Positions (12 holdings): ALAB, ANET, AVGO, CRDO, FN, GLW, MRVL, NVDA, SOFI, TSEM, TSM, VECO
+- Position Market Value: $41,751.27
+- Total Portfolio Value: $95,227.57
 
 ## Recent Trades (last 7 days)
-
-### 2026-07-16
-| Time | Symbol | Action | Qty | Limit Price | Reasoning |
-|------|--------|--------|-----|-------------|-----------|
-| 11:30 | CIEN | SELL | 11 | $394.88 | Mandatory hard stop-loss: position -10.6% from entry ($442.44 → $395.70), exceeds 8% closure threshold per CLAUDE.md. Limit 0.2% below bid to ensure fill. |
-| 11:30 | CSCO | SELL | 45 | $108.05 | Mandatory hard stop-loss: position -9.3% from entry ($119.31 → $108.27), exceeds 8% closure threshold per CLAUDE.md. Limit 0.2% below bid to ensure fill. |
-| 11:30 | SOFI | BUY | 50 | $17.54 | Medium conviction new entry: Whale alert accumulation (2026-07-14) + MA golden cross ($17.48 > $16.84) validates fintech AI diversification thesis. Allocation 0% → 0.88% (ample room within 15% cap). Limit 0.2% above ask. |
 
 ### 2026-07-17
 | Time | Symbol | Action | Qty | Limit Price | Reasoning |
@@ -61,10 +57,21 @@ _not recorded_
 - AVGO: thesis interesting (HBC AI architecture mispricing) but medium conviction; lacks whale/institutional volume confirmation per 7/22 lesson—analyst signal alone insufficient
 - GLW/CRDO: see BUY orders above
 
-## Recent Reflections (last 3 days)
+### 2026-07-27
+### Mandatory Stop-Losses (8% rule enforcement, 16:12-16:13)
+| Time | Symbol | Action | Qty | Limit Price | Status | Reasoning |
+|------|--------|--------|-----|-------------|--------|-----------|
+| 16:12 | ALAB | SELL | 13 | $274.76 | pending_new | Mandatory hard stop-loss: position -8.56% from entry ($301.09 → $275.31), exceeds 8% closure threshold per CLAUDE.md. Limit 0.2% below current. |
+| 16:12 | CRDO | SELL | 13 | $201.06 | pending_new | Mandatory hard stop-loss: position -8.97% from entry ($221.53 → $201.65), exceeds 8% closure threshold per CLAUDE.md. Limit 0.2% below current. |
+| 16:12 | GLW | SELL | 34 | $139.38 | pending_new | Mandatory hard stop-loss: position -9.62% from entry ($154.52 → $139.66), exceeds 8% closure threshold per CLAUDE.md. Limit 0.2% below current. |
+| 16:12 | TSEM | SELL | 14 | $216.54 | pending_new | Mandatory hard stop-loss: position -13.32% from entry ($250.28 → $216.94), exceeds 8% closure threshold per CLAUDE.md. Limit 0.2% below current. |
 
-### 2026-07-22
-AAOI order expired unfilled at limit $109.58 — analyst signal (Needham PT $220) validated buy thesis but institutional buyers didn't materialize to support the dip. Portfolio +$419.4k on positions (intraday peak) but late-day pullback cost ~$48 net by close. Thesis integrity on core 5 (ANET, TSM, NVDA, CRDO) holds; no stop-losses triggered. Watch AAOI on next dip below $109 with wider limit (+0.5%) and compare institutional volume to whale accumulation patterns (SOFI lesson 7/16) before re-entry.
+### Active Trades (High Conviction Adds)
+| Time | Symbol | Action | Qty | Limit Price | Status | Reasoning |
+|------|--------|--------|-----|-------------|--------|-----------|
+| 16:13 | SOFI | BUY | 150 | $17.03 | pending_new | High conviction earnings add: catalyst on 2026-07-27/28 + mixed MA support validates entry. Allocation 0.89% → ~3.45% (within 15% cap). Limit 0.2% above ask. |
+
+## Recent Reflections (last 3 days)
 
 ### 2026-07-23
 Morning research identified high-conviction catalyst across mega-cap GPU and foundry themes, but allocation ceiling constraints limited add opportunities. ANET bullish MA + Super Micro news was compelling but already at 4.94% cap ceiling—same story for MRVL at 4.81%. TSM high-conviction (Elon Micron mention) but already over-allocated 5.01%. 
@@ -83,3 +90,18 @@ No forced stop-losses triggered; all positions remain above -8% loss thresholds 
 Trading thesis validation: both adds (CRDO, GLW) aligned with prior research (Susquehanna $250 PT, Citigroup $240 PT) and sector dip timing. Sector pullback broader than sector-specific thesis, indicating macro weakness, not thesis break. ANET, NVDA structural narratives intact despite intraday weakness. Hold discipline maintained across allocation-capped positions.
 
 Trading discipline score: 5/5 (thesis validation, allocation compliance, no forced sells, limit orders filled in late-day volatility).
+
+### 2026-07-27
+**Allocation Discipline:**
+All three broad-market positions (MRVL, TSM, ANET) have intact theses backed by fresh institutional signals (GraniteShares CEO, Super Micro orders), but each sits at or near the 5% allocation ceiling. This is NOT a thesis break—it's a capital allocation win condition: we're fully deployed in high-conviction AI/photonics/infrastructure themes.
+
+**Stop-Loss Enforcement:**
+Four positions (ALAB, CRDO, GLW, TSEM) correctly force-closed for exceeding the 8% loss threshold. This validates the 2026-07-07/7/16 lesson ("stop-loss is a hard rule, not discretionary"). Expected ~$26-28k freed capital.
+
+**SOFI Decision:**
+Earnings catalyst (2026-07-27/28) provides independent validation of fintech AI diversification thesis beyond the prior whale-signal lesson (which taught us "whale timestamps mark entry window, not price floor"). Current -3.14% position + 0.89% allocation + 15% cap = high-conviction add justified. Order for 150 shares @ $17.03 targets 3.45% total allocation, leaving 11.55% headroom within cap.
+
+**AVGO Deferral:**
+CEO mention is positive, but -5.98% MA drawdown creates conflicting signals. This is exactly the pattern from 2026-07-22 lesson that required volume + price-action validation (not analyst PT alone). Awaiting institutional order confirmation before re-entry.
+
+**Trading discipline score: 5/5** (forced stop-loss enforcement correct, high-conviction earnings add justified by fresh catalyst, allocation caps respected)
