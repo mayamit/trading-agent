@@ -1,6 +1,6 @@
 # Journal Summary
 
-_Generated 2026-07-27 16:14 from 7 of 62 entries (2026-07-17 → 2026-07-27)_
+_Generated 2026-07-27 21:30 from 7 of 62 entries (2026-07-17 → 2026-07-27)_
 
 ## Latest Portfolio Status _(from 2026-07-27)_
 
@@ -92,16 +92,18 @@ Trading thesis validation: both adds (CRDO, GLW) aligned with prior research (Su
 Trading discipline score: 5/5 (thesis validation, allocation compliance, no forced sells, limit orders filled in late-day volatility).
 
 ### 2026-07-27
-**Allocation Discipline:**
-All three broad-market positions (MRVL, TSM, ANET) have intact theses backed by fresh institutional signals (GraniteShares CEO, Super Micro orders), but each sits at or near the 5% allocation ceiling. This is NOT a thesis break—it's a capital allocation win condition: we're fully deployed in high-conviction AI/photonics/infrastructure themes.
+**Stop-Loss Execution (CONFIRMED):** Four positions force-closed successfully at market close—ALAB, CRDO, GLW, TSEM all filled and settled. Freed ~$11.4k in capital (cash rose from $53.5k to $64.9k). This validates the hard-rule enforcement pattern established 2026-07-07/16.
 
-**Stop-Loss Enforcement:**
-Four positions (ALAB, CRDO, GLW, TSEM) correctly force-closed for exceeding the 8% loss threshold. This validates the 2026-07-07/7/16 lesson ("stop-loss is a hard rule, not discretionary"). Expected ~$26-28k freed capital.
+**SOFI Earnings Add (CONFIRMED):** BUY order for 150 shares filled at/near $17.03 limit. Total SOFI position now 200 shares, -1.20% underwater but within 15% allocation cap at ~3.55% portfolio weight. Earnings catalyst on 2026-07-28 provides independent thesis validation.
 
-**SOFI Decision:**
-Earnings catalyst (2026-07-27/28) provides independent validation of fintech AI diversification thesis beyond the prior whale-signal lesson (which taught us "whale timestamps mark entry window, not price floor"). Current -3.14% position + 0.89% allocation + 15% cap = high-conviction add justified. Order for 150 shares @ $17.03 targets 3.45% total allocation, leaving 11.55% headroom within cap.
+**Allocation Discipline Intact:** MRVL, TSM, ANET remain at ~5% caps despite fresh GraniteShares CEO endorsements—not discretionary constraint, but evidence of full deployment in high-conviction AI infrastructure. Capital freed from stop-losses earmarked for higher-conviction adds if new signals emerge (not CEO mentions alone; need volume or whale data validation per 2026-07-22 lesson).
 
-**AVGO Deferral:**
-CEO mention is positive, but -5.98% MA drawdown creates conflicting signals. This is exactly the pattern from 2026-07-22 lesson that required volume + price-action validation (not analyst PT alone). Awaiting institutional order confirmation before re-entry.
+**AVGO Hold Confirmed:** CEO mention positive, but -5.98% MA drawdown + absence of institutional block confirmation means deferral is correct. Will revisit if volume + price-action validates institutional adoption.
 
-**Trading discipline score: 5/5** (forced stop-loss enforcement correct, high-conviction earnings add justified by fresh catalyst, allocation caps respected)
+**Portfolio Snapshot (EOD):**
+- 8 positions held (down from 12)
+- Cash: $64.9k (up from $53.5k freed capital)
+- Portfolio value: $95.4k (stable, flat to +$0.2k)
+- All positions above 8% stop-loss threshold
+
+**Trading discipline score: 5/5** (enforced mandatory stops, filled high-conviction add, respected allocation caps, preserved capital for validated entries)
