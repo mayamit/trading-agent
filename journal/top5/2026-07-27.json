@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-07-27",
+  "picks": [
+    {
+      "symbol": "SOFI",
+      "thesis": "Earnings catalyst arriving 2026-07-27/28 with asymmetric risk/reward; mixed MA support (17.87 > 17.04); position deeply underwater at 0.87% allocation with 15% cap headroom.",
+      "conviction": "high",
+      "thesis_type": "earnings",
+      "signal_source": "SoFi earnings 2026-07-27/28; Fresh news 2026-07-27 14:27"
+    },
+    {
+      "symbol": "MRVL",
+      "thesis": "GraniteShares CEO names Marvell as next AI winner after Nvidia/SK Hynix; bullish MA crossover (245.69 > 236.02) validates breakout; near allocation ceiling (4.81%) but fresh institutional signal.",
+      "conviction": "medium",
+      "thesis_type": "news+ma",
+      "signal_source": "GraniteShares CEO Will Rhind, 2026-07-27 14:20"
+    },
+    {
+      "symbol": "TSM",
+      "thesis": "GraniteShares CEO names TSMC as next AI winner; bullish MA (434.45 > 425.35); structural AI narrative (foundry capacity for Nvidia alternatives) intact despite 7/23 over-allocation.",
+      "conviction": "medium",
+      "thesis_type": "news+ma",
+      "signal_source": "GraniteShares CEO Will Rhind, 2026-07-27 14:20"
+    },
+    {
+      "symbol": "ANET",
+      "thesis": "Bullish mixed MA (170.85 > 161.12); Super Micro $60B AI orders from 2026-07-23 validates data center infrastructure tailwind; at allocation ceiling (5.02%) but thesis fresh.",
+      "conviction": "medium",
+      "thesis_type": "news+ma",
+      "signal_source": "Super Micro $60B AI orders from 2026-07-23; ANET strength on AI infrastructure demand"
+    },
+    {
+      "symbol": "AVGO",
+      "thesis": "GraniteShares CEO names Broadcom as next AI winner, but bearish MA (380.11 vs 401.94 50-day, -5.98%) limits conviction. CEO endorsement is signal strength but technicals conflict.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "GraniteShares CEO Will Rhind, 2026-07-27 14:20"
+    }
+  ]
+}
