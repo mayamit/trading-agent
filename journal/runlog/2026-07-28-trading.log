@@ -1,0 +1,22 @@
+2026-07-28T16:01:34Z [INFO] [setup/start] setup starting routine=trading et_date=2026-07-28
+2026-07-28T16:01:34Z [INFO] [setup/env] env validated alpaca_base=https://paper-api.alpaca.markets sendgrid_present=false
+2026-07-28T16:01:34Z [INFO] [setup/ready] setup complete runlog=/home/runner/work/trading-agent/trading-agent/journal/runlog/2026-07-28-trading.log marker=journal/.current-routine
+2026-07-28T16:02:10Z [INFO] [trade/market_status] fetched clock http_status=200 is_open=True next_open=2026-07-29T09:30:00-04:00 next_close=2026-07-28T16:00:00-04:00
+2026-07-28T16:02:11Z [INFO] [research/account] fetched account http_status=200 cash=64908.01 portfolio_value=94850.25
+2026-07-28T16:02:11Z [INFO] [research/positions] fetched positions http_status=200 n_positions=8
+2026-07-28T16:02:30Z [INFO] [trade/order_request] received order request symbol=MRVL qty=23 side=sell limit_price=179.29 thesis_type=stop_loss conviction=mandatory
+2026-07-28T16:02:30Z [INFO] [trade/order_submit] alpaca response symbol=MRVL side=sell qty=23 limit_price=179.29 http_status=200 order_id=2b45a9aa-953b-42a2-a7d3-887cb873078a order_status=pending_new
+2026-07-28T16:02:31Z [INFO] [trade/order_request] received order request symbol=VECO qty=66 side=sell limit_price=44.87 thesis_type=stop_loss conviction=mandatory
+2026-07-28T16:02:31Z [INFO] [trade/order_submit] alpaca response symbol=VECO side=sell qty=66 limit_price=44.87 http_status=200 order_id=38e2753b-1222-4a8c-8827-4b98e3b30a5b order_status=pending_new
+2026-07-28T16:02:50Z [INFO] [research/account] fetched account http_status=200 cash=72007.83 portfolio_value=94840.96
+2026-07-28T16:02:55Z [INFO] [research/positions] fetched positions http_status=200 n_positions=6
+2026-07-28T16:05:23Z [INFO] [trade/order_request] received order request symbol=LITE qty=6 side=buy limit_price=785.89 thesis_type=news_catalyst conviction=medium
+2026-07-28T16:05:23Z [INFO] [trade/validate] passed symbol=LITE qty=6.0 side=buy allocation_pct=4.97
+2026-07-28T16:05:24Z [INFO] [trade/order_submit] alpaca response symbol=LITE side=buy qty=6 limit_price=785.89 http_status=200 order_id=5933c050-7c64-48f3-8312-558a9c68a39c order_status=pending_new
+2026-07-28T16:05:24Z [INFO] [trade/order_request] received order request symbol=GLW qty=24 side=buy limit_price=195.48 thesis_type=news_ma conviction=medium
+2026-07-28T16:05:24Z [INFO] [trade/validate] passed symbol=GLW qty=24.0 side=buy allocation_pct=4.95
+2026-07-28T16:05:24Z [INFO] [trade/order_submit] alpaca response symbol=GLW side=buy qty=24 limit_price=195.48 http_status=200 order_id=5f059301-51b7-45ad-aa43-79b62029a87c order_status=pending_new
+2026-07-28T16:05:42Z [INFO] [research/positions] fetched positions http_status=200 n_positions=8
+2026-07-28T16:05:52Z [INFO] [research/account] fetched account http_status=200 cash=65189.37 portfolio_value=94875.13
+2026-07-28T16:05:55Z [INFO] [research/account] fetched account http_status=200 cash=65189.37 portfolio_value=94868.98
+2026-07-28T16:07:08Z [INFO] [finalize/start] finalizing routine=trading et_date=2026-07-28
