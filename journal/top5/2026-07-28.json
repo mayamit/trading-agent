@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-07-28",
+  "picks": [
+    {
+      "symbol": "NVDA",
+      "thesis": "Mag 7 broke 200-day MA—history validates buying opportunity despite mixed MA; structural AI mega-cap core remains intact.",
+      "conviction": "high",
+      "thesis_type": "ma_crossover",
+      "signal_source": "MarketWatch technical analysis + structural AI theme"
+    },
+    {
+      "symbol": "LITE",
+      "thesis": "Optical/AI capex confirmed via Corning beat (32% growth, NVDA/AMZN deals); session dip into 20-day MA creates entry.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Corning earnings beat + NVDA/AMZN capex validation"
+    },
+    {
+      "symbol": "GLW",
+      "thesis": "Corning optical AI deals validate Citigroup $240 PT (+48% upside); Q3 guidance miss creates dip-buy into supply chain structural upside.",
+      "conviction": "medium",
+      "thesis_type": "news+ma",
+      "signal_source": "Corning Q2 beat + Citigroup PT"
+    },
+    {
+      "symbol": "MRVL",
+      "thesis": "Korean chip rout creates sector headwinds, but BofA reset-not-reversal thesis + CEO mention validates hold; mixed MA supports entry on weakness.",
+      "conviction": "medium",
+      "thesis_type": "news+ma",
+      "signal_source": "GraniteShares CEO AI winners list + BofA structural thesis"
+    },
+    {
+      "symbol": "TSM",
+      "thesis": "Kumamoto earthquake operations resuming (positive headline); foundry structural upside + Elon Micron theme remain intact.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "TSMC Kumamoto safety confirmation + operations resuming"
+    }
+  ]
+}
