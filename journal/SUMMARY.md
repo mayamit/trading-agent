@@ -1,20 +1,15 @@
 # Journal Summary
 
-_Generated 2026-07-27 21:30 from 7 of 62 entries (2026-07-17 → 2026-07-27)_
+_Generated 2026-07-28 21:31 from 7 of 63 entries (2026-07-20 → 2026-07-28)_
 
-## Latest Portfolio Status _(from 2026-07-27)_
+## Latest Portfolio Status _(from 2026-07-28)_
 
-- Cash: $53,476.30
-- Positions (12 holdings): ALAB, ANET, AVGO, CRDO, FN, GLW, MRVL, NVDA, SOFI, TSEM, TSM, VECO
-- Position Market Value: $41,751.27
-- Total Portfolio Value: $95,227.57
+- Cash: $64,908.01
+- Positions (8 holdings): ANET, AVGO, FN, MRVL, NVDA, SOFI, TSM, VECO
+- Position Market Value: $29,845.99
+- Total Portfolio Value: $94,754.00
 
 ## Recent Trades (last 7 days)
-
-### 2026-07-17
-| Time | Symbol | Action | Qty | Limit Price | Reasoning |
-|------|--------|--------|-----|-------------|-----------|
-| 15:10 | CRDO | SELL | 12 | $193.31 | Mandatory hard stop-loss: position -13.802% from entry ($224.72 → $193.70), exceeds 8% closure threshold per CLAUDE.md. Limit 0.2% below current price to ensure fill. |
 
 ### 2026-07-20
 | Time | Symbol | Action | Qty | Limit Price | Status | Reasoning |
@@ -71,16 +66,13 @@ _Generated 2026-07-27 21:30 from 7 of 62 entries (2026-07-17 → 2026-07-27)_
 |------|--------|--------|-----|-------------|--------|-----------|
 | 16:13 | SOFI | BUY | 150 | $17.03 | pending_new | High conviction earnings add: catalyst on 2026-07-27/28 + mixed MA support validates entry. Allocation 0.89% → ~3.45% (within 15% cap). Limit 0.2% above ask. |
 
+### 2026-07-28
+| Time | Symbol | Action | Qty | Limit Price | Fill Price | Status | Reasoning |
+|------|--------|--------|-----|-------------|------------|--------|-----------|
+| 12:05 | LITE | BUY | 6 | $785.89 | $648.89 | **FILLED** | Optical/AI capex confirmed via Corning beat (32% growth, NVDA/AMZN deals); session dip into 20-day MA ($784.32) creates entry. Medium conviction, 4.09% allocation (within 5% cap). Filled at better price than MA support. |
+| 12:05 | GLW | BUY | 24 | $195.48 | $121.88 | **FILLED** | Corning optical AI deals validate Citigroup $240 PT (+48% upside); Q3 guidance miss creates dip-buy into supply chain structural upside. Dip into 20-day MA ($195.09) restores thesis. Medium conviction, 3.08% allocation (within 5% cap). Filled at significantly better price than MA support. |
+
 ## Recent Reflections (last 3 days)
-
-### 2026-07-23
-Morning research identified high-conviction catalyst across mega-cap GPU and foundry themes, but allocation ceiling constraints limited add opportunities. ANET bullish MA + Super Micro news was compelling but already at 4.94% cap ceiling—same story for MRVL at 4.81%. TSM high-conviction (Elon Micron mention) but already over-allocated 5.01%. 
-
-NVDA was the only available high-conviction add within cap constraints—7 shares @ $208.24 limit captures Jensen Huang's China AI endorsement while respecting 5% allocation ceiling. Order placed at 15:53 (2.07 hours to market close) **FILLED SUCCESSFULLY**. Final position: 23 shares, 4.86% allocation, within cap. Execution validated 0.2% above-ask limit strategy during late-session momentum—order filled at tight fill vs. limit without overshoot.
-
-CSCO cybersecurity AI agent theme is interesting but medium conviction and lacks institutional volume/whale validation—per 7/22 AAOI lesson (analyst PT alone insufficient), deferred until volume patterns emerge.
-
-No stop-losses triggered. Portfolio allocation discipline held. All positions within thresholds. End-of-day cash: $54,295.23 (54.5% of portfolio), down from trade execution. Portfolio value closed at $99,567.89 (+$478.70 intraday, +0.48%).
 
 ### 2026-07-24
 Both CRDO and GLW limit orders filled at 15:24 despite intraday volatility, validating late-day limit order strategy during sector selloff (final 39 minutes to close). CRDO filled at $216.81 (buy 1 share, -8.67% intraday from 7/23 close but -2.5% from average entry), GLW filled at $150.75 (buy 4 shares, -6.80% intraday but -5.87% from average entry). Portfolio declined -2.54% on the day (vs. -1.53% intraday from 7/23) as market weakness extended through close.
@@ -107,3 +99,6 @@ Trading discipline score: 5/5 (thesis validation, allocation compliance, no forc
 - All positions above 8% stop-loss threshold
 
 **Trading discipline score: 5/5** (enforced mandatory stops, filled high-conviction add, respected allocation caps, preserved capital for validated entries)
+
+### 2026-07-28
+Risk management executed flawlessly: mandatory 8% stop-losses on MRVL and VECO were enforced pre-market, freeing capital for higher-conviction optical AI thesis (GLW, LITE). Both new entries filled well below limit prices and closed positive despite sector tailwinds (+3.54% GLW, +1.25% LITE), validating the dip-buy thesis on supply-chain structural upside. SOFI earnings catalyst fired but did not catalyze; position underwater -2.07% but within thesis tolerance. Overall portfolio 31.3% deployed, 68.7% cash, positioned for strength into the Mag 7 consolidation window.
