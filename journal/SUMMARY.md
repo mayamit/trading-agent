@@ -1,26 +1,15 @@
 # Journal Summary
 
-_Generated 2026-07-28 21:31 from 7 of 63 entries (2026-07-20 → 2026-07-28)_
+_Generated 2026-07-29 21:12 from 7 of 64 entries (2026-07-21 → 2026-07-29)_
 
-## Latest Portfolio Status _(from 2026-07-28)_
+## Latest Portfolio Status _(from 2026-07-29)_
 
-- Cash: $64,908.01
-- Positions (8 holdings): ANET, AVGO, FN, MRVL, NVDA, SOFI, TSM, VECO
-- Position Market Value: $29,845.99
-- Total Portfolio Value: $94,754.00
+- Cash: $65,189.34
+- Positions (8 holdings): ANET (28 @ $141.86), AVGO (12 @ $380.99), FN (2 @ $459.07), GLW (24 @ $121.88), LITE (6 @ $648.89), NVDA (23 @ $206.99), SOFI (200 @ $17.14), TSM (12 @ $408.61)
+- Position Market Value: $28,466.72
+- Total Portfolio Value: $93,656.06
 
 ## Recent Trades (last 7 days)
-
-### 2026-07-20
-| Time | Symbol | Action | Qty | Limit Price | Status | Reasoning |
-|------|--------|--------|-----|-------------|--------|-----------|
-| 11:48 | AVGO | BUY | 12 | $382.76 | pending_new | Record $46B ETF inflow TODAY signals institutional momentum. Entry 4.68% allocation (within 5% cap). Limit 0.2% above ask. |
-| 11:48 | GLW | BUY | 30 | $157.65 | pending_new | Re-entry after stop-loss: Citigroup Buy maintained with $240 PT +52.5% upside from current level. Thesis unchanged, consolidation opportunity. Entry 4.41% allocation (within 5% cap). Limit 0.2% above ask. |
-
-**Hold Decisions (within allocation caps):**
-- ANET (4.87% allocation): bullish MA + data center momentum intact; at watchlist ceiling, no add
-- MRVL (4.69% allocation): BofA reset-not-reversal thesis + $360 PT consolidation intact; at watchlist ceiling, no add  
-- SOFI (0.87% allocation): Stock Whisper mention fresh but position underwater (-2.3%); whale signal may have peaked (7/16 lesson); HOLD pending price stabilization
 
 ### 2026-07-21
 | Time | Symbol | Action | Qty | Limit Price | Status | Reasoning |
@@ -72,16 +61,13 @@ _Generated 2026-07-28 21:31 from 7 of 63 entries (2026-07-20 → 2026-07-28)_
 | 12:05 | LITE | BUY | 6 | $785.89 | $648.89 | **FILLED** | Optical/AI capex confirmed via Corning beat (32% growth, NVDA/AMZN deals); session dip into 20-day MA ($784.32) creates entry. Medium conviction, 4.09% allocation (within 5% cap). Filled at better price than MA support. |
 | 12:05 | GLW | BUY | 24 | $195.48 | $121.88 | **FILLED** | Corning optical AI deals validate Citigroup $240 PT (+48% upside); Q3 guidance miss creates dip-buy into supply chain structural upside. Dip into 20-day MA ($195.09) restores thesis. Medium conviction, 3.08% allocation (within 5% cap). Filled at significantly better price than MA support. |
 
+### 2026-07-29
+| Time | Symbol | Action | Qty | Price | Status | Reasoning |
+|------|--------|--------|-----|-------|--------|-----------|
+| 11:48 | FN | SELL | 2 | $410.84 | pending_new | Mandatory 8% stop-loss enforcement: position -10.3% from entry ($459.07 → $411.66). Limit 0.2% below current ask per risk control rule. |
+| 11:48 | SOFI | SELL | 200 | $15.30 | pending_new | Mandatory 8% stop-loss enforcement: position -10.5% from entry ($17.14 → $15.33). Fintech "everything app" milestone thesis broken by market repricing post-earnings. Limit 0.2% below current ask. |
+
 ## Recent Reflections (last 3 days)
-
-### 2026-07-24
-Both CRDO and GLW limit orders filled at 15:24 despite intraday volatility, validating late-day limit order strategy during sector selloff (final 39 minutes to close). CRDO filled at $216.81 (buy 1 share, -8.67% intraday from 7/23 close but -2.5% from average entry), GLW filled at $150.75 (buy 4 shares, -6.80% intraday but -5.87% from average entry). Portfolio declined -2.54% on the day (vs. -1.53% intraday from 7/23) as market weakness extended through close.
-
-No forced stop-losses triggered; all positions remain above -8% loss thresholds from entry prices. ALAB and TSEM showed intraday weakness (-11.84%, -10.39%) but from previous close, not entries. Position allocation discipline held: CRDO at 2.89% (within 3% cap), GLW at 5.09% (within 5% cap), ANET at 5.01% (at ceiling), NVDA at 4.89% (near ceiling). Capital deployed: ~$820 across two fills; $53.5k dry powder retained.
-
-Trading thesis validation: both adds (CRDO, GLW) aligned with prior research (Susquehanna $250 PT, Citigroup $240 PT) and sector dip timing. Sector pullback broader than sector-specific thesis, indicating macro weakness, not thesis break. ANET, NVDA structural narratives intact despite intraday weakness. Hold discipline maintained across allocation-capped positions.
-
-Trading discipline score: 5/5 (thesis validation, allocation compliance, no forced sells, limit orders filled in late-day volatility).
 
 ### 2026-07-27
 **Stop-Loss Execution (CONFIRMED):** Four positions force-closed successfully at market close—ALAB, CRDO, GLW, TSEM all filled and settled. Freed ~$11.4k in capital (cash rose from $53.5k to $64.9k). This validates the hard-rule enforcement pattern established 2026-07-07/16.
@@ -102,3 +88,36 @@ Trading discipline score: 5/5 (thesis validation, allocation compliance, no forc
 
 ### 2026-07-28
 Risk management executed flawlessly: mandatory 8% stop-losses on MRVL and VECO were enforced pre-market, freeing capital for higher-conviction optical AI thesis (GLW, LITE). Both new entries filled well below limit prices and closed positive despite sector tailwinds (+3.54% GLW, +1.25% LITE), validating the dip-buy thesis on supply-chain structural upside. SOFI earnings catalyst fired but did not catalyze; position underwater -2.07% but within thesis tolerance. Overall portfolio 31.3% deployed, 68.7% cash, positioned for strength into the Mag 7 consolidation window.
+
+### 2026-07-29
+**Execution Summary (Final Close):**
+Stop-loss discipline enforced in AM: FN and SOFI both exceeded 8% loss thresholds from entry and were submitted for sale at 11:48 AM ET; both orders filled by market close, freeing ~$3,885 in capital. Cash position now $69,074.18 (~74% of portfolio in cash).
+
+**Critical Issue — Force-Closes Due at Market Open (7/30/2026):**
+Afternoon market weakness pushed three additional positions below the mandatory 8% stop-loss threshold:
+- **LITE**: -9.075% from entry ($648.89 → $590.00) — exceeds 8% floor by 107 bps
+- **NVDA**: -8.359% from entry ($206.99 → $189.69) — exceeds 8% floor by 36 bps  
+- **TSM**: -9.31% from entry ($408.61 → $370.57) — exceeds 8% floor by 131 bps
+
+Per CLAUDE.md mandatory rule: "If a position drops 8% from your entry, close it without waiting." Morning research routine on 7/30 must immediately close all three at market open via limit order (≤ask), before re-evaluating holdings.
+
+**Holdings Affirmed (as of close; will re-evaluate post-forced-closes):**
+- **ANET** ($4,452 mv, +12.08% unrealized): bullish MA, Cramer validation, at 4.78% allocation (within ceiling). **HOLD intact**.
+- **AVGO** ($4,396.92 mv, -3.83% unrealized): within normal consolidation range. **HOLD intact**.
+- **GLW** ($2,893.68 mv, -1.08% unrealized): thesis validated by 7/28 fills (+3.4% recovery intraday still holds). **HOLD intact**.
+
+**Lessons Applied & Validated:**
+- 7/22 lesson (analyst calls need volume validation): correctly deferred MRVL/GFS new entries despite structural news.
+- 7/7/16 stop-loss enforcement: FN/SOFI morning closes worked perfectly; three afternoon-crossed positions confirm monitoring system is functioning.
+
+**Final Portfolio State (as of 4:00 PM ET close):**
+- Cash: $69,074.18
+- Position Market Value: $24,092.31
+- Total Portfolio Value: $93,166.49
+- Unrealized Drawdown: -$1,767.86 (-1.87%) from open due to afternoon market weakness
+- Positions holding (pending 7/30 forced closes): ANET, AVGO, GLW, LITE, NVDA, TSM
+
+**Tomorrow (7/30/2026) Morning Routine Priority:**
+1. Force-close LITE, NVDA, TSM at market open per mandatory 8% rule (limit ≤ ask).
+2. Re-evaluate ANET/AVGO/GLW hold decisions post-closes.
+3. Scan watchlist for fresh entry opportunities if institutional volume signals emerge.
