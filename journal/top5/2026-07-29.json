@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-07-29",
+  "picks": [
+    {
+      "symbol": "ANET",
+      "thesis": "Bullish data center super-cycle with fresh analyst validation at allocation ceiling.",
+      "conviction": "high",
+      "thesis_type": "news+ma",
+      "signal_source": "Cramer bullish 7/29 + bullish MA (171.48 > 162.44)"
+    },
+    {
+      "symbol": "MRVL",
+      "thesis": "Structural capex expansion in India signals geographic diversification thesis.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Marvell $250M India investment plan (7/29)"
+    },
+    {
+      "symbol": "GFS",
+      "thesis": "CHIPS Act institutional funding validates foundry structural play despite bearish MA.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "$300M LoI with CHIPS office (7/29)"
+    },
+    {
+      "symbol": "GLW",
+      "thesis": "Photonics supply chain upside on Citigroup $240 PT thesis, dip-buy consolidation setup.",
+      "conviction": "medium",
+      "thesis_type": "news+ma",
+      "signal_source": "Citigroup PT + analyst update (7/29), mixed MA consolidation"
+    },
+    {
+      "symbol": "SOFI",
+      "thesis": "Fintech transformation milestone and earnings follow-up support growth thesis.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "SoFi 'everything app' milestone (7/29) + Q2 earnings catalyst"
+    }
+  ]
+}
