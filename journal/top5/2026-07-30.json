@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-07-30",
+  "picks": [
+    {
+      "symbol": "ANET",
+      "thesis": "Bullish MA trend + Jim Cramer validation sustains AI networking leadership into consolidation",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Jim Cramer (7/29) + bullish MA 171.48 > 162.44"
+    },
+    {
+      "symbol": "LITE",
+      "thesis": "Photonics/AI infrastructure thesis recovered +13% overnight; 20-day MA support provides framework for hold",
+      "conviction": "medium",
+      "thesis_type": "news+ma",
+      "signal_source": "Corning optical/AI deals (7/28) + recovered from -9% threshold"
+    },
+    {
+      "symbol": "CRDO",
+      "thesis": "Oil trade thesis on Iran diplomacy + mixed MA bullish setup (243.18 > 230.76) creates entry under 3% cap",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Iran diplomacy oil trade (7/24) + mixed MA support"
+    },
+    {
+      "symbol": "TSM",
+      "thesis": "TSMC AI packaging tech fresh catalyst validates recovery from 9% loss threshold; mixed MA support intact",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "TSMC AI packaging news (7/30) + mixed MA 431.52 > 425.75"
+    },
+    {
+      "symbol": "GFS",
+      "thesis": "$300M CHIPS Office structural backing offsets bearish MA technicals; institutional tailwind for foundry AI buildout",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "CHIPS Office $300M award (7/29)"
+    }
+  ]
+}
