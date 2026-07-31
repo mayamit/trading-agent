@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-07-31",
+  "picks": [
+    {
+      "symbol": "GFS",
+      "thesis": "Trump administration CHIPS Act $874M funding for AI chips and advanced packaging; dip-buy opportunity despite bearish MA",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "CHIPS Act $874M award to GlobalFoundries (7/31 9:38 AM)"
+    },
+    {
+      "symbol": "MRVL",
+      "thesis": "Strong AI infrastructure capex from tech giants validates semiconductor cycle; oversold technical despite bearish MA",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "AI infrastructure spending confirmation (7/31 1:11 PM)"
+    },
+    {
+      "symbol": "LITE",
+      "thesis": "Optical AI and photonics demand confirmed by Corning capex; position recovers above 20-day MA support",
+      "conviction": "medium",
+      "thesis_type": "news+ma",
+      "signal_source": "Optical infrastructure validated (7/28) + price recovery trajectory"
+    },
+    {
+      "symbol": "ANET",
+      "thesis": "AI networking consolidation + Cramer validation; bullish technical setup with highest unrealized gains sustains hold",
+      "conviction": "high",
+      "thesis_type": "news+ma",
+      "signal_source": "Cramer 'Terrific' (7/29) + bullish MA crossover"
+    },
+    {
+      "symbol": "AVGO",
+      "thesis": "Microsoft AI pivot validates Broadcom's high-performance infrastructure positioning; consolidating near MA support",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Microsoft AI pivot infrastructure growth (7/30)"
+    }
+  ]
+}
