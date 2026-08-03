@@ -1,20 +1,15 @@
 # Journal Summary
 
-_Generated 2026-07-31 21:21 from 7 of 66 entries (2026-07-23 → 2026-07-31)_
+_Generated 2026-08-03 21:29 from 7 of 67 entries (2026-07-24 → 2026-08-03)_
 
-## Latest Portfolio Status _(from 2026-07-31)_
+## Latest Portfolio Status _(from 2026-08-03)_
 
 - Cash: $69,074.13
-- Positions (6 holdings): ANET (28 @ $177.79), AVGO (12 @ $385.08), GLW (24 @ $140.12), LITE (6 @ $706.36), NVDA (23 @ $195.88), TSM (12 @ $405.29)
-- Unrealized Gain: +$1,541.88 (net, +1.63%)
-- Total Portfolio Value: $95,650.28
+- Positions (6 holdings): ANET (28 @ $141.86 avg, now $181.11), AVGO (12 @ $380.99 avg, now $388.25), GLW (24 @ $121.88 avg, now $145.27), LITE (6 @ $648.89 avg, now $761.51), NVDA (23 @ $206.99 avg, now $206.83), TSM (12 @ $408.61 avg, now $403.41)
+- Unrealized Gains: +$2,357.66 net across all positions (+2.44%)
+- Total Portfolio Value: $96,457.76
 
 ## Recent Trades (last 7 days)
-
-### 2026-07-23
-| Time | Symbol | Action | Qty | Price | Reasoning |
-|------|--------|--------|-----|-------|-----------|
-| 15:53 | NVDA | BUY | 7 | $208.24 | Jensen Huang China AI statement (7/23) validates mega-cap GPU core structural theme. Entry at 3.37% allocation + 7 shares brings to 4.84% within 5% cap. High conviction, thesis fresh, adequate cash, room available. Limit 0.2% above ask. |
 
 ### 2026-07-24
 | Time | Symbol | Action | Qty | Limit Price | Reasoning |
@@ -62,40 +57,18 @@ None. All 5 top picks evaluated and marked HOLD.
 - **LITE, ANET, AVGO**: Already held with intact theses. LITE recovered +9.22% after -9.07% low. ANET at allocation ceiling (5.22%, 0.22% overage due to appreciation). AVGO within cap, thesis validated by Microsoft AI pivot news. All three maintain their positions without modification.
 - **Stop-Loss Status**: No positions at -8% or worse. LITE, NVDA, TSM all recovered above mandatory liquidation threshold from 7/29 lows. Risk management clear.
 
+### 2026-08-03
+| Time | Symbol | Action | Qty | Limit Price | Status | Reasoning |
+|------|--------|--------|-----|-------------|--------|-----------|
+| 12:18 | SOFI | BUY | 200 | $18.04 | pending_new | Post-earnings guidance raise validates fintech "everything app" recovery thesis after 7/29 forced close. High conviction entry within 15% cap (~3.74% target allocation). News catalyst + momentum above 50-day MA. |
+
+**Trading Decisions (HOLD rationale):**
+- **TSM**: HOLD — foundry positioning at 5.01% allocation cap; AI memory demand thesis intact but no new entry available due to cap constraint
+- **NVDA**: HOLD — mega-cap GPU structural theme reinforced by CoreWeave earnings signal; medium conviction, news-only catalyst without institutional volume confirmation (per 2026-07-22 lesson); within 4.93% cap
+- **ANET**: HOLD — networking consolidation thesis intact, mixed MA above 50-day; already at 5.25% cap due to appreciation (+27.67% gain); no new entry possible
+- **MRVL**: SKIP — explicitly flagged as "research only" in morning top5; bearish technical setup (-16% below 20-day MA) contradicts news catalyst; per 2026-07-22 lesson, news-only trades require institutional volume/price-action confirmation
+
 ## Recent Reflections (last 3 days)
-
-### 2026-07-29
-**Execution Summary (Final Close):**
-Stop-loss discipline enforced in AM: FN and SOFI both exceeded 8% loss thresholds from entry and were submitted for sale at 11:48 AM ET; both orders filled by market close, freeing ~$3,885 in capital. Cash position now $69,074.18 (~74% of portfolio in cash).
-
-**Critical Issue — Force-Closes Due at Market Open (7/30/2026):**
-Afternoon market weakness pushed three additional positions below the mandatory 8% stop-loss threshold:
-- **LITE**: -9.075% from entry ($648.89 → $590.00) — exceeds 8% floor by 107 bps
-- **NVDA**: -8.359% from entry ($206.99 → $189.69) — exceeds 8% floor by 36 bps  
-- **TSM**: -9.31% from entry ($408.61 → $370.57) — exceeds 8% floor by 131 bps
-
-Per CLAUDE.md mandatory rule: "If a position drops 8% from your entry, close it without waiting." Morning research routine on 7/30 must immediately close all three at market open via limit order (≤ask), before re-evaluating holdings.
-
-**Holdings Affirmed (as of close; will re-evaluate post-forced-closes):**
-- **ANET** ($4,452 mv, +12.08% unrealized): bullish MA, Cramer validation, at 4.78% allocation (within ceiling). **HOLD intact**.
-- **AVGO** ($4,396.92 mv, -3.83% unrealized): within normal consolidation range. **HOLD intact**.
-- **GLW** ($2,893.68 mv, -1.08% unrealized): thesis validated by 7/28 fills (+3.4% recovery intraday still holds). **HOLD intact**.
-
-**Lessons Applied & Validated:**
-- 7/22 lesson (analyst calls need volume validation): correctly deferred MRVL/GFS new entries despite structural news.
-- 7/7/16 stop-loss enforcement: FN/SOFI morning closes worked perfectly; three afternoon-crossed positions confirm monitoring system is functioning.
-
-**Final Portfolio State (as of 4:00 PM ET close):**
-- Cash: $69,074.18
-- Position Market Value: $24,092.31
-- Total Portfolio Value: $93,166.49
-- Unrealized Drawdown: -$1,767.86 (-1.87%) from open due to afternoon market weakness
-- Positions holding (pending 7/30 forced closes): ANET, AVGO, GLW, LITE, NVDA, TSM
-
-**Tomorrow (7/30/2026) Morning Routine Priority:**
-1. Force-close LITE, NVDA, TSM at market open per mandatory 8% rule (limit ≤ ask).
-2. Re-evaluate ANET/AVGO/GLW hold decisions post-closes.
-3. Scan watchlist for fresh entry opportunities if institutional volume signals emerge.
 
 ### 2026-07-30
 **Session Outcome:** No-trade day. All 5 top picks evaluated; none triggered BUY signals; no SELL signals on existing positions.
@@ -128,3 +101,6 @@ Per CLAUDE.md mandatory rule: "If a position drops 8% from your entry, close it 
 
 ### 2026-07-31
 Trading session executed with full discipline: no forced liquidations required (recovery pattern from 2026-07-30 validated), allocation caps respected (ANET/TSM minor overshoots acceptable given unrealized gains), and conviction thresholds applied (medium-conviction news catalysts deferred pending volume confirmation per 7/22 lesson). Portfolio remains 72% dry powder with 6 holdings, positioned conservatively into potential summer consolidation chop. All existing theses intact; new catalyst candidates (GFS, MRVL) preserved for next session if technical/volume confirmation appears.
+
+### 2026-08-03
+SOFI post-earnings entry executed cleanly at $18.05 avg (200 shares, +2.85% by close) — guidance raise validated the fintech "everything app" recovery thesis after the forced close on 7/29. LITE's strong intraday rebound (+9.67%) reinforces photonics sector momentum; ANET appreciated into 5.33% cap due to +27.67% gain (monitor for trim if rebalance needed). Portfolio closed +$479 intraday ($96,936.79) with no stop-loss triggers. All core positions remain aligned with their theses. Watch SOFI for sustained momentum above $18 support; track ANET allocation if continued appreciation pushes further over cap.
