@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-08-03",
+  "picks": [
+    {
+      "symbol": "SOFI",
+      "thesis": "Post-earnings guidance raise with momentum; within 15% allocation cap",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "SoFi post-earnings raise (2026-08-03)"
+    },
+    {
+      "symbol": "TSM",
+      "thesis": "AI memory demand surge validates foundry positioning; at allocation cap",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "AI infrastructure growth (2026-08-02 news)"
+    },
+    {
+      "symbol": "NVDA",
+      "thesis": "CoreWeave earnings validate AI data-center capex cycle sustainability",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "CoreWeave earnings boom (2026-08-03)"
+    },
+    {
+      "symbol": "ANET",
+      "thesis": "Mixed MA above 50-day maintains networking consolidation narrative; review 5.25% cap overage",
+      "conviction": "medium",
+      "thesis_type": "ma_crossover",
+      "signal_source": "Maintained thesis integrity; cap management"
+    },
+    {
+      "symbol": "MRVL",
+      "thesis": "AI memory showcase fresh catalyst, but -16% below 20-day MA; apply 7/22 lesson—news-only trades need volume validation; research only, do not trade today",
+      "conviction": "low",
+      "thesis_type": "news_catalyst",
+      "signal_source": "AI memory showcase (2026-08-03); flagged per institutional volume lesson"
+    }
+  ]
+}
