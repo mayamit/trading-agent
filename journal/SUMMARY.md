@@ -1,27 +1,24 @@
 # Journal Summary
 
-_Generated 2026-08-03 21:29 from 7 of 67 entries (2026-07-24 → 2026-08-03)_
+_Generated 2026-08-04 21:36 from 7 of 68 entries (2026-07-27 → 2026-08-04)_
 
-## Latest Portfolio Status _(from 2026-08-03)_
+## Latest Portfolio Status _(from 2026-08-04)_
 
-- Cash: $69,074.13
-- Positions (6 holdings): ANET (28 @ $141.86 avg, now $181.11), AVGO (12 @ $380.99 avg, now $388.25), GLW (24 @ $121.88 avg, now $145.27), LITE (6 @ $648.89 avg, now $761.51), NVDA (23 @ $206.99 avg, now $206.83), TSM (12 @ $408.61 avg, now $403.41)
-- Unrealized Gains: +$2,357.66 net across all positions (+2.44%)
-- Total Portfolio Value: $96,457.76
+- Cash: $65,564.12
+- Positions (7 holdings): ANET (28 @ $141.86 avg, now $193.60, +36.5%), AVGO (12 @ $380.99 avg, now $416.16, +9.3%), GLW (24 @ $121.88 avg, now $157.46, +29.2%), LITE (6 @ $648.89 avg, now $852.49, +31.4%), NVDA (23 @ $206.99 avg, now $210.59, +1.7%), SOFI (200 @ $17.55 avg, now $18.42, +4.9%), TSM (12 @ $408.61 avg, now $415.80, +1.8%)
+- Unrealized Gains: +$4,288.54 (+13.05% on deployed capital)
+- Total Portfolio Value: $98,389.98
+- Intraday Portfolio Change: +$1,511.44 (+1.56%)
+
+### Allocation Status
+**Critical:** Four positions now over 5% default cap due to appreciation:
+- ANET: 5.51% (cannot add; Q2 earnings today 2026-08-04)
+- AVGO: 5.08% (cannot add)
+- LITE: 5.20% (cannot add; optical sector rally today +9.3%)
+- TSM: 5.07% (cannot add)
+- All other positions within cap; SOFI within 15% special cap (3.74%)
 
 ## Recent Trades (last 7 days)
-
-### 2026-07-24
-| Time | Symbol | Action | Qty | Limit Price | Reasoning |
-|------|--------|--------|-----|------------|-----------|
-| 15:24 | CRDO | BUY | 1 | $216.81 | Reversal recovery thesis validated by Susquehanna $250 PT; dip-buy on -8.51% intraday weakness while still within 3% allocation cap |
-| 15:24 | GLW | BUY | 4 | $150.75 | Photonics supply chain positioned for +59% upside per Citigroup $240 PT; dip-buying on -3.56% intraday sector pullback within 5% cap |
-
-**Hold Decisions (All Top-5 thesis intact, no sells triggered):**
-- ANET: at allocation ceiling (5.02%); Super Micro $60B orders thesis intact
-- NVDA: nearly at allocation ceiling; Jensen Huang open-source AI endorsement validates mega-cap GPU structural theme  
-- AVGO: thesis interesting (HBC AI architecture mispricing) but medium conviction; lacks whale/institutional volume confirmation per 7/22 lesson—analyst signal alone insufficient
-- GLW/CRDO: see BUY orders above
 
 ### 2026-07-27
 ### Mandatory Stop-Losses (8% rule enforcement, 16:12-16:13)
@@ -68,39 +65,39 @@ None. All 5 top picks evaluated and marked HOLD.
 - **ANET**: HOLD — networking consolidation thesis intact, mixed MA above 50-day; already at 5.25% cap due to appreciation (+27.67% gain); no new entry possible
 - **MRVL**: SKIP — explicitly flagged as "research only" in morning top5; bearish technical setup (-16% below 20-day MA) contradicts news catalyst; per 2026-07-22 lesson, news-only trades require institutional volume/price-action confirmation
 
+### 2026-08-04
+| Time | Symbol | Action | Qty | Price | Reasoning |
+|------|--------|--------|-----|-------|-----------|
+| 16:10 | MRVL | BUY | 22 | $219.84 | High conviction: FMS 2026 unveiling + 10% intraday move validates news catalyst (news + price action > analyst PT alone per 2026-07-22 lesson). Limit 0.2% above ask. |
+| 16:10 | AAOI | BUY | 35 | $139.68 | Medium conviction: Chinese data center ban + intraday rally validates US optical supplier tailwind. News + price-action validation present. Limit 0.2% above ask. |
+| 16:10 | COHR | BUY | 14 | $330.99 | Medium conviction: Chinese data center ban + sector rally validates coherent optical networking supplier thesis. News + sector momentum. Limit 0.2% above ask. |
+
 ## Recent Reflections (last 3 days)
-
-### 2026-07-30
-**Session Outcome:** No-trade day. All 5 top picks evaluated; none triggered BUY signals; no SELL signals on existing positions.
-
-**Key Insights:**
-1. **Stop-Loss Recovery Pattern Validated:** Three positions that exceeded -8% EOD 7/29 (LITE -9.07%, NVDA -8.36%, TSM -9.31%) all recovered above threshold in 7/30 morning session, confirming market bounce invalidated forced liquidations. LITE's +13% overnight move particularly strong.
-
-2. **Allocation Ceiling Constraint:** ANET and TSM both at/over 5% cap; cannot accept new entries despite valid theses. ANET: 5.04%, TSM: 5.06%. Portfolio discipline prevents over-concentration.
-
-3. **Conviction Filtering:** Avoided re-entry on CRDO (3 days post-stop-loss, medium conviction) and entry on GFS (medium conviction, bearish MA, stale data). Per 2026-07-22 lesson, analyst/news catalysts alone insufficient without institutional volume or price-action confirmation. Both trades justified as HOLD despite structural narratives.
-
-4. **Thesis Integrity:** Morning research framing held:
-   - LITE recovery validates photonics/optical infrastructure thesis
-   - TSM fresh packaging catalyst confirms foundry AI positioning
-   - ANET Cramer validation sustains networking consolidation narrative
-   - CRDO oil geopolitical move still too noisy without volume
-   - GFS CHIPS award genuine but needs technical base confirmation
-
-**Portfolio Positioning (EOD):**
-- Cash: $69,074.13 (72.8% dry powder)
-- Deployed: 6 positions totaling $25,882.25 with combined unrealized gain of +$1,926.30
-- Risk: TSM technical overage ($600 @ 5.06%) self-corrects via market movement; acceptable buffer
-- Allocation Discipline: 0/5 picks attempted (all cap-constrained, conviction-mismatched, or recent-loss-protected)
-
-**Tomorrow Monitoring:**
-- LITE: Sustain $680+ support; watch for $800 MA breakout justifying add
-- ANET: If market consolidation brings below 5% cap, evaluate add to thickness
-- GFS: Re-evaluate if technical MA alignment improves or institutional volume appears
-- Market: Week 4 of Q3 typically sees summer consolidation chop; prepared for reduced volatility + lower volume confirmation signals
 
 ### 2026-07-31
 Trading session executed with full discipline: no forced liquidations required (recovery pattern from 2026-07-30 validated), allocation caps respected (ANET/TSM minor overshoots acceptable given unrealized gains), and conviction thresholds applied (medium-conviction news catalysts deferred pending volume confirmation per 7/22 lesson). Portfolio remains 72% dry powder with 6 holdings, positioned conservatively into potential summer consolidation chop. All existing theses intact; new catalyst candidates (GFS, MRVL) preserved for next session if technical/volume confirmation appears.
 
 ### 2026-08-03
 SOFI post-earnings entry executed cleanly at $18.05 avg (200 shares, +2.85% by close) — guidance raise validated the fintech "everything app" recovery thesis after the forced close on 7/29. LITE's strong intraday rebound (+9.67%) reinforces photonics sector momentum; ANET appreciated into 5.33% cap due to +27.67% gain (monitor for trim if rebalance needed). Portfolio closed +$479 intraday ($96,936.79) with no stop-loss triggers. All core positions remain aligned with their theses. Watch SOFI for sustained momentum above $18 support; track ANET allocation if continued appreciation pushes further over cap.
+
+### 2026-08-04
+Three news-catalyst entries executed successfully at favorable fills (all below limit prices), expanding portfolio to 10 holdings. **MRVL** filled at $217.56 (vs $219.84 limit: -0.21%), **AAOI** at $132.41 (vs $139.68 limit: -5.24%), and **COHR** at $330.25 (vs $330.99 limit: -0.22%). All three filled within allocation caps (MRVL 4.84%, AAOI 4.59%, COHR 4.55% of portfolio value). 
+
+**Key Observation:** All three new positions closed slightly underwater (-0.25%, -2.20%, -2.83% from fill), likely due to after-hours price pressure following strong intraday rallies. This is consistent with prior pattern (2026-06-02 lesson): during sector momentum windows (+9-10% intraday moves), positions that fill late in the window often reverse into close. Not a thesis break — fundamental catalysts (FMS unveiling for MRVL, Chinese ban tailwind for AAOI/COHR) remain intact; watch for entry signal validation across 2026-08-05 session.
+
+**Existing Portfolio:** Existing 7 holdings show +$4,640 unrealized gains (+15.1% on deployed capital after adding the three new positions). ANET surged +14.6% on Q2 earnings beat (most significant single-day move in portfolio). All positions remain >-8% from entry; no stop-loss management required. Four positions over default 5% allocation cap due to appreciation (ANET 6.00%, AVGO 5.06%, LITE 5.13%, TSM 5.05%), but all within strategy parameters.
+
+**Discipline Maintained:** Deferred ALAB (earnings catalyst 2026-08-05 AH) and CRDO (AI capex narrative only) per 2026-07-22 lesson: re-entry post-stop-loss requires institutional volume confirmation, not news catalysts alone.
+
+**Portfolio Status (EOD):**
+- Cash: $51,519.77 (52.1% dry powder)
+- 10 positions (7 existing + 3 new)
+- Portfolio Value: $98,740.33
+- Total Unrealized Gains: +$4,640 (+15.1% on deployed capital)
+- Daily Net Change: +$350.33 across ANET (+$757.08) offset by MRVL/AAOI/COHR combined ($-243.14)
+
+**Watch for 2026-08-05:**
+- ALAB earnings AH (2026-08-05 20:00 ET): Re-evaluate if post-earnings volume + institutional flow validates re-entry thesis
+- MRVL/AAOI/COHR positioning: Monitor if FMS catalyst + Chinese ban tailwind sustain through next session or fade; entry thesis validated by news + sector momentum, not price action yet
+- Optical sector (AAOI, COHR, GLW, LITE) leadership from Chinese data center ban narrative — watch if LITE/GLW continue outperforming (currently +8.3%, +8.1% intraday) or normalize toward AAOI/COHR (+0.18%, +0.11% intraday)
+- ANET post-earnings: Monitor for continued momentum or profit-taking consolidation after +14.6% spike
