@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-08-04",
+  "picks": [
+    {
+      "symbol": "MRVL",
+      "thesis": "AI storage next-gen unveiled today at FMS 2026, +10% intraday move, Q2 earnings catalyst ahead.",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Marvell Technology FMS 2026 unveiling (2026-08-04 15:50:08Z), +10% intraday momentum"
+    },
+    {
+      "symbol": "ALAB",
+      "thesis": "Q2 earnings 2026-08-05 after-hours, semiconductor connectivity chipmaker positioned for AI memory demand.",
+      "conviction": "medium",
+      "thesis_type": "earnings",
+      "signal_source": "Astera Labs Q2 earnings 2026-08-05"
+    },
+    {
+      "symbol": "AAOI",
+      "thesis": "Trump administration Chinese data center ban tailwind for US optical suppliers; stock jumping today on news validation.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Reuters Chinese data center ban (2026-08-04 10:07:18Z), AAOI intraday rally (2026-08-04 14:54:05Z)"
+    },
+    {
+      "symbol": "COHR",
+      "thesis": "Coherent optical networking equipment, Chinese data center ban positive for domestic US suppliers, sector rally today.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Reuters Chinese data center ban (2026-08-04 10:07:18Z)"
+    },
+    {
+      "symbol": "CRDO",
+      "thesis": "AI capex narrative ($1.2T hyperscaler spend per BofA), semiconductor connections play positioned for AI infrastructure buildout.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "BofA hyperscaler AI capex report (2026-08-04 14:51:31Z); note recent stop-loss (2026-07-27), requires volume/whale confirmation per 2026-07-22 lesson"
+    }
+  ]
+}
