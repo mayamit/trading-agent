@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-08-05",
+  "picks": [
+    {
+      "symbol": "LITE",
+      "thesis": "Chinese optical transceivers ban expands demand for US suppliers; structural multi-week tailwind for Lumentum.",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Trump administration Chinese optical components ban (Reuters 2026-08-04)"
+    },
+    {
+      "symbol": "AAOI",
+      "thesis": "Chinese data center import ban drives US optical supplier margin expansion; sector leadership positioning.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Chinese data center equipment ban (Reuters 2026-08-04)"
+    },
+    {
+      "symbol": "COHR",
+      "thesis": "Coherent optical networking benefits from Chinese import restrictions on data center equipment.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Chinese data center equipment ban (Reuters 2026-08-04)"
+    },
+    {
+      "symbol": "ANET",
+      "thesis": "Post-earnings bullish momentum (20-day > 50-day MA) + analyst upgrade validates network consolidation thesis.",
+      "conviction": "medium",
+      "thesis_type": "news+ma",
+      "signal_source": "Wells Fargo analyst upgrade, PT $255 (+29.7% upside) + post-earnings momentum"
+    },
+    {
+      "symbol": "SOFI",
+      "thesis": "Bullish MA positioning above both averages validates fintech 'everything app' recovery after earnings guidance raise.",
+      "conviction": "medium",
+      "thesis_type": "news+ma",
+      "signal_source": "Post-earnings guidance raise + bullish MA crossover (20 > 50)"
+    }
+  ]
+}
