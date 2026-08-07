@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-08-07",
+  "picks": [
+    {
+      "symbol": "ANET",
+      "thesis": "Only mixed MA signal + Barclays $289 PT (83% upside) post-earnings momentum in bearish environment",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Barclays analyst upgrade $289 PT (2026-08-06)"
+    },
+    {
+      "symbol": "COHR",
+      "thesis": "Held position, photonics ETF institutional expansion validates Chinese ban optical supplier thesis",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Roundhill photonics ETF launch (2026-08-06, institutional move)"
+    },
+    {
+      "symbol": "GLW",
+      "thesis": "Held position, Roundhill photonics ETF expansion + optical sector leadership (3.87% allocation runway)",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Roundhill photonics ETF launch (2026-08-06)"
+    },
+    {
+      "symbol": "MRVL",
+      "thesis": "Held position, AI infrastructure leveraged ETF trend validates capex theme, room to add (4.84%)",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "AI infrastructure leveraged ETF inflows (2026-08-06)"
+    },
+    {
+      "symbol": "AAOI",
+      "thesis": "Held position, Chinese data center ban optical supplier theme sustained through session, room to add (4.59%)",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Chinese data center ban sector theme (needs volume follow-through per 2026-07-22 lesson)"
+    }
+  ]
+}
