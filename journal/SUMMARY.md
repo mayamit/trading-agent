@@ -1,31 +1,14 @@
 # Journal Summary
 
-_Generated 2026-08-07 00:56 from 7 of 70 entries (2026-07-29 → 2026-08-06)_
+_Generated 2026-08-07 20:58 from 7 of 71 entries (2026-07-30 → 2026-08-07)_
 
-## Latest Portfolio Status _(from 2026-08-06)_
+## Latest Portfolio Status _(from 2026-08-07)_
 
 - Cash: $47,823.75
-- Positions (10 holdings): ANET (28 @ $141.86 avg, now $193.00, +36.0%), AVGO (12 @ $380.99 avg, now $421.37, +10.6%), COHR (14 @ $330.25 avg, now $341.03, +3.3%), GLW (24 @ $121.88 avg, now $158.97, +30.4%), LITE (6 @ $648.89 avg, now $861.33, +32.7%), MRVL (22 @ $217.56 avg, now $213.30, -1.9%), NVDA (23 @ $206.99 avg, now $219.41, +6.0%), SOFI (400 @ $18.015 avg, now $18.07, +0.3%), TSM (12 @ $408.61 avg, now $419.69, +2.7%), AAOI (35 @ $132.42 avg, now $129.20, -2.4%)
-- Total Value: $98,573.83
-- Unrealized Gains: +$4,545.48 (+9.5% on deployed capital)
-
-### Allocation Status
-**Positions over 5% default cap:**
-- ANET: 5.56% (cannot add; post-earnings momentum sustained through 2026-08-06)
-- LITE: 5.23% (cannot add; optical sector strength +4.24% intraday)
-- AVGO: 5.13% (cannot add)
-- NVDA: 5.12% (cannot add)
-- TSM: 5.11% (cannot add)
-- SOFI: 7.34% (within 15% special cap after 2026-08-05 position doubling)
-- Room to add: COHR (4.84%), AAOI (4.59%), MRVL (4.84%), GLW (3.87%)
+- Positions (10 holdings): AAOI (35 @ $132.42 avg, now $138.55, +4.6%), ANET (28 @ $141.86 avg, now $190.26, +34.1%), AVGO (12 @ $380.99 avg, now $425.64, +11.7%), COHR (14 @ $330.25 avg, now $369.61, +11.9%), GLW (24 @ $121.88 avg, now $165.49, +35.8%), LITE (6 @ $648.89 avg, now $878.33, +35.4%), MRVL (22 @ $217.56 avg, now $210.33, -3.3%), NVDA (23 @ $206.99 avg, now $222.97, +7.7%), SOFI (400 @ $18.015 avg, now $18.36, +1.9%), TSM (12 @ $408.61 avg, now $414.35, +1.4%)
+- Total Value: $99,592.20
 
 ## Recent Trades (last 7 days)
-
-### 2026-07-29
-| Time | Symbol | Action | Qty | Price | Status | Reasoning |
-|------|--------|--------|-----|-------|--------|-----------|
-| 11:48 | FN | SELL | 2 | $410.84 | pending_new | Mandatory 8% stop-loss enforcement: position -10.3% from entry ($459.07 → $411.66). Limit 0.2% below current ask per risk control rule. |
-| 11:48 | SOFI | SELL | 200 | $15.30 | pending_new | Mandatory 8% stop-loss enforcement: position -10.5% from entry ($17.14 → $15.33). Fintech "everything app" milestone thesis broken by market repricing post-earnings. Limit 0.2% below current ask. |
 
 ### 2026-07-31
 None. All 5 top picks evaluated and marked HOLD.
@@ -56,29 +39,20 @@ None. All 5 top picks evaluated and marked HOLD.
 ### 2026-08-06
 None. Portfolio held. All positions remain above -8% mandatory stop-loss threshold; no forced liquidations.
 
+### 2026-08-07
+| Time | Symbol | Action | Qty | Price | Reasoning |
+|------|--------|--------|-----|-------|-----------|
+| 14:50 | GLW | BUY | 6 | $166.50 | Optical sector institutional ETF flow validation (Roundhill photonics launch 2026-08-06); medium conviction. Position had 1.0% room within 5% cap. Institutional volume follow-through confirmed per 2026-07-22 lesson. Intraday +5.3% sector momentum validates entry. Limit 0.2% above current ask. |
+
+**Execution Status:** GLW order pending_new (awaiting fill). Limit $166.50 well within 0.2% of current ask ($166.16).
+
+**Rationale for Non-Execution:**
+- **ANET**: HOLD — at allocation ceiling 5.38% despite high-conviction Barclays $289 PT analyst upgrade (+52.4% upside). Thesis intact but cannot add due to cap constraint.
+- **COHR**: HOLD (revised from morning BUY) — intraday +10.6% surge appreciated position to 5.22% allocation, exceeding 5% cap. Morning analysis correct when allocation was 4.63%; current prices prohibit add.
+- **MRVL**: HOLD — thesis intact (AI infrastructure ETF capex) but position weak (-3.3% from entry). Requires volume follow-through confirmation per 2026-07-22 lesson before adding to underwater position.
+- **AAOI**: HOLD — intraday +11.5% rally promising, but morning explicitly notes "needs volume confirmation per 2026-07-22 lesson". Generic analyst forecasts insufficient; awaiting institutional order flow validation.
+
 ## Recent Reflections (last 3 days)
-
-### 2026-08-04
-Three news-catalyst entries executed successfully at favorable fills (all below limit prices), expanding portfolio to 10 holdings. **MRVL** filled at $217.56 (vs $219.84 limit: -0.21%), **AAOI** at $132.41 (vs $139.68 limit: -5.24%), and **COHR** at $330.25 (vs $330.99 limit: -0.22%). All three filled within allocation caps (MRVL 4.84%, AAOI 4.59%, COHR 4.55% of portfolio value). 
-
-**Key Observation:** All three new positions closed slightly underwater (-0.25%, -2.20%, -2.83% from fill), likely due to after-hours price pressure following strong intraday rallies. This is consistent with prior pattern (2026-06-02 lesson): during sector momentum windows (+9-10% intraday moves), positions that fill late in the window often reverse into close. Not a thesis break — fundamental catalysts (FMS unveiling for MRVL, Chinese ban tailwind for AAOI/COHR) remain intact; watch for entry signal validation across 2026-08-05 session.
-
-**Existing Portfolio:** Existing 7 holdings show +$4,640 unrealized gains (+15.1% on deployed capital after adding the three new positions). ANET surged +14.6% on Q2 earnings beat (most significant single-day move in portfolio). All positions remain >-8% from entry; no stop-loss management required. Four positions over default 5% allocation cap due to appreciation (ANET 6.00%, AVGO 5.06%, LITE 5.13%, TSM 5.05%), but all within strategy parameters.
-
-**Discipline Maintained:** Deferred ALAB (earnings catalyst 2026-08-05 AH) and CRDO (AI capex narrative only) per 2026-07-22 lesson: re-entry post-stop-loss requires institutional volume confirmation, not news catalysts alone.
-
-**Portfolio Status (EOD):**
-- Cash: $51,519.77 (52.1% dry powder)
-- 10 positions (7 existing + 3 new)
-- Portfolio Value: $98,740.33
-- Total Unrealized Gains: +$4,640 (+15.1% on deployed capital)
-- Daily Net Change: +$350.33 across ANET (+$757.08) offset by MRVL/AAOI/COHR combined ($-243.14)
-
-**Watch for 2026-08-05:**
-- ALAB earnings AH (2026-08-05 20:00 ET): Re-evaluate if post-earnings volume + institutional flow validates re-entry thesis
-- MRVL/AAOI/COHR positioning: Monitor if FMS catalyst + Chinese ban tailwind sustain through next session or fade; entry thesis validated by news + sector momentum, not price action yet
-- Optical sector (AAOI, COHR, GLW, LITE) leadership from Chinese data center ban narrative — watch if LITE/GLW continue outperforming (currently +8.3%, +8.1% intraday) or normalize toward AAOI/COHR (+0.18%, +0.11% intraday)
-- ANET post-earnings: Monitor for continued momentum or profit-taking consolidation after +14.6% spike
 
 ### 2026-08-05
 **EOD Close:** SOFI order executed successfully (400 shares @ $18.015 avg, -2.8% intraday chop). Allocation discipline maintained: all positions above -8% threshold. Chinese optical ban theme held structural conviction through late-session pullback (LITE -3.4%, AAOI -3.3%, COHR flat vs. morning +3.4%), but weakness signals market still pricing catalyst durability as uncertain. ANET +3.0% today (+42.1% from entry) continues exceptional post-earnings momentum; watch next session for consolidation exhaustion signal. Optical sector positioning (LITE/AAOI/COHR) captures theme but marginal new-capital room + medium conviction on secondary plays (AAOI, COHR) justify HOLD. SOFI thesis validated by fill but intraday weakness (-212 PnL vs. +61 unrealized) consistent with 2026-08-04 lesson: late-session momentum reversals don't negate news-based thesis. Monitor ANET for continuation bias, optical theme for catalyst follow-through on 2026-08-06.
