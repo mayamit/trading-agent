@@ -1,0 +1,10 @@
+{
+  "trading_day": "2026-08-10",
+  "picks": [
+    {"symbol": "ANET", "thesis": "Bullish MA crossover + Barclays $289 PT analyst upgrade validates uptrend; +35% gain intact", "conviction": "high", "thesis_type": "news_catalyst", "signal_source": "Barclays upgrade 2026-08-06"},
+    {"symbol": "SOFI", "thesis": "Post-earnings guidance raise validates fintech 'everything app' thesis; bullish MA, room to add within 15% cap", "conviction": "high", "thesis_type": "news_catalyst", "signal_source": "Post-earnings recovery"},
+    {"symbol": "LITE", "thesis": "Earnings catalyst + Nvidia backing + optical sector institutional ETF flow; mixed MA but positive momentum", "conviction": "medium", "thesis_type": "earnings", "signal_source": "Lumentum earnings 2026-08-10"},
+    {"symbol": "AVGO", "thesis": "Samsung AI deal + structural GPU infrastructure theme; mixed MA, Sept 2 earnings near-term catalyst", "conviction": "medium", "thesis_type": "news+ma", "signal_source": "Samsung partnership + earnings"},
+    {"symbol": "COHR", "thesis": "Optical sector institutional follow-through; Chinese data center ban tailwind, requires volume validation per 2026-07-22 lesson", "conviction": "medium", "thesis_type": "news_catalyst", "signal_source": "Sector momentum + earnings volatility"}
+  ]
+}
