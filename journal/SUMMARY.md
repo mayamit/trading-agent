@@ -1,22 +1,14 @@
 # Journal Summary
 
-_Generated 2026-08-10 21:01 from 7 of 72 entries (2026-07-31 → 2026-08-10)_
+_Generated 2026-08-11 21:04 from 7 of 73 entries (2026-08-03 → 2026-08-11)_
 
-## Latest Portfolio Status _(from 2026-08-10)_
+## Latest Portfolio Status _(from 2026-08-11)_
 
-- Cash: $46,826.18
-- Positions (10 holdings): AAOI (35 @ $132.42 avg, now $132.34, -0.06%), ANET (28 @ $141.86 avg, now $192.04, +35.37%), AVGO (12 @ $380.99 avg, now $429.70, +12.79%), COHR (14 @ $330.25 avg, now $336.43, +1.87%), GLW (30 @ $130.76 avg, now $163.20, +24.81%), LITE (6 @ $648.89 avg, now $841.39, +29.67%), MRVL (22 @ $217.56 avg, now $217.64, +0.03%), NVDA (23 @ $206.99 avg, now $220.41, +6.48%), SOFI (400 @ $18.015 avg, now $18.19, +0.97%), TSM (12 @ $408.61 avg, now $423.28, +3.59%)
-- Total Value: $98,850.45
+- Cash: $43,208.17
+- Positions (10 holdings): AAOI (35 @ $132.42 avg, now $130.31, -0.16%), ANET (28 @ $141.86 avg, now $195.92, +38.10%), AVGO (12 @ $380.99 avg, now $421.50, +10.63%), COHR (14 @ $330.25 avg, now $327.75, -0.76%), GLW (30 @ $130.76 avg, now $159.82, +22.24%), LITE (6 @ $648.89 avg, now $806.33, +24.26%), MRVL (22 @ $217.56 avg, now $210.37, -3.31%), NVDA (23 @ $206.99 avg, now $218.89, +5.75%), SOFI (600 @ $18.04 avg, now $18.26, +1.19%), TSM (12 @ $408.61 avg, now $421.74, +3.21%)
+- Total Value: $98,204.34
 
 ## Recent Trades (last 7 days)
-
-### 2026-07-31
-None. All 5 top picks evaluated and marked HOLD.
-
-**Decision Rationale:**
-- **GFS, MRVL**: Medium conviction, news-only catalysts (government funding, sector capex). Per 2026-07-22 lesson, analyst/news signals alone without institutional volume confirmation insufficient for entry. Both showing bearish MA + dip setup, but lack whale/volume validation. Holdings at medium conviction level do not justify new entries given no forced liquidation context.
-- **LITE, ANET, AVGO**: Already held with intact theses. LITE recovered +9.22% after -9.07% low. ANET at allocation ceiling (5.22%, 0.22% overage due to appreciation). AVGO within cap, thesis validated by Microsoft AI pivot news. All three maintain their positions without modification.
-- **Stop-Loss Status**: No positions at -8% or worse. LITE, NVDA, TSM all recovered above mandatory liquidation threshold from 7/29 lows. Risk management clear.
 
 ### 2026-08-03
 | Time | Symbol | Action | Qty | Limit Price | Status | Reasoning |
@@ -57,12 +49,24 @@ None. Portfolio held. All positions remain above -8% mandatory stop-loss thresho
 |------|--------|--------|-----|-------|--------|-----------|
 | 14:54 | SOFI | BUY | 200 | $18.16 | pending_new | High conviction: post-earnings guidance raise validates fintech "everything app" recovery thesis. Bullish MA (20-day $17.33 > 50-day $17.24) confirms uptrend. Within 15% allocation cap (7.36% → ~10.9% if filled). Morning top5 explicitly recommends "room to add within 15% cap." Day order expires EOD. Fills well within 0.2% of ask. |
 
+### 2026-08-11
+| Time | Symbol | Action | Qty | Limit Price | Status | Reasoning |
+|------|--------|--------|-----|-------------|--------|-----------|
+| 14:54 | SOFI | BUY | 204 | $18.40 | pending_new | High conviction: post-earnings guidance raise validates fintech recovery thesis. Bullish MA ($17.38 > $17.30) intact. Room within 15% allocation cap (current 11.15% → ~14.9% if filled). Limit 0.2% above ask. |
+
 ## Recent Reflections (last 3 days)
-
-### 2026-08-06
-Portfolio consolidated modestly (-$237.51, -0.24%) after catalyst-driven rallies on 2026-08-04 and 2026-08-05. Optical sector (LITE +4.2%, COHR +3.9%, GLW +1.5%) showed sustained institutional buying, validating Chinese ban narrative durability. Recent additions (AAOI -2.4%, MRVL -1.9%) showing weakness—likely profit-taking on entries; theses remain intact but require follow-through confirmation. ANET consolidating (-2.2% today) after exceptional post-earnings surge; Wells Fargo $255 PT (+29.7%) now unvalidated by price follow-through—watch for inflection signal or reversal next session. Optical thesis (LITE, COHR, GLW) shows strongest technical follow-through; secondary optical plays (AAOI, MRVL) need institutional volume confirmation per 2026-07-22 lesson before sizing increases. SOFI momentum cooling after earnings-driven recovery; hold current 7.34% position at 15% cap without adds.
-
-**Watch for 2026-08-07:** Optical sector institutional follow-through continuation or fade; ANET consolidation breakout direction; MRVL/AAOI thesis validation via volume or reversal signal.
 
 ### 2026-08-10
 SOFI BUY order successfully filled at $18.16 (200 shares), thesis validated by post-earnings guidance raise and bullish MA. Position now 600 shares at 11.07% allocation, within cap and positioned for continued fintech sector recovery. Market closed red (-$721, -0.74%) on sector-wide volatility; COHR endured -13.7% intraday dip but recovered to -0.95% close, confirming institutional support thesis at $330 entry level. All holdings survived stress test above stop-loss thresholds. Tomorrow: monitor SOFI momentum continuation and LITE earnings catalyst follow-through; watch for continued sector consolidation in ANET/LITE narratives.
+
+### 2026-08-11
+SOFI limit order filled successfully (204 shares @ $18.40), expanding position to 804 shares (14.75% of portfolio). Position now underwater at -0.73% as stock declined to $17.9885, but thesis intact — post-earnings guidance raise + bullish MA ($17.38 > $17.30) fundamentals remain. ANET continued consolidation (+39.34% unrealized), LITE now +27.01% (+3 points since morning). Portfolio +$143 net, all 10 holdings above -8% threshold; monitor SOFI bounce near $17.38 MA support tomorrow as earnings-recovery trade stabilizes.
+
+**Decisions by conviction level:**
+- SOFI (high): BUY EXECUTED — earnings validation + bullish MA + cap room justified add; order filled at limit despite bearish short-term print
+- ANET (high): HOLD — allocation cap constraint (5.59% > 5% watchlist limit); thesis intact but cannot scale
+- LASR (medium): SKIP — MA-only signal lacks volume/price-action confirmation per 2026-07-22 lesson; photonics thesis valid but timing premature
+- LITE (medium): HOLD — allocation ceiling reached (4.94% of cap); earnings catalyst well-timed but position appropriately sized
+- TSEM (medium): SKIP — news catalyst (PDK announcement) lacks institutional follow-through; mixed MA ($230.77 < $248.53) contradicts bullish narrative; await price-action validation per 2026-07-22 lesson
+
+**Position health:** All 10 holdings remain above -8% stop-loss threshold. Optical sector (LITE +27.01%, COHR +0.44%, GLW +22.37%) shows institutional support; SOFI underwater post-fill but thesis intact. Tomorrow: monitor SOFI bounce near $17.38 MA support and sector momentum continuation through week-end.
