@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-08-11",
+  "picks": [
+    {
+      "symbol": "SOFI",
+      "thesis": "Fintech recovery post-earnings guidance raise with bullish MA confirmation (20>50)",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Post-earnings guidance raise, bullish MA $17.38 > $17.30"
+    },
+    {
+      "symbol": "ANET",
+      "thesis": "Networking + AI infrastructure consolidation with Barclays $289 PT (+52% upside)",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Barclays upgrade to Overweight, $289 PT, bullish MA $176 > $168"
+    },
+    {
+      "symbol": "LASR",
+      "thesis": "Laser/photonics AI infrastructure momentum with bullish MA breakout",
+      "conviction": "medium",
+      "thesis_type": "ma_crossover",
+      "signal_source": "Bullish MA formation $69.0 ≈ $68.9, market rally +1.2%"
+    },
+    {
+      "symbol": "LITE",
+      "thesis": "Optical infrastructure positioned for Coherent earnings volatility (next week $10.3B swing)",
+      "conviction": "medium",
+      "thesis_type": "earnings_catalyst",
+      "signal_source": "Coherent earnings catalyst, held position, sector consolidation"
+    },
+    {
+      "symbol": "TSEM",
+      "thesis": "Tower Semiconductor photonics play via OpenLight PDK adoption in Cadence EDA",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Tower + OpenLight PDK announcement (2026-08-11), photonics sector tail"
+    }
+  ]
+}
