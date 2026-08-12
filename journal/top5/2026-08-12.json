@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-08-12",
+  "picks": [
+    {
+      "symbol": "ANET",
+      "thesis": "Bullish MA (20-day > 50-day) + Barclays analyst upgrade (PT $289) validates networking consolidation thesis with institutional momentum.",
+      "conviction": "high",
+      "thesis_type": "news+ma",
+      "signal_source": "Barclays Overweight PT $289 (6 days ago) + bullish MA"
+    },
+    {
+      "symbol": "LITE",
+      "thesis": "JP Morgan analyst upgrade (PT $1280) today confirms photonics optical networking demand from AI data center buildout; prior +24% gain shows thesis momentum.",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "JP Morgan Overweight PT $1280 (today 2026-08-12)"
+    },
+    {
+      "symbol": "SOFI",
+      "thesis": "Bullish MA confirms fintech earnings recovery thesis; room within 15% allocation cap to add on post-earnings guidance validation.",
+      "conviction": "high",
+      "thesis_type": "news+ma",
+      "signal_source": "Post-earnings guidance raise (2026-08-04) + bullish MA support"
+    },
+    {
+      "symbol": "AVGO",
+      "thesis": "JPMorgan chip-boom narrative ($2.25T global semiconductor by 2027) with AI growth spreading beyond memory validates infrastructure consolidation thesis.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "JPMorgan analyst narrative (2 days ago)"
+    },
+    {
+      "symbol": "TSM",
+      "thesis": "Bullish momentum news (52-week highs achieved) validates foundry positioning thesis; mixed MA on support confirms hold/add opportunity.",
+      "conviction": "medium",
+      "thesis_type": "news+ma",
+      "signal_source": "Technicals improving, near 52-week highs (today 2026-08-12)"
+    }
+  ]
+}
