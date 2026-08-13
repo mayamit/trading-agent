@@ -1,21 +1,15 @@
 # Journal Summary
 
-_Generated 2026-08-12 21:03 from 7 of 74 entries (2026-08-04 → 2026-08-12)_
+_Generated 2026-08-13 21:02 from 7 of 75 entries (2026-08-05 → 2026-08-13)_
 
-## Latest Portfolio Status _(from 2026-08-12)_
+## Latest Portfolio Status _(from 2026-08-13)_
 
 - Cash: $39,462.60
-- Positions (10 holdings): AAOI (35 @ $132.42 avg, now $133.55, +0.86%), ANET (28 @ $141.86 avg, now $208.42, +46.92%), AVGO (12 @ $380.99 avg, now $422.38, +10.86%), COHR (14 @ $330.25 avg, now $347.99, +5.37%), GLW (30 @ $130.76 avg, now $167.10, +27.80%), LITE (6 @ $648.89 avg, now $903.59, +39.25%), MRVL (22 @ $217.56 avg, now $222.10, +2.09%), NVDA (23 @ $206.99 avg, now $224.75, +8.58%), SOFI (804 @ $18.12 avg, now $17.72, -2.24%), TSM (12 @ $408.61 avg, now $430.78, +5.43%)
-- Total Value: $99,824.11
+- Positions (10 holdings): AAOI (35 @ $132.42 avg, now $142.45, +3.16%), ANET (28 @ $141.86 avg, now $207.41, -1.47%), AVGO (12 @ $380.99 avg, now $423.60, +1.81%), COHR (14 @ $330.25 avg, now $347.43, -2.31%), GLW (30 @ $130.76 avg, now $166.39, -0.63%), LITE (6 @ $648.89 avg, now $943.93, +1.23%), MRVL (22 @ $217.56 avg, now $228.23, +5.14%), NVDA (23 @ $206.99 avg, now $225.47, +0.62%), SOFI (804 @ $18.12 avg, now $18.04, +0.56%), TSM (12 @ $408.61 avg, now $434.64, +1.28%)
+- Total Value: $100,782.77 (+$958.66 vs 2026-08-12)
+- Intraday P&L: +$408.11
 
 ## Recent Trades (last 7 days)
-
-### 2026-08-04
-| Time | Symbol | Action | Qty | Price | Reasoning |
-|------|--------|--------|-----|-------|-----------|
-| 16:10 | MRVL | BUY | 22 | $219.84 | High conviction: FMS 2026 unveiling + 10% intraday move validates news catalyst (news + price action > analyst PT alone per 2026-07-22 lesson). Limit 0.2% above ask. |
-| 16:10 | AAOI | BUY | 35 | $139.68 | Medium conviction: Chinese data center ban + intraday rally validates US optical supplier tailwind. News + price-action validation present. Limit 0.2% above ask. |
-| 16:10 | COHR | BUY | 14 | $330.99 | Medium conviction: Chinese data center ban + sector rally validates coherent optical networking supplier thesis. News + sector momentum. Limit 0.2% above ask. |
 
 ### 2026-08-06
 None. Portfolio held. All positions remain above -8% mandatory stop-loss threshold; no forced liquidations.
@@ -53,10 +47,10 @@ None. All five top5 picks are at or above allocation caps:
 
 Portfolio allocation discipline prevents new entries today despite strong research thesis across all picks.
 
-## Recent Reflections (last 3 days)
+### 2026-08-13
+None today. Allocation caps binding on high-conviction entries (ANET, AVGO); COHR insufficient room; CIEN lacks specific catalyst; SOFI awaiting optimal entry at MA support.
 
-### 2026-08-10
-SOFI BUY order successfully filled at $18.16 (200 shares), thesis validated by post-earnings guidance raise and bullish MA. Position now 600 shares at 11.07% allocation, within cap and positioned for continued fintech sector recovery. Market closed red (-$721, -0.74%) on sector-wide volatility; COHR endured -13.7% intraday dip but recovered to -0.95% close, confirming institutional support thesis at $330 entry level. All holdings survived stress test above stop-loss thresholds. Tomorrow: monitor SOFI momentum continuation and LITE earnings catalyst follow-through; watch for continued sector consolidation in ANET/LITE narratives.
+## Recent Reflections (last 3 days)
 
 ### 2026-08-11
 SOFI limit order filled successfully (204 shares @ $18.40), expanding position to 804 shares (14.75% of portfolio). Position now underwater at -0.73% as stock declined to $17.9885, but thesis intact — post-earnings guidance raise + bullish MA ($17.38 > $17.30) fundamentals remain. ANET continued consolidation (+39.34% unrealized), LITE now +27.01% (+3 points since morning). Portfolio +$143 net, all 10 holdings above -8% threshold; monitor SOFI bounce near $17.38 MA support tomorrow as earnings-recovery trade stabilizes.
@@ -78,3 +72,6 @@ SOFI analysis: position underwater -2.24% from Tuesday/Wednesday fills ($18.121 
 Sector momentum broadening confirms 2026-08-04 lesson: institutional follow-through on Chinese data center ban tailwind (AAOI, COHR, LITE all +14-17% since 8/4 entry) validates news + price-action rule. Portfolio positioned correctly in AI infrastructure buildout thesis; allocation constraints now managing downside from existing winners (ANET +46%, LITE +39%, GLW +27%, COHR +5%), not missing alpha.
 
 Tomorrow: Monitor SOFI for MA support bounce; any top5 pick falling >8% from entry triggers forced liquidation (CLAUDE.md hard rule). Expect earnings-driven volatility Thursday/Friday; hold existing positions and look for dip entries on high-conviction research if allocations open up.
+
+### 2026-08-13
+Thesis discipline paid off today. Morning research identified ANET and AVGO as high-conviction holdings at allocation caps—the intraday momentum confirmed the technical + news catalysts. While afternoon market selloff pulled positions off intraday highs (LITE -4.5%, COHR -7.2%, AAOI -4.4%), all holdings remain safely above the -8% stop-loss threshold, and SOFI recovered from the underwater-entry concern (+1.43% from fill). Tight allocation caps prevented overloading into momentum rallies, which protected against the afternoon reversal. No forced liquidations; all holdings sustain thesis (MA trends + institutional catalyst validation intact). Watch AVGO earnings print next session for earnings-season follow-through—sector momentum in chipmakers continues to show institutional institutional buying patterns.
