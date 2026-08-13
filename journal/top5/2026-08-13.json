@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-08-13",
+  "picks": [
+    {
+      "symbol": "ANET",
+      "thesis": "Bullish MA (176.8 > 169.19) + fresh Arista competitive threat news validates networking infrastructure upside into Q3.",
+      "conviction": "high",
+      "thesis_type": "news+ma",
+      "signal_source": "Arista competitive pressure article (2026-08-13), bullish technical setup"
+    },
+    {
+      "symbol": "AVGO",
+      "thesis": "Q3 earnings catalyst + tech rally momentum validates chipmaker demand thesis; bullish momentum ahead of print.",
+      "conviction": "high",
+      "thesis_type": "earnings",
+      "signal_source": "Q3 earnings catalyst (2026-08-13), tech rally momentum"
+    },
+    {
+      "symbol": "COHR",
+      "thesis": "Morgan Stanley PT raise to $375 (equal-weight maintain) validates optical networking infrastructure thesis; analyst refresh on institutional radar.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Morgan Stanley PT raise to $375 (2026-08-13)"
+    },
+    {
+      "symbol": "CIEN",
+      "thesis": "Fiber optic sector momentum from LITE Q4 earnings success (1-day-old tailwind); surging on institutional follow-through in connectivity infrastructure.",
+      "conviction": "medium",
+      "thesis_type": "news+ma",
+      "signal_source": "LITE Q4 earnings catalyst (2026-08-12), fiber optic sector surge"
+    },
+    {
+      "symbol": "SOFI",
+      "thesis": "Truist PT raise to $19 + bullish MA (17.4 > 17.35) validates post-earnings recovery; room within 15% allocation cap for add on support bounce.",
+      "conviction": "medium",
+      "thesis_type": "news+ma",
+      "signal_source": "Truist PT raise (2026-08-12), post-earnings bullish MA"
+    }
+  ]
+}
