@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-08-14",
+  "picks": [
+    {
+      "symbol": "SOFI",
+      "thesis": "Fintech recovery thesis validated by Truist PT raise to $19; bullish MA support ($17.40 > $17.35) confirms trend; room to add within 15% allocation cap (~13 shares).",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Truist Securities PT $19 raise (2026-08-12)"
+    },
+    {
+      "symbol": "ANET",
+      "thesis": "Networking leadership thesis intact; Cisco losing market share to Arista, validating competitive moat; bullish MA ($176.80 > $169.19) confirms uptrend.",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Cisco competitive weakness signal vs Arista (2026-08-13)"
+    },
+    {
+      "symbol": "TSM",
+      "thesis": "Nvidia Feynman 2nm acceleration catalyst creates foundry capacity demand; TSMC positioned for supply constraint play despite near-term bearish MA ($411.0 < $425.85).",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Nvidia Feynman ramp acceleration reported (2026-08-14)"
+    },
+    {
+      "symbol": "COHR",
+      "thesis": "Jefferies validates optical/AI infrastructure thesis with PT raise to $420; bearish MA ($291.14 < $343.96) suggests consolidation before next leg; position below allocation cap.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Jefferies analyst PT $420 upgrade (2026-08-13)"
+    },
+    {
+      "symbol": "FN",
+      "thesis": "Pre-earnings catalyst (Aug 17, 3 days out); analyst consensus positive (EPS $3.81, revenue $1.28B forecast); optical sector momentum intact despite near-term MA weakness ($479.4 < $549.61).",
+      "conviction": "medium",
+      "thesis_type": "earnings",
+      "signal_source": "Fabrinet earnings Aug 17 announcement"
+    }
+  ]
+}
