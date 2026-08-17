@@ -1,0 +1,12 @@
+2026-08-17T14:20:39Z [INFO] [setup/start] setup starting routine=trading et_date=2026-08-17
+2026-08-17T14:20:39Z [INFO] [setup/env] env validated alpaca_base=https://paper-api.alpaca.markets sendgrid_present=false
+2026-08-17T14:20:39Z [INFO] [setup/ready] setup complete runlog=/home/runner/work/trading-agent/trading-agent/journal/runlog/2026-08-17-trading.log marker=journal/.current-routine
+2026-08-17T14:21:10Z [INFO] [trade/market_status] fetched clock http_status=200 is_open=True next_open=2026-08-18T09:30:00-04:00 next_close=2026-08-17T16:00:00-04:00
+2026-08-17T14:21:10Z [INFO] [research/account] fetched account http_status=200 cash=39223 portfolio_value=101012.5
+2026-08-17T14:21:11Z [INFO] [research/positions] fetched positions http_status=200 n_positions=10
+2026-08-17T14:21:38Z [INFO] [research/account] fetched account http_status=200 cash=39223 portfolio_value=101046.71
+2026-08-17T14:21:39Z [INFO] [research/account] fetched account http_status=200 cash=39223 portfolio_value=101046.99
+2026-08-17T14:22:26Z [INFO] [trade/order_request] received order request symbol=SOFI qty=6 side=buy limit_price=18.44 thesis_type=news_catalyst conviction=medium
+2026-08-17T14:22:26Z [INFO] [trade/validate] passed symbol=SOFI qty=6.0 side=buy allocation_pct=0.11
+2026-08-17T14:22:26Z [INFO] [trade/order_submit] alpaca response symbol=SOFI side=buy qty=6 limit_price=18.44 http_status=200 order_id=cf4db63d-3951-4b08-b813-444d0c429fa6 order_status=pending_new
+2026-08-17T14:23:38Z [INFO] [finalize/start] finalizing routine=trading et_date=2026-08-17
