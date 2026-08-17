@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-08-17",
+  "picks": [
+    {
+      "symbol": "NVDA",
+      "thesis": "Bullish MA uptrend + Tepper institutional CoreWeave bet validates AI infrastructure buildout thesis",
+      "conviction": "high",
+      "thesis_type": "ma_crossover",
+      "signal_source": "Bullish MA (207.53 > 206.12), David Tepper Q2 CoreWeave addition"
+    },
+    {
+      "symbol": "ANET",
+      "thesis": "Bullish MA continuation + Cisco competitive dynamics underscore networking infrastructure growth",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Bullish MA (177.79 > 171.28), Cisco customer displacement narrative (2026-08-13)"
+    },
+    {
+      "symbol": "SOFI",
+      "thesis": "Piper Sandler fresh analyst upgrade to Overweight with $22 PT validates post-earnings fintech recovery",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Piper Sandler Overweight $22 PT (2026-08-17 10:17 AM)"
+    },
+    {
+      "symbol": "LITE",
+      "thesis": "Optical infrastructure thesis + photonics sector momentum from Chinese AI ban tailwind intact",
+      "conviction": "medium",
+      "thesis_type": "news+ma",
+      "signal_source": "Portfolio +39% unrealized, sector momentum validated, mixed MA (770.22 vs 816.94) consolidation"
+    },
+    {
+      "symbol": "COHR",
+      "thesis": "Chinese AI data-center optical buildout thesis + Druckelmiller data-center positioning validates infrastructure capex",
+      "conviction": "medium",
+      "thesis_type": "news+ma",
+      "signal_source": "Data-center optical demand from ban, Druckelmiller IREN addition validates AI infrastructure theme"
+    }
+  ]
+}
