@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-08-18",
+  "picks": [
+    {
+      "symbol": "SOFI",
+      "thesis": "Fresh Piper Sandler Overweight upgrade validates fintech recovery thesis; room within 15% cap to add.",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Piper Sandler Overweight upgrade (2026-08-17)"
+    },
+    {
+      "symbol": "AVGO",
+      "thesis": "Bullish MA (395.12 > 394.3) with semiconductor capex theme; room to add at 4.67% allocation.",
+      "conviction": "medium",
+      "thesis_type": "ma_crossover",
+      "signal_source": "Bullish 20-day MA crossover, Fabrinet customer capex validation"
+    },
+    {
+      "symbol": "NVDA",
+      "thesis": "Bullish MA (207.81 > 206.25); Fabrinet customer article validates AI infrastructure capex at scale.",
+      "conviction": "medium",
+      "thesis_type": "news+ma",
+      "signal_source": "Bullish MA + Fabrinet customer validation (2026-08-18)"
+    },
+    {
+      "symbol": "ANET",
+      "thesis": "Bullish MA (178.55 > 172.05); Barclays high-conviction upgrade (+52.4% PT) intact despite allocation cap.",
+      "conviction": "medium-high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Barclays $289 PT upgrade, bullish MA"
+    },
+    {
+      "symbol": "COHR",
+      "thesis": "Photonics sector momentum aligns with LITE/GLW thesis; room to add at 4.74% allocation.",
+      "conviction": "low-medium",
+      "thesis_type": "sector_momentum",
+      "signal_source": "Optical sector institutional capex flow (per 2026-07-22 lesson validation)"
+    }
+  ]
+}
