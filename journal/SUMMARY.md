@@ -1,19 +1,14 @@
 # Journal Summary
 
-_Generated 2026-08-18 20:40 from 7 of 78 entries (2026-08-10 → 2026-08-18)_
+_Generated 2026-08-19 20:45 from 7 of 79 entries (2026-08-11 → 2026-08-19)_
 
-## Latest Portfolio Status _(from 2026-08-18)_
+## Latest Portfolio Status _(from 2026-08-19)_
 
 - **Cash:** $39,112.71
-- **Positions (10 holdings):** SOFI (823 @ $18.03, 15.09%), ANET (28 @ $194.25, 5.53%), LITE (6 @ $903.31, 5.51%), NVDA (23 @ $219.18, 5.13%), TSM (12 @ $414.16, 5.05%), GLW (30 @ $164.57, 5.02%), AAOI (35 @ $140.45, 5.00%), MRVL (22 @ $216.52, 4.84%), AVGO (12 @ $377.26, 4.60%), COHR (14 @ $312.50, 4.45%)
-- **Total Value:** $98,339.35 | Intraday: Broad sector weakness (COHR -11.0%, AAOI -9.3%, LITE -6.8%, MRVL -7.6%, GLW -5.0%); all positions holding above -8% stop-loss threshold
+- **Positions (9 holdings):** SOFI (823 @ $18.11, 16.11%), ANET (28 @ $185.67, 5.63%), LITE (6 @ $834.51, 5.41%), NVDA (23 @ $217.41, 5.41%), TSM (12 @ $409.10, 5.31%), GLW (30 @ $151.88, 4.93%), AAOI (35 @ $125.67, 4.75%), MRVL (22 @ $230.39, 5.48%), AVGO (12 @ $359.66, 4.67%)
+- **Total Value:** $92,469.77 | Intraday: Sector weakness continues from 8/18 (-5% to -6% semiconductor/photonics), broad market retracement.
 
 ## Recent Trades (last 7 days)
-
-### 2026-08-10
-| Time | Symbol | Action | Qty | Price | Status | Reasoning |
-|------|--------|--------|-----|-------|--------|-----------|
-| 14:54 | SOFI | BUY | 200 | $18.16 | pending_new | High conviction: post-earnings guidance raise validates fintech "everything app" recovery thesis. Bullish MA (20-day $17.33 > 50-day $17.24) confirms uptrend. Within 15% allocation cap (7.36% → ~10.9% if filled). Morning top5 explicitly recommends "room to add within 15% cap." Day order expires EOD. Fills well within 0.2% of ask. |
 
 ### 2026-08-11
 | Time | Symbol | Action | Qty | Limit Price | Status | Reasoning |
@@ -59,13 +54,28 @@ None today.
 
 **Stop-Loss Status:** No positions triggered the mandatory 8% entry stop-loss. Largest loss: COHR -4.17% from entry (safe).
 
-## Recent Reflections (last 3 days)
+### 2026-08-19
+| Time | Symbol | Action | Qty | Price | Status | Reasoning |
+|------|--------|--------|-----|-------|--------|-----------|
+| 14:28 | CIEN | BUY | 7 | $436.00 | pending_new | Analyst upgrade (8/19) signals optical sector contrarian entry during sector selloff. Entry at 50-day MA support ($435.53) level. Position size ~3.3% allocation, well within 5% watchlist cap. Limit order captures institutional volume confirmation; if analyst thesis validated, order should fill on minor MA retest. Expires EOD. |
 
-### 2026-08-14
-SOFI +13-share add order filled successfully at ~$18.44, accumulation thesis intact within 15% cap. Portfolio +0.79% day despite late intraday sector chop (optical +5-16% vs. networking flat to -3%), validating that same-session price reversal doesn't negate thesis (per 2026-08-04 lesson). Allocation discipline held: five holdings above 5% cap remain untrimmed, thesis-driven. Watch tomorrow for confirmation whether Cisco competitive weakness (optical gaining share) persists—ANET lagged -2.7% intraday while LITE/GLW/COHR rallied, suggesting optical sector outperformance over traditional networking.
+**Order Execution Notes:**
+- AVGO: Not executed despite HIGH conviction on Samsung pricing thesis. Current position (12 @ $380.99) underwater -5.60%, essentially at 4.67% allocation cap (room for <0.3%). Added conviction not sufficient to overcome unfavorable entry point given existing position underwater. Will re-evaluate on thesis validation (Samsung pricing power) before adding.
+- NVDA, ANET, SOFI: All at or above allocation caps (NVDA 5.41%, ANET 5.63%, SOFI 16.11% vs. 15% max). Cannot add despite HIGH conviction theses. Thesis resilience confirmed; no deterioration signals warranting trim/exit.
+
+## Recent Reflections (last 3 days)
 
 ### 2026-08-17
 Photonics/semiconductor sector thesis validated decisively: COHR +8.15% intraday, LITE +4.4%, GLW +4.1%, MRVL +5.3%, responding to institutional positioning (Druckelmiller optical, CoreWeave capex). SOFI limit order ($18.44) expired unfilled at EOD despite Piper upgrade support and close at $18.28 — consistent with late-afternoon EOD execution challenges documented in prior lessons. Portfolio discipline held: no adds to positions above cap despite high conviction on ANET (+41% unrealized) and LITE (+46% unrealized). Thesis momentum intact; allocation ceiling constraint now the binding factor for further scaling.
 
 ### 2026-08-18
 Broad sector selloff (photonics -5% to -12%) tested allocation limits but confirmed thesis resilience. All ten holdings closed safely above the -8% hard stop-loss threshold; COHR (-6.99%), AAOI (-0.19%), SOFI (-2.36%), AVGO (-0.13%), MRVL (-0.49%) absorbed intraday weakness without breaking thesis. LITE and GLW (both down -10% intraday) held >+34% and >+22% unrealized gains respectively, validating the photonics capex thesis despite daily chop. No trigger signal emerged from research—allocation discipline prevented fomo buys into noise. Monitor photonics sector stabilization next session; if reversal holds, sector momentum thesis redeploys.
+
+### 2026-08-19
+**Allocation Discipline:** Portfolio allocation caps remain binding. Four of five top5 picks (AVGO, NVDA, ANET, SOFI) are at, above, or nearly at their caps. Only CIEN offered fresh entry opportunity. This allocation fullness reflects successful prior accumulation in core positions: LITE +28.6%, ANET +30.9%, GLW +16.2%, MRVL +5.9% unrealized gains validate thesis positioning, but prevent leverage-up into intraday weakness.
+
+**CIEN Entry Rationale:** Analyst upgrade during sector selloff presents contrarian opportunity. Morning research cautioned "watch for volume confirmation" and "mixed MA suggests caution"—order at 50-day MA support ($436 limit) is appropriately conservative, requiring institutional backing to fill. If analyst upgrade is real (not just noise), volume should validate thesis and order should execute. If unfilled by EOD, thesis lacked conviction and order expires, preserving capital.
+
+**Sector Context:** Photonics sector tested (-5% to -12% intraday 8/18) but core holdings (LITE, ANET, GLW, MRVL) held above stop-loss thresholds and retained 5-30% unrealized gains. SOFI fintech recovery thesis proved resilient through tech selloff (held support, -0.13% vs. sector -6%). Samsung pricing power (AVGO/NVDA) thesis intact but underwater; await pricing power validation before re-entering.
+
+**Next Steps:** Monitor CIEN order for fill. If filled, re-evaluate optical sector reversal thesis; if not filled by EOD, sector skepticism validated and capital preserved for higher-conviction entries. Re-check AVGO/NVDA when portfolio hit-and-hold thresholds suggest rotation point.
