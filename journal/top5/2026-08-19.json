@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-08-19",
+  "picks": [
+    {
+      "symbol": "AVGO",
+      "thesis": "Samsung foundry pricing power (+15% rate increase) caps chip supply tailwind; bullish MA support (20-day 396.2 > 50-day 393.41) intact despite sector chop.",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Samsung foundry pricing catalyst (8/19)"
+    },
+    {
+      "symbol": "NVDA",
+      "thesis": "Samsung AI bottleneck and capacity constraints drive pricing power; bullish MA crossover (20-day 208.39 > 50-day 206.24) validates uptrend.",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Samsung capacity bottleneck thesis (8/19)"
+    },
+    {
+      "symbol": "CIEN",
+      "thesis": "Analyst upgrade (Ciena analyst turns bullish, 8/19) validates optical sector positioning; entry near 50-day MA (435.53) offers support.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Ciena analyst upgrade (8/19)"
+    },
+    {
+      "symbol": "ANET",
+      "thesis": "Bullish MA crossover (20-day 180.48 >> 50-day 172.84) signals networking/cloud momentum sustained; barometer for AI infrastructure demand.",
+      "conviction": "medium-high",
+      "thesis_type": "ma_crossover",
+      "signal_source": "Strong bullish MA, cloud infrastructure barometer"
+    },
+    {
+      "symbol": "SOFI",
+      "thesis": "Piper Overweight (8/17) validates fintech recovery thesis; bullish MA support (20-day 17.33 ≥ 50-day 17.44) held through sector selloff despite mixed signal.",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Piper Sandler Overweight rating (8/17)"
+    }
+  ]
+}
