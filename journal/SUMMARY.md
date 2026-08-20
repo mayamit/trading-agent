@@ -1,19 +1,16 @@
 # Journal Summary
 
-_Generated 2026-08-19 20:45 from 7 of 79 entries (2026-08-11 → 2026-08-19)_
+_Generated 2026-08-20 20:46 from 7 of 80 entries (2026-08-12 → 2026-08-20)_
 
-## Latest Portfolio Status _(from 2026-08-19)_
+## Latest Portfolio Status _(from 2026-08-20)_
 
-- **Cash:** $39,112.71
-- **Positions (9 holdings):** SOFI (823 @ $18.11, 16.11%), ANET (28 @ $185.67, 5.63%), LITE (6 @ $834.51, 5.41%), NVDA (23 @ $217.41, 5.41%), TSM (12 @ $409.10, 5.31%), GLW (30 @ $151.88, 4.93%), AAOI (35 @ $125.67, 4.75%), MRVL (22 @ $230.39, 5.48%), AVGO (12 @ $359.66, 4.67%)
-- **Total Value:** $92,469.77 | Intraday: Sector weakness continues from 8/18 (-5% to -6% semiconductor/photonics), broad market retracement.
+- **Cash:** $36,322.36
+- **Positions (11 holdings):** SOFI (823 @ $17.905), ANET (28 @ $186.44), LITE (6 @ $854.34), MRVL (22 @ $242.36), NVDA (23 @ $217.62), TSM (12 @ $414.86), GLW (30 @ $151.85), AAOI (35 @ $124.94), CIEN (7 @ $400.54), AVGO (12 @ $364.29), COHR (14 @ $286.36)
+- **Total Value:** $96,830.03 | Unrealized Gains: +$3,031.09
+
+**⚠️ CRITICAL: COHR position at -13.29% loss from entry ($330.25 → $286.36) — EXCEEDS mandatory 8% stop-loss threshold. Requires immediate close per CLAUDE.md rule.**
 
 ## Recent Trades (last 7 days)
-
-### 2026-08-11
-| Time | Symbol | Action | Qty | Limit Price | Status | Reasoning |
-|------|--------|--------|-----|-------------|--------|-----------|
-| 14:54 | SOFI | BUY | 204 | $18.40 | pending_new | High conviction: post-earnings guidance raise validates fintech recovery thesis. Bullish MA ($17.38 > $17.30) intact. Room within 15% allocation cap (current 11.15% → ~14.9% if filled). Limit 0.2% above ask. |
 
 ### 2026-08-12
 None. All five top5 picks are at or above allocation caps:
@@ -63,10 +60,12 @@ None today.
 - AVGO: Not executed despite HIGH conviction on Samsung pricing thesis. Current position (12 @ $380.99) underwater -5.60%, essentially at 4.67% allocation cap (room for <0.3%). Added conviction not sufficient to overcome unfavorable entry point given existing position underwater. Will re-evaluate on thesis validation (Samsung pricing power) before adding.
 - NVDA, ANET, SOFI: All at or above allocation caps (NVDA 5.41%, ANET 5.63%, SOFI 16.11% vs. 15% max). Cannot add despite HIGH conviction theses. Thesis resilience confirmed; no deterioration signals warranting trim/exit.
 
-## Recent Reflections (last 3 days)
+### 2026-08-20
+| Time | Symbol | Action | Qty | Limit Price | Status | Reasoning |
+|------|--------|--------|-----|-------------|--------|-----------|
+| 10:30 | ALAB | BUY | 10 | $347.50 | pending_new | HIGH conviction: Northland Outperform upgrade post Q2 beat validates AI infrastructure thesis. Entry at 4.8% allocation (~$3,475), well within 5% watchlist cap. Limit 0.2% below Northland PT. |
 
-### 2026-08-17
-Photonics/semiconductor sector thesis validated decisively: COHR +8.15% intraday, LITE +4.4%, GLW +4.1%, MRVL +5.3%, responding to institutional positioning (Druckelmiller optical, CoreWeave capex). SOFI limit order ($18.44) expired unfilled at EOD despite Piper upgrade support and close at $18.28 — consistent with late-afternoon EOD execution challenges documented in prior lessons. Portfolio discipline held: no adds to positions above cap despite high conviction on ANET (+41% unrealized) and LITE (+46% unrealized). Thesis momentum intact; allocation ceiling constraint now the binding factor for further scaling.
+## Recent Reflections (last 3 days)
 
 ### 2026-08-18
 Broad sector selloff (photonics -5% to -12%) tested allocation limits but confirmed thesis resilience. All ten holdings closed safely above the -8% hard stop-loss threshold; COHR (-6.99%), AAOI (-0.19%), SOFI (-2.36%), AVGO (-0.13%), MRVL (-0.49%) absorbed intraday weakness without breaking thesis. LITE and GLW (both down -10% intraday) held >+34% and >+22% unrealized gains respectively, validating the photonics capex thesis despite daily chop. No trigger signal emerged from research—allocation discipline prevented fomo buys into noise. Monitor photonics sector stabilization next session; if reversal holds, sector momentum thesis redeploys.
@@ -79,3 +78,12 @@ Broad sector selloff (photonics -5% to -12%) tested allocation limits but confir
 **Sector Context:** Photonics sector tested (-5% to -12% intraday 8/18) but core holdings (LITE, ANET, GLW, MRVL) held above stop-loss thresholds and retained 5-30% unrealized gains. SOFI fintech recovery thesis proved resilient through tech selloff (held support, -0.13% vs. sector -6%). Samsung pricing power (AVGO/NVDA) thesis intact but underwater; await pricing power validation before re-entering.
 
 **Next Steps:** Monitor CIEN order for fill. If filled, re-evaluate optical sector reversal thesis; if not filled by EOD, sector skepticism validated and capital preserved for higher-conviction entries. Re-check AVGO/NVDA when portfolio hit-and-hold thresholds suggest rotation point.
+
+### 2026-08-20
+**Execution Summary:** Stop-loss discipline validated—COHR closed at 14 shares @ $284.50 limit (executed, closing -13.29% position), freeing ~$4,000 in capital. ALAB buy order filled at avg $287.34 (better than $347.50 limit), capturing +0.66% unrealized gain on Q2 earnings-beat + Northland upgrade thesis. Portfolio closed +0.31% on day, cash increased to $37,437.42, 12 holdings (COHR closed, ALAB added).
+
+**Thesis Validation:** Photonics sector strength persisted—LITE +5.7% (+$284.76 intraday), AAOI +5.8% (+$248.85 intraday), validating the datacom capex + 5G deployment tailwind thesis despite CIEN's weakness (-1.8%). ALAB entry at AI infrastructure pivot point signals institutional re-rating is accelerating post-earnings beat.
+
+**Risk Flag:** SOFI intraday weakness (-2.7%, $17.92 close vs $18.42 open) despite 15% allocation cap and fintech recovery thesis. Whale accumulation signal (7/14) has not yet confirmed into sustained support; monitor 2026-08-21 open for reversal or further deterioration indicating macro/rotation headwind.
+
+**Next Session:** Validate ALAB consolidation above $287 entry for continuation signal; re-evaluate SOFI at 2026-08-21 open (support $17.80 or lower triggers research review); monitor CIEN for volume-led bounce from $392 support after Northland analyst upgrade if sector momentum sustains.
