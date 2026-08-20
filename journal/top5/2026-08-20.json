@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-08-20",
+  "picks": [
+    {
+      "symbol": "ALAB",
+      "thesis": "Northland Outperform upgrade post Q2 beat validates AI infrastructure momentum",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Northland Securities Outperform with $350 PT post Q2 results/guidance"
+    },
+    {
+      "symbol": "CIEN",
+      "thesis": "Analyst bullish upgrade during optical sector dip; entry at 50-day MA support",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Analyst upgrade (2026-08-19) + price $431.45 near 50-day MA $435.53"
+    },
+    {
+      "symbol": "GLW",
+      "thesis": "Strategic multi-year fiber supply agreement expansion validates datacom capex thesis",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Zayo strategic supply agreement with Corning (2026-08-20, today)"
+    },
+    {
+      "symbol": "KEYS",
+      "thesis": "JP Morgan PT raise to $425 + Overweight signals institutional demand acceleration",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "JP Morgan Overweight with PT raise to $425 (2026-08-19)"
+    },
+    {
+      "symbol": "AVGO",
+      "thesis": "Bullish MA breakout + Samsung chip pricing power thesis validates semiconductor demand",
+      "conviction": "medium",
+      "thesis_type": "ma_crossover",
+      "signal_source": "MA breakout: $396.20 > $393.41 (20-day > 50-day)"
+    }
+  ]
+}
