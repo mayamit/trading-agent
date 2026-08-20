@@ -1,0 +1,13 @@
+2026-08-20T14:29:12Z [INFO] [setup/start] setup starting routine=trading et_date=2026-08-20
+2026-08-20T14:29:12Z [INFO] [setup/env] env validated alpaca_base=https://paper-api.alpaca.markets sendgrid_present=false
+2026-08-20T14:29:12Z [INFO] [setup/ready] setup complete runlog=/home/runner/work/trading-agent/trading-agent/journal/runlog/2026-08-20-trading.log marker=journal/.current-routine
+2026-08-20T14:29:46Z [INFO] [trade/market_status] fetched clock http_status=200 is_open=True next_open=2026-08-21T09:30:00-04:00 next_close=2026-08-20T16:00:00-04:00
+2026-08-20T14:29:47Z [INFO] [research/account] fetched account http_status=200 cash=36322.36 portfolio_value=96849.67
+2026-08-20T14:29:47Z [INFO] [research/positions] fetched positions http_status=200 n_positions=11
+2026-08-20T14:30:04Z [INFO] [research/account] fetched account http_status=200 cash=36322.36 portfolio_value=96820.34
+2026-08-20T14:30:10Z [INFO] [trade/order_request] received order request symbol=COHR qty=14 side=sell limit_price=284.50 thesis_type=stop_loss_mandatory conviction=high
+2026-08-20T14:30:10Z [INFO] [trade/order_submit] alpaca response symbol=COHR side=sell qty=14 limit_price=284.50 http_status=200 order_id=4453b91e-0da9-4bcb-a2ce-a9ff3125efb2 order_status=pending_new
+2026-08-20T14:30:43Z [INFO] [trade/order_request] received order request symbol=ALAB qty=10 side=buy limit_price=347.50 thesis_type=news_catalyst conviction=high
+2026-08-20T14:30:43Z [INFO] [trade/validate] passed symbol=ALAB qty=10.0 side=buy allocation_pct=3.59
+2026-08-20T14:30:43Z [INFO] [trade/order_submit] alpaca response symbol=ALAB side=buy qty=10 limit_price=347.50 http_status=200 order_id=81cab91a-85e5-4297-b6de-8d9b632b0c23 order_status=pending_new
+2026-08-20T14:31:23Z [INFO] [finalize/start] finalizing routine=trading et_date=2026-08-20
