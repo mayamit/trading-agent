@@ -1,0 +1,10 @@
+2026-08-21T14:28:01Z [INFO] [setup/start] setup starting routine=trading et_date=2026-08-21
+2026-08-21T14:28:02Z [INFO] [setup/env] env validated alpaca_base=https://paper-api.alpaca.markets sendgrid_present=false
+2026-08-21T14:28:02Z [INFO] [setup/ready] setup complete runlog=/home/runner/work/trading-agent/trading-agent/journal/runlog/2026-08-21-trading.log marker=journal/.current-routine
+2026-08-21T14:28:41Z [INFO] [trade/market_status] fetched clock http_status=200 is_open=True next_open=2026-08-24T09:30:00-04:00 next_close=2026-08-21T16:00:00-04:00
+2026-08-21T14:28:42Z [INFO] [research/account] fetched account http_status=200 cash=37437.31 portfolio_value=97581.16
+2026-08-21T14:28:42Z [INFO] [research/positions] fetched positions http_status=200 n_positions=11
+2026-08-21T14:29:49Z [INFO] [trade/order_request] received order request symbol=AVGO qty=1 side=buy limit_price=369.00 thesis_type=news_catalyst conviction=high
+2026-08-21T14:29:50Z [INFO] [trade/validate] passed symbol=AVGO qty=1.0 side=buy allocation_pct=0.38
+2026-08-21T14:29:50Z [INFO] [trade/order_submit] alpaca response symbol=AVGO side=buy qty=1 limit_price=369.00 http_status=200 order_id=f176cfce-538e-4887-9157-cbd3870de784 order_status=pending_new
+2026-08-21T14:30:30Z [INFO] [finalize/start] finalizing routine=trading et_date=2026-08-21
