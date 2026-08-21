@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-08-21",
+  "picks": [
+    {
+      "symbol": "AVGO",
+      "thesis": "Analyst coverage initiation (Outperform, $455 PT) validates chip sector recovery; bullish MA cross above 50-day confirms momentum.",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Analyst coverage initiation (Outperform, $455 PT) + bullish MA"
+    },
+    {
+      "symbol": "ANET",
+      "thesis": "Bullish MA sustained through AI capex cycle; performance validation confirms networking thesis.",
+      "conviction": "medium-high",
+      "thesis_type": "ma_crossover",
+      "signal_source": "Bullish MA cross (180.48 > 172.84)"
+    },
+    {
+      "symbol": "SOFI",
+      "thesis": "Piper Sandler Overweight upgrade ($22 PT) validates fintech recovery post-earnings; position within 15% cap with capacity to add.",
+      "conviction": "medium-high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Piper Sandler Overweight upgrade"
+    },
+    {
+      "symbol": "NVDA",
+      "thesis": "AI leadership thesis persists despite macro headwinds (war, yields); bullish MA cross (208.39 > 206.24) confirms secular uptrend.",
+      "conviction": "medium",
+      "thesis_type": "ma_crossover",
+      "signal_source": "Bullish MA cross above 50-day"
+    },
+    {
+      "symbol": "TSM",
+      "thesis": "Waymo robotaxi custom chip announcement (8/21) validates new semiconductor TAM; semiconductor demand persists across autonomous vehicle pipeline.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Waymo robotaxi chip announcement"
+    }
+  ]
+}
