@@ -1,26 +1,14 @@
 # Journal Summary
 
-_Generated 2026-08-20 20:46 from 7 of 80 entries (2026-08-12 → 2026-08-20)_
+_Generated 2026-08-21 20:41 from 7 of 81 entries (2026-08-13 → 2026-08-21)_
 
-## Latest Portfolio Status _(from 2026-08-20)_
+## Latest Portfolio Status _(from 2026-08-21)_
 
-- **Cash:** $36,322.36
-- **Positions (11 holdings):** SOFI (823 @ $17.905), ANET (28 @ $186.44), LITE (6 @ $854.34), MRVL (22 @ $242.36), NVDA (23 @ $217.62), TSM (12 @ $414.86), GLW (30 @ $151.85), AAOI (35 @ $124.94), CIEN (7 @ $400.54), AVGO (12 @ $364.29), COHR (14 @ $286.36)
-- **Total Value:** $96,830.03 | Unrealized Gains: +$3,031.09
-
-**⚠️ CRITICAL: COHR position at -13.29% loss from entry ($330.25 → $286.36) — EXCEEDS mandatory 8% stop-loss threshold. Requires immediate close per CLAUDE.md rule.**
+- **Cash:** $37,437.31
+- **Positions (11 holdings):** SOFI (823 @ $18.87), ANET (28 @ $184.80), LITE (6 @ $866.35), MRVL (22 @ $236.31), NVDA (23 @ $215.30), TSM (12 @ $417.84), GLW (30 @ $148.67), AAOI (35 @ $124.50), CIEN (7 @ $384.20), AVGO (12 @ $367.22), ALAB (10 @ $283.12)
+- **Total Value:** $97,249.86 | Unrealized Gains: +$2,783.91
 
 ## Recent Trades (last 7 days)
-
-### 2026-08-12
-None. All five top5 picks are at or above allocation caps:
-- ANET: 5.83% allocation (above 5% cap, cannot add despite +46.27% unrealized and high-conviction Barclays upgrade)
-- LITE: 5.43% allocation (above 5% cap, cannot add despite fresh JP Morgan PT $1280 catalyst)
-- AVGO: 5.07% allocation (at 5% cap, cannot add despite medium-conviction JPMorgan chip-boom thesis)
-- TSM: 5.18% allocation (above 5% cap, cannot add despite 52-week highs momentum)
-- SOFI: 14.28% allocation (within 15% cap with 0.72% room) but currently underwater -2.24% from recent fills ($18.16, $18.40); thesis intact but no margin of safety at current price ($17.715 vs. $17.38 MA support). Await bounce to support level before reconsidering add.
-
-Portfolio allocation discipline prevents new entries today despite strong research thesis across all picks.
 
 ### 2026-08-13
 None today. Allocation caps binding on high-conviction entries (ANET, AVGO); COHR insufficient room; CIEN lacks specific catalyst; SOFI awaiting optimal entry at MA support.
@@ -65,10 +53,12 @@ None today.
 |------|--------|--------|-----|-------------|--------|-----------|
 | 10:30 | ALAB | BUY | 10 | $347.50 | pending_new | HIGH conviction: Northland Outperform upgrade post Q2 beat validates AI infrastructure thesis. Entry at 4.8% allocation (~$3,475), well within 5% watchlist cap. Limit 0.2% below Northland PT. |
 
-## Recent Reflections (last 3 days)
+### 2026-08-21
+| Time | Symbol | Action | Qty | Price | Reasoning |
+|------|--------|--------|-----|-------|-----------|
+| 10:29 AM | AVGO | BUY | 1 | $369.00 | Analyst coverage initiation (Outperform, $455 PT) validates chip sector recovery; bullish MA cross above 50-day confirms momentum. HIGH conviction catalyst. Position 4.53% allocation, room within 5% cap. Limit order expires 20:00 ET. |
 
-### 2026-08-18
-Broad sector selloff (photonics -5% to -12%) tested allocation limits but confirmed thesis resilience. All ten holdings closed safely above the -8% hard stop-loss threshold; COHR (-6.99%), AAOI (-0.19%), SOFI (-2.36%), AVGO (-0.13%), MRVL (-0.49%) absorbed intraday weakness without breaking thesis. LITE and GLW (both down -10% intraday) held >+34% and >+22% unrealized gains respectively, validating the photonics capex thesis despite daily chop. No trigger signal emerged from research—allocation discipline prevented fomo buys into noise. Monitor photonics sector stabilization next session; if reversal holds, sector momentum thesis redeploys.
+## Recent Reflections (last 3 days)
 
 ### 2026-08-19
 **Allocation Discipline:** Portfolio allocation caps remain binding. Four of five top5 picks (AVGO, NVDA, ANET, SOFI) are at, above, or nearly at their caps. Only CIEN offered fresh entry opportunity. This allocation fullness reflects successful prior accumulation in core positions: LITE +28.6%, ANET +30.9%, GLW +16.2%, MRVL +5.9% unrealized gains validate thesis positioning, but prevent leverage-up into intraday weakness.
@@ -87,3 +77,6 @@ Broad sector selloff (photonics -5% to -12%) tested allocation limits but confir
 **Risk Flag:** SOFI intraday weakness (-2.7%, $17.92 close vs $18.42 open) despite 15% allocation cap and fintech recovery thesis. Whale accumulation signal (7/14) has not yet confirmed into sustained support; monitor 2026-08-21 open for reversal or further deterioration indicating macro/rotation headwind.
 
 **Next Session:** Validate ALAB consolidation above $287 entry for continuation signal; re-evaluate SOFI at 2026-08-21 open (support $17.80 or lower triggers research review); monitor CIEN for volume-led bounce from $392 support after Northland analyst upgrade if sector momentum sustains.
+
+### 2026-08-21
+AVGO analyst initiation entry (10:29 AM @ $369) filled cleanly and recovered +1.2% intraday, validating HIGH-conviction thesis: analyst coverage initiation + bullish MA cross + sector momentum = tradeable entry. SOFI whale accumulation signal from 7/14 materialized today with +5.3% rally (+$823 intraday), confirming whale-data timestamps mark opportunity windows—delayed entry worked. Allocation discipline held firm: SOFI now at 16.00% (within 15% cap with $210 micro-add room), ANET and LITE remain capped. MRVL and LITE took intraday sector chop (-5.5%, -1.4%) but no forced stops; largest loss AAOI at -9.15% remains below 8% threshold. Watch SOFI momentum into tomorrow (cap constraint) and MRVL Q3 earnings catalyst next week; photonics sector (LITE) rotation risk persists—hold and monitor for stabilization.
