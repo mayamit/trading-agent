@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-08-24",
+  "picks": [
+    {
+      "symbol": "AVGO",
+      "thesis": "Analyst initiation coverage + bullish MA cross + chip sector recovery. Premarket dip offers contrarian entry.",
+      "conviction": "high",
+      "thesis_type": "analyst_upgrade",
+      "signal_source": "Evercore/Goldman analyst initiation (8/21 from prior) + bullish MA cross (20>50)"
+    },
+    {
+      "symbol": "ALAB",
+      "thesis": "Northland Outperform upgrade validates AI infrastructure thesis post Q2 earnings beat. Fresh catalyst.",
+      "conviction": "medium",
+      "thesis_type": "analyst_upgrade",
+      "signal_source": "Northland Outperform upgrade (8/17) + Q2 beat + $350 PT"
+    },
+    {
+      "symbol": "NVDA",
+      "thesis": "Bullish MA + earnings catalyst 3 days out (8/27). Chip sector recovery thesis intact.",
+      "conviction": "medium",
+      "thesis_type": "earnings",
+      "signal_source": "Bullish MA (211.49>206.63) + Q4 earnings 8/27 + sector momentum"
+    },
+    {
+      "symbol": "ANET",
+      "thesis": "Bullish MA confirms datacom capex thesis. Core position resilient (unrealized +31%).",
+      "conviction": "medium",
+      "thesis_type": "ma_crossover",
+      "signal_source": "Bullish MA (185.37>174.61) + datacom infrastructure thesis validation (LITE +28%, GLW +16%)"
+    },
+    {
+      "symbol": "CIEN",
+      "thesis": "Analyst upgrade at 50-day MA support during sector dip. Contrarian photonics thesis.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Analyst upgrade (8/19) + contrarian entry at MA support ($426.19) + sector momentum"
+    }
+  ]
+}
