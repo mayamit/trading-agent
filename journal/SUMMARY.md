@@ -1,19 +1,14 @@
 # Journal Summary
 
-_Generated 2026-08-24 20:48 from 7 of 82 entries (2026-08-14 → 2026-08-24)_
+_Generated 2026-08-25 20:45 from 7 of 83 entries (2026-08-17 → 2026-08-25)_
 
-## Latest Portfolio Status _(from 2026-08-24)_
+## Latest Portfolio Status _(from 2026-08-25)_
 
-- Cash: $37,068.97
-- Positions (11 holdings): AAOI (35 @ $106.50, -19.6% **STOP-LOSS ALERT**), ALAB (10 @ $269.73), ANET (28 @ $187.77), AVGO (13 @ $361.75), CIEN (7 @ $367.85), GLW (30 @ $142.73), LITE (6 @ $800.12), MRVL (22 @ $224.70), NVDA (23 @ $209.22), SOFI (823 @ $18.67), TSM (12 @ $406.38)
-- Total Value: $95,110.79 | Unrealized Gains: -$0.79 (portfolio break-even)
+- Cash: $36,367.23
+- Positions (10 holdings): ALAB (17 @ $281.51, +0.1%), ANET (28 @ $141.86, +33.8%), AVGO (13 @ $380.02, -5.6%), CIEN (14 @ $385.35, -1.1%), GLW (30 @ $130.76, +13.7%), LITE (6 @ $648.89, +32.7%), MRVL (22 @ $217.56, +11.6%), NVDA (23 @ $206.99, +2.5%), SOFI (823 @ $18.13, +3.3%), TSM (12 @ $408.61, +1.8%)
+- Total Value: $96,724.50 | Unrealized Gains: +$5,379.78 (+5.9% net)
 
 ## Recent Trades (last 7 days)
-
-### 2026-08-14
-| Time | Symbol | Action | Qty | Price | Status | Reasoning |
-|------|--------|--------|-----|-------|--------|-----------|
-| 14:47 | SOFI | BUY | 13 | $18.44 | pending_new | HIGH conviction: Truist PT raise to $19 validates post-earnings fintech recovery thesis. Bullish MA ($17.40 > $17.35) support intact. Position 14.75% allocation, room to add within 15% cap (~$254). Limit 0.2% above ask captures strength. Day order expires 20:00 ET. |
 
 ### 2026-08-17
 | Time | Symbol | Action | Qty | Price | Reasoning |
@@ -64,16 +59,10 @@ None today.
 
 **Order Status:** All three orders submitted with day time-in-force, expiring EOD 20:00 ET. AAOI stop-loss critical path to fill (equity discipline).
 
+### 2026-08-25
+None today — all positions evaluated under CLAUDE.md framework. All TOP 5 picks are held; AVGO has room to add (4.82% allocation, HIGH conviction for analyst + MA cross). No market-order violations, no stop-losses triggered. AAOI closed yesterday at stop-loss.
+
 ## Recent Reflections (last 3 days)
-
-### 2026-08-20
-**Execution Summary:** Stop-loss discipline validated—COHR closed at 14 shares @ $284.50 limit (executed, closing -13.29% position), freeing ~$4,000 in capital. ALAB buy order filled at avg $287.34 (better than $347.50 limit), capturing +0.66% unrealized gain on Q2 earnings-beat + Northland upgrade thesis. Portfolio closed +0.31% on day, cash increased to $37,437.42, 12 holdings (COHR closed, ALAB added).
-
-**Thesis Validation:** Photonics sector strength persisted—LITE +5.7% (+$284.76 intraday), AAOI +5.8% (+$248.85 intraday), validating the datacom capex + 5G deployment tailwind thesis despite CIEN's weakness (-1.8%). ALAB entry at AI infrastructure pivot point signals institutional re-rating is accelerating post-earnings beat.
-
-**Risk Flag:** SOFI intraday weakness (-2.7%, $17.92 close vs $18.42 open) despite 15% allocation cap and fintech recovery thesis. Whale accumulation signal (7/14) has not yet confirmed into sustained support; monitor 2026-08-21 open for reversal or further deterioration indicating macro/rotation headwind.
-
-**Next Session:** Validate ALAB consolidation above $287 entry for continuation signal; re-evaluate SOFI at 2026-08-21 open (support $17.80 or lower triggers research review); monitor CIEN for volume-led bounce from $392 support after Northland analyst upgrade if sector momentum sustains.
 
 ### 2026-08-21
 AVGO analyst initiation entry (10:29 AM @ $369) filled cleanly and recovered +1.2% intraday, validating HIGH-conviction thesis: analyst coverage initiation + bullish MA cross + sector momentum = tradeable entry. SOFI whale accumulation signal from 7/14 materialized today with +5.3% rally (+$823 intraday), confirming whale-data timestamps mark opportunity windows—delayed entry worked. Allocation discipline held firm: SOFI now at 16.00% (within 15% cap with $210 micro-add room), ANET and LITE remain capped. MRVL and LITE took intraday sector chop (-5.5%, -1.4%) but no forced stops; largest loss AAOI at -9.15% remains below 8% threshold. Watch SOFI momentum into tomorrow (cap constraint) and MRVL Q3 earnings catalyst next week; photonics sector (LITE) rotation risk persists—hold and monitor for stabilization.
@@ -86,3 +75,6 @@ AVGO analyst initiation entry (10:29 AM @ $369) filled cleanly and recovered +1.
 **Portfolio Health:** End-of-day close $95,307.31 (+$196.52 vs. session open $95,110.79), unrealized net flat despite intraday volatility. No positions triggered additional stop-loss risk (AAOI -19.6% closed, next-worst AVGO -5.5%, ALAB -2.0%—all safe). Holdings consolidating around analyst + technicals thesis; NVDA earnings (8/27) enters 3-day final countdown.
 
 **Next Session (2026-08-25):** Monitor NVDA earnings flow (8/27 catalyst), watch photonics complex for stabilization signal or continued sector rotation. CIEN/ALAB/AVGO limit orders now building on dip-buying thesis; if sector stabilizes, thesis accelerates. If not, NVDA earnings guidance will clarify AI-chip demand sustainability. SOFI whale thesis tracking long-term; no action until macro fintech reversal signals appear. Cash position ($36,367) available for breakout entries if sector rotation clears.
+
+### 2026-08-25
+Portfolio rallied +$450.87 (+0.46% net) on sector momentum despite OpenAI's chip-competency claim on NVDA. LITE led with +6.49% intraday and MRVL recovered +5.11%, validating photonics + AI-infrastructure theses despite earlier bearish technicals (ALAB, CIEN below 50-day MAs). No trades executed—all positions held within allocation caps per CLAUDE.md framework; AVGO, ANET, NVDA are capped at 4.81-5.50% and cannot add. NVDA earnings catalyst (Aug 27) will be critical inflection point; current +2.34% intraday suggests market is not pricing in material downside from OpenAI competition. Watch for post-earnings volatility and re-evaluate SOFI whale thesis (now +$702.59 unrealized, within 15% cap).
