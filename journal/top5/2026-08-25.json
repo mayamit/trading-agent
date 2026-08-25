@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-08-25",
+  "picks": [
+    {
+      "symbol": "AVGO",
+      "thesis": "Analyst initiation (Outperform $455) + bullish MA cross validates chip-sector recovery entry.",
+      "conviction": "high",
+      "thesis_type": "analyst + ma_crossover",
+      "signal_source": "Broadcom analyst coverage initiation"
+    },
+    {
+      "symbol": "CIEN",
+      "thesis": "Northland upgrade contrarian entry during photonics sector dip at 50-day MA support.",
+      "conviction": "medium",
+      "thesis_type": "analyst + ma_support",
+      "signal_source": "Northland Outperform upgrade (8/19)"
+    },
+    {
+      "symbol": "ALAB",
+      "thesis": "Northland upgrade post Q2 earnings beat validates AI infrastructure institutional re-rating.",
+      "conviction": "medium",
+      "thesis_type": "earnings + analyst",
+      "signal_source": "Northland Outperform upgrade (8/19)"
+    },
+    {
+      "symbol": "NVDA",
+      "thesis": "Bullish MA intact despite OpenAI competition; earnings catalyst 8/27 (3 days) validates conviction hold.",
+      "conviction": "medium",
+      "thesis_type": "ma_crossover + earnings",
+      "signal_source": "MA bullish cross; NVDA earnings catalyst 8/27"
+    },
+    {
+      "symbol": "ANET",
+      "thesis": "Bullish MA momentum sustained; datacom infrastructure rally validates networking thesis.",
+      "conviction": "medium",
+      "thesis_type": "ma_crossover + news_catalyst",
+      "signal_source": "MA bullish cross (186.30 > 175.39)"
+    }
+  ]
+}
