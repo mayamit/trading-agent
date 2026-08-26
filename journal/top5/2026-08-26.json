@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-08-26",
+  "picks": [
+    {
+      "symbol": "CIEN",
+      "thesis": "Needham reiterates Buy with $600 PT, bullish optical infrastructure demand in AI buildout",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Needham reiterates Buy 8/26, +$200 upside from $400.27 current"
+    },
+    {
+      "symbol": "NVDA",
+      "thesis": "Bullish MA crossover, earnings catalyst 8/27, memory capex trends supporting AI infrastructure demand",
+      "conviction": "high",
+      "thesis_type": "earnings",
+      "signal_source": "Bullish MA (20>50), earnings 8/27, TrendForce memory capex 8/26"
+    },
+    {
+      "symbol": "AVGO",
+      "thesis": "Chip sector recovery beneficiary per fresh analyst coverage, bullish AI infrastructure tailwind",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "God Bless America ETF analyst comment 8/26, chip recovery context"
+    },
+    {
+      "symbol": "ALAB",
+      "thesis": "Northland Outperform upgrade validates AI infrastructure capex play, room to add below 5% cap",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Northland Outperform ($350 PT, 8/17), AI capex thesis intact"
+    },
+    {
+      "symbol": "SOFI",
+      "thesis": "Whale accumulation thesis maturing (+5.3% on 7/14 signal), technical support holding, fintech recovery thesis intact",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Whale signal 7/14 matured to +5.3% rally, key technical levels 8/25"
+    }
+  ]
+}
