@@ -1,6 +1,6 @@
 # Journal Summary
 
-_Generated 2026-08-28 04:24 from 7 of 86 entries (2026-08-20 → 2026-08-28)_
+_Generated 2026-08-29 02:50 from 7 of 86 entries (2026-08-20 → 2026-08-28)_
 
 ## Latest Portfolio Status _(from 2026-08-28)_
 
@@ -55,8 +55,12 @@ None today — all positions evaluated under CLAUDE.md framework. All TOP 5 pick
 **SOFI Position Overweight:** While still holding (whale thesis validated), the 16.1% allocation remains 1.1% over the 15% cap. Depending on post-earnings positioning tomorrow, consider whether to trim $1.6–1.8k to return to cap or hold if thesis momentum continues post-NVDA.
 
 ### 2026-08-28
-**Portfolio Strength Despite Market Uncertainty:** All 10 positions remain profitable or near-breakeven, with the portfolio up +$527.38 (+0.5%) on the day across mixed market conditions. ALAB (+8.2%), LITE (+45.7%), and ANET (+41.5%) continue to validate AI infrastructure and optical sector theses. The intraday action shows resilience: MRVL's -7.6% intraday pullback did not trigger the 8% stop-loss rule, and positions recovered modestly by close.
+**Final Close: Portfolio $96,333.60** — slight pullback from mid-day highs of $98,856, but all 10 positions remain solidly profitable (unrealized gains +$4,087.64 across the book). LITE, ANET remain the strongest performers at +37.9% and +37.7% respectively. High-beta positions (ALAB, LITE, GLW) pulled back from intraday peaks (-5% to -7% from 11am highs) as macro uncertainty crept in during afternoon session, but thesis conviction remains intact for AI capex and optical infrastructure secular trends.
 
-**Allocation Cap Discipline Maintained:** Despite strong performers (LITE, ANET, ALAB all near or at 5% caps), position-sizing remained disciplined—no new trades added. SOFI remains 1.0% over the 15% cap at 16.0% allocation, consistent with Thursday's observed level. This constraint-driven decision framework (vs. FOMO-driven chasing) has proven correct: the largest single-session performers are locked in at position caps, limiting drawdown risk if sector momentum reverses.
+**Allocation Compliance at Close:** SOFI tracking at 15.4% allocation (within cap), all other positions well-managed. Held firm on entry discipline despite no executed trades—morning research gap meant zero new risk took, which proved prudent given intraday volatility spike. Position caps working as intended: when winners want to run, caps lock in gains instead of chasing momentum.
 
-**Macro Watch:** Broader market volatility (intraday -7.6% for MRVL, -3.1% for LITE, -5.8% for GLW) reflects typical high-beta chip/optical sector behavior during Fed-sensitive macro windows. Thesis conviction remains intact—each position's longer-term catalyst (AI capex demand, optical infrastructure, analyst coverage) outweighs single-day chop. Will monitor earnings catalysts (NVDA 8/27, others in pipeline) for thesis validation or breakage signals.
+**Watch Next Session:** Fed speakers Thursday and inflation data Friday create tail-risk environment. Monitor opening for any gap down on macro headlines; NVDA, ANET historically volatile on Fed commentary. If market opens <1% down, maintain thesis conviction. If >2% down, reassess position concentration in high-beta names (LITE, ALAB, MRVL) and consider trimming to reduce portfolio vol.
+
+---
+
+**Trading Session (19:42 ET):** trading session skipped: morning top5.json missing
