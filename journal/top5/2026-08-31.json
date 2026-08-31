@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-08-31",
+  "picks": [
+    {
+      "symbol": "NVDA",
+      "thesis": "OpenAI $5.5B warrant lease of SB Energy Nvidia-backed data centers confirms AI capex cycle durability; bullish MA cross above 50-day validates momentum.",
+      "conviction": "high",
+      "thesis_type": "news_catalyst+ma_bullish",
+      "signal_source": "OpenAI SB Energy warrant story (8/31 19:01 ET) + NVDA ma_20>ma_50"
+    },
+    {
+      "symbol": "LITE",
+      "thesis": "Defiance PRAM ETF announcing memory+photonics focus validates secular optical infrastructure demand; bullish MA near support level.",
+      "conviction": "high",
+      "thesis_type": "news_catalyst+ma_bullish",
+      "signal_source": "SK Hynix/Micron photonics ETF story (8/31 12:58 ET) + bullish MA signal"
+    },
+    {
+      "symbol": "ANET",
+      "thesis": "Trump data center support (\"let Data Reign\") confirms policy tailwind for infrastructure; bullish MA validates continuation.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst+ma_bullish",
+      "signal_source": "Trump data center statement (8/31 16:41 ET) + ANET ma_20>ma_50"
+    },
+    {
+      "symbol": "TSM",
+      "thesis": "Daniel Loeb increases TSMC stake 67% as profit soars 77% — whale thesis activated; mirrors prior SOFI whale pattern with long runway.",
+      "conviction": "medium",
+      "thesis_type": "whale_accumulation",
+      "signal_source": "Loeb TSMC stake increase reporting (8/31 18:58 ET) + profit/revenue surge"
+    },
+    {
+      "symbol": "AVGO",
+      "thesis": "Whale activity reported today across top-10 tech stocks; combines with 8/21 Outperform analyst initiation + bullish MA cross recovery.",
+      "conviction": "medium",
+      "thesis_type": "whale_activity+analyst_coverage",
+      "signal_source": "Benzinga whale alert (8/31 17:35 ET) + Outperform initiation (8/21) + ma_bullish recovery"
+    }
+  ]
+}
