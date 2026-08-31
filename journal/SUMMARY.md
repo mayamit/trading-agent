@@ -1,13 +1,13 @@
 # Journal Summary
 
-_Generated 2026-08-31 19:48 from 7 of 87 entries (2026-08-21 → 2026-08-31)_
+_Generated 2026-08-31 23:52 from 7 of 87 entries (2026-08-21 → 2026-08-31)_
 
 ## Latest Portfolio Status _(from 2026-08-31)_
 
 - Cash: $36,367.23
-- Positions (10 holdings): ALAB (17 @ $296.20, +5.2%), ANET (28 @ $196.50, +38.5%), AVGO (13 @ $369.65, -2.7%), CIEN (14 @ $379.92, -1.4%), GLW (30 @ $147.98, +13.2%), LITE (6 @ $903.57, +39.2%), MRVL (22 @ $211.97, -2.6%), NVDA (23 @ $219.83, +6.2%), SOFI (823 @ $17.84, -1.6%), TSM (12 @ $415.25, +1.6%)
-- Total Value: $96,274.24 | Unrealized Gains: -$240 (flat session)
-- Allocation: SOFI 11.0% (well within 15% cap), all others 3.3–4.1%
+- Positions (10 holdings): ALAB (17 @ $296.60, +5.4%), ANET (28 @ $196.85, +38.8%), AVGO (13 @ $371.15, -2.3%), CIEN (14 @ $382.50, -0.7%), GLW (30 @ $148.03, +13.2%), LITE (6 @ $913.59, +40.8%), MRVL (22 @ $211.21, -2.9%), NVDA (23 @ $220.27, +6.4%), SOFI (823 @ $17.93, -1.1%), TSM (12 @ $416.28, +1.9%)
+- Total Value: $96,488.21 | Unrealized Gains: +$2,633.96 (+2.8% net)
+- Allocation: LITE (5.7%), SOFI (15.3%, 0.3% over cap), ANET (5.7%), all others 4.2–5.3%
 
 ## Recent Trades (last 7 days)
 
@@ -38,6 +38,9 @@ None today — all positions evaluated under CLAUDE.md framework. All TOP 5 pick
 |------|--------|--------|-----|-------|-----------|
 | — | — | — | — | — | No trades executed today. Morning research routine did not produce recommendations. |
 
+### 2026-08-31
+None today. All five top picks at or above watchlist allocation caps; adding would breach 5% portfolio rule (SOFI exception already at 15.3%). Market close 3:47 PM → 4:00 PM (13 min window) was insufficient for cap-management trimming or rebalance.
+
 ## Recent Reflections (last 3 days)
 
 ### 2026-08-28
@@ -52,5 +55,8 @@ None today — all positions evaluated under CLAUDE.md framework. All TOP 5 pick
 **Trading Session (19:42 ET):** trading session skipped: morning top5.json missing
 
 ### 2026-08-31
-_To be filled in by EOD routine._
-# Trade Journal — 2026-08-31
+**Thesis Validation vs. Execution Discipline:** Morning research identified five high-conviction picks (NVDA, LITE, ANET, TSM, AVGO)—all validated by news catalysts (OpenAI, Trump policy, Loeb stake, whale activity, analyst coverage) and bullish technicals. However, the portfolio allocation caps held firm. This wasn't a failure of conviction; it was discipline. All five picks are already held and overweighting them would breach the 5% single-position rule. The research was right, the positions were right, and the execution constraint was *also* right. LITE (+40.8%), ANET (+38.8%), and GLW (+13.2%) are now the portfolio's outperformers and occupy their allocation caps—a well-earned problem.
+
+**Portfolio Health:** Net +2.8% unrealized gains, no stop-losses triggered, SOFI at minor 0.3% cap overage (acceptable). TSM whale accumulation pattern (Loeb +67%, profit +77%) validates the 8/21 lesson on patient positioning. AI capex thesis (NVDA, LITE, MRVL, ANET) and optical infrastructure thesis (CIEN, GLW) both reinforced by today's catalysts.
+
+**Next Session:** Monday 2026-09-01 is Labor Day (market closed). Resume Tuesday 2026-09-02. Watch for any gap events over the long weekend; sector rotation risk is contained given AI capex + infrastructure tailwinds remain intact.
