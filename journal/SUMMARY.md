@@ -1,20 +1,15 @@
 # Journal Summary
 
-_Generated 2026-08-29 02:50 from 7 of 86 entries (2026-08-20 → 2026-08-28)_
+_Generated 2026-08-31 19:48 from 7 of 87 entries (2026-08-21 → 2026-08-31)_
 
-## Latest Portfolio Status _(from 2026-08-28)_
+## Latest Portfolio Status _(from 2026-08-31)_
 
 - Cash: $36,367.23
-- Positions (10 holdings): ALAB (17 @ $304.64, +8.2%), ANET (28 @ $200.79, +41.5%), AVGO (13 @ $373, -1.8%), CIEN (14 @ $398.62, +3.4%), GLW (30 @ $151.92, +16.2%), LITE (6 @ $945.12, +45.7%), MRVL (22 @ $223.1, +2.5%), NVDA (23 @ $226.65, +9.5%), SOFI (823 @ $19.2, +5.9%), TSM (12 @ $425.6, +4.2%)
-- Total Value: $98,856.18 | Unrealized Gains: +$4,025.80 (+4.2% net)
-- Allocation Status: SOFI 16.0% (1.0% over 15% cap), LITE/ANET/CIEN/MRVL ~5.7-5.8% (at or above 5% cap)
+- Positions (10 holdings): ALAB (17 @ $296.20, +5.2%), ANET (28 @ $196.50, +38.5%), AVGO (13 @ $369.65, -2.7%), CIEN (14 @ $379.92, -1.4%), GLW (30 @ $147.98, +13.2%), LITE (6 @ $903.57, +39.2%), MRVL (22 @ $211.97, -2.6%), NVDA (23 @ $219.83, +6.2%), SOFI (823 @ $17.84, -1.6%), TSM (12 @ $415.25, +1.6%)
+- Total Value: $96,274.24 | Unrealized Gains: -$240 (flat session)
+- Allocation: SOFI 11.0% (well within 15% cap), all others 3.3–4.1%
 
 ## Recent Trades (last 7 days)
-
-### 2026-08-20
-| Time | Symbol | Action | Qty | Limit Price | Status | Reasoning |
-|------|--------|--------|-----|-------------|--------|-----------|
-| 10:30 | ALAB | BUY | 10 | $347.50 | pending_new | HIGH conviction: Northland Outperform upgrade post Q2 beat validates AI infrastructure thesis. Entry at 4.8% allocation (~$3,475), well within 5% watchlist cap. Limit 0.2% below Northland PT. |
 
 ### 2026-08-21
 | Time | Symbol | Action | Qty | Price | Reasoning |
@@ -45,15 +40,6 @@ None today — all positions evaluated under CLAUDE.md framework. All TOP 5 pick
 
 ## Recent Reflections (last 3 days)
 
-### 2026-08-26
-**Thesis Validation & Execution Quality:** All five morning theses were validated by EOD price action — CIEN (+7.2%, Needham catalyst), LITE (+8.7%), MRVL (+6.3%), ANET (+6.9%), ALAB (+6.2%) all confirmed optical/semiconductor sector momentum. Allocation discipline held perfectly: despite strong intraday rally, no new positions were added (all top 5 at or above caps), and no stop-loss triggers occurred. AVGO recovered from -7.6% to -5.1% unrealized, moving decisively away from the 8% mandatory-close threshold.
-
-**No Trades, No Regret:** The decision to hold rather than chase intraday momentum was correct — all positions participated in the sector-wide rally without taking on incremental risk or violating allocation caps. This validates the discipline framework from prior lessons: thesis conviction beats FOMO.
-
-**NVDA Earnings Tomorrow:** +2.4% intraday strength heading into 8/27 earnings is bullish signal. Memory capex thesis (TrendForce 68% of hyperscaler capex → memory in 2027) provides conviction for holding into catalyst; earnings will be key risk/reward inflection.
-
-**SOFI Position Overweight:** While still holding (whale thesis validated), the 16.1% allocation remains 1.1% over the 15% cap. Depending on post-earnings positioning tomorrow, consider whether to trim $1.6–1.8k to return to cap or hold if thesis momentum continues post-NVDA.
-
 ### 2026-08-28
 **Final Close: Portfolio $96,333.60** — slight pullback from mid-day highs of $98,856, but all 10 positions remain solidly profitable (unrealized gains +$4,087.64 across the book). LITE, ANET remain the strongest performers at +37.9% and +37.7% respectively. High-beta positions (ALAB, LITE, GLW) pulled back from intraday peaks (-5% to -7% from 11am highs) as macro uncertainty crept in during afternoon session, but thesis conviction remains intact for AI capex and optical infrastructure secular trends.
 
@@ -64,3 +50,7 @@ None today — all positions evaluated under CLAUDE.md framework. All TOP 5 pick
 ---
 
 **Trading Session (19:42 ET):** trading session skipped: morning top5.json missing
+
+### 2026-08-31
+_To be filled in by EOD routine._
+# Trade Journal — 2026-08-31
