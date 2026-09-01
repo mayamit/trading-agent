@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-09-01",
+  "picks": [
+    {
+      "symbol": "ANET",
+      "thesis": "Data center infrastructure with Trump admin political support for AI infrastructure; bullish MA cross (188.83 > 177.99)",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Trump data center support statement + bullish MA"
+    },
+    {
+      "symbol": "LITE",
+      "thesis": "Optical/photonics infrastructure for AI capex; bullish MA (823 > 813); strongest portfolio performer +32.9%",
+      "conviction": "medium",
+      "thesis_type": "ma_crossover",
+      "signal_source": "Bullish MA continuation"
+    },
+    {
+      "symbol": "SOFI",
+      "thesis": "Fintech with Trump account corporate boost (9/1 news); bullish MA (17.82 > 17.7); validates prior whale pattern",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Trump Accounts corporate boost announcement"
+    },
+    {
+      "symbol": "TSM",
+      "thesis": "Whale accumulation (Loeb +67% stake to 460k shares, profit +77%, 8/31); AI/chip capex demand despite bearish MA",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Loeb TSM stake increase 67%"
+    },
+    {
+      "symbol": "NVDA",
+      "thesis": "Core AI infrastructure thesis intact; bullish MA (213.78 > 207.63); macro 'AI trade under pressure' noise temporary",
+      "conviction": "medium",
+      "thesis_type": "ma_crossover",
+      "signal_source": "Bullish MA continuation"
+    }
+  ]
+}
