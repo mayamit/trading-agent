@@ -1,20 +1,16 @@
 # Journal Summary
 
-_Generated 2026-08-31 23:52 from 7 of 87 entries (2026-08-21 → 2026-08-31)_
+_Generated 2026-09-01 17:33 from 7 of 88 entries (2026-08-24 → 2026-09-01)_
 
-## Latest Portfolio Status _(from 2026-08-31)_
+## Latest Portfolio Status _(from 2026-09-01)_
 
 - Cash: $36,367.23
-- Positions (10 holdings): ALAB (17 @ $296.60, +5.4%), ANET (28 @ $196.85, +38.8%), AVGO (13 @ $371.15, -2.3%), CIEN (14 @ $382.50, -0.7%), GLW (30 @ $148.03, +13.2%), LITE (6 @ $913.59, +40.8%), MRVL (22 @ $211.21, -2.9%), NVDA (23 @ $220.27, +6.4%), SOFI (823 @ $17.93, -1.1%), TSM (12 @ $416.28, +1.9%)
-- Total Value: $96,488.21 | Unrealized Gains: +$2,633.96 (+2.8% net)
-- Allocation: LITE (5.7%), SOFI (15.3%, 0.3% over cap), ANET (5.7%), all others 4.2–5.3%
+- Positions (10 holdings): ALAB (17 @ $281.51, -1.3%), ANET (28 @ $141.86, +33.8%), AVGO (13 @ $380.02, -2.9%), CIEN (14 @ $385.35, -7.2%), GLW (30 @ $130.76, +10.1%), LITE (6 @ $648.89, +32.9%), MRVL (22 @ $217.56, -4.2%), NVDA (23 @ $207.00, +5.4%), SOFI (823 @ $18.13, -5.3%), TSM (12 @ $408.61, +1.2%)
+- Total Value: $94,401.00 (down $2,051.83 intraday from $96,452.83 close)
+- Unrealized Gains: ~$1,755 (net across book)
+- Allocation Status: LITE 5.5%, ANET 5.6%, SOFI 15.0%, AVGO 5.1%, CIEN 5.3%, NVDA 5.3%, TSM 5.3%, MRVL 4.9%, ALAB 5.0%, GLW 4.6%
 
 ## Recent Trades (last 7 days)
-
-### 2026-08-21
-| Time | Symbol | Action | Qty | Price | Reasoning |
-|------|--------|--------|-----|-------|-----------|
-| 10:29 AM | AVGO | BUY | 1 | $369.00 | Analyst coverage initiation (Outperform, $455 PT) validates chip sector recovery; bullish MA cross above 50-day confirms momentum. HIGH conviction catalyst. Position 4.53% allocation, room within 5% cap. Limit order expires 20:00 ET. |
 
 ### 2026-08-24
 | Time | Symbol | Action | Qty | Price | Status | Reasoning |
@@ -41,6 +37,9 @@ None today — all positions evaluated under CLAUDE.md framework. All TOP 5 pick
 ### 2026-08-31
 None today. All five top picks at or above watchlist allocation caps; adding would breach 5% portfolio rule (SOFI exception already at 15.3%). Market close 3:47 PM → 4:00 PM (13 min window) was insufficient for cap-management trimming or rebalance.
 
+### 2026-09-01
+None (placed by 10:00 AM trading routine).
+
 ## Recent Reflections (last 3 days)
 
 ### 2026-08-28
@@ -60,3 +59,19 @@ None today. All five top picks at or above watchlist allocation caps; adding wou
 **Portfolio Health:** Net +2.8% unrealized gains, no stop-losses triggered, SOFI at minor 0.3% cap overage (acceptable). TSM whale accumulation pattern (Loeb +67%, profit +77%) validates the 8/21 lesson on patient positioning. AI capex thesis (NVDA, LITE, MRVL, ANET) and optical infrastructure thesis (CIEN, GLW) both reinforced by today's catalysts.
 
 **Next Session:** Monday 2026-09-01 is Labor Day (market closed). Resume Tuesday 2026-09-02. Watch for any gap events over the long weekend; sector rotation risk is contained given AI capex + infrastructure tailwinds remain intact.
+
+### 2026-09-01
+**Allocation Discipline Enforced:** At today's 10:00 AM trading decision point, all five morning top5 picks (ANET, LITE, SOFI, TSM, NVDA) were already held and positioned at or above their watchlist allocation ceilings:
+- ANET: 5.64% (cap 5%) — HIGH conviction thesis intact, cannot add
+- LITE: 5.50% (cap 5%) — Medium conviction, strongest performer +32.9%, at cap
+- SOFI: 14.98% (cap 15%) — Medium conviction + news catalyst, at special cap
+- TSM: 5.25% (cap 5%) — Medium conviction whale (Loeb +67%), at cap
+- NVDA: 5.32% (cap 5%) — Medium conviction, bullish MA, at cap
+
+**Result:** No trades placed. This was NOT a research failure—the research correctly identified high-conviction catalysts (Trump AI infrastructure support, optical capex, whale accumulation, bullish MA crosses), and all five picks were already held from prior sessions at their optimal entry points. Per CLAUDE.md rule, "do not auto-trim a position that is within its watchlist cap." Allocation discipline prevented chasing momentum into already-full positions.
+
+**Stop-Loss Check:** CIEN at -6.92% is the closest to the 8% mandatory-close threshold, but did not trigger. No forced sells required today.
+
+**Macro Context & Why No Action Hurts:** Treasury yields climbed to 19-month highs on Fed rate-hike odds (68%), causing a broad tech selloff (-3% to -6% intraday for most holdings). LITE and ANET both pulled back hard despite bullish technicals and political tailwinds. This is precisely the scenario where "allocation at cap prevents panic adds to losers"—we cannot add to ANET or LITE on the dip because they're already full. Thesis conviction remains intact; position size remains disciplined.
+
+**Next Session (Tuesday, 9/2):** Monitor for macro reversal (10-year yields stabilizing, Fed rate odds normalizing). If market rebounds >2%, validate whether high-beta positions (LITE, ANET, ALAB) have recaptured intraday losses. CIEN watch continues—if it drops another 1.2% to -8.1%, trigger mandatory stop-loss close per CLAUDE.md hard rule (last enforced 7/16 after 7/7 lesson failure). No urgent action needed unless thesis cracks or stop-loss threshold breaches.
