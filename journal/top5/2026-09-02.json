@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-09-02",
+  "picks": [
+    {
+      "symbol": "LITE",
+      "thesis": "Bullish MA cross + Deutsche Bank Buy rating (PT $1200) signals optical infrastructure capex momentum",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Deutsche Bank Buy, 2026-09-01"
+    },
+    {
+      "symbol": "ANET",
+      "thesis": "Bullish MA uptrend + Deutsche Bank Buy rating (PT $220) validates AI infrastructure demand thesis",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Deutsche Bank Buy, 2026-09-01"
+    },
+    {
+      "symbol": "AVGO",
+      "thesis": "Earnings Wednesday catalyst with competitive positioning in AI chip supply chain",
+      "conviction": "medium",
+      "thesis_type": "earnings",
+      "signal_source": "Broadcom earnings 2026-09-03"
+    },
+    {
+      "symbol": "NVDA",
+      "thesis": "Hugging Face $14B acquisition signals continued AI infrastructure consolidation and ecosystem control",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Hugging Face deal, 2026-09-02"
+    },
+    {
+      "symbol": "SOFI",
+      "thesis": "Bullish MA uptrend during fintech sector volatility; macro headwinds create entry opportunity",
+      "conviction": "medium",
+      "thesis_type": "ma_crossover",
+      "signal_source": "Bullish MA setup, held position"
+    }
+  ]
+}
