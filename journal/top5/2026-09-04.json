@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-09-04",
+  "picks": [
+    {
+      "symbol": "LITE",
+      "thesis": "Bullish MA trend with momentum (20-day above 50-day), highest conviction hold at allocation cap.",
+      "conviction": "high",
+      "thesis_type": "ma_crossover",
+      "signal_source": "Bullish MA cross + long-term outperformance validated"
+    },
+    {
+      "symbol": "ANET",
+      "thesis": "Bullish MA trend, Jensen Huang 5-layer cake AI framework validates infrastructure investment thesis.",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Jensen Huang AI framework comment + bullish MA"
+    },
+    {
+      "symbol": "SOFI",
+      "thesis": "Bullish MA with fresh partnership catalyst (Payward crypto linkage 9/4) validates whale accumulation thesis.",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Payward banking-crypto partnership + whale accumulation signal"
+    },
+    {
+      "symbol": "AVGO",
+      "thesis": "Fresh analyst upgrade (Citigroup Buy 9/4, PT $515) + mixed technicals. Room to add at 4.8% allocation but approaching -8% stop-loss zone.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Citigroup Buy rating on 9/4 + chip sector capex tailwinds"
+    },
+    {
+      "symbol": "MRVL",
+      "thesis": "Mixed MA with whale accumulation alert (9/3) validates institutional accumulation thesis. Room to add at 4.9% allocation.",
+      "conviction": "medium",
+      "thesis_type": "other",
+      "signal_source": "Whale accumulation alert on 9/3"
+    }
+  ]
+}
