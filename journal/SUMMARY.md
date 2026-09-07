@@ -1,13 +1,10 @@
 # Journal Summary
 
-_Generated 2026-09-04 22:21 from 7 of 91 entries (2026-08-27 → 2026-09-04)_
+_Generated 2026-09-07 22:50 from 7 of 92 entries (2026-08-28 → 2026-09-07)_
 
-## Latest Portfolio Status _(from 2026-09-04)_
+## Latest Portfolio Status _(from 2026-09-07)_
 
-- Cash: $37,728.34
-- Positions (10 holdings): ALAB (17 @ $314.67, +11.8%), ANET (28 @ $192.87, +35.9%), AVGO (13 @ $355.53, -6.4%), CIEN (11 @ $320.77, -0.4%), GLW (30 @ $152.63, +16.7%), LITE (6 @ $879.79, +35.6%), MRVL (22 @ $221.64, +1.9%), NVDA (23 @ $231.55, +11.8%), SOFI (823 @ $18.21, +0.5%), TSM (12 @ $427.98, +4.7%)
-- Total Value: $96,810.29
-- Unrealized Gains: ~$3,787 net
+_not recorded_
 
 ## Recent Trades (last 7 days)
 
@@ -44,17 +41,11 @@ Allocation discipline enforced: all top 5 at or above watchlist caps. Per 2026-0
 
 ## Recent Reflections (last 3 days)
 
-### 2026-09-02
-**CIEN stop-loss executed cleanly:** The mandatory 8% rule triggered and the $349.70 limit sell filled, recovering $4,895 in capital. Discipline holds.
-
-**Allocation caps remain binding:** Deutsche Bank Buy initiations on LITE ($1,200 PT, +35% upside) and ANET ($220 PT, +18% upside) identified high-conviction setups, but both positions already at/above 5% caps. No capital deployed despite bullish thesis. This is working as designed—portfolio is fully committed at a risk level matching our caps, not underdeployed.
-
-**Portfolio validated thesis momentum:** SOFI recovered to +4.6% close despite macro fintech headwinds (Treasury yield pressure); LITE sustained +0.03% into close after +32.5% weekly run; NVDA's Hugging Face acquisition ($14B, fresh 9/2) validates AI ecosystem consolidation thesis even as position holds. Book unrealized gains at $1,387 net.
-
-**Forward:** AVGO earnings 9/3 (Wednesday) present trim/rebalance signal—if momentum fades post-earnings, a trim could free capital for LITE/ANET adds. Watch LITE/ANET for 0.3–0.5% dips that might create limit-order opportunities within existing caps.
-
 ### 2026-09-03
 CIEN entry at $358 limit filled at $322.10; thesis intact on earnings beat (+37% YoY revenue, guidance raise) but position underwater -2.1% by close (-10.9% from prior day's $354.16). Sector volatility on AI narrative shifts post-earnings; thesis remains HIGH conviction, entry point will validate with patience. SOFI whale accumulation continues validating (+3.55% intraday to $18.47), Scotiabank analyst call working as expected. Allocation discipline held across LITE/ANET/SOFI; no stop-losses triggered. AVGO at -6.2%, CIEN entry creates minor cash buffer. Forward: monitor CIEN for thesis break (stop at -8%); track SOFI accumulation momentum into next week; AVGO approaching stop-loss zone, watch for -8% trigger.
 
 ### 2026-09-04
 Allocation discipline held strong: all 5 top-conviction picks (LITE, ANET, SOFI, AVGO, MRVL) at/above watchlist caps, so no trading despite bullish news and strong sector rotation. Portfolio gained +$1,030 intraday (+1.08%) driven by chip/optical infrastructure outperformance (MRVL +6.4%, GLW +5.5%, LITE +3.9%), which validates AI capex thesis positioning. SOFI dipped -1.8% intraday on Payward partnership news but thesis remains intact (whale accumulation + crypto expansion real catalysts); similar to prior lessons on same-day reversals during sector chop. AVGO at -6.02% from entry (safely below 8% stop-loss threshold) with Citigroup Buy thesis still valid—monitor for trim-and-redeploy window if position lightens or market conditions shift. Watch sector momentum sustainability into next week; if capex rally extends, allocation caps will likely bind and create rebalancing signals.
+
+### 2026-09-07
+Market closed for Labor Day — no trading activity. Portfolio remains intact with 10 positions (ALAB, ANET, AVGO, CIEN, GLW, LITE, MRVL, NVDA, SOFI, TSM) totaling $96,889.51 in equity and $37,728.34 cash. All positions closed unchanged from prior session. Ready to resume trading 2026-09-08.
