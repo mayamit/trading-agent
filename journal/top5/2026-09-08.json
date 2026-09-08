@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-09-08",
+  "picks": [
+    {
+      "symbol": "AAOI",
+      "thesis": "Corning/Verizon optical fiber deal +9% sector catalyst, momentum confirms optical demand surge",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Corning/Verizon major optical fiber deal"
+    },
+    {
+      "symbol": "LITE",
+      "thesis": "Bullish MA cross (20>50), photonics beneficiary of optical sector tailwind, chart strength intact",
+      "conviction": "high",
+      "thesis_type": "ma_crossover",
+      "signal_source": "Bullish MA 20/50 cross"
+    },
+    {
+      "symbol": "ANET",
+      "thesis": "Bullish MA (20>50), AI networking infrastructure validated by sector momentum, consistent outperformer",
+      "conviction": "high",
+      "thesis_type": "ma_crossover",
+      "signal_source": "Bullish MA 20/50 cross"
+    },
+    {
+      "symbol": "NVDA",
+      "thesis": "Bullish MA (20>50), AI capex mega-trend remains primary driver despite macro oil/rate headwinds",
+      "conviction": "medium",
+      "thesis_type": "ma_crossover",
+      "signal_source": "Bullish MA 20/50 cross"
+    },
+    {
+      "symbol": "AVGO",
+      "thesis": "OpenAI/Anthropic seeking investment-grade ratings validates AI infrastructure capex demand acceleration",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "OpenAI/Anthropic investment-grade ratings signal"
+    }
+  ]
+}
