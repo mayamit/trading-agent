@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-09-09",
+  "picks": [
+    {
+      "symbol": "GLW",
+      "thesis": "Verizon $multi-billion fiber deal (2032 contract) validates AI infrastructure capex cycle acceleration",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Corning-Verizon 9/9 announcement"
+    },
+    {
+      "symbol": "LITE",
+      "thesis": "Optical fiber beneficiary of Verizon buildout with bullish MA (881.55 > close 868.46 > 50MA 814.9)",
+      "conviction": "high",
+      "thesis_type": "news+ma",
+      "signal_source": "Corning fiber deal sector effect + 20/50 MA cross"
+    },
+    {
+      "symbol": "AAOI",
+      "thesis": "Optical components supplier positioned for fiber infrastructure expansion from Verizon deal",
+      "conviction": "medium",
+      "thesis_type": "news+ma",
+      "signal_source": "Sector catalyst from Corning-Verizon announcement"
+    },
+    {
+      "symbol": "NVDA",
+      "thesis": "Blackwell demand signal validated by Nebius auction +20% premium, bullish MA intact (219 > 208 50MA)",
+      "conviction": "medium-high",
+      "thesis_type": "news+ma",
+      "signal_source": "Nebius auction data + 20/50 MA bullish cross"
+    },
+    {
+      "symbol": "AVGO",
+      "thesis": "OpenAI-Samsung AI chip partnership signals chip demand acceleration for infrastructure buildout",
+      "conviction": "medium-high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "OpenAI-Samsung partnership 9/9"
+    }
+  ]
+}
