@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-09-10",
+  "picks": [
+    {
+      "symbol": "MRVL",
+      "thesis": "AI data-center bottleneck resolution — Marvell showcases optical switches, memory expansion, PCIe 6.0 for mega-cap capex acceleration.",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Marvell company news (Sep 10, 12:33 ET)"
+    },
+    {
+      "symbol": "AVGO",
+      "thesis": "HBM/AI memory demand surge validated by institutional interest (Micron/SK Hynix ETF launch); Citigroup Outperform analyst (Aug 21) thesis intact.",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Institutional HBM ETF demand + Citigroup analyst (Sep 10, ongoing catalyst)"
+    },
+    {
+      "symbol": "NVDA",
+      "thesis": "Mega-cap HBM demand beneficiary — institutional order signals validate AI memory shortage as capex accelerant across Nvidia/Meta/others.",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Institutional HBM/AI capex story (Sep 10, 16:00 ET)"
+    },
+    {
+      "symbol": "AAOI",
+      "thesis": "Optical infrastructure beneficiary of mega-capex move — Corning/Verizon contract (+9% sector rally Sep 8) validates institutional capex cascade into optoelectronics.",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Corning/Verizon mega-capex contract (Sep 8); sector +9% confirms institutional demand"
+    },
+    {
+      "symbol": "GLW",
+      "thesis": "Core optical infrastructure capex catalyst — Corning/Verizon mega-cap fiber agreement is THE institutional move validating multi-year photonics/fiber infrastructure cycle.",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Corning/Verizon contract award (Sep 8–10 headlines confirm mega-capex institutional move)"
+    }
+  ]
+}
