@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-09-11",
+  "picks": [
+    {
+      "symbol": "TSM",
+      "thesis": "AI foundry demand surge validated by 53.3% YoY August revenue growth; institutional strength compensates for bearish MA technicals.",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Taiwan Semiconductor August revenue 53.3% YoY surge (2026-09-11)"
+    },
+    {
+      "symbol": "MRVL",
+      "thesis": "Data-center infrastructure bottleneck solutions (optical switches, PCIe 6.0) align with AI capex acceleration; whale accumulation history validates conviction.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Marvell AI bottlenecks technology announcement (2026-09-10)"
+    },
+    {
+      "symbol": "NVDA",
+      "thesis": "Core AI compute provider thesis validated by AMD's $2 trillion AI opportunity coverage; sector-wide capex growth confirmed.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "AMD $2T AI opportunity & AI infrastructure earnings validation (2026-09-11)"
+    },
+    {
+      "symbol": "LITE",
+      "thesis": "Optical infrastructure for AI data centers; whale activity (2026-09-09) + mixed MA + Corning/Verizon institutional partnership validates photonics capex cycle.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Whale activity in photonics sector (2026-09-09)"
+    },
+    {
+      "symbol": "ANET",
+      "thesis": "Network fabric infrastructure for AI data centers; BofA hedge fund positioning analysis validates sector rotation thesis.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "BofA hedge fund AI positioning analysis (2026-09-10)"
+    }
+  ]
+}
