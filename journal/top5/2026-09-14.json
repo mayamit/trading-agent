@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-09-14",
+  "picks": [
+    {
+      "symbol": "MRVL",
+      "thesis": "BofA secular bull market thesis—AI slowdown fears are noise, $3T+ spending runway validates capex acceleration.",
+      "conviction": "high",
+      "thesis_type": "news+ma",
+      "signal_source": "BofA 9/14 AI secular bull thesis"
+    },
+    {
+      "symbol": "NVDA",
+      "thesis": "Bullish MA crossover intact; liability news is short-term headwind. Technical strength offsets negative catalyst.",
+      "conviction": "medium",
+      "thesis_type": "ma_crossover",
+      "signal_source": "Bullish 20/50-day MA cross"
+    },
+    {
+      "symbol": "ANET",
+      "thesis": "Hedge fund positioning validates AI fabric infrastructure thesis; mixed MA suggests consolidation before next leg.",
+      "conviction": "medium",
+      "thesis_type": "news+ma",
+      "signal_source": "Hedge fund AI positioning 9/10"
+    },
+    {
+      "symbol": "TSM",
+      "thesis": "Whale activity 9/14 confirms foundry positioning; mixed MA suggests accumulation. Thesis intact.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Whale activity 9/14"
+    },
+    {
+      "symbol": "LITE",
+      "thesis": "Whale signal 9/9 opens entry window (long runway per 8/21 lesson); mixed MA with sector tailwind from optical deal.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Whale activity 9/9"
+    }
+  ]
+}
