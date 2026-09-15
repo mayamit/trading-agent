@@ -1,0 +1,10 @@
+2026-09-15T17:52:48Z [INFO] [setup/start] setup starting routine=trading et_date=2026-09-15
+2026-09-15T17:52:48Z [INFO] [setup/env] env validated alpaca_base=https://paper-api.alpaca.markets sendgrid_present=false
+2026-09-15T17:52:48Z [INFO] [setup/ready] setup complete runlog=/home/runner/work/trading-agent/trading-agent/journal/runlog/2026-09-15-trading.log marker=journal/.current-routine
+2026-09-15T17:53:21Z [INFO] [trade/market_status] fetched clock http_status=200 is_open=True next_open=2026-09-16T09:30:00-04:00 next_close=2026-09-15T16:00:00-04:00
+2026-09-15T17:53:22Z [INFO] [research/account] fetched account http_status=200 cash=41841.53 portfolio_value=93489.28
+2026-09-15T17:53:22Z [INFO] [research/positions] fetched positions http_status=200 n_positions=9
+2026-09-15T17:53:35Z [INFO] [research/account] fetched account http_status=200 cash=41841.53 portfolio_value=93484.42
+2026-09-15T17:53:39Z [INFO] [trade/order_request] received order request symbol=ALAB qty=17 side=sell limit_price=255.77 thesis_type=stop_loss conviction=high
+2026-09-15T17:53:40Z [INFO] [trade/order_submit] alpaca response symbol=ALAB side=sell qty=17 limit_price=255.77 http_status=200 order_id=4a051545-da93-443d-93a5-9744c9473316 order_status=pending_new
+2026-09-15T17:54:34Z [INFO] [finalize/start] finalizing routine=trading et_date=2026-09-15
