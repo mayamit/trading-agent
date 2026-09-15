@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-09-15",
+  "picks": [
+    {
+      "symbol": "LITE",
+      "thesis": "Whale accumulation in optical fiber buildout; data center optics demand accelerates with AI infrastructure capex wave",
+      "conviction": "high",
+      "thesis_type": "news+ma",
+      "signal_source": "Benzinga whale scanner 9/9 (6d window active); bullish MA 891.97 vs 50MA 819.52"
+    },
+    {
+      "symbol": "MRVL",
+      "thesis": "Bullish MA with AI safety narrative divergence: memory HBM demand for inference chips, optical switches for data center fabric",
+      "conviction": "high",
+      "thesis_type": "news+ma",
+      "signal_source": "AI safety/build-vs-control ETF thesis 9/15; bullish MA 225.43 vs 50MA 219.83"
+    },
+    {
+      "symbol": "NVDA",
+      "thesis": "Meta's AI chip investment validates custom silicon market; foundry and processing demand surge with Huang $4T AI thesis intact",
+      "conviction": "high",
+      "thesis_type": "news+ma",
+      "signal_source": "Meta One announcement + Huang commentary 9/15; bullish MA 220.52 vs 50MA 211.23"
+    },
+    {
+      "symbol": "TSM",
+      "thesis": "Foundry position benefits from Meta's custom silicon ramp and broad AI capex wave; production capacity locked for next 18mo",
+      "conviction": "high",
+      "thesis_type": "news+ma",
+      "signal_source": "Meta One announcement 9/15; bullish MA 420.96 vs 50MA 420.57"
+    },
+    {
+      "symbol": "ANET",
+      "thesis": "AI cluster fabric infrastructure; BofA data shows hedge fund diversification beyond NVDA to fabric/infrastructure plays",
+      "conviction": "medium",
+      "thesis_type": "news+ma",
+      "signal_source": "BofA institutional positioning report 9/10; bullish MA 194.68 vs 50MA 183.67"
+    }
+  ]
+}
