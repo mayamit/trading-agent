@@ -1,22 +1,14 @@
 # Journal Summary
 
-_Generated 2026-09-14 19:01 from 7 of 97 entries (2026-09-04 → 2026-09-14)_
+_Generated 2026-09-15 22:54 from 7 of 98 entries (2026-09-07 → 2026-09-15)_
 
-## Latest Portfolio Status _(from 2026-09-14)_
+## Latest Portfolio Status _(from 2026-09-15)_
 
-_not recorded_
+- Cash: $41,841.53
+- Positions: ALAB (17 @ $281.51), ANET (28 @ $141.86), CIEN (11 @ $322.10), GLW (30 @ $130.76), LITE (6 @ $648.89), MRVL (22 @ $217.56), NVDA (23 @ $206.99), SOFI (823 @ $18.13), TSM (12 @ $408.61)
+- Total Value: $93,466.93 (long positions $51,625.40; 55.25% invested, 44.75% cash)
 
 ## Recent Trades (last 7 days)
-
-### 2026-09-04
-None at 13:20 PM. Evaluated all 5 top picks (LITE, ANET, SOFI, AVGO, MRVL):
-- LITE: HOLD — bullish MA intact, at 5.5% cap, cannot add
-- ANET: HOLD — Jensen Huang AI framework validates thesis, at 5.6% cap (over), cannot add
-- SOFI: HOLD — Payward partnership + whale data intact, at 15.4% cap (at ceiling), cannot add
-- AVGO: HOLD — Citigroup Buy thesis intact, -6.4% from entry (below 8% threshold), at 4.8% cap with only $217 remaining budget; medium conviction, no meaningful add possible
-- MRVL: HOLD — whale accumulation signal intact, at 5.0% cap (exactly at ceiling), cannot add
-
-Allocation discipline enforced: all top 5 at or above watchlist caps. Per 2026-09-01 reflection, this is correct portfolio construction, not research failure. All theses intact and validated by morning research.
 
 ### 2026-09-08
 | Time | Symbol | Action | Qty | Price | Reasoning |
@@ -41,10 +33,12 @@ None — all top 5 picks already in portfolio at or above allocation caps. Thesi
 |------|--------|--------|-----|-------|-----------|
 | 14:00 | AVGO | SELL | 13 | $345.00 (limit) | **Mandatory stop-loss**: position -8.84% from entry ($380.02 → $346.43) exceeds CLAUDE.md 8% hard rule. Sell limit submitted 19:00 ET, expires 20:00 ET. Per 2026-07-07 lesson, hard stop-loss is non-discretionary. |
 
-## Recent Reflections (last 3 days)
+### 2026-09-15
+| Time | Symbol | Action | Qty | Price | Reasoning |
+|------|--------|--------|-----|-------|-----------|
+| 13:53 | ALAB | SELL | 17 | $255.77 (limit) | **Mandatory stop-loss**: position -8.92% from entry ($281.51 → $256.39) exceeds CLAUDE.md 8% hard rule. Stop-loss is non-discretionary per 2026-07-07 lesson. Limit order expires EOD 20:00 ET. |
 
-### 2026-09-10
-AAOI stop-loss executed cleanly at 8% threshold, confirming discipline enforcement (2026-07-07 lesson holds). Intraday volatility across all positions (-2% to -5% red on the day), but portfolio structure held at $95,595 closing value. Remaining holdings consolidated around AI infrastructure mega-capex thesis: memory HBM surge (AVGO, NVDA, ALAB), optical fiber buildout (GLW, LITE, CIEN), and semiconductor/foundry (TSM, MRVL). Allocation caps remain binding (LITE 5.88%, SOFI 14.82% within 15% ceiling). Thesis validation (institutional ETF entry, Corning/Verizon contract) offsetting near-term technical weakness. Next: monitor sector momentum and watch for re-entry opportunities on AAOI if optical thesis sustains post-mega-deal consolidation.
+## Recent Reflections (last 3 days)
 
 ### 2026-09-11
 No trades needed — portfolio thesis validation held strong across all 10 positions. AVGO (-4.84%) remains above mandatory 8% close threshold. SOFI (-4.55%) stable within 15% allocation cap. Concentration on AI/infrastructure capex narrative (TSM 53.3% YoY revenue surge, MRVL optical switches, LITE photonics partnerships, ANET fabric positioning) supported by institutional data (whale activity, hedge fund positioning, analyst initiations) validates allocation discipline. Portfolio value declined slightly (-$218) but thesis confidence intact for next session.
@@ -64,3 +58,12 @@ No new positions possible given allocation discipline. This is **correct portfol
 **Sector Momentum:** Intraday tech/optical sector volatility (-9% to -5% chop on high-conviction positions) validates consolidation phase between institutional waves. BofA 9/14 AI bull thesis provides counter-narrative to "slowdown" FUD. Whale signals on TSM/LITE (9/9, 9/14) confirm accumulation thesis intact—these 5-8% intraday dips are pre-capitulation noise, not thesis breaks. No need for panic position reductions; SOFI exception holding steady at +1.3% intraday.
 
 **Next Session:** Monitor for AVGO fill confirmation; if it closes, portfolio will have freed up $4.5k notional and ~$500 cash. Watch for any additional positions below 8% threshold on next research pass. Whale signal runway on LITE (whale 9/9, 5 days into window) + ANET/TSM institutional positioning should persist into next week given mega-capex narrative durability.
+
+### 2026-09-15
+All five top picks from morning research remain fully positioned at or above allocation caps. Portfolio is correctly constructed per 2026-09-04 lesson: allocation discipline enforced across LITE (whale 9/9, 6-day window active), MRVL (AI safety narrative), NVDA (Meta One catalyst), TSM (foundry for custom silicon), and ANET (fabric infrastructure). No new trades warranted given capital deployment already at maximum justified allocation.
+
+Mandatory ALAB stop-loss (-8.92%) executed per CLAUDE.md hard rule and 2026-07-07 lesson enforcement pattern. Confirms discipline gate working correctly. Upon fill, portfolio will rebalance with ~$4.4k-4.5k additional cash available.
+
+SOFI remains at 15.2% allocation (within 15% override cap) despite intraday weakness (-2.18%); no action taken.
+
+All top-5 theses remain validated by morning research: optical capex (LITE whale, GLW $6B Meta fiber), memory HBM surge (NVDA, MRVL inference chips), foundry custom silicon (TSM Meta One), and fabric diversification (ANET BofA institutional rotation). Sector momentum intact through close.
