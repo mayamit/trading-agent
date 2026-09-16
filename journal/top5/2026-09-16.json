@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-09-16",
+  "picks": [
+    {
+      "symbol": "LITE",
+      "thesis": "Strongest bullish MA setup with fresh Fed rate relief tailwind and active whale accumulation window",
+      "conviction": "high",
+      "thesis_type": "ma_crossover",
+      "signal_source": "Bullish MA (20: $900.35 >> 50: $822.25) + Fed rate hike relief (9/16)"
+    },
+    {
+      "symbol": "MRVL",
+      "thesis": "Bullish MA with fresh whale alert confirming institutional accumulation on HBM narrative",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Whale alert (9/16) + Bullish MA"
+    },
+    {
+      "symbol": "NVDA",
+      "thesis": "Bullish MA with fresh whale alert supporting AI chip leader thesis",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Whale alert (9/16) + Bullish MA"
+    },
+    {
+      "symbol": "TSM",
+      "thesis": "Bullish MA with fresh institutional commentary on AI as multi-year growth driver",
+      "conviction": "medium",
+      "thesis_type": "news+ma",
+      "signal_source": "Bullish MA + AI commentary (9/16: 'toddler with superpowers')"
+    },
+    {
+      "symbol": "ANET",
+      "thesis": "Institutional validation: Gabelli fund manager confirms AI infrastructure demand persists despite slowdown FUD, supply tight through 2027",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Gabelli fund manager commentary (9/16)"
+    }
+  ]
+}
