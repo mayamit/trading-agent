@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-09-17",
+  "picks": [
+    {
+      "symbol": "LITE",
+      "thesis": "Bullish MA trend intact; Ciena multi-year fiber targets boost optical capex sector.",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Ciena aggressive multi-year targets (2026-09-16)"
+    },
+    {
+      "symbol": "MRVL",
+      "thesis": "Bullish MA; GlobalFoundries expands HBM/optical networking chip production for AI data centers.",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "GlobalFoundries partnership expansion (2026-09-17)"
+    },
+    {
+      "symbol": "NVDA",
+      "thesis": "Bullish MA; whale accumulation alert today validates market leadership thesis.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Whale activity today (2026-09-17)"
+    },
+    {
+      "symbol": "ANET",
+      "thesis": "Institutional validation: Gabelli PM confirms AI infrastructure demand persists, supply tight through 2027.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Gabelli Funds commentary (2026-09-16)"
+    },
+    {
+      "symbol": "TSEM",
+      "thesis": "New optical engine chip catalyst: Tower expands ZeroFlap transceiver family to 1.6T speeds for AI; +8% volume surge validates.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Credo ZeroFlap product expansion (2026-09-17)"
+    }
+  ]
+}
