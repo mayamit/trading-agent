@@ -1,19 +1,14 @@
 # Journal Summary
 
-_Generated 2026-09-16 22:56 from 7 of 99 entries (2026-09-08 → 2026-09-16)_
+_Generated 2026-09-17 17:54 from 7 of 100 entries (2026-09-09 → 2026-09-17)_
 
-## Latest Portfolio Status _(from 2026-09-16)_
+## Latest Portfolio Status _(from 2026-09-17)_
 
 - Cash: $46,194.93
-- Positions: ANET (28 @ $141.86), CIEN (11 @ $322.10), GLW (30 @ $130.76), LITE (6 @ $648.89), MRVL (22 @ $217.56), NVDA (23 @ $206.99), SOFI (823 @ $18.13), TSM (12 @ $408.61)
-- Total Value: $94,190.46 (51% invested, 49% cash)
+- Positions: ANET (28 @ $199.41), CIEN (11 @ $353.43), GLW (30 @ $148.09), LITE (6 @ $907.51), MRVL (22 @ $242.10), NVDA (23 @ $219.38), SOFI (823 @ $16.85), TSM (12 @ $429.05)
+- Total Value: $94,937.74 (51% invested, 49% cash)
 
 ## Recent Trades (last 7 days)
-
-### 2026-09-08
-| Time | Symbol | Action | Qty | Price | Reasoning |
-|------|--------|--------|-----|-------|-----------|
-| 17:44 | AAOI | BUY | 42 | $116.57 (limit) | HIGH conviction news catalyst: Corning/Verizon optical fiber deal (+9% sector move). Optical demand acceleration validates AI infrastructure thesis. 5% allocation available on new position. Order pending EOD fill. |
 
 ### 2026-09-09
 | Time | Symbol | Action | Qty | Price | Reasoning |
@@ -41,23 +36,17 @@ None — all top 5 picks already in portfolio at or above allocation caps. Thesi
 ### 2026-09-16
 None today. Portfolio fully positioned at or above allocation caps across all five top-conviction theses (optical capex LITE/GLW/CIEN, memory HBM MRVL/NVDA, foundry TSM, fabric ANET). Allocation discipline enforced per 2026-09-04 lesson.
 
+### 2026-09-17
+None today. All five top picks (LITE, MRVL, NVDA, ANET, TSEM) are already in portfolio at or above their allocation caps:
+- LITE: 5.74% (5% cap) — Ciena catalyst valid but position sized at cap
+- MRVL: 5.61% (5% cap) — GlobalFoundries catalyst valid but position sized at cap
+- NVDA: 5.32% (5% cap) — Whale activity valid but position sized at cap
+- ANET: 5.88% (5% cap) — Gabelli commentary valid but significantly over cap
+- TSEM: 4% cap available but medium conviction thesis + portfolio already fully positioned per 2026-09-04 allocation discipline
+
+Allocation discipline enforced. No stop-losses triggered (SOFI at -7.1%, below 8% threshold).
+
 ## Recent Reflections (last 3 days)
-
-### 2026-09-14
-**Portfolio Construction Status:** All five top picks (MRVL, NVDA, ANET, TSM, LITE) already in portfolio at or above allocation caps:
-- MRVL 5.21% (at 5% cap, exactly sized)
-- NVDA 5.20% (at 5% cap, exactly sized)
-- ANET 5.68% (over 5% cap by +0.68% — from 2026-09-04 momentum staying)
-- LITE 5.38% (over 5% cap by +0.38% — from 2026-09-09 whale entry)
-- TSM 5.41% (over 5% cap by +0.41% — from accumulation thesis)
-
-No new positions possible given allocation discipline. This is **correct portfolio construction**, not research failure (per 2026-09-04 lesson). Allocation caps are binding; portfolio is fully positioned on AI infrastructure capex thesis (optical fiber buildout GLW/LITE/CIEN, memory HBM surge NVDA/MRVL/ALAB, foundry TSM, fabric ANET), plus off-thesis SOFI at 15.37% (within 15% deliberate cap override).
-
-**AVGO Stop-Loss Enforcement:** -8.84% position correctly triggered mandatory close per CLAUDE.md 8% hard rule. Sell limit order submitted at $345 (0.2% below $346.43 current). Validates 2026-07-07 lesson and CLAUDE.md discipline. After fill, portfolio will rebalance to ~$88-89k with ~$42-43k cash, freeing capacity for opportunistic re-entries.
-
-**Sector Momentum:** Intraday tech/optical sector volatility (-9% to -5% chop on high-conviction positions) validates consolidation phase between institutional waves. BofA 9/14 AI bull thesis provides counter-narrative to "slowdown" FUD. Whale signals on TSM/LITE (9/9, 9/14) confirm accumulation thesis intact—these 5-8% intraday dips are pre-capitulation noise, not thesis breaks. No need for panic position reductions; SOFI exception holding steady at +1.3% intraday.
-
-**Next Session:** Monitor for AVGO fill confirmation; if it closes, portfolio will have freed up $4.5k notional and ~$500 cash. Watch for any additional positions below 8% threshold on next research pass. Whale signal runway on LITE (whale 9/9, 5 days into window) + ANET/TSM institutional positioning should persist into next week given mega-capex narrative durability.
 
 ### 2026-09-15
 All five top picks from morning research remain fully positioned at or above allocation caps. Portfolio is correctly constructed per 2026-09-04 lesson: allocation discipline enforced across LITE (whale 9/9, 6-day window active), MRVL (AI safety narrative), NVDA (Meta One catalyst), TSM (foundry for custom silicon), and ANET (fabric infrastructure). No new trades warranted given capital deployment already at maximum justified allocation.
@@ -80,3 +69,12 @@ Portfolio fully positioned at or above allocation caps on all five top-pick thes
 Cash position strong at 49% ($46k), freeing capital for opportunistic re-entries or stop-loss replacements. No positions triggered 8% mandatory close threshold.
 
 Session thesis validation: Rate relief tailwind + whale signals + institutional commentary across optical (LITE/GLW/CIEN), memory (MRVL/NVDA), foundry (TSM), and fabric (ANET) confirm mega-capex narrative durability into next week.
+
+### 2026-09-17
+Portfolio remains correctly constructed per 2026-09-04 lesson: fully positioned at 51% invested with all five top-conviction AI infrastructure theses at or above allocation caps (LITE/MRVL optical fiber + HBM capex, NVDA GPU demand, ANET fabric switching, TSEM optical transceivers as adjacency). Ciena's aggressive multi-year fiber targets, GlobalFoundries' HBM partnership, and Gabelli institutional confirmation validate all morning theses — thesis integrity intact across optical capex (LITE, GLW, CIEN), memory HBM (MRVL, NVDA), and fabric (ANET) pillars.
+
+SOFI remains at 14.6% allocation (within 15% override cap) despite -7.1% underwater position; no 8% mandatory close triggered. Whale signal from 2026-07-14 still has runway per 2026-08-21 lesson.
+
+Cash position at 49% ($46.2k) supports opportunistic re-entries or rebalancing if positions trim due to profit-taking. Market close at 16:00 ET; no intraday volatility requiring order adjustment.
+
+Next session: Monitor if LITE/MRVL/NVDA/ANET theses sustain, particularly Ciena optical capex guidance durability through earnings cycle. TSEM remains as tactical adjacency should TSEM-specific catalyst strengthen or portfolio rebalance creates capacity.
