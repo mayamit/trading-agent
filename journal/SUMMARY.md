@@ -1,19 +1,14 @@
 # Journal Summary
 
-_Generated 2026-09-17 22:51 from 7 of 100 entries (2026-09-09 → 2026-09-17)_
+_Generated 2026-09-18 17:27 from 7 of 101 entries (2026-09-10 → 2026-09-18)_
 
-## Latest Portfolio Status _(from 2026-09-17)_
+## Latest Portfolio Status _(from 2026-09-18)_
 
 - Cash: $46,194.93
-- Positions: ANET (28 @ $199.41), CIEN (11 @ $353.43), GLW (30 @ $148.09), LITE (6 @ $907.51), MRVL (22 @ $242.10), NVDA (23 @ $219.38), SOFI (823 @ $16.85), TSM (12 @ $429.05)
-- Total Value: $94,937.74 (51% invested, 49% cash)
+- Positions: ANET (28 @ $198.15), CIEN (11 @ $342.10), GLW (30 @ $150.50), LITE (6 @ $914.17), MRVL (22 @ $236.22), NVDA (23 @ $219.95), SOFI (823 @ $16.98), TSM (12 @ $429.92)
+- Total Value: $94,898.37 (52.7% invested, 48.6% cash)
 
 ## Recent Trades (last 7 days)
-
-### 2026-09-09
-| Time | Symbol | Action | Qty | Price | Reasoning |
-|------|--------|--------|-----|-------|-----------|
-| — | — | — | — | — | No trades executed today. All five top picks (GLW, LITE, AAOI, NVDA, AVGO) already in portfolio. Allocation discipline enforced: GLW (5.17%), LITE (6.23%), NVDA (5.28%) at or above 5% caps; AAOI (4.72%) and AVGO (4.84%) have <$300 room each, insufficient for meaningful positions. All theses validated by morning catalysts (Verizon fiber deal, Blackwell auction, OpenAI-Samsung partnership). No stop-losses triggered; portfolio remains fully positioned on AI infrastructure capex thesis. |
 
 ### 2026-09-10
 | Time | Symbol | Action | Qty | Price | Reasoning |
@@ -46,16 +41,14 @@ None today. All five top picks (LITE, MRVL, NVDA, ANET, TSEM) are already in por
 
 Allocation discipline enforced. No stop-losses triggered (SOFI at -7.1%, below 8% threshold).
 
+### 2026-09-18
+None today. All five top-pick theses validated by morning research; all four in-portfolio picks (LITE, MRVL, NVDA, TSM) already positioned at or above allocation caps (5% rule + CLAUDE.md enforcement). AVGO: CEO guidance positive, but bearish technicals (MA20 $373.02 < MA50 $383.54, close $364.33 < MA20) negate entry thesis per 2026-08-21 lesson requirement for paired technical + thematic validation. Portfolio remains optimally constructed at 51% invested per 2026-09-04/2026-09-17 allocation discipline doctrine: no new capital deployment justified.
+
+| Time | Symbol | Action | Qty | Price | Reasoning |
+|------|--------|--------|-----|-------|-----------|
+| — | — | — | — | — | Allocation discipline enforced. All top-5 theses validated, zero positions below 8% stop-loss, four existing picks at/above caps. |
+
 ## Recent Reflections (last 3 days)
-
-### 2026-09-15
-All five top picks from morning research remain fully positioned at or above allocation caps. Portfolio is correctly constructed per 2026-09-04 lesson: allocation discipline enforced across LITE (whale 9/9, 6-day window active), MRVL (AI safety narrative), NVDA (Meta One catalyst), TSM (foundry for custom silicon), and ANET (fabric infrastructure). No new trades warranted given capital deployment already at maximum justified allocation.
-
-Mandatory ALAB stop-loss (-8.92%) executed per CLAUDE.md hard rule and 2026-07-07 lesson enforcement pattern. Confirms discipline gate working correctly. Upon fill, portfolio will rebalance with ~$4.4k-4.5k additional cash available.
-
-SOFI remains at 15.2% allocation (within 15% override cap) despite intraday weakness (-2.18%); no action taken.
-
-All top-5 theses remain validated by morning research: optical capex (LITE whale, GLW $6B Meta fiber), memory HBM surge (NVDA, MRVL inference chips), foundry custom silicon (TSM Meta One), and fabric diversification (ANET BofA institutional rotation). Sector momentum intact through close.
 
 ### 2026-09-16
 Portfolio fully positioned at or above allocation caps on all five top-pick theses. No trades executed today, validating allocation discipline enforced since 2026-09-04 lesson. All theses remain strong:
@@ -78,3 +71,20 @@ SOFI remains at 14.6% allocation (within 15% override cap) despite -7.1% underwa
 Cash position at 49% ($46.2k) supports opportunistic re-entries or rebalancing if positions trim due to profit-taking. Market close at 16:00 ET; no intraday volatility requiring order adjustment.
 
 Next session: Monitor if LITE/MRVL/NVDA/ANET theses sustain, particularly Ciena optical capex guidance durability through earnings cycle. TSEM remains as tactical adjacency should TSEM-specific catalyst strengthen or portfolio rebalance creates capacity.
+
+### 2026-09-18
+**Thesis Validation:** All five top-pick theses remain supported by morning catalysts (bullish MAs across LITE/MRVL/NVDA/TSM + SanDisk options/VanEck/whale signals). AVGO's CEO guidance on $230B fiscal-2028 revenue milestone breaks technical weakness on paper only — actual price action contradicts thesis: MA20 < MA50 + close < MA20 = deteriorating technicals. Consistent with 2026-08-21 lesson: analyst/CEO guidance requires paired technical confirmation; AVGO lacks it.
+
+**Allocation Discipline:** Portfolio correctly positioned at 51% invested with capital fully deployed across justified allocation caps:
+- LITE 5.77% (5% cap, +40.7% unrealized, whale active)
+- MRVL 5.48% (5% cap, +8.7% unrealized, SanDisk catalyst)
+- NVDA 5.33% (5% cap, +6.2% unrealized, GPU demand)
+- TSM 5.44% (5% cap, +5.3% unrealized, foundry AI silicon)
+- ANET 5.86% (5% cap, +40.1% unrealized, fabric infrastructure) — note: not in top-5 today, but thesis intact
+- GLW 4.76% (5% cap, +15.0% unrealized, optical fiber)
+- CIEN 3.98% (5% cap, +6.7% unrealized, coherent optical)
+- SOFI 14.75% (15% cap, -6.2%, within override)
+
+No rebalancing warranted. Market momentum (LITE +2.2% intraday, GLW +1.8% intraday) validates optical fiber/AI capex mega-thesis durability.
+
+**Next Session:** Monitor MA recovery signals for AVGO (entry only if MA20 > MA50 + bullish technical setup), watch for LITE whale runway sustain (whale alerts typically 6-10 trading days), validate MRVL SanDisk options catalyst follow-through into earnings cycle. ANET/GLW/CIEN remain core positioning given optical capex tailwind; no trim needed despite being at/above caps (thesis = core infrastructure, not tactical trade). Cash reserve (48.7% = $46.2k) supports opportunistic re-entries or rebalancing if sector momentum breaks.
