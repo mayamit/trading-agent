@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-09-18",
+  "picks": [
+    {
+      "symbol": "LITE",
+      "thesis": "Bullish MA (20: $900.35, 50: $822.25) with whale accumulation signal active; optical capex capstone for data center AI infrastructure.",
+      "conviction": "high",
+      "thesis_type": "ma_crossover",
+      "signal_source": "Bullish MA trend + whale signal active"
+    },
+    {
+      "symbol": "MRVL",
+      "thesis": "Bullish MA ($226.56, $218.97) + same-day SanDisk options catalyst (9/18) highlighting AI memory trade momentum; HBM narrative for inference.",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Bullish MA + SanDisk memory options activity 9/18"
+    },
+    {
+      "symbol": "NVDA",
+      "thesis": "Bullish MA (20: $220.83, 50: $211.81) reinforces GPU market leadership; core AI infrastructure capex demand thesis.",
+      "conviction": "medium",
+      "thesis_type": "ma_crossover",
+      "signal_source": "Bullish MA trend"
+    },
+    {
+      "symbol": "TSM",
+      "thesis": "Bullish MA (20: $421.63, 50: $420.18) + VanEck foundry control commentary (9/18); AI token factories require leading-edge custom silicon.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "VanEck 9/18 commentary on AI foundry demand + bullish MA"
+    },
+    {
+      "symbol": "AVGO",
+      "thesis": "CEO Hock Tan reaffirms durable AI demand (9/18); projects $230B AI chip revenue by fiscal 2028. Breaks technical weakness via authoritative guidance.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "CEO guidance 9/18 on $230B AI revenue milestone"
+    }
+  ]
+}
