@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-09-21",
+  "picks": [
+    {
+      "symbol": "MRVL",
+      "thesis": "Cantor Fitzgerald analyst upgrade on AI infrastructure demand validates HBM memory thesis; bullish MA cross (227.58 > 216.30) sustains momentum.",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Cantor Fitzgerald analyst upgrade (2026-09-21)"
+    },
+    {
+      "symbol": "TSM",
+      "thesis": "Whale accumulation activity (2026-09-21) signals institutional confidence in foundry AI silicon positioning; MA flat but constructive.",
+      "conviction": "high",
+      "thesis_type": "other",
+      "signal_source": "Whale alert activity (2026-09-21)"
+    },
+    {
+      "symbol": "LITE",
+      "thesis": "Optical fiber capex mega-thesis sustains past 7 days; bullish MA trend (898.31 > 828.46) intact despite price consolidation at $835.42.",
+      "conviction": "medium",
+      "thesis_type": "ma_crossover",
+      "signal_source": "MA trend durability + sector thesis confirmation"
+    },
+    {
+      "symbol": "ANET",
+      "thesis": "AI fabric switching demand persists; bullish MA (192.62 > 185.84) confirms infrastructure capex tailwind durability into Q4.",
+      "conviction": "medium",
+      "thesis_type": "news+ma",
+      "signal_source": "CNBC Final Trades mention (2026-09-21) + MA validation"
+    },
+    {
+      "symbol": "NVDA",
+      "thesis": "GPU demand thesis validated by fresh AI sentiment (2026-09-21); bullish MA cross (219.48 > 212.92) persists amid market momentum.",
+      "conviction": "medium",
+      "thesis_type": "news+ma",
+      "signal_source": "Semiconductor AI momentum (2026-09-21)"
+    }
+  ]
+}
