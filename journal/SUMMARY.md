@@ -1,6 +1,6 @@
 # Journal Summary
 
-_Generated 2026-09-22 17:53 from 7 of 103 entries (2026-09-14 → 2026-09-22)_
+_Generated 2026-09-22 22:57 from 7 of 103 entries (2026-09-14 → 2026-09-22)_
 
 ## Latest Portfolio Status _(from 2026-09-22)_
 
@@ -76,6 +76,4 @@ Allocation discipline holds strong: All five top-conviction AI infrastructure th
 Intraday: strong breadth (+$1,400 across 8 positions, only SOFI flat -$6.28) validates sector momentum durability. Optical capex mega-thesis (LITE +$200, ANET +$177, GLW +$284, CIEN +$141) and memory HBM (MRVL +$329, NVDA +$142) and foundry AI (TSM +$108) all track in-line with conviction levels. Next session: monitor whale runway durability (TSM/LITE, typically 6-10 trading days), validate if Cantor analyst upgrade sustains momentum, assess optical/HBM/foundry mega-capex narrative resilience into late Q3.
 
 ### 2026-09-22
-All four high-conviction top-5 theses validated by morning research remain positioned at or above allocation caps: ANET (5.9%, +43.9%), LITE (5.9%, +47%), MRVL (5.9%, +20.7%), TSM (5.5%, +9.6%). CRDO requires MA confirmation per 2026-08-21 lesson (analyst coverage needs technical validation); bearish MA (20-day $199.15 > 50-day $218.91, price below both) contradicts Mizuho Outperform call—medium conviction + capital fully deployed = defer to next session. 
-
-Per 2026-09-04 allocation discipline doctrine, portfolio correctly sized at 52.4% invested with capital fully deployed across justified allocations. No new position deployment warranted. All existing positions green or flat; no stop-losses triggered. Strong intraday breadth validates optical capex mega-thesis durability (LITE/CIEN/GLW all positive). Next session: monitor CRDO for MA confirmation breakout, watch whale runway durability on TSM/LITE (typically 6–10 days), validate if Cantor analyst upgrade sustains momentum into earnings cycle.
+Allocation discipline held firm: all high-conviction theses capped at or above allocation ceiling, with CRDO deferred per 2026-08-21 lesson (analyst call + bearish MA = no entry). Portfolio closed at $97,067.31 (-$29.63 from session high), 52.4% invested with strong breadth across optical infrastructure theses (LITE -0.9%, CIEN +1.0%, GLW +0.7%). SOFI whale signal (+1.2%, +5.3% cumulative from 7/14 entry) continues validating patient positioning on high-confidence whale data despite delayed capture. No trades executed, no stop-losses triggered. Thesis coherence + allocation discipline proved resilient through quiet trading day. Next session: monitor if CRDO MA-confirms into bullish setup (analyst upside still valid), watch LITE/TSM whale runway persistence.
