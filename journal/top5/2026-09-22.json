@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-09-22",
+  "picks": [
+    {
+      "symbol": "ANET",
+      "thesis": "Bullish MA signal (unique today) validates fabric infrastructure thesis; CNBC analyst endorsement",
+      "conviction": "high",
+      "thesis_type": "ma_crossover",
+      "signal_source": "Arista bullish MA (20 < 50) + CNBC Final Trades endorsement"
+    },
+    {
+      "symbol": "LITE",
+      "thesis": "Fresh hyperscale AI module announcement validates optical capex mega-thesis durability",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Lumentum ECOC module showcase + bullish optical demand catalysts"
+    },
+    {
+      "symbol": "MRVL",
+      "thesis": "Cantor Fitzgerald analyst upgrade reinforces HBM memory infrastructure thesis",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Cantor price target raise + AI infrastructure conviction"
+    },
+    {
+      "symbol": "TSM",
+      "thesis": "Whale accumulation signal validates foundry AI silicon thesis; fresh institutional accumulation",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Whale alerts (2026-09-22) + foundry AI demand"
+    },
+    {
+      "symbol": "CRDO",
+      "thesis": "Mizuho Outperform rating ($245 PT, +63% upside) contradicts bearish MA; requires MA confirmation before entry",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Mizuho Outperform + 1.6T AI optical tech product announcement"
+    }
+  ]
+}
