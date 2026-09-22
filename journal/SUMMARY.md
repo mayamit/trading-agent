@@ -1,18 +1,15 @@
 # Journal Summary
 
-_Generated 2026-09-21 23:16 from 7 of 102 entries (2026-09-11 → 2026-09-21)_
+_Generated 2026-09-22 17:53 from 7 of 103 entries (2026-09-14 → 2026-09-22)_
 
-## Latest Portfolio Status _(from 2026-09-21)_
+## Latest Portfolio Status _(from 2026-09-22)_
 
 - Cash: $46,194.93
-- Positions: ANET (28 @ $141.86 avg, $205.70 now), CIEN (11 @ $322.10 avg, $361.27 now), GLW (30 @ $130.76 avg, $159.52 now), LITE (6 @ $648.89 avg, $964.30 now), MRVL (22 @ $217.56 avg, $259.20 now), NVDA (23 @ $206.99 avg, $228.45 now), SOFI (823 @ $18.13 avg, $16.99 now), TSM (12 @ $408.61 avg, $443.71 now)
-- Total Value: $96,764.24 (52.9% invested, 47.8% cash)
-- Intraday Performance: +$1,400.40 (all positions green except SOFI -$6.28 flat)
+- Positions: ANET (28 @ $141.86 avg, $204.15 now), CIEN (11 @ $322.10 avg, $372.54 now), GLW (30 @ $130.76 avg, $159.45 now), LITE (6 @ $648.89 avg, $953.97 now), MRVL (22 @ $217.56 avg, $262.60 now), NVDA (23 @ $206.99 avg, $228.95 now), SOFI (823 @ $18.13 avg, $17.21 now), TSM (12 @ $408.61 avg, $447.85 now)
+- Total Value: $97,096.94 (52.4% invested, 47.6% cash)
+- Intraday: All positions green except ANET -0.6% and LITE -0.05%; SOFI +1.4% (+$197)
 
 ## Recent Trades (last 7 days)
-
-### 2026-09-11
-None — all top 5 picks already in portfolio at or above allocation caps. Thesis validation confirmed across all positions.
 
 ### 2026-09-14
 | Time | Symbol | Action | Qty | Price | Reasoning |
@@ -47,16 +44,14 @@ None today. All five top-pick theses validated by morning research; all four in-
 ### 2026-09-21
 None — all top-5 theses already positioned at or above allocation caps. Per 2026-09-04 allocation discipline: portfolio correctly sized at 52.9% invested; no new capital deployment warranted absent position trim or stop-loss.
 
+### 2026-09-22
+None yet — allocation discipline holds. All top-5 theses at or above caps per 2026-09-04 lesson; portfolio correctly sized at 52.4% invested.
+
+| Time | Symbol | Action | Qty | Price | Reasoning |
+|------|--------|--------|-----|-------|-----------|
+| — | — | — | — | — | — |
+
 ## Recent Reflections (last 3 days)
-
-### 2026-09-17
-Portfolio remains correctly constructed per 2026-09-04 lesson: fully positioned at 51% invested with all five top-conviction AI infrastructure theses at or above allocation caps (LITE/MRVL optical fiber + HBM capex, NVDA GPU demand, ANET fabric switching, TSEM optical transceivers as adjacency). Ciena's aggressive multi-year fiber targets, GlobalFoundries' HBM partnership, and Gabelli institutional confirmation validate all morning theses — thesis integrity intact across optical capex (LITE, GLW, CIEN), memory HBM (MRVL, NVDA), and fabric (ANET) pillars.
-
-SOFI remains at 14.6% allocation (within 15% override cap) despite -7.1% underwater position; no 8% mandatory close triggered. Whale signal from 2026-07-14 still has runway per 2026-08-21 lesson.
-
-Cash position at 49% ($46.2k) supports opportunistic re-entries or rebalancing if positions trim due to profit-taking. Market close at 16:00 ET; no intraday volatility requiring order adjustment.
-
-Next session: Monitor if LITE/MRVL/NVDA/ANET theses sustain, particularly Ciena optical capex guidance durability through earnings cycle. TSEM remains as tactical adjacency should TSEM-specific catalyst strengthen or portfolio rebalance creates capacity.
 
 ### 2026-09-18
 **Thesis Validation:** All five top-pick theses remain supported by morning catalysts (bullish MAs across LITE/MRVL/NVDA/TSM + SanDisk options/VanEck/whale signals). AVGO's CEO guidance on $230B fiscal-2028 revenue milestone breaks technical weakness on paper only — actual price action contradicts thesis: MA20 < MA50 + close < MA20 = deteriorating technicals. Consistent with 2026-08-21 lesson: analyst/CEO guidance requires paired technical confirmation; AVGO lacks it.
@@ -79,3 +74,8 @@ No rebalancing warranted. Market momentum (LITE +2.2% intraday, GLW +1.8% intrad
 Allocation discipline holds strong: All five top-conviction AI infrastructure theses remain positioned at/above their 5% caps, thesis integrity persists across all picks (MRVL analyst upgrade +HBM, TSM whale accumulation +foundry, LITE/ANET MA durability +optical capex, NVDA AI sentiment +GPU demand). Portfolio correctly constructed at 52.9% invested with zero stop-loss triggers and all existing positions profitable (except SOFI -6.28%, within hard rule). No new trades warranted — capital fully deployed across justified allocations per 2026-09-04 lesson.
 
 Intraday: strong breadth (+$1,400 across 8 positions, only SOFI flat -$6.28) validates sector momentum durability. Optical capex mega-thesis (LITE +$200, ANET +$177, GLW +$284, CIEN +$141) and memory HBM (MRVL +$329, NVDA +$142) and foundry AI (TSM +$108) all track in-line with conviction levels. Next session: monitor whale runway durability (TSM/LITE, typically 6-10 trading days), validate if Cantor analyst upgrade sustains momentum, assess optical/HBM/foundry mega-capex narrative resilience into late Q3.
+
+### 2026-09-22
+All four high-conviction top-5 theses validated by morning research remain positioned at or above allocation caps: ANET (5.9%, +43.9%), LITE (5.9%, +47%), MRVL (5.9%, +20.7%), TSM (5.5%, +9.6%). CRDO requires MA confirmation per 2026-08-21 lesson (analyst coverage needs technical validation); bearish MA (20-day $199.15 > 50-day $218.91, price below both) contradicts Mizuho Outperform call—medium conviction + capital fully deployed = defer to next session. 
+
+Per 2026-09-04 allocation discipline doctrine, portfolio correctly sized at 52.4% invested with capital fully deployed across justified allocations. No new position deployment warranted. All existing positions green or flat; no stop-losses triggered. Strong intraday breadth validates optical capex mega-thesis durability (LITE/CIEN/GLW all positive). Next session: monitor CRDO for MA confirmation breakout, watch whale runway durability on TSM/LITE (typically 6–10 days), validate if Cantor analyst upgrade sustains momentum into earnings cycle.
