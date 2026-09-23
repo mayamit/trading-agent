@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-09-23",
+  "picks": [
+    {
+      "symbol": "LITE",
+      "thesis": "Bullish MA cross (MA20 $891.83 > MA50 $830.62) + optical capex mega-thesis validation",
+      "conviction": "high",
+      "thesis_type": "ma_crossover",
+      "signal_source": "bullish technicals + photonics sector durability"
+    },
+    {
+      "symbol": "ANET",
+      "thesis": "Bullish MA (MA20 $192.17 > MA50 $186.23) + bullish signal + fabric infrastructure demand",
+      "conviction": "high",
+      "thesis_type": "ma_crossover",
+      "signal_source": "bullish technicals + AI fabric capex"
+    },
+    {
+      "symbol": "MRVL",
+      "thesis": "Bullish MA (MA20 $226.95 > MA50 $215.75) + analyst initiation coverage today + HBM memory tailwind",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "analyst initiation (9/23) + memory HBM demand"
+    },
+    {
+      "symbol": "NVDA",
+      "thesis": "Bullish MA (MA20 $218.83 > MA50 $213.25) + whale accumulation activity today + GPU AI demand",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "whale activity (9/23) + GPU infrastructure"
+    },
+    {
+      "symbol": "TSM",
+      "thesis": "Bullish MA (MA20 $420.49 > MA50 $417.9) + Snapdragon/Qualcomm AI catalyst today + foundry AI silicon",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Snapdragon 8 Elite Gen 6 launch (9/23) + foundry demand"
+    }
+  ]
+}
