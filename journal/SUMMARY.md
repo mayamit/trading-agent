@@ -1,19 +1,14 @@
 # Journal Summary
 
-_Generated 2026-09-23 22:57 from 7 of 104 entries (2026-09-15 → 2026-09-23)_
+_Generated 2026-09-24 23:13 from 7 of 105 entries (2026-09-16 → 2026-09-24)_
 
-## Latest Portfolio Status _(from 2026-09-23)_
+## Latest Portfolio Status _(from 2026-09-24)_
 
 - Cash: $46,194.93
-- Positions: ANET (28 @ $141.86), CIEN (11 @ $322.10), GLW (30 @ $130.76), LITE (6 @ $648.89), MRVL (22 @ $217.56), NVDA (23 @ $206.99), SOFI (823 @ $18.13), TSM (12 @ $408.61)
-- Total Value: $96,105.58
+- Positions: ANET (28 @ $141.86), CIEN (11 @ $322.10), GLW (30 @ $130.76), LITE (6 @ $648.89), MRVL (22 @ $217.56), NVDA (23 @ $206.99), SOFI (823 @ $18.13, -8.04%), TSM (12 @ $408.61)
+- Total Value: $95,917.18
 
 ## Recent Trades (last 7 days)
-
-### 2026-09-15
-| Time | Symbol | Action | Qty | Price | Reasoning |
-|------|--------|--------|-----|-------|-----------|
-| 13:53 | ALAB | SELL | 17 | $255.77 (limit) | **Mandatory stop-loss**: position -8.92% from entry ($281.51 → $256.39) exceeds CLAUDE.md 8% hard rule. Stop-loss is non-discretionary per 2026-07-07 lesson. Limit order expires EOD 20:00 ET. |
 
 ### 2026-09-16
 None today. Portfolio fully positioned at or above allocation caps across all five top-conviction theses (optical capex LITE/GLW/CIEN, memory HBM MRVL/NVDA, foundry TSM, fabric ANET). Allocation discipline enforced per 2026-09-04 lesson.
@@ -48,15 +43,20 @@ None yet — allocation discipline holds. All top-5 theses at or above caps per 
 ### 2026-09-23
 None today. All five top-conviction theses already positioned at/above allocation caps. Allocation discipline enforced.
 
+### 2026-09-24
+| Time | Symbol | Action | Qty | Price | Reasoning |
+|------|--------|--------|-----|-------|-----------|
+| 14:06 | SOFI | SELL | 823 | $16.63 (limit) | **Mandatory stop-loss**: position -8.04% from entry ($18.13 → $16.67) exceeds CLAUDE.md 8% hard rule. Sell limit order expires EOD 16:00 ET. |
+
 ## Recent Reflections (last 3 days)
-
-### 2026-09-21
-Allocation discipline holds strong: All five top-conviction AI infrastructure theses remain positioned at/above their 5% caps, thesis integrity persists across all picks (MRVL analyst upgrade +HBM, TSM whale accumulation +foundry, LITE/ANET MA durability +optical capex, NVDA AI sentiment +GPU demand). Portfolio correctly constructed at 52.9% invested with zero stop-loss triggers and all existing positions profitable (except SOFI -6.28%, within hard rule). No new trades warranted — capital fully deployed across justified allocations per 2026-09-04 lesson.
-
-Intraday: strong breadth (+$1,400 across 8 positions, only SOFI flat -$6.28) validates sector momentum durability. Optical capex mega-thesis (LITE +$200, ANET +$177, GLW +$284, CIEN +$141) and memory HBM (MRVL +$329, NVDA +$142) and foundry AI (TSM +$108) all track in-line with conviction levels. Next session: monitor whale runway durability (TSM/LITE, typically 6-10 trading days), validate if Cantor analyst upgrade sustains momentum, assess optical/HBM/foundry mega-capex narrative resilience into late Q3.
 
 ### 2026-09-22
 Allocation discipline held firm: all high-conviction theses capped at or above allocation ceiling, with CRDO deferred per 2026-08-21 lesson (analyst call + bearish MA = no entry). Portfolio closed at $97,067.31 (-$29.63 from session high), 52.4% invested with strong breadth across optical infrastructure theses (LITE -0.9%, CIEN +1.0%, GLW +0.7%). SOFI whale signal (+1.2%, +5.3% cumulative from 7/14 entry) continues validating patient positioning on high-confidence whale data despite delayed capture. No trades executed, no stop-losses triggered. Thesis coherence + allocation discipline proved resilient through quiet trading day. Next session: monitor if CRDO MA-confirms into bullish setup (analyst upside still valid), watch LITE/TSM whale runway persistence.
 
 ### 2026-09-23
 All five top-conviction theses (LITE, ANET, MRVL, NVDA, TSM) validated by bullish MA setup and fresh catalysts; no new trades warranted as positions already at allocation caps. Intraday pullback (-1.5% sector avg, -$997 portfolio intraday loss) was consolidation chop, consistent with quiet afternoon tape. Allocation discipline enforced: capital fully deployed per infrastructure thesis conviction. Next session: monitor whale runway durability (TSM/LITE), MRVL analyst follow-through, and Snapdragon demand narrative into week-end close.
+
+### 2026-09-24
+SOFI sell limit at $16.63 filled successfully, realizing -$1,200 loss and freeing ~$13.7k cash (now $59.9k reserves). This validates mandatory 8% stop-loss enforcement (CLAUDE.md hard rule; 2026-07-07/16 lessons now fully operational). Portfolio equity rose to $96,074 (+$157 intraday) despite SOFI loss, driven by optical sector persistence (+optical mega-thesis up $3.8k, +19% YTD) and memory/HBM coherence (MRVL/NVDA +$1.3k).
+
+All five top-conviction picks remain thesis-bullish but positioned at/above 5% caps (TSM 5.61%, ANET 5.97%, MRVL 5.91%, LITE 5.80%, NVDA 5.37%); cash influx enables sub-cap entry only if thesis + technical alignment surfaces. Sector breadth strong: optical (LITE +$1,687 YTD, ANET +$1,788, CIEN +$400, GLW +$690) sustains mega-thesis runway into Q4 AI capex cycle. Next session: re-evaluate if LITE/ANET consolidation clears overhead or if intraday volatility creates dip-buy opportunities under 5% cap thresholds.
