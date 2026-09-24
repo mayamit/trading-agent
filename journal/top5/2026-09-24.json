@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-09-24",
+  "picks": [
+    {
+      "symbol": "TSM",
+      "thesis": "TSMC foundry AI capacity tightness driving 3-6% price increase effective Jan 2027; mixed MA (420.49 > 414.08 close < 417.9) with strong positive catalyst",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "TSMC price increase announcement + foundry AI demand"
+    },
+    {
+      "symbol": "ANET",
+      "thesis": "Bullish MA (192.17 < 186.23 support breakthrough); optical infrastructure mega-thesis (Gabelli commentary validated); fabric/networking persistent AI capex driver",
+      "conviction": "high",
+      "thesis_type": "ma_crossover",
+      "signal_source": "Bullish MA signal + optical capex thesis durability"
+    },
+    {
+      "symbol": "MRVL",
+      "thesis": "Mixed MA (226.95 > 215.75) with fresh AI opportunity catalyst; HBM mega-thesis (GlobalFoundries capacity expansion for MRVL optical connectivity)",
+      "conviction": "medium",
+      "thesis_type": "news+ma",
+      "signal_source": "Fresh AI opportunity news + HBM/optical integration catalyst"
+    },
+    {
+      "symbol": "LITE",
+      "thesis": "Mixed MA (891.83 > 839.01 close < 830.62) with indirect Meta AI Muse catalyst (photonics/optical stack); optical capex mega-thesis continuation",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Meta AI infrastructure spending + optical capex mega-thesis"
+    },
+    {
+      "symbol": "NVDA",
+      "thesis": "Mixed MA (218.83 > 213.25) with AI GPU demand persistence; alpha buying flow tracking institutional AI infrastructure allocation",
+      "conviction": "medium",
+      "thesis_type": "news+ma",
+      "signal_source": "Institutional alpha buying + AI GPU mega-thesis"
+    }
+  ]
+}
