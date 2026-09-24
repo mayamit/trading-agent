@@ -1,0 +1,10 @@
+2026-09-24T18:06:02Z [INFO] [setup/start] setup starting routine=trading et_date=2026-09-24
+2026-09-24T18:06:02Z [INFO] [setup/env] env validated alpaca_base=https://paper-api.alpaca.markets sendgrid_present=false
+2026-09-24T18:06:02Z [INFO] [setup/ready] setup complete runlog=/home/runner/work/trading-agent/trading-agent/journal/runlog/2026-09-24-trading.log marker=journal/.current-routine
+2026-09-24T18:06:28Z [INFO] [trade/market_status] fetched clock http_status=200 is_open=True next_open=2026-09-25T09:30:00-04:00 next_close=2026-09-24T16:00:00-04:00
+2026-09-24T18:06:28Z [INFO] [research/account] fetched account http_status=200 cash=46194.93 portfolio_value=95906.9
+2026-09-24T18:06:29Z [INFO] [research/positions] fetched positions http_status=200 n_positions=8
+2026-09-24T18:06:52Z [INFO] [research/account] fetched account http_status=200 cash=46194.93 portfolio_value=95917.18
+2026-09-24T18:06:56Z [INFO] [trade/order_request] received order request symbol=SOFI qty=823 side=sell limit_price=16.63 thesis_type=stop_loss conviction=high
+2026-09-24T18:06:56Z [INFO] [trade/order_submit] alpaca response symbol=SOFI side=sell qty=823 limit_price=16.63 http_status=200 order_id=f824d857-c62b-4e87-933f-52c3c4dd8946 order_status=pending_new
+2026-09-24T18:07:44Z [INFO] [finalize/start] finalizing routine=trading et_date=2026-09-24
