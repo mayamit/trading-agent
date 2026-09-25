@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-09-25",
+  "picks": [
+    {
+      "symbol": "TSM",
+      "thesis": "Snapdragon 8 Elite + extended Apple patent agreement validates foundry runway into Q4 capex",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Qualcomm Snapdragon 8 Elite rollout + Apple patent deal (9/25)"
+    },
+    {
+      "symbol": "NVDA",
+      "thesis": "Glass substrates (Jensen Huang/SCHMID) unlock power/yield gains for next-gen AI accelerators",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "SCHMID glass substrate discussion with Jensen Huang (9/25)"
+    },
+    {
+      "symbol": "LITE",
+      "thesis": "Optical connectivity mega-thesis persists; mixed MA with price consolidation near support",
+      "conviction": "medium",
+      "thesis_type": "news+ma",
+      "signal_source": "Optical capex cycle + consolidated price action"
+    },
+    {
+      "symbol": "MRVL",
+      "thesis": "Memory/HBM thesis sustained; AI opportunity narrative continues with mixed MA technical setup",
+      "conviction": "medium",
+      "thesis_type": "news+ma",
+      "signal_source": "AI opportunity narrative (9/24) + HBM thesis durability"
+    },
+    {
+      "symbol": "ANET",
+      "thesis": "Unique bullish MA cross (only in scan) signals fabric/networking demand from AI infrastructure buildout",
+      "conviction": "medium",
+      "thesis_type": "ma_crossover",
+      "signal_source": "Bullish MA (close 192.77 > MA20 192.17 > MA50 186.23)"
+    }
+  ]
+}
