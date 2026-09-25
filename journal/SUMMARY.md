@@ -1,17 +1,14 @@
 # Journal Summary
 
-_Generated 2026-09-24 23:13 from 7 of 105 entries (2026-09-16 → 2026-09-24)_
+_Generated 2026-09-25 23:18 from 7 of 106 entries (2026-09-17 → 2026-09-25)_
 
-## Latest Portfolio Status _(from 2026-09-24)_
+## Latest Portfolio Status _(from 2026-09-25)_
 
-- Cash: $46,194.93
-- Positions: ANET (28 @ $141.86), CIEN (11 @ $322.10), GLW (30 @ $130.76), LITE (6 @ $648.89), MRVL (22 @ $217.56), NVDA (23 @ $206.99), SOFI (823 @ $18.13, -8.04%), TSM (12 @ $408.61)
-- Total Value: $95,917.18
+- Cash: $59,922.57
+- Positions: ANET (28 @ $141.86, +47.0%), CIEN (11 @ $322.10, +11.0%), GLW (30 @ $130.76, +19.4%), LITE (6 @ $648.89, +46.0%), MRVL (22 @ $217.56, +21.7%), NVDA (23 @ $206.99, +8.6%), TSM (12 @ $408.62, +10.4%)
+- Total Value: $96,469.56
 
 ## Recent Trades (last 7 days)
-
-### 2026-09-16
-None today. Portfolio fully positioned at or above allocation caps across all five top-conviction theses (optical capex LITE/GLW/CIEN, memory HBM MRVL/NVDA, foundry TSM, fabric ANET). Allocation discipline enforced per 2026-09-04 lesson.
 
 ### 2026-09-17
 None today. All five top picks (LITE, MRVL, NVDA, ANET, TSEM) are already in portfolio at or above their allocation caps:
@@ -48,10 +45,10 @@ None today. All five top-conviction theses already positioned at/above allocatio
 |------|--------|--------|-----|-------|-----------|
 | 14:06 | SOFI | SELL | 823 | $16.63 (limit) | **Mandatory stop-loss**: position -8.04% from entry ($18.13 → $16.67) exceeds CLAUDE.md 8% hard rule. Sell limit order expires EOD 16:00 ET. |
 
-## Recent Reflections (last 3 days)
+### 2026-09-25
+None today — all top-5 theses already positioned at or above 5% allocation caps (ANET 6.05%, LITE 5.89%, MRVL 6.04%, NVDA 5.36%, TSM 5.61%). SOFI close yesterday freed $13.7k cash but allocation discipline per 2026-09-04 doctrine holds: no new capital deployment absent fresh cap-space creation.
 
-### 2026-09-22
-Allocation discipline held firm: all high-conviction theses capped at or above allocation ceiling, with CRDO deferred per 2026-08-21 lesson (analyst call + bearish MA = no entry). Portfolio closed at $97,067.31 (-$29.63 from session high), 52.4% invested with strong breadth across optical infrastructure theses (LITE -0.9%, CIEN +1.0%, GLW +0.7%). SOFI whale signal (+1.2%, +5.3% cumulative from 7/14 entry) continues validating patient positioning on high-confidence whale data despite delayed capture. No trades executed, no stop-losses triggered. Thesis coherence + allocation discipline proved resilient through quiet trading day. Next session: monitor if CRDO MA-confirms into bullish setup (analyst upside still valid), watch LITE/TSM whale runway persistence.
+## Recent Reflections (last 3 days)
 
 ### 2026-09-23
 All five top-conviction theses (LITE, ANET, MRVL, NVDA, TSM) validated by bullish MA setup and fresh catalysts; no new trades warranted as positions already at allocation caps. Intraday pullback (-1.5% sector avg, -$997 portfolio intraday loss) was consolidation chop, consistent with quiet afternoon tape. Allocation discipline enforced: capital fully deployed per infrastructure thesis conviction. Next session: monitor whale runway durability (TSM/LITE), MRVL analyst follow-through, and Snapdragon demand narrative into week-end close.
@@ -60,3 +57,6 @@ All five top-conviction theses (LITE, ANET, MRVL, NVDA, TSM) validated by bullis
 SOFI sell limit at $16.63 filled successfully, realizing -$1,200 loss and freeing ~$13.7k cash (now $59.9k reserves). This validates mandatory 8% stop-loss enforcement (CLAUDE.md hard rule; 2026-07-07/16 lessons now fully operational). Portfolio equity rose to $96,074 (+$157 intraday) despite SOFI loss, driven by optical sector persistence (+optical mega-thesis up $3.8k, +19% YTD) and memory/HBM coherence (MRVL/NVDA +$1.3k).
 
 All five top-conviction picks remain thesis-bullish but positioned at/above 5% caps (TSM 5.61%, ANET 5.97%, MRVL 5.91%, LITE 5.80%, NVDA 5.37%); cash influx enables sub-cap entry only if thesis + technical alignment surfaces. Sector breadth strong: optical (LITE +$1,687 YTD, ANET +$1,788, CIEN +$400, GLW +$690) sustains mega-thesis runway into Q4 AI capex cycle. Next session: re-evaluate if LITE/ANET consolidation clears overhead or if intraday volatility creates dip-buy opportunities under 5% cap thresholds.
+
+### 2026-09-25
+Portfolio delivered a quiet, disciplined day with all seven positions modestly up (+0.4% to +1.6% intraday, +45% for ANET/LITE winners). Allocation doctrine held firm despite fresh catalysts (TSM Snapdragon, NVDA glass substrate) — zero capital deployed because all top-5 conviction picks were already at/above 5% caps. The $13.7k freed by yesterday's SOFI close validated the doctrine: cash waits for cap-space creation, not for fresh signal noise. Next capital opportunity opens when a position either hits stop-loss or hits +40% exit target.
