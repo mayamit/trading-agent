@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-09-29",
+  "picks": [
+    {
+      "symbol": "MRVL",
+      "thesis": "Bank of America $30B custom AI chip opportunity ahead of Oct. 6 analyst day",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Bank of America research, Oct. 6 analyst day"
+    },
+    {
+      "symbol": "LITE",
+      "thesis": "Photonics mega-thesis validated by GLW's $3B AT&T fiber deal; sector momentum intact",
+      "conviction": "high",
+      "thesis_type": "news+ma",
+      "signal_source": "Corning $3B AT&T contract win, optical buildout narrative"
+    },
+    {
+      "symbol": "ANET",
+      "thesis": "Optical networking core of AI infrastructure capex cycle; bullish MA confirms momentum",
+      "conviction": "high",
+      "thesis_type": "news+ma",
+      "signal_source": "Sector validation from LITE/GLW catalyst, bullish 20/50 cross"
+    },
+    {
+      "symbol": "TSM",
+      "thesis": "AI semiconductor demand thesis supported by Anthropic $2T+ IPO signaling continued AI funding",
+      "conviction": "medium-high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Anthropic IPO valuation context, macro AI capex cycle"
+    },
+    {
+      "symbol": "NVDA",
+      "thesis": "AI leadership position + Trump regulatory support removes prior policy overhang",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Trump AI regulation statement, geopolitical positioning"
+    }
+  ]
+}
