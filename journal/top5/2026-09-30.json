@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-09-30",
+  "picks": [
+    {
+      "symbol": "LITE",
+      "thesis": "Photonics mega-thesis validated; bullish MA 910→945, Bernstein Outperform $1220 PT (+29% upside) fresh coverage",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Bernstein initiation 2026-09-30"
+    },
+    {
+      "symbol": "ANET",
+      "thesis": "Optical networking thesis sustained; bullish MA 195→205, Bernstein Outperform $250 PT (+22% upside) fresh coverage",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Bernstein initiation 2026-09-30"
+    },
+    {
+      "symbol": "MRVL",
+      "thesis": "HBM/custom AI chip mega-thesis; bullish MA 230→262, BofA $30B opportunity + Oct 6 analyst day catalyst",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "BofA 2026-09-29, Oct 6 analyst day"
+    },
+    {
+      "symbol": "TSM",
+      "thesis": "Macro AI capex recovery; bullish MA 425→452, Snapdragon refresh + Apple/Qualcomm upside cycle",
+      "conviction": "medium",
+      "thesis_type": "ma_crossover",
+      "signal_source": "Bullish MA crossover, macro macro AI capex demand"
+    },
+    {
+      "symbol": "NVDA",
+      "thesis": "Policy overhang removal; bullish MA 220→228, Trump regulation statement + Anthropic IPO macro signal validated",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Policy shift 2026-09-29, Anthropic IPO macro demand"
+    }
+  ]
+}
