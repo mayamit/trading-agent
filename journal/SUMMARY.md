@@ -1,22 +1,15 @@
 # Journal Summary
 
-_Generated 2026-09-30 23:48 from 7 of 109 entries (2026-09-22 → 2026-09-30)_
+_Generated 2026-10-01 19:12 from 7 of 110 entries (2026-09-23 → 2026-10-01)_
 
-## Latest Portfolio Status _(from 2026-09-30)_
+## Latest Portfolio Status _(from 2026-10-01)_
 
 - Cash: $59,922.57
-- Positions: ANET (28 @ $204.32, +$1,748.86), CIEN (11 @ $345.20, +$254.10), GLW (30 @ $153.42, +$679.92), LITE (6 @ $962.26, +$1,880.22), MRVL (22 @ $262.43, +$987.14), NVDA (23 @ $230.59, +$542.75), TSM (12 @ $457.75, +$589.66)
-- Total Value: $96,387.12
+- Positions: ANET (28 @ $141.86, +$1,791.49), CIEN (11 @ $322.10, +$620.84), GLW (30 @ $130.76, +$900.50), LITE (6 @ $648.89, +$2,391.98), MRVL (22 @ $217.56, +$1,110.34), NVDA (23 @ $206.99, +$572.88), TSM (12 @ $408.61, +$599.38)
+- Total Value: $97,689.62
 - Portfolio Allocation: 38% invested, 62% cash reserves
 
 ## Recent Trades (last 7 days)
-
-### 2026-09-22
-None yet — allocation discipline holds. All top-5 theses at or above caps per 2026-09-04 lesson; portfolio correctly sized at 52.4% invested.
-
-| Time | Symbol | Action | Qty | Price | Reasoning |
-|------|--------|--------|-----|-------|-----------|
-| — | — | — | — | — | — |
 
 ### 2026-09-23
 None today. All five top-conviction theses already positioned at/above allocation caps. Allocation discipline enforced.
@@ -37,10 +30,14 @@ None today — all top-5 theses already positioned at or above 5% allocation cap
 ### 2026-09-30
 None today — allocation discipline enforced. All top-5 conviction theses positioned at/above 5% allocation caps (LITE 5.98%, ANET 5.93%, MRVL 5.98%, TSM 5.70%, NVDA 5.50%). Per 2026-09-04 & 2026-09-25 doctrine: no new capital deployment when caps full; next opportunity surfaces on +40% exit or 8% stop-loss trigger.
 
-## Recent Reflections (last 3 days)
+### 2026-10-01
+None today. All five top-conviction picks (LITE, ANET, MRVL, NVDA, TSM) already positioned at or above 5% allocation caps per watchlist.json.
 
-### 2026-09-28
-Weekend hold on all seven positions (ANET +44.5%, CIEN +6.8%, GLW +15.8%, LITE +40.9%, MRVL +16.3%, NVDA +10.6%, TSM +10.8% YTD). Portfolio value stable at $95.7k; next session kicks off Monday 2026-09-29 with research routine at 9:45 AM ET. No thesis reviews needed; all positions remain within watchlist allocations.
+| Time | Symbol | Action | Qty | Price | Reasoning |
+|------|--------|--------|-----|-------|-----------|
+| — | — | — | — | — | — |
+
+## Recent Reflections (last 3 days)
 
 ### 2026-09-29
 All five top-conviction picks from morning research validated by fresh sector catalysts: GLW $3B AT&T fiber contract validates photonics mega-thesis, BofA $30B custom AI chip thesis reinforces memory/HBM opportunity, Anthropic IPO signals continued macro AI capex demand, Trump regulation statement removes prior policy overhang for NVDA. 
@@ -59,3 +56,6 @@ Intraday performance mixed but in line with sector chop: ANET +1.2%, LITE +1.6%,
 Next capital opportunity surfaces when: (a) a position hits +40% exit target (LITE +48.5%, ANET +44.5% both approaching), or (b) a position hits -8% stop-loss (none triggered today), or (c) fresh conviction signal emerges that isn't already at cap.
 
 Next session: 2026-10-01 morning research routine at 9:45 AM ET.
+
+### 2026-10-01
+Allocation discipline enforced again. All five top-conviction theses already positioned above or at allocation caps (LITE 6.45%, ANET 5.90%, MRVL 6.04%, NVDA 5.46%, TSM 5.64%). Per 2026-09-04 & 2026-09-25 lessons, no new capital deployment warranted when cap space remains closed. Portfolio holds $59.9k cash reserves (62% dry powder) ready for next deployment window when: (a) a position exits via +40% target (LITE +61.7%, ANET +44.9% approaching), or (b) a fresh conviction signal emerges below current allocation thresholds. Thesis anchors remain intact across all holdings; sector catalysts (optical supply shocks, AI capex, analyst days) validate core hypotheses. Next capital opportunity: 2026-10-06 (MRVL analyst day), or upon LITE/ANET trim trigger at +40% exit.
