@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-10-01",
+  "picks": [
+    {
+      "symbol": "LITE",
+      "thesis": "Bullish MA trend intact ($910 20d vs $848 50d); optical transceivers supply shock from China restrictions creates tailwind catalyst.",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Washington optical transceiver restrictions (2026-10-01 17:42:04)"
+    },
+    {
+      "symbol": "ANET",
+      "thesis": "Bullish MA crossover ($195 20d vs $188 50d); Bernstein Outperform initiation with $250 PT validates arista/optical data center thesis.",
+      "conviction": "high",
+      "thesis_type": "news+ma",
+      "signal_source": "Bernstein Outperform initiation (2026-09-30)"
+    },
+    {
+      "symbol": "MRVL",
+      "thesis": "Bullish MA break ($230 20d vs $217 50d); whale activity today + Oct 6 analyst day catalyzes memory/HBM thesis.",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Whale activity (2026-10-01 17:35:10)"
+    },
+    {
+      "symbol": "NVDA",
+      "thesis": "Bullish MA trend ($220 20d vs $215 50d); OpenAI $20B SoftBank funding round validates AI capex demand driver.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "OpenAI/SoftBank $20B deal (2026-10-01 18:20:24)"
+    },
+    {
+      "symbol": "TSM",
+      "thesis": "Bullish MA trend ($425 20d vs $418 50d); AI chip boom drives semiconductor valuations as hyperscaler capex surges.",
+      "conviction": "high",
+      "thesis_type": "news+ma",
+      "signal_source": "AI trillion-dollar chip boom narrative (2026-10-01 16:50:07)"
+    }
+  ]
+}
