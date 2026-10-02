@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-10-02",
+  "picks": [
+    {
+      "symbol": "LITE",
+      "thesis": "Optical networking supply shock + SwingTrader accumulation; photonics mega-thesis compound +67% from entry.",
+      "conviction": "high",
+      "thesis_type": "news_catalyst+ma_bullish",
+      "signal_source": "Investor Business Daily SwingTrader buy alert 10/02"
+    },
+    {
+      "symbol": "ANET",
+      "thesis": "Optical transport networking for AI scaling; Bernstein Outperform $250 PT (+22% upside); photonics mega-thesis +45% from entry.",
+      "conviction": "high",
+      "thesis_type": "news_catalyst+ma_bullish",
+      "signal_source": "Bernstein Outperform initiation w/ $250 PT"
+    },
+    {
+      "symbol": "MRVL",
+      "thesis": "HBM adoption for AI chips reinforced by analyst day 2026-10-06 (4 days); whale accumulation 10/01; memory mega-thesis +25% from entry.",
+      "conviction": "high",
+      "thesis_type": "earnings+news_catalyst+ma_bullish",
+      "signal_source": "MRVL analyst day 2026-10-06; whale activity 10/01"
+    },
+    {
+      "symbol": "NVDA",
+      "thesis": "AI chip demand; fresh whale accumulation signal 10/02; bullish MA crossover intact; +13% from entry.",
+      "conviction": "medium",
+      "thesis_type": "whale_signal+ma_bullish",
+      "signal_source": "Whale activity alert 10/02"
+    },
+    {
+      "symbol": "TSM",
+      "thesis": "Broadcom $60B AI chip financing catalyst (10/02) validates AI capex mega-trend; direct beneficiary of semiconductor capex wave; +15% from entry.",
+      "conviction": "high",
+      "thesis_type": "news_catalyst+ma_bullish",
+      "signal_source": "Broadcom $60B AI chip financing announcement"
+    }
+  ]
+}
