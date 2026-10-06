@@ -1,0 +1,40 @@
+{
+  "trading_day": "2026-10-06",
+  "picks": [
+    {
+      "symbol": "MRVL",
+      "thesis": "Analyst day event: $20B FY28 revenue target and $70-90B FY31 guidance smash Street estimates; stock +7% on announcement.",
+      "conviction": "high",
+      "thesis_type": "earnings",
+      "signal_source": "Marvell investor day 2026-10-06"
+    },
+    {
+      "symbol": "LITE",
+      "thesis": "Stifel Maintains Buy with $1232 PT; bullish MA cross (912.92 vs 862.73 50-day); +74% return nearing exit-level.",
+      "conviction": "high",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Stifel upgrade 2026-10-05"
+    },
+    {
+      "symbol": "ANET",
+      "thesis": "Institutional accumulation signal (Investor Business Daily SwingTrader); bullish MA (197.07 vs 190.96); +51.6% unrealized.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "IBD SwingTrader buy signal 2026-10-06"
+    },
+    {
+      "symbol": "NVDA",
+      "thesis": "Bullish MA (222.32 vs 216.51 50-day); Jamie Dimon on AI capex competition for capital; whale activity context from 10/02.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Market commentary + whale data 2026-10-02/10-06"
+    },
+    {
+      "symbol": "TSM",
+      "thesis": "Barclays Maintains Overweight, raises PT to $665 (2026-10-06); bullish MA (431.97 vs 421.29 50-day); +18.5% return.",
+      "conviction": "medium",
+      "thesis_type": "news_catalyst",
+      "signal_source": "Barclays upgrade 2026-10-06"
+    }
+  ]
+}
