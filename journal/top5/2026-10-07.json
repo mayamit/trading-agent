@@ -1,0 +1,10 @@
+{
+  "trading_day": "2026-10-07",
+  "picks": [
+    {"symbol": "ALAB", "thesis": "Bullish MA stack (last 351 vs 20d/50d ~306) with AI/semi rally momentum; only sub-cap, unheld name in the top tier, so it is the sole new-capital candidate today.", "conviction": "medium", "thesis_type": "news+ma", "signal_source": "AI/semiconductor sector rally, ALAB surge 10/06 (Benzinga)"},
+    {"symbol": "MRVL", "thesis": "Bullish trend with fresh Jefferies Buy and $450 PT on 10/07 after investor-day targets; already 6.3% of portfolio, above 5% cap, so HOLD and do not add.", "conviction": "high", "thesis_type": "news+ma", "signal_source": "Jefferies Maintains Buy, PT raised to $450 (10/07)"},
+    {"symbol": "LITE", "thesis": "Breakout above five-month range (last 922 vs 20d 913 / 50d 863) on AI networking demand; already 6.7% of portfolio, above 5% cap, so HOLD and do not add.", "conviction": "high", "thesis_type": "news+ma", "signal_source": "Lumentum range breakout, AI networking demand (10/07)"},
+    {"symbol": "ANET", "thesis": "Bullish MA stack (last 205 vs 20d 197 / 50d 191) and new Ethernet rack-scale AI portfolio launch with major partners; already 6.1% of portfolio, above cap, so HOLD and do not add.", "conviction": "medium", "thesis_type": "news+ma", "signal_source": "Arista Ethernet rack-scale AI networking portfolio launch (10/07)"},
+    {"symbol": "NVDA", "thesis": "Bullish MA trend (last 229 vs 20d 222 / 50d 217) but the headline catalyst is weak (Dell XPS product); already 5.5% of portfolio, above cap, so HOLD and do not add.", "conviction": "low", "thesis_type": "other", "signal_source": "Dell XPS 16 with Nvidia RTX Spark (10/07), weak catalyst"}
+  ]
+}
