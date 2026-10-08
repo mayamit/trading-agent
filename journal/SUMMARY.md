@@ -1,12 +1,14 @@
 # Journal Summary
 
-_Generated 2026-10-06 23:48 from 7 of 113 entries (2026-09-28 → 2026-10-06)_
+_Generated 2026-10-08 00:12 from 7 of 114 entries (2026-09-29 → 2026-10-07)_
 
-## Latest Portfolio Status _(from 2026-10-06)_
+## Latest Portfolio Status _(from 2026-10-07)_
 
 - Cash: $59,922.57
-- Positions: ANET (28 @ $141.86 avg, now $215), CIEN (11 @ $322.10 avg, now $438.47), GLW (30 @ $130.76 avg, now $168.49), LITE (6 @ $648.89 avg, now $1129.10), MRVL (22 @ $217.56 avg, now $289.67), NVDA (23 @ $206.99 avg, now $240.02), TSM (12 @ $408.61 avg, now $484.08)
-- Total Value: $100,297.62
+- Positions: ANET (28 sh @ $141.86 avg, now $215.80, 6.05%), CIEN (11 sh @ $322.10 avg, now $446.11, 4.91%), GLW (30 sh @ $130.76 avg, now $163.69, 4.92%), LITE (6 sh @ $648.89 avg, now $1,114.43, 6.70%), MRVL (22 sh @ $217.56 avg, now $285.23, 6.28%), NVDA (23 sh @ $206.99 avg, now $237.01, 5.46%), TSM (12 sh @ $408.61 avg, now $473.02, 5.68%)
+- Total Value: $99,871.85 (equity; down from $100,297.62 on 10/06 close snapshot, intraday)
+- Stop-loss check: all seven positions are above entry (lowest GLW +25.2%). No 8% triggers.
+- Caps: LITE, MRVL, ANET, TSM, NVDA are above their 5% watchlist caps — HOLD, no adds. CIEN and GLW are below cap but no current signal to add.
 
 ## Recent Trades (last 7 days)
 
@@ -37,13 +39,6 @@ None today. All five top-conviction picks (LITE, ANET, MRVL, NVDA, TSM) already 
 
 ## Recent Reflections (last 3 days)
 
-### 2026-10-02
-Portfolio maintains optimal allocation discipline despite compelling morning catalysts across all five picks. Morning research validated fresh conviction signals: LITE SwingTrader institutional accumulation (+67% from entry, nearing +40% exit target); ANET Bernstein Outperform ($250 PT, +46% from entry, nearing exit window); MRVL whale accumulation + 2026-10-06 analyst day catalyst (+25% from entry, HBM thesis intact); NVDA whale activity fresh 10/02 alert (+13% from entry); TSM Broadcom $60B AI chip financing validates capex mega-trend (+15% from entry). 
-
-All theses remain anchored and bullish, but new capital deployment deferred per established allocation discipline: no deployment warranted when top-5 conviction theses already positioned at/above caps. Per 2026-09-04 lesson, next capital opportunity surfaces when: (a) LITE/ANET hit +40% exit targets to free cap space (LITE +67% already past threshold; ANET +46% approaching), or (b) fresh conviction signal emerges below current allocation thresholds.
-
-Portfolio: 38% invested ($39.6k long market value), 62% cash reserves ($59.9k dry powder) ready for redeployment. Thesis integrity intact across all seven holdings. No action required until exit target or stop-loss triggers.
-
 ### 2026-10-05
 No trading activity on market closure. Research routine scheduled for 2026-10-06 09:45 AM ET.
 
@@ -57,3 +52,6 @@ Allocation discipline enforced despite compelling morning catalysts. MRVL analys
 This represents capital efficiency, not thesis weakness: the portfolio's best convictions are already full-sized. Dry powder ($59.9k cash) reserved for deployment when: (a) LITE (+74%) or ANET (+51.6%) trim at +40% exit targets to free cap space, or (b) fresh conviction emerges on sub-cap symbols.
 
 Thesis integrity intact. Market favorable for optical/AI capex thesis. No stop-loss triggers. Monitoring for redeployment windows.
+
+### 2026-10-07
+Afternoon run found no compliant entry. The only sub-cap top-5 name (ALAB) was extended well above its MA and above the morning's pullback condition, so it was not bought. The other four are capped and held. Waiting for ALAB to pull back into the morning's MA-support zone, or for a cap-freeing event in the existing book.
