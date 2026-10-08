@@ -1,0 +1,10 @@
+{
+  "trading_day": "2026-10-08",
+  "picks": [
+    {"symbol": "ALAB", "thesis": "Bullish MA stack and AI/semis rally catalyst, but price is extended ~15% above 20-day MA; only buy on a pullback toward MA support.", "conviction": "low", "thesis_type": "news+ma", "signal_source": "10/06 AI/semiconductor rally coverage (Astera Labs surge)"},
+    {"symbol": "MRVL", "thesis": "Fresh investor-day catalyst (FY28 revenue goal raised to $20B) with bullish MA trend; already above 5% cap, so HOLD only.", "conviction": "high", "thesis_type": "news_catalyst", "signal_source": "10/06 Marvell investor day, +7% move"},
+    {"symbol": "LITE", "thesis": "Breakout above five-month range on AI networking demand with bullish MA trend; already above 5% cap, so HOLD only.", "conviction": "high", "thesis_type": "news+ma", "signal_source": "10/07 Lumentum range breakout coverage"},
+    {"symbol": "ANET", "thesis": "Rack-scale AI Ethernet portfolio launch with AMD, Arm, Broadcom, Meta, Microsoft support and bullish MA trend; already above 5% cap, so HOLD only.", "conviction": "medium", "thesis_type": "news+ma", "signal_source": "10/07 Arista Ethernet rack-scale AI networking announcement"},
+    {"symbol": "TSM", "thesis": "Bullish MA trend and leading-edge foundry position for CPO switches; headline is macro-generic, so thesis rests on MA and sector. Already above 5% cap, so HOLD only.", "conviction": "medium", "thesis_type": "ma_crossover", "signal_source": "20d/50d MA bullish alignment (scan)"}
+  ]
+}
