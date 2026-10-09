@@ -1,0 +1,10 @@
+{
+  "trading_day": "2026-10-09",
+  "picks": [
+    {"symbol": "LITE", "thesis": "Fresh CEO commentary that optoelectronics are sold out through early 2029 supports the AI-optics capex thesis; MAs bullish, but already over the 5% cap so HOLD only.", "conviction": "high", "thesis_type": "news_catalyst", "signal_source": "Lumentum CEO sold-out-through-2029 comment (10/09)"},
+    {"symbol": "MRVL", "thesis": "Investor day raised FY2028 revenue goal to $20B and set 2031 targets; MAs bullish, thesis intact; already over the 5% cap so HOLD only.", "conviction": "medium", "thesis_type": "news+ma", "signal_source": "Marvell investor day targets (10/06)"},
+    {"symbol": "ALAB", "thesis": "Bullish MA structure and AI/semis sector momentum, but price is roughly 15% above the 20-day MA on scan data, so it is an entry only on a pullback toward ~$306 MA support, checked against a live quote.", "conviction": "medium", "thesis_type": "news+ma", "signal_source": "AI/semiconductor rally surge (10/06) plus bullish MA stack"},
+    {"symbol": "TSM", "thesis": "Bullish MA stack with price above both MAs; news is generic, so the lean is HOLD on an over-cap position rather than an add.", "conviction": "low", "thesis_type": "ma_crossover", "signal_source": "20/50-day MA bullish alignment"},
+    {"symbol": "ANET", "thesis": "Bullish MA stack with price above both MAs and a CNBC final-trade mention (10/09); news is thin, so HOLD on an over-cap position.", "conviction": "low", "thesis_type": "news+ma", "signal_source": "CNBC Halftime Report final trades (10/09)"}
+  ]
+}
