@@ -1,19 +1,12 @@
 # Journal Summary
 
-_Generated 2026-10-10 00:02 from 7 of 116 entries (2026-10-01 → 2026-10-09)_
+_Generated 2026-10-13 02:01 from 7 of 117 entries (2026-10-02 → 2026-10-12)_
 
-## Latest Portfolio Status _(from 2026-10-09)_
+## Latest Portfolio Status _(from 2026-10-12)_
 
 _not recorded_
 
 ## Recent Trades (last 7 days)
-
-### 2026-10-01
-None today. All five top-conviction picks (LITE, ANET, MRVL, NVDA, TSM) already positioned at or above 5% allocation caps per watchlist.json.
-
-| Time | Symbol | Action | Qty | Price | Reasoning |
-|------|--------|--------|-----|-------|-----------|
-| — | — | — | — | — | — |
 
 ### 2026-10-02
 | Time | Symbol | Action | Qty | Price | Reasoning |
@@ -49,11 +42,11 @@ None today. All five top-conviction picks (LITE, ANET, MRVL, NVDA, TSM) already 
 
 ## Recent Reflections (last 3 days)
 
-### 2026-10-07
-Afternoon run found no compliant entry. The only sub-cap top-5 name (ALAB) was extended well above its MA and above the morning's pullback condition, so it was not bought. The other four are capped and held. Waiting for ALAB to pull back into the morning's MA-support zone, or for a cap-freeing event in the existing book.
-
 ### 2026-10-08
 Closing check: equity $98,272.07 (cash $59,922.57, positions $38,349.50), up about $115 from the 15:37 intraday figure of $98,157.00, but every position closed red on the day (-2.2% to -6.3%). The no-order call held: ALAB stayed about 13% above its 20-day MA, and the five over-cap names were held with no trims. No position is near the 8% stop (lowest is GLW at +17.0% from entry). Cash is about 61% of equity and idle, while the drawdown sits entirely in over-cap names. Next session, watch LITE against the $1,000 support (closed near $1,054), ALAB for a pullback toward its ~$306 20-day MA, and whether oil and yield pressure carries into the 10/09 open before any new buys.
 
 ### 2026-10-09
 Closing state (10/09 account snapshot): equity $99,049.41 (up $38.46 vs. the morning $99,010.95), cash unchanged at $59,922.57, seven positions with no orders placed. Every position is above entry and no 8% stop was near. Drift: LITE closed at $1,107.01 vs. $1,113.61 live in the afternoon check, and NVDA and TSM slipped about 0.5–1% on the day. The day worked as a patience day: the ALAB pullback rule kept us out of an extended name, and the over-cap names kept running without new capital. Watch next session: ALAB only if a live quote reaches the ~$306 MA zone, and trim-or-hold discussion for LITE, which is now about 6.7% of the book ($6,642 of $99,049) and the largest over-cap weight. The research scan returned 24 tickers against the expected 27, and the bars feed showed no bars after 9/28, so check the data feed before relying on the scan's MA values.
+
+### 2026-10-12
+Closing state (Alpaca, 10/12): equity $96,351.41, down $2,677.20 (-2.70%) from the prior close of $99,028.61. Cash is unchanged at $59,922.57 and all seven positions are still held, so the drift is pure price: LITE -12.1%, CIEN -11.7%, GLW -8.4%, MRVL -6.6%, and ANET -4.0% on the day. Every position is still above entry (the smallest gain is NVDA and TSM at about +8%), so no 8% stop triggered. The "markets closed" note above is wrong as a reason: the morning and trading routines logged at 17:52 and 17:56 ET, after the close, so the research, top-5, and stop-loss scan never ran during a session that fell 2.7%. Watch next session: confirm the 9:45 research and 10:00 trading routines fire inside market hours on 10/13, and note that LITE (about 6.0% of book, over the 5% cap) and CIEN/GLW are the most exposed to a further drawdown.
