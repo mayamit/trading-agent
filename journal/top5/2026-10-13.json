@@ -1,0 +1,10 @@
+{
+  "trading_day": "2026-10-13",
+  "picks": [
+    {"symbol": "VIAV", "thesis": "US Army Threat Systems Management Office selected VIAVI T/Rx transceiver for test ranges; stock sits well above both MAs.", "conviction": "medium", "thesis_type": "news_catalyst", "signal_source": "US Army T/Rx selection (2026-10-13)"},
+    {"symbol": "TSEM", "thesis": "Multi-year agreement with Semtech/SMTC with dedicated SiGe capacity at Tower; price above both MAs.", "conviction": "medium", "thesis_type": "news_catalyst", "signal_source": "Tower-Semtech multi-year SMTC agreement (2026-10-13)"},
+    {"symbol": "COHR", "thesis": "Bullish MA stack (20d and 50d both well below price) with optics-sector tailwind; news is generic sector commentary, not company-specific.", "conviction": "low", "thesis_type": "ma_crossover", "signal_source": "MA stack; Visser optics commentary (2026-10-13)"},
+    {"symbol": "ALAB", "thesis": "Bullish MA stack but roughly 9% above 20d MA on scan price; product news only (Orion rack-scale reference design). Needs pullback confirmation per 10/08 discipline.", "conviction": "low", "thesis_type": "ma_crossover", "signal_source": "MA stack; Orion reference design (2026-10-12)"},
+    {"symbol": "MTSI", "thesis": "Bullish MA stack, well above 20d and 50d MAs; the only fresh headline is a return-history article, so the thesis rests on trend alone.", "conviction": "low", "thesis_type": "ma_crossover", "signal_source": "MA stack (2026-10-13)"}
+  ]
+}
