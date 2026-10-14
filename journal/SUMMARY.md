@@ -1,15 +1,15 @@
 # Journal Summary
 
-_Generated 2026-10-13 23:44 from 7 of 118 entries (2026-10-05 → 2026-10-13)_
+_Generated 2026-10-14 23:14 from 7 of 119 entries (2026-10-06 → 2026-10-14)_
 
-## Latest Portfolio Status _(from 2026-10-13)_
+## Latest Portfolio Status _(from 2026-10-14)_
 
 - Cash: $59,922.57
-- Positions: ANET (28 shares @ $141.86), CIEN (11 shares @ $322.10), GLW (30 shares @ $130.76), LITE (6 shares @ $648.89), MRVL (22 shares @ $217.56), NVDA (23 shares @ $206.99), TSM (12 shares @ $408.61)
-- Total Value: $96,923.40 (positions market value $37,000.83)
-- Allocation vs cap: LITE 6.11%, MRVL 6.09%, ANET 5.90%, TSM 5.51%, NVDA 5.42% are over the 5% cap (existing doctrine: hold, do not auto-trim). CIEN 4.56% and GLW 4.60% are under cap.
-- Stop-loss check (8% from entry): no position is down from entry. Smallest gains are TSM +8.9% and NVDA +10.3%.
-- Account `last_equity` reads $97,059.66, which does not match the 10/12 close of $96,351.41 in SUMMARY.md. Not reconciled here.
+- Positions: ANET (28 @ $141.86), CIEN (11 @ $322.10), GLW (30 @ $130.76), LITE (6 @ $648.89), MRVL (22 @ $217.56), NVDA (23 @ $206.99), TSM (12 @ $408.61)
+- Total Value: $94,671.10 (positions $34,748.53). Down $2,275.92 (-2.35%) vs prior close $96,947.02 (account last_equity).
+- Live prices at 14:10 ET: ANET $194.18 (-5.1% today), CIEN $359.46 (-10.2%), GLW $140.22 (-5.6%), LITE $902.61 (-8.6%), MRVL $250.64 (-6.7%), NVDA $220.47 (-3.5%), TSM $429.16 (-3.6%).
+- Allocation vs 5% cap (of $94,671): LITE 5.72%, MRVL 5.82%, ANET 5.74%, TSM 5.44%, NVDA 5.36% are over cap (hold, do not auto-trim per doctrine). CIEN 4.18% and GLW 4.44% under cap.
+- 8% stop-loss check (vs entry): no trigger. All seven positions are above entry. Tightest: TSM +5.0%, NVDA +6.5%, GLW +7.2%. Intraday drops (e.g. CIEN -10.2%) are not entry-based stop events.
 
 ## Recent Trades (last 7 days)
 
@@ -46,10 +46,22 @@ _Generated 2026-10-13 23:44 from 7 of 118 entries (2026-10-05 → 2026-10-13)_
 
 Trading session skipped: market closed. `trade.py status` returned `is_open=false` at 16:00:53 ET (close 16:00). No orders placed. The 10:00 ET trading window was missed, so no top-5 decisions were evaluated during market hours. Per the 2026-10-12 lesson, this is logged as a missed session, not a holiday. The five picks (VIAV, TSEM, COHR, ALAB, MTSI) were not evaluated for entry.
 
-## Recent Reflections (last 3 days)
+### 2026-10-14
+| Time | Symbol | Action | Qty | Price | Reasoning |
+|------|--------|--------|-----|-------|-----------|
+| 14:16 | GFS | BUY | 80 | $50.08 limit (ask); filled 80 @ $48.94 | Live $48.92 is above the 20d MA ($46.84) and 50d MA ($48.02). Both MAs come from the last valid bars (10/05), so they are stale, but the price sits above them. Fresh company-level news ($21B US-Japan funding for NY fabs). Up 4.4% on the day. Medium conviction. Position is 4.2% of $94.8k, under the 5% cap. Order 222219a9-7e42-41fb-9b79-25741ca5f085. |
 
-### 2026-10-09
-Closing state (10/09 account snapshot): equity $99,049.41 (up $38.46 vs. the morning $99,010.95), cash unchanged at $59,922.57, seven positions with no orders placed. Every position is above entry and no 8% stop was near. Drift: LITE closed at $1,107.01 vs. $1,113.61 live in the afternoon check, and NVDA and TSM slipped about 0.5–1% on the day. The day worked as a patience day: the ALAB pullback rule kept us out of an extended name, and the over-cap names kept running without new capital. Watch next session: ALAB only if a live quote reaches the ~$306 MA zone, and trim-or-hold discussion for LITE, which is now about 6.7% of the book ($6,642 of $99,049) and the largest over-cap weight. The research scan returned 24 tickers against the expected 27, and the bars feed showed no bars after 9/28, so check the data feed before relying on the scan's MA values.
+**Timing:** This trading run fired at 14:15 ET, after the 10:00 window. Per the 10/12 lesson it is logged as a late run. The order was placed only after a live check at decision time. Quotes were IEX-feed (thin); the GFS ask ($50.08) was 2.4% above the last trade ($48.92), so the limit was set at the ask, not 0.2% above it.
+
+**No order (HOLD) on the other four top-5 picks:**
+- **VIAV (medium):** Live $38.55 is below its 20d MA ($38.83). The stock is down about 18% since the last valid bar (10/05 close $46.95) and -6.7% today, with no identified cause, even after the 10/13 Army selection news. The morning's bullish-MA premise no longer holds. Hold, no buy.
+- **TSEM (medium):** Live $209.47 is below both MAs ($222.78 / $224.68), so the morning's "price above both MAs" premise is broken. Intraday range is $208.83–$218.83, and the IEX quote spread is wide (bid $181.34 / ask $209.73). No buy.
+- **COHR (low):** Sector-only news, no company catalyst. Live $264.38 is about 12% under the 20d MA ($300.74) and -8.9% today. Hold.
+- **ALAB (low):** Product news only. Live $306.03 is below both MAs ($323.21 / $310.01) and -5.9% today. The 10/08 pullback rule is not a support bounce here, because the price is through the MA. Hold.
+
+**Account after fill (approx.):** Cash ~$56,007 (before settlement), 8 positions. The 5 over-cap positions stay on hold, per doctrine.
+
+## Recent Reflections (last 3 days)
 
 ### 2026-10-12
 Closing state (Alpaca, 10/12): equity $96,351.41, down $2,677.20 (-2.70%) from the prior close of $99,028.61. Cash is unchanged at $59,922.57 and all seven positions are still held, so the drift is pure price: LITE -12.1%, CIEN -11.7%, GLW -8.4%, MRVL -6.6%, and ANET -4.0% on the day. Every position is still above entry (the smallest gain is NVDA and TSM at about +8%), so no 8% stop triggered. The "markets closed" note above is wrong as a reason: the morning and trading routines logged at 17:52 and 17:56 ET, after the close, so the research, top-5, and stop-loss scan never ran during a session that fell 2.7%. Watch next session: confirm the 9:45 research and 10:00 trading routines fire inside market hours on 10/13, and note that LITE (about 6.0% of book, over the 5% cap) and CIEN/GLW are the most exposed to a further drawdown.
@@ -58,3 +70,6 @@ Closing state (Alpaca, 10/12): equity $96,351.41, down $2,677.20 (-2.70%) from t
 Second straight session where the routine ran outside its windows (research 15:57 ET, trading 16:00 ET, after the 9:45 and 10:00 starts). Net effect: no capital deployed and no forced exits, but the VIAV and TSEM news-catalyst candidates went unevaluated during market hours. Scheduling needs fixing before the next market day. Next session: confirm the 9:45 research and 10:00 trading routines start inside market hours, and re-check the 8% stop on all seven positions at the open.
 
 **Close check (EOD, 2026-10-13):** Equity closed at $97,026.08 (cash $59,922.57, positions $37,103.51), down $33.58 (-0.03%) from the 10/12 last_equity of $97,059.66. All seven positions are above entry at the close: TSM +9.1% and NVDA +10.7% are the closest to flat, so no 8% stop-loss triggered. Five positions remain over the 5% cap (LITE 6.11%, MRVL 6.14%, ANET 5.90%, TSM 5.51%, NVDA 5.43%); per doctrine they are held, not trimmed. The lesson from the 10/12 and 10/13 late runs stands, and the open item for the next session is confirming the 9:45 and 10:00 ET routines start inside market hours.
+
+### 2026-10-14
+Equity closed at $93,988.51, down $682.59 (-0.72%) from the 14:10 snapshot and down $2,958.51 (-3.05%) from the prior close of $96,947.02. Cash of $56,007.37 matches the post-fill balance, so the only trade was the GFS buy. The drop was macro-driven (hot CPI, AI-infrastructure selloff): LITE, CIEN, and MRVL closed roughly 9–11% lower on the day. All seven pre-existing positions remain above entry (tightest: GFS -0.7% on the new fill, TSM +3.6%, GLW +5.3%, NVDA +5.7%), so no 8% stop triggered. What didn't work: research ran at ~14:11 and the trade at 14:16, both after the 9:45 and 10:00 windows, so the morning plan never saw the CPI reaction in time. Watch next session: the five names over the 5% cap with no watchlist override (ANET 5.74%, LITE 5.62%, MRVL 5.61%, TSM 5.41%, NVDA 5.35%) need an explicit decision, the GFS position needs its stop distance tracked, and the morning and trading routines must start inside their windows.
