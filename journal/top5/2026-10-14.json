@@ -1,0 +1,10 @@
+{
+  "trading_day": "2026-10-14",
+  "picks": [
+    {"symbol": "VIAV", "thesis": "US Army threat-systems office selected VIAV T/Rx transceiver system (10/13); scan MA trend bullish (scan price unverified vs live; extension to be checked on live quote).", "conviction": "medium", "thesis_type": "news+ma", "signal_source": "US Army T/Rx system selection (10/13)"},
+    {"symbol": "TSEM", "thesis": "Multi-year SiGe capacity agreement with Semtech/SMTC (10/13); price above both MAs though 20d/50d are mixed.", "conviction": "medium", "thesis_type": "news_catalyst", "signal_source": "Tower-Semtech multi-year SMTC agreement (10/13)"},
+    {"symbol": "GFS", "thesis": "Two new NY fab plans backed by $21B US-Japan funding (10/14); price just above 20d MA, near 50d.", "conviction": "medium", "thesis_type": "news_catalyst", "signal_source": "GlobalFoundries NY fab plans, $21B US-Japan funding (10/14)"},
+    {"symbol": "COHR", "thesis": "Scan MA stack bullish (scan price unverified vs live); news is sector-level optics commentary, not company-specific.", "conviction": "low", "thesis_type": "ma_crossover", "signal_source": "Bullish MA stack; Visser optics-preference commentary (sector, not COHR-specific)"},
+    {"symbol": "ALAB", "thesis": "Scan MA stack bullish (scan price unverified vs live); news is a product reference-design, not a financial catalyst. Extension risk, same issue that blocked the 10/08 entry.", "conviction": "low", "thesis_type": "other", "signal_source": "Orion rack-scale reference design (10/12, product news)"}
+  ]
+}
