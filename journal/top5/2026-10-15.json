@@ -1,0 +1,10 @@
+{
+  "trading_day": "2026-10-15",
+  "picks": [
+    {"symbol": "GFS", "thesis": "TD Cowen reiterated Buy with $75 PT today; scan price sits above both MAs, but position is already 4.2% so only add room to the 5% cap.", "conviction": "medium", "thesis_type": "news_catalyst", "signal_source": "TD Cowen Buy reiteration, $75 PT (10/15)"},
+    {"symbol": "TSEM", "thesis": "Multi-year SMTC capacity agreement at Tower is a contract win, but scan MA data is stale (10/05) and the 10/14 live check had price below both MAs.", "conviction": "low", "thesis_type": "news_catalyst", "signal_source": "Tower/Semtech multi-year SiGe capacity agreement (10/13)"},
+    {"symbol": "VIAV", "thesis": "US Army test-range selection is a real contract catalyst, but the scan MA read is stale (10/05) and the 10/14 live price was below its 20d MA.", "conviction": "low", "thesis_type": "news_catalyst", "signal_source": "US Army Threat Systems Mgmt Office T/Rx selection (10/13)"},
+    {"symbol": "MTSI", "thesis": "Bullish MA alignment on scan data with no company-specific news; the stock is extended about 18% above its 20d MA and macro is hostile (hot CPI, rate-hike fears).", "conviction": "low", "thesis_type": "ma_crossover", "signal_source": "Scan MA signal bullish (20d $279 / 50d $277 vs last $328)"},
+    {"symbol": "KEYS", "thesis": "Bullish MA alignment on scan data, but the only headline is a 10/07 overbought-RSI warning, so the news is stale.", "conviction": "low", "thesis_type": "ma_crossover", "signal_source": "Scan MA signal bullish (20d $347 / 50d $335 vs last $384)"}
+  ]
+}
