@@ -1,0 +1,10 @@
+{
+  "trading_day": "2026-10-16",
+  "picks": [
+    {"symbol": "CSCO", "thesis": "Least-broken sub-cap name: 2.9% under 20d MA, 3.8% under 50d; BofA valuation note (13x fwd, Cisco-analogy floor) is not a catalyst.", "conviction": "low", "thesis_type": "other", "signal_source": "BofA Vivek Arya valuation note (10/16)"},
+    {"symbol": "AVGO", "thesis": "CPO/switch ASIC leader 6.4% under 20d MA, 2.8% under 50d; BofA valuation note only, no company catalyst; needs reclaim of 20d MA before entry.", "conviction": "low", "thesis_type": "other", "signal_source": "BofA Vivek Arya valuation note (10/16)"},
+    {"symbol": "GFS", "thesis": "Already held (80 sh, below entry); 0.8% under 50d MA, 1.9% under 20d; sub-cap with ~$850 add room. Entry only on a live-quote reclaim of the 20d MA.", "conviction": "low", "thesis_type": "news_catalyst", "signal_source": "NY quantum facility IP headline (10/16)"},
+    {"symbol": "VIAV", "thesis": "Army T/Rx contract news (10/13) but trend broken: 17% under 20d MA, 12% under 50d; buy only if it stabilizes, not on the news alone.", "conviction": "low", "thesis_type": "news_catalyst", "signal_source": "US Army T/Rx selection (10/13)"},
+    {"symbol": "KEYS", "thesis": "2.1% under 50d MA, 7.7% under 20d; only news is stale 10/07 overbought-RSI note (discounted); no catalyst, hold unless trend turns.", "conviction": "low", "thesis_type": "other", "signal_source": "none fresh (10/07 RSI note discounted)"}
+  ]
+}
