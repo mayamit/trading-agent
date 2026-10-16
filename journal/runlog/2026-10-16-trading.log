@@ -1,0 +1,8 @@
+2026-10-16T17:46:04Z [INFO] [setup/start] setup starting routine=trading et_date=2026-10-16
+2026-10-16T17:46:04Z [INFO] [setup/env] env validated alpaca_base=https://paper-api.alpaca.markets sendgrid_present=false
+2026-10-16T17:46:04Z [INFO] [setup/ready] setup complete runlog=/home/runner/work/trading-agent/trading-agent/journal/runlog/2026-10-16-trading.log marker=journal/.current-routine
+2026-10-16T17:46:27Z [INFO] [trade/market_status] fetched clock http_status=200 is_open=True next_open=2026-10-19T09:30:00-04:00 next_close=2026-10-16T16:00:00-04:00
+2026-10-16T17:46:29Z [INFO] [research/account] fetched account http_status=200 cash=56007.36 portfolio_value=92603.78
+2026-10-16T17:46:30Z [INFO] [research/positions] fetched positions http_status=200 n_positions=8
+2026-10-16T17:46:33Z [INFO] [research/account] fetched account http_status=200 cash=56007.36 portfolio_value=92602.11
+2026-10-16T17:46:56Z [INFO] [finalize/start] finalizing routine=trading et_date=2026-10-16
