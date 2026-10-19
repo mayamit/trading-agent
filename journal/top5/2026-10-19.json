@@ -1,0 +1,10 @@
+{
+  "trading_day": "2026-10-19",
+  "picks": [
+    {"symbol": "AVGO", "thesis": "Chip-rout rebound candidate with fresh 10/19 rebound headline, but last 335.84 is below 20d (354.07) and 50d (363.88) MAs; buy only on live reclaim of 20d MA.", "conviction": "low", "thesis_type": "other", "signal_source": "10/19 'AI chip rout reverses' market wrap (Nasdaq 100 rebound)"},
+    {"symbol": "CSCO", "thesis": "Chip-orders/AI-capex headline (10/19) argues against a capex pullback, but last 107.05 is below 20d (110.93) and 50d (111.34) MAs; needs MA reclaim.", "conviction": "low", "thesis_type": "news_catalyst", "signal_source": "10/19 BofA/Cantor chip-order report"},
+    {"symbol": "CRDO", "thesis": "Premarket bounce on 10/19 after last week's selloff; 174.34 is far below 20d (199.21) and 50d (204.50), so this is a bounce play, not a trend entry. Max allocation 3%.", "conviction": "low", "thesis_type": "news_catalyst", "signal_source": "10/19 'Why is Credo gaining Monday' premarket move"},
+    {"symbol": "GLW", "thesis": "Fresh 10/19 AI fiber-price tailwind headline; position is under the 5% cap (about 4.3%) so it can add. Last 133.31 is below 20d (152.75) and 50d (153.78): needs MA reclaim before adding.", "conviction": "low", "thesis_type": "news_catalyst", "signal_source": "10/19 Meta fiber partner / AI fiber price forecast"},
+    {"symbol": "VIAV", "thesis": "Army test-range contract (10/13) is six days old, so discounted. Last 34.94 is 15% under 20d (41.25) and 50d (39.18) MAs. Low conviction; no buy without a trend reclaim.", "conviction": "low", "thesis_type": "news_catalyst", "signal_source": "10/13 US Army T/Rx transceiver selection"}
+  ]
+}
