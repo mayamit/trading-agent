@@ -1,21 +1,16 @@
 # Journal Summary
 
-_Generated 2026-10-19 23:40 from 7 of 122 entries (2026-10-09 → 2026-10-19)_
+_Generated 2026-10-20 23:11 from 7 of 123 entries (2026-10-12 → 2026-10-20)_
 
-## Latest Portfolio Status _(from 2026-10-19)_
+## Latest Portfolio Status _(from 2026-10-20)_
 
 - Cash: $56,007.36
-- Positions: ANET (28 @ $141.86, now $183.75), CIEN (11 @ $322.10, now $346.49), GFS (80 @ $48.94, now $46.58), GLW (30 @ $130.76, now $133.19), LITE (6 @ $648.89, now $841.41), MRVL (22 @ $217.56, now $238.94), NVDA (23 @ $206.99, now $217.98), TSM (12 @ $408.61, now $423.23)
-- Total Value: $93,084.79 (positions $37,077.43), up $934.21 (+1.01%) vs last_equity $92,150.58 (intraday)
-- 8% stop-loss check (entry basis): no trigger. Tightest: GFS -4.8% ($46.58 vs $48.94; stop line $45.02). All others above entry.
-- 5% cap check (live, of $93,084.79): ANET 5.53%, LITE 5.42%, MRVL 5.65%, TSM 5.46%, NVDA 5.39% are over cap with no watchlist override. Held per doctrine, not trimmed, not added to. CIEN 4.09%, GLW 4.29%, GFS 4.00% are under cap.
+- Positions: ANET (28 @ $141.86, now $181.03), CIEN (11 @ $322.10, now $343.23), GFS (80 @ $48.94, now $47.79), GLW (30 @ $130.76, now $132.74), LITE (6 @ $648.89, now $831.46), MRVL (22 @ $217.56, now $242.77), NVDA (23 @ $206.99, now $217.13), TSM (12 @ $408.61, now $427.76)
+- Total Value: $93,113.69 (positions $37,106.33), up $267.78 (+0.29%) vs last_equity $92,845.91 (intraday)
+- 8% stop-loss check (entry basis): no trigger. Tightest: GFS -2.4% ($47.79 vs $48.94; stop line $45.02).
+- 5% cap check (of $93,113.69; cap $4,655.68): ANET 5.44%, LITE 5.36%, MRVL 5.74%, NVDA 5.36%, TSM 5.51% are over cap with no watchlist override. Held per doctrine, not trimmed, not added to. CIEN 4.06%, GLW 4.28%, GFS 4.10% are under cap.
 
 ## Recent Trades (last 7 days)
-
-### 2026-10-09
-| Time | Symbol | Action | Qty | Price | Reasoning |
-|------|--------|--------|-----|-------|-----------|
-| — | — | NO ORDERS | — | — | No TOP 5 pick met its entry rule. ALAB was the only sub-cap pick and was about 11% above its 20-day MA on the live ask, so no pullback entry. The other four are over cap and HOLD. |
 
 ### 2026-10-13
 | Time | Symbol | Action | Qty | Price | Reasoning |
@@ -80,10 +75,26 @@ _Trading routine ran 15:36 ET (late run; the 10:00 window was missed). Market op
 - Over-cap positions (ANET, LITE, MRVL, TSM, NVDA) held per doctrine. Not trimmed, not added to.
 - No SELL signal on any held name. Held names are not in today's top 5, and no thesis is broken on the morning data.
 
-## Recent Reflections (last 3 days)
+### 2026-10-20
+_Trading routine ran 14:14 ET (late run: 10:00 window missed). Market open. Decisions on live IEX quotes (14:14 ET) and desc-sorted 20/50-day closes, not the scan MAs._
 
-### 2026-10-15
-No orders today because the 9:45 research and 10:00 trading windows were missed; both ran after 13:50 ET. Once live quotes and corrected MAs were used, none of the five top picks met an entry rule. The book closed at $93,746.85, down 0.90% on the day versus last_equity $94,600.66 and up about $606 from the 13:57 snapshot, with no stop-loss triggers (tightest GFS at -0.4%). What worked was the stop-loss scan and refusing to chase stale scan prices; what didn't was `research.get_bars()`, which sends no sort parameter, so the 60-bar window returned the oldest bars (through 10/05) and every scan MA was stale. Next session: fix `get_bars` before trusting any MA, and watch the five positions still over the 5% cap (ANET, LITE, MRVL, TSM, NVDA).
+| Time | Symbol | Action | Qty | Price | Reasoning |
+|------|--------|--------|-----|-------|-----------|
+| 14:14 | — | NO ORDERS | — | — | All 5 top-5 picks evaluated. None met an entry rule. No substitute ticker considered. |
+
+**Decisions (14:14 ET, live quotes, recomputed MAs):**
+- **GFS** — HOLD, no add. Bid $47.79 / ask $47.84, last $47.82. Still under the 20d ($48.05). The 50d ($47.48) is below price, but the 20d reclaim is not confirmed. Add room exists (4.10% of account, cap 5%), not used. Stop line $45.02; currently -2.3% from $48.94 entry.
+- **CSCO** — NO BUY. Ask $106.69, last $106.62. About 4% under both the 20d ($110.91) and 50d ($111.01). No company catalyst.
+- **AVGO** — NO BUY. Bid $335.43 / ask $336.00, last $335.40. About 5% under the 20d ($352.56) and 50d ($362.12). No company news in window.
+- **CIEN** — HOLD, no add. Bid $343.24 / ask $344.72. About 9.5% under the 20d ($379.54) and 8.5% under the 50d ($375.65). Position +6.8% vs entry, under cap (4.06%). Trend is broken, so no add.
+- **KEYS** — NO BUY. Bid $322.40 / ask $335.94 (wide, IEX), last $335.18. Under the 20d ($363.84) and 50d ($343.77). Overbought-RSI note is stale; no fresh catalyst.
+
+**Risk checks:**
+- 8% stop-loss: no trigger. Tightest is GFS at -2.3% from entry. All other held names are above entry. No forced closes.
+- Cash $56,007.36 unchanged. No new capital deployed.
+- Over-cap positions (ANET, LITE, MRVL, NVDA, TSM) held per doctrine. Not trimmed, not added to. No SELL signal on any held name: none of them is a top-5 pick, and no morning thesis is broken on live data.
+
+## Recent Reflections (last 3 days)
 
 ### 2026-10-16
 No orders today. Every top-5 pick is low conviction and below its 20d MA, and none reclaimed its MA on live quotes. The routine ran late, at 13:42 research and 13:47 trading, so the 9:45 and 10:00 windows were missed again. The 10/12 lesson applies: this session is logged as a late run. Once live quotes are used, the decision was still HOLD on every name. Equity was $92,602 at 13:46 ET, down about 1.2% on the day, with no stop triggers. Tomorrow: confirm the 9:45 and 10:00 ET routines start inside their windows, and fix `get_bars` sorting before the scan MAs are trusted again.
@@ -92,3 +103,6 @@ No orders today. Every top-5 pick is low conviction and below its 20d MA, and no
 
 ### 2026-10-19
 Closing check (16:00+): equity $92,990.31, down $94.48 from the 15:36 intraday figure ($93,084.79). Cash $56,007.36 unchanged. Every position moved against us into the close except ANET, CIEN, and LITE, which were up. GFS closed at $46.29, -5.4% from entry, still well above the $45.02 stop line. No orders were placed, which was correct: all five top-5 names were below both MAs with no reclaim. The late 15:29 research run and 15:36 trading run gave us only 30 minutes of session, so the no-trade outcome was driven by the timing constraint as much as by the signals. Watch next session: whether the SOX rout stabilizes, whether AVGO or CSCO reclaims its 20-day MA on live quotes, and whether GFS holds above $45.02. Run both routines in their 9:45 and 10:00 windows.
+
+### 2026-10-20
+Closing snapshot (equity $93,849.74, cash $56,007.36): up $1,003.83 (+1.08%) on the day vs last_equity $92,845.91, and up $736 from the $93,113.69 intraday mark in the trading entry. The drift came from a late-afternoon semis rebound on existing holdings (LITE +3.4%, MRVL +3.8%, TSM +2.6%, GFS +4.3%, CIEN +2.5%). No orders were placed, so the gain is mark-to-market only, and the no-buy calls on CSCO, AVGO and KEYS sat out the bounce without loss. Stop-loss discipline held: no position is near -8%, and the tightest, GFS, recovered to $48.10 (-1.7% vs entry). The routines ran late again (research 14:06, trading 14:14), so the top-5 was never evaluated at the open. Next session: check whether GFS holds above the 20-day (~$48.05) on live quotes, confirm the 10/15 `get_bars` sort fix is in place, and keep watching the over-cap names (MRVL 5.77%, ANET 5.53%, LITE 5.52%, TSM 5.51%, NVDA 5.41%), which are held per doctrine.
