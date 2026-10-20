@@ -1,0 +1,10 @@
+{
+  "trading_day": "2026-10-20",
+  "picks": [
+    {"symbol": "GFS", "thesis": "Held under cap; live $47.86 sits just under its corrected 20d MA ($48.06) and above 50d ($47.48), so a reclaim test is the only setup.", "conviction": "low", "thesis_type": "ma_crossover", "signal_source": "20d MA reclaim test (corrected MAs); quantum-funding headline 10/16 is stale"},
+    {"symbol": "CSCO", "thesis": "Not held; live $106.61 is about 4% under the corrected 20d MA ($110.91) and at the 50d ($111.01), nearest non-held name to a reclaim.", "conviction": "low", "thesis_type": "other", "signal_source": "BofA 'Cisco echo' sector note (10/16); no company catalyst"},
+    {"symbol": "AVGO", "thesis": "Not held; live $335.04 is about 5% under corrected 20d ($352.54) and 50d ($362.11), with no company news in the window.", "conviction": "low", "thesis_type": "other", "signal_source": "Prior-cycle Outperform initiation (8/21), no current catalyst"},
+    {"symbol": "CIEN", "thesis": "Held under cap; live $343 is about 10% under corrected 20d ($379.50) and 50d ($375.63), so add room exists but trend is broken.", "conviction": "low", "thesis_type": "other", "signal_source": "Sector headline only (chip losing streak, 10/16)"},
+    {"symbol": "KEYS", "thesis": "Not held; live $335.46 is about 8% under corrected 20d ($363.85) and 2% under 50d ($343.77), no fresh catalyst.", "conviction": "low", "thesis_type": "other", "signal_source": "Overbought-RSI note (10/07), stale; no fresh catalyst"}
+  ]
+}
