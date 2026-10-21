@@ -1,0 +1,10 @@
+{
+  "trading_day": "2026-10-21",
+  "picks": [
+    {"symbol": "GFS", "thesis": "Only watchlist name above both corrected MAs (48.74 vs 20d 48.13, 50d 47.42) with fresh company news; held and under cap, so add room exists.", "conviction": "medium", "thesis_type": "news+ma", "signal_source": "GlobalFoundries additional EUR 1.1B Dresden investment (10/19)"},
+    {"symbol": "SOFI", "thesis": "Fresh Prudential life-insurance partnership, but price 15.00 is below 20d 15.48 and 50d 16.88; trend is bearish, so no entry without an MA reclaim.", "conviction": "low", "thesis_type": "news_catalyst", "signal_source": "SoFi and Prudential life insurance partnership (10/21)"},
+    {"symbol": "CSCO", "thesis": "Closest non-held name to reclaiming MAs (107.54 vs 20d 110.96, 50d 110.75); news is a product report, not a catalyst.", "conviction": "low", "thesis_type": "other", "signal_source": "Cisco Splunk observability report (no catalyst)"},
+    {"symbol": "KEYS", "thesis": "Sitting on 50d support (343.8 vs 343.7) but 20d is 363.3; news is an unrelated law-firm story, so the thesis rests on MA support alone.", "conviction": "low", "thesis_type": "ma_crossover", "signal_source": "50-day MA support (news not relevant)"},
+    {"symbol": "FN", "thesis": "Susquehanna maintained Positive with $600 PT (10/21), but price 358 is about 16% below 20d 425 and 50d 431; analyst action without technical confirmation.", "conviction": "low", "thesis_type": "news_catalyst", "signal_source": "Susquehanna maintains Positive, PT $600 (10/21)"}
+  ]
+}
