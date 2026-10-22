@@ -1,0 +1,10 @@
+{
+  "trading_day": "2026-10-22",
+  "picks": [
+    {"symbol": "KEYS", "thesis": "Bullish MA stack with price well above both MAs, plus a fresh NR-NTN test-solution selection by Korea Testing Laboratory.", "conviction": "medium", "thesis_type": "news+ma", "signal_source": "KTL selects Keysight NR-NTN test solutions (10/22)"},
+    {"symbol": "MTSI", "thesis": "Bullish trend with price above 20d and 50d MAs; FQ4 results due 11/5 but the news is only a date announcement.", "conviction": "low", "thesis_type": "other", "signal_source": "MACOM sets FY26 Q4 results date for 11/5"},
+    {"symbol": "VIAV", "thesis": "Scan shows price above both MAs with 20d above 50d, but the trend is recovering from a broken state and needs live confirmation.", "conviction": "low", "thesis_type": "ma_crossover", "signal_source": "Scan MA stack (20d 40.72 / 50d 39.41)"},
+    {"symbol": "VECO", "thesis": "Bullish MA stack with price just above both MAs; no company-specific catalyst in the news window.", "conviction": "low", "thesis_type": "ma_crossover", "signal_source": "Scan MA stack (20d 48.87 / 50d 48.29)"},
+    {"symbol": "FN", "thesis": "Scan shows price above both MAs after a weak 10/21 base; the news is sector-level only, so this is a technical pick.", "conviction": "low", "thesis_type": "ma_crossover", "signal_source": "Scan MA stack (20d 430.33 / 50d 451.81)"}
+  ]
+}
