@@ -1,0 +1,10 @@
+{
+  "trading_day": "2026-10-23",
+  "picks": [
+    {"symbol": "KEYS", "thesis": "Bullish MA stack (last above 20d and 50d) plus a fresh NR-NTN test-solution selection by Korea Testing Laboratory; needs live-quote confirmation.", "conviction": "medium", "thesis_type": "news+ma", "signal_source": "KTL NR-NTN test selection (10/22)"},
+    {"symbol": "MTSI", "thesis": "Bullish MA stack; the only news is the FQ4 earnings date (Nov 5), so the catalyst is later and the entry is technical only.", "conviction": "low", "thesis_type": "earnings", "signal_source": "FY26 Q4 earnings date announcement (10/22)"},
+    {"symbol": "FN", "thesis": "Scan last close above both 20d and 50d MAs; news is sector-level AI infrastructure capex, not company-specific.", "conviction": "low", "thesis_type": "other", "signal_source": "AI infrastructure capex sector note (10/22)"},
+    {"symbol": "CSCO", "thesis": "Scan last close above both MAs; the headline is about the telecom/SpaceX sector, not Cisco, so no company catalyst.", "conviction": "low", "thesis_type": "ma_crossover", "signal_source": "Sector headline only (IYZ/SpaceX, 10/23)"},
+    {"symbol": "VIAV", "thesis": "Scan bullish MA stack (last above 20d and 50d); the news is macro (Meta/yields), not VIAV-specific, and the trend broke in mid-October.", "conviction": "low", "thesis_type": "ma_crossover", "signal_source": "MA stack only; macro headline (10/22)"}
+  ]
+}
