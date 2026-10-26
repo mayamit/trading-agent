@@ -1,0 +1,10 @@
+{
+  "trading_day": "2026-10-26",
+  "picks": [
+    {"symbol": "GFS", "thesis": "Only bullish scan signal (last $48.77 above 20d $48.24 and 50d $47.75); Dresden EUR 1.1B expansion news is a week old and the 10/20 position was stopped out on a failed reclaim, so re-entry needs a confirmed close above the MA.", "conviction": "low", "thesis_type": "news+ma", "signal_source": "GlobalFoundries EUR 1.1B Dresden investment (10/19)"},
+    {"symbol": "CIEN", "thesis": "Analyst reaffirmed Buy with $440 PT today, but price ($356) sits under both 20d ($382.64) and 50d ($379.29), so the MA read is weak and this is an add to a held name.", "conviction": "low", "thesis_type": "news_catalyst", "signal_source": "AllianceBernstein Buy reaffirm, PT $440 (10/26)"},
+    {"symbol": "SOFI", "thesis": "Fresh Buy initiation with $20 PT (10/26) against a 15% watchlist cap, but scan MAs are bearish (last $15.07 under 20d $15.93 and 50d $17.16); per 2026-08-21 lesson, an initiation alone is not an entry without technical confirmation.", "conviction": "low", "thesis_type": "news_catalyst", "signal_source": "Monness Crespi & Hardt Buy initiation, PT $20 (10/26)"},
+    {"symbol": "ALAB", "thesis": "Sector-level rebound story after the SOX eight-session losing streak, with a JPMorgan Intel upgrade cited; price ($301.82) is well under the 20d ($347.03), so this is a sector-only read and not a company catalyst.", "conviction": "low", "thesis_type": "other", "signal_source": "Chip-sector rebound / JPMorgan Intel upgrade (10/19 article)"},
+    {"symbol": "FORM", "thesis": "Company opened a new Farmers Branch, TX probe-card manufacturing facility (10/22) to add capacity; price ($113.33) is well under both the 20d ($133.22) and 50d ($120.62), so no technical support yet.", "conviction": "low", "thesis_type": "other", "signal_source": "FormFactor Farmers Branch TX facility opening (10/22)"}
+  ]
+}
