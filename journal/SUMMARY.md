@@ -1,33 +1,16 @@
 # Journal Summary
 
-_Generated 2026-10-26 23:52 from 7 of 127 entries (2026-10-16 → 2026-10-26)_
+_Generated 2026-10-27 23:46 from 7 of 128 entries (2026-10-19 → 2026-10-27)_
 
-## Latest Portfolio Status _(from 2026-10-26)_
+## Latest Portfolio Status _(from 2026-10-27)_
 
 - Cash: $59,391.85
-- Positions: ANET (28 @ $141.86, now $178.52), CIEN (11 @ $322.10, now $339.97), GLW (30 @ $130.76, now $128.53), LITE (6 @ $648.89, now $829.35), MRVL (22 @ $217.56, now $235.44), NVDA (23 @ $206.99, now $216.41), TSM (12 @ $408.61, now $427.96)
-- Total Value: $92,254.31 (positions $32,862.46; up $1,364.10 vs last_equity $90,890.21)
-- 8% stop-loss: no trigger. Tightest is GLW at -1.7% from entry.
-- 5% cap (of $92,254.31; cap $4,612.72): ANET 5.42%, LITE 5.39%, MRVL 5.61%, NVDA 5.40%, TSM 5.57% are over cap. No watchlist override, so they stay held and are blocked from adding. CIEN 4.05% and GLW 4.18% are under cap.
+- Positions: ANET (28 @ $141.86, now $188.28), CIEN (11 @ $322.10, now $352.19), GLW (30 @ $130.76, now $127.18), LITE (6 @ $648.89, now $868.08), MRVL (22 @ $217.56, now $242.46), NVDA (23 @ $206.99, now $217.64), TSM (12 @ $408.61, now $437.48)
+- Total Value: $93,151.17 (positions $33,759.32; last_equity $91,994.20)
+- 8% stop-loss: no trigger. Tightest is GLW at -2.7% from entry (stop line $120.30).
+- 5% cap (of $93,151.17; cap $4,657.56): ANET 5.66%, LITE 5.59%, MRVL 5.73%, NVDA 5.37%, TSM 5.64% are over cap with no watchlist override, so they stay held and are blocked from adding. CIEN 4.16% has about 2 shares of room. GLW 4.10%.
 
 ## Recent Trades (last 7 days)
-
-### 2026-10-16
-| Time | Symbol | Action | Qty | Price | Reasoning |
-|------|--------|--------|-----|-------|-----------|
-| 13:47 | — | NO ORDERS | — | — | No top-5 pick met its entry rule on live quotes. Late run: the 10:00 ET window was missed, and the decision was made on the 13:47 ET quotes. |
-
-**Decisions (13:47 ET, Alpaca IEX latest quotes and snapshots):**
-- **CSCO** — HOLD / no buy. Mid $107.62 (bid $107.59 / ask $107.64). Still under the 20d MA ($111.17). No reclaim, so no entry.
-- **AVGO** — HOLD / no buy. Mid $332.94 (bid $332.84 / ask $333.03). About 6.4% under the 20d MA ($355.65). No reclaim.
-- **GFS** — HOLD, no add. Ask $47.29, last $47.245, -3.5% from the $48.94 entry. Still under the 20d MA ($48.21). Add room exists, but the entry rule (live reclaim of the 20d MA) is not met.
-- **VIAV** — NO BUY. Mid $34.26 (bid $34.23 / ask $34.29). The trend is still broken, about 17% under the 20d MA ($41.36). The contract news alone does not justify a buy.
-- **KEYS** — NO BUY. Bid $335.23 / ask $337.55 (wide, IEX). Last $337.18, under both MAs. No fresh catalyst.
-
-**Risk checks:**
-- 8% stop-loss: no trigger. Tightest is GFS at -3.5% from entry. The other positions are above entry (ANET +25.8%, LITE +29.7%, MRVL +6.5%, NVDA +4.2%, GLW +2.5%, TSM +1.3%, CIEN +5.0%). No forced closes.
-- Cash $56,007.36 unchanged. No new capital deployed.
-- Over-cap positions (LITE, MRVL, NVDA, TSM, ANET) stay held per doctrine. None were trimmed or added to.
 
 ### 2026-10-19
 _Trading routine ran 15:36 ET (late run; the 10:00 window was missed). Market open, closes 16:00._
@@ -126,12 +109,27 @@ _Trading run 14:19–14:21 ET (late: the 10:00 window was missed). Live IEX quot
 - Cash $59,391.85 unchanged. No new capital deployed.
 - Over-cap names (ANET, LITE, MRVL, NVDA, TSM) stay held and blocked from adding, per the cap rule.
 
+### 2026-10-27
+| Time | Symbol | Action | Qty | Price | Reasoning |
+|------|--------|--------|-----|-------|-----------|
+| 15:10 | — | NO ORDERS | — | — | All 5 top-5 picks checked on live IEX quotes and recomputed 20/50-day closes (desc-sorted pull). None met its entry rule (live close above both MAs, or a confirmed reclaim). No substitute ticker considered. |
+
+_Trading run 15:10 ET, late against the 10:00 window. Market open, closes 16:00. Decisions below use live quotes, not the morning scan prices._
+
+**Decisions (15:10 ET, live IEX quotes; bid/ask/last and recomputed MAs):**
+- **AVGO (low), HOLD / no buy.** Last $342.49 (bid $342.45 / ask $342.50). Recomputed 20d $347.10 and 50d $354.49, so price is under both. The Anthropic IPO headline and PT raise are not enough without a live reclaim.
+- **MTSI (low), NO BUY.** Last $258.09 (bid $257.30 / ask $258.37). Recomputed 20d $289.18 and 50d $277.54, both above price. The upgrade alone is not an entry (lessons 2026-07-22, 2026-08-21).
+- **CIEN (low, held), HOLD, no add.** Last $352.25 (bid $351.79 / ask $369.22, wide). Recomputed 20d $375.54 and 50d $366.75, both above price, so the trend is broken. The position is +9.3% vs entry ($322.10). The reaffirmed Buy is not a fresh catalyst. Add room is about 2 shares, not used.
+- **KEYS (low), NO BUY.** Last $334.39 (bid $325.00 / ask $349.18, wide). Recomputed 20d $355.50 and 50d $340.90, so price is under the 20d and under the 50d. The 6G-ROCKET news has no direct catalyst (lesson 2026-10-20).
+- **GFS (low, re-entry), NO BUY.** Last $46.50 (bid $46.39 / ask $46.53). Recomputed 20d $47.46 and 50d $46.71, so price is under both. No confirmed close above either MA (lesson 2026-10-21).
+
+**Risk checks (15:10 ET):**
+- 8% stop-loss: no trigger. Tightest is GLW at -2.8% from its $130.76 entry (last $127.03; stop line $120.30). ANET, CIEN, LITE, MRVL, NVDA and TSM are above entry. No forced closes.
+- SELL signals: none. No held name's morning thesis is broken on the morning data, and none is at the -8% line.
+- Cash $59,391.85 unchanged. No new capital deployed.
+- Over-cap names (ANET, LITE, MRVL, NVDA, TSM) stay held and blocked from adding, per the cap rule.
+
 ## Recent Reflections (last 3 days)
-
-### 2026-10-22
-**Closing state (EOD check, 2026-10-23 pull):** Equity $90,568.13, down $114 from the $90,682.17 trading-session snapshot and down $3,198 (-3.4%) from the $93,765.69 prior close. Cash $59,391.95 reconciles exactly to $55,273.70 + 95 × $43.35 GFS proceeds. GFS is no longer in the positions list. The other eight names are unchanged, with no new fills.
-
-**What worked:** The GFS stop-loss closed at 14:14 with a limit inside the 0.2% rule and filled at $43.35. The top-5 gate rejected all five picks whose scan prices were 19–28% off live quotes, so no capital went into stale data. **What didn't:** The research and trading routines ran at 14:10 and 14:14 ET, outside the 9:45 and 10:00 windows, so the morning decision window was missed. The book also had a broad intraday selloff (CIEN, LITE, MRVL each -10% to -12%), and five names are over the 5% cap with no override. **Watch next session:** the 8% stop distance on GLW (-5.7%) and CIEN, whether the over-cap names keep pulling the book down, and whether the morning routines run on time.
 
 ### 2026-10-23
 No trades today: all five top-5 picks failed the live-quote entry check (KEYS, MTSI, FN, CSCO, VIAV all trade below both MAs), so cash stayed at $59,391.85. Closing equity is $90,769.01, down $314.65 (-0.35%) from the 10:00 snapshot of $91,083.66 and up $57.85 on the day versus last_equity. The drift is price-driven: GLW fell to $123.69 (-5.4% from entry, closest to the 8% stop but not triggered) and LITE dropped to $745.86, so LITE now sits at 4.93% of equity and is back under the 5% cap. Over-cap names are ANET 5.32%, MRVL 5.49%, NVDA 5.35%, and TSM 5.51%; they stay held, and adds stay blocked. Next session: confirm the morning scan MA inputs are fixed before trusting any top-5 read, and watch GLW against the -8% line (about $120.30).
@@ -140,3 +138,6 @@ No trades today: all five top-5 picks failed the live-quote entry check (KEYS, M
 No orders placed. All five top-5 picks (GFS, CIEN, SOFI, ALAB, FORM) sit below both recomputed MAs on live quotes, so none met the entry rule, and the morning "bullish" reads did not hold up again. The routine ran late (15:34 ET), which is the second straight session with the 9:45/10:00 windows missed (see lessons 2026-10-12). Held book is unchanged, with no stop triggers. Tomorrow: confirm the morning routines run inside their windows, and watch GLW against the -8% line (about $120.30).
 
 **Closing check (EOD, 2026-10-26):** Closing equity is $92,304.96 (up $50.65 from the 15:41 snapshot of $92,254.31), and cash is unchanged at $59,391.85. All seven holdings are unchanged in quantity, and the drift is price-only: LITE is up to $837.25 (+1.0%), TSM is at $426.61 (-0.3%), and GLW is at $128.80 (-1.5% from its $130.76 entry). No stop-loss triggers and no SELL signals at close. The over-cap names (ANET, LITE, MRVL, NVDA, TSM) remain blocked from adding.
+
+### 2026-10-27
+No orders was the right call: all five top-5 picks (AVGO, MTSI, CIEN, KEYS, GFS) failed their entry rules on live quotes at 15:10, and no 8% stop triggered. The book gained about 1.2% on the session (equity $91,994.20 → $93,091.39), led by LITE and ANET, but the 14:59 research run left no morning window to act on. Since the 15:10 snapshot, equity is down $59.78 (-0.06%) on drift: GLW closed at $126.01 (-3.6% vs $130.76 entry, 4.7% above the $120.30 stop line) is the name to watch. The five over-cap names (ANET, LITE, MRVL, NVDA, TSM) stay held and blocked from adding. Next session: check GLW against its stop at the open, require a close (not an intraday touch) above both MAs before any AVGO or MTSI buy, and run research by 9:45 ET.
