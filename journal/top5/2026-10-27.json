@@ -1,0 +1,10 @@
+{
+  "trading_day": "2026-10-27",
+  "picks": [
+    {"symbol": "AVGO", "thesis": "Chip-demand signal from Anthropic's IPO filing plus a Broadcom target raised to $400, but the stock trades below both MAs and needs a live reclaim.", "conviction": "low", "thesis_type": "news_catalyst", "signal_source": "Anthropic IPO filing compute-commitment demand (10/27); Broadcom PT raised to $400 (10/27)"},
+    {"symbol": "MTSI", "thesis": "Fresh analyst upgrade after a deep pullback, but price sits about 8% under the 50d and 12% under the 20d.", "conviction": "low", "thesis_type": "news_catalyst", "signal_source": "Analyst upgrade in 10/27 pre-market upgrade roundup"},
+    {"symbol": "CIEN", "thesis": "Analyst Buy reaffirmed with a $440 PT, but the trend is broken and the position has only about 2 shares of room under the 5% cap.", "conviction": "low", "thesis_type": "news_catalyst", "signal_source": "AllianceBernstein Buy reaffirmed, PT $440 (10/26)"},
+    {"symbol": "KEYS", "thesis": "Ongoing 6G consortium news is weak, and price is near the 50d but well under the 20d; entry only if the live price holds above both MAs.", "conviction": "low", "thesis_type": "other", "signal_source": "Keysight joins 6G-ROCKET consortium (10/26), no direct catalyst"},
+    {"symbol": "GFS", "thesis": "Re-entry candidate only: news is more than 7 days old and the 10/22 stop-out was a failed reclaim, so it needs a confirmed close above both MAs.", "conviction": "low", "thesis_type": "news_catalyst", "signal_source": "EUR 1.1B Dresden expansion (10/19), stale"}
+  ]
+}
