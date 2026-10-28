@@ -1,0 +1,10 @@
+{
+  "trading_day": "2026-10-28",
+  "picks": [
+    {"symbol": "MTSI", "thesis": "Fresh Broadcom-sector analyst upgrade on 10/27, but price is below both MAs, so this is a watch name pending a live reclaim.", "conviction": "low", "thesis_type": "news_catalyst", "signal_source": "Top-4 upgrades list 10/27 (MTSI upgraded)"},
+    {"symbol": "ALAB", "thesis": "Key trading signal fired at $269.83 on 10/27 with a ~6% intraday rebound, but price sits well below the 20d and 50d MAs.", "conviction": "low", "thesis_type": "news_catalyst", "signal_source": "Benzinga key trading signal 10/27"},
+    {"symbol": "SOFI", "thesis": "TD Cowen raised PT to $18 on 10/28 with a Hold rating. Largest allowed allocation (15%), but the trend is bearish and the rating is not a buy.", "conviction": "low", "thesis_type": "news_catalyst", "signal_source": "TD Cowen Hold, PT to $18 (10/28)"},
+    {"symbol": "GFS", "thesis": "Re-entry candidate near its MAs (last $46.10 vs 20d $48.06). The Dresden news is 10/19, older than 7 days, so it is discounted; no confirmed reclaim.", "conviction": "low", "thesis_type": "other", "signal_source": "Dresden EUR 1.1B expansion (10/19, stale)"},
+    {"symbol": "CIEN", "thesis": "Held position, trend broken (last $344.58 under 20d $380.77 and 50d $376.53). Reaffirmed Buy is not a fresh catalyst; HOLD with at most ~2 shares of add room.", "conviction": "low", "thesis_type": "other", "signal_source": "AllianceBernstein Buy reaffirmed (10/26)"}
+  ]
+}
