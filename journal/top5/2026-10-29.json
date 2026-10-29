@@ -1,0 +1,10 @@
+{
+  "trading_day": "2026-10-29",
+  "picks": [
+    {"symbol": "SOFI", "thesis": "UBS raised PT to $22 (Neutral) today; scan MAs bearish, but a live close above both MAs is needed before any entry (earnings-gap chase risk).", "conviction": "low", "thesis_type": "news_catalyst", "signal_source": "UBS Neutral, PT $22 (10/29)"},
+    {"symbol": "CIEN", "thesis": "Held (+8.7%); AllianceBernstein Buy reaffirmed at $440 PT, but live price is under the 20d MA, so hold with no add unless the trend recovers.", "conviction": "low", "thesis_type": "news_catalyst", "signal_source": "AllianceBernstein Buy, PT $440 (10/26)"},
+    {"symbol": "KEYS", "thesis": "6G research demo with InterDigital/UT Austin (10/29) is not a direct revenue catalyst; MAs mixed and price under the 20d, so no entry without a MA reclaim.", "conviction": "low", "thesis_type": "other", "signal_source": "Keysight 6G demo collaboration (10/29)"},
+    {"symbol": "FORM", "thesis": "TD Cowen Hold with PT raised to $110 (10/29); price sits well under the 20d and 50d MAs, so this is a watch only.", "conviction": "low", "thesis_type": "news_catalyst", "signal_source": "TD Cowen Hold, PT $110 (10/29)"},
+    {"symbol": "ALAB", "thesis": "Key trading signal on 10/27 faded; scan MAs mixed and live price has been under the 20d, so an entry needs a confirmed close above the MAs.", "conviction": "low", "thesis_type": "other", "signal_source": "Benzinga key trading signal (10/27)"}
+  ]
+}
