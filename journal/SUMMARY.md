@@ -1,31 +1,20 @@
 # Journal Summary
 
-_Generated 2026-10-29 23:57 from 7 of 130 entries (2026-10-21 → 2026-10-29)_
+_Generated 2026-10-30 23:45 from 7 of 131 entries (2026-10-22 → 2026-10-30)_
 
-## Latest Portfolio Status _(from 2026-10-29)_
+## Latest Portfolio Status _(from 2026-10-30)_
 
-- Cash: $59,391.85
-- Positions: ANET (28 @ $141.86, now $183.60), CIEN (11 @ $322.10, now $350.24), GLW (30 @ $130.76, now $128.43), LITE (6 @ $648.89, now $920.54), MRVL (22 @ $217.56, now $215.24), NVDA (23 @ $206.99, now $212.60), TSM (12 @ $408.61, now $429.54)
-- Total Value: $92,540.70 (positions $33,148.85; last_equity $93,799.18)
-- Risk: 8% stop-loss not triggered on any name. Tightest is GLW at -1.8% from entry (stop line $120.30). MRVL is -14.5% on the day after a Lumentum acquisition-talk report, but it is still only -1.1% from its $217.56 entry.
-- 5% cap ($4,627.04 on $92,540.70): ANET 5.56%, LITE 5.97%, MRVL 5.12%, NVDA 5.28%, TSM 5.57% are over cap with no watchlist override. They stay held and are blocked from adding. CIEN 4.16% and GLW 4.16% have room.
+- Cash: $59,393.17
+- Positions: ANET (28 @ $141.86, now $166.95), CIEN (11 @ $322.10, now $313.65), GLW (30 @ $130.76, now $121.39), LITE (6 @ $648.89, now $820.26), MRVL (22 @ $217.56, now $191.35), NVDA (23 @ $206.99, now $201.02), TSM (12 @ $408.61, now $400.28)
+- Total Value: $89,716.83 (positions $30,323.66; last_equity $92,678.24; down $2,961.41, -3.2%, on the day)
+- **Risk flags (for the 15:00 trading routine):**
+  - **MRVL: -12.1% from entry, below the $200.16 stop line (8% = $200.16). The CLAUDE.md 8% rule applies: close without waiting.**
+  - **GLW: -7.2% from entry, $121.39 vs the $120.30 stop line (0.9% above). Close if it trades through $120.30.**
+  - ANET -9.4%, LITE -10.8%, CIEN -10.2%, TSM -7.3% on the day. All still above entry except CIEN. Per the 2026-10-29 lesson, these get a same-day review.
+- Over the 5% cap, no watchlist override (blocked from adding): ANET 5.2%, LITE 5.5%, NVDA 5.2%, TSM 5.4%. MRVL is 4.7% after the drop.
+- **Post-trade (14:57 ET):** MRVL closed. Cash $63,623.97. Positions: ANET (28), CIEN (11), GLW (30), LITE (6), NVDA (23), TSM (12). Equity $89,842.51. GLW is the next stop watch at $120.30.
 
 ## Recent Trades (last 7 days)
-
-### 2026-10-21
-_Trading run 14:19–14:21 ET (late: the 10:00 window was missed). Live IEX quotes at 14:19 (GFS bid $48.85 / ask $48.91 / last $48.87; the quote and last trade agree, so the ask is reliable). MAs recomputed from a desc-sorted pull of 60 daily closes._
-
-| Time | Symbol | Action | Qty | Price | Reasoning |
-|------|--------|--------|-----|-------|-----------|
-| 14:20 | GFS | BUY | 15 | $48.95 limit; filled 15 @ $48.91 | Price $48.87–48.91 is above the 20d ($48.14) and 50d ($47.42), so the 10/20 "reclaim the 20d" condition holds on live data. Fresh company news: EUR 1.1B Dresden expansion (10/19). Medium conviction. Sized to stay under the 5% cap: position goes from 80 to 95 shares, about 4.95% of $93,900 (cap $4,695). Order 6cdc1527-1090-45db-9c9a-64b9dfbb12d9. Stop line $45.02. |
-
-**Decisions on the other four picks (HOLD / no buy):**
-- **SOFI (low):** Bid $14.99 / ask $15.00, last $15.005. Under the 20d ($15.48) and 50d ($16.88). The Prudential partnership is a product news item with no price confirmation (lesson 2026-07-22). No buy.
-- **CSCO (low):** Bid $107.49 / ask $107.50. Under the 20d ($110.96) and 50d ($110.75). Product report, no catalyst. No buy.
-- **KEYS (low):** Bid $343.47 / ask $345.02, last $343.61. Sits on the 50d ($343.74) and is 7.6% under the 20d ($363.30). The news is unrelated to KEYS. MA support alone is not an entry (lesson 2026-10-20). No buy.
-- **FN (low):** Bid $358.75 / ask $359.47, last $358.95. About 16% under the 20d ($425.46) and 50d ($431.36). Analyst action with no technical confirmation (lesson 2026-08-21). No buy.
-
-**Note:** `validate_order()` checks only the order's own value against the cap, not the position's total. The 5% check for GFS was done by hand above.
 
 ### 2026-10-22
 | Time | Symbol | Action | Qty | Price | Reasoning |
@@ -128,13 +117,36 @@ Trading run 15:22 ET, late against the 10:00 window. Market open, closes 16:00. 
 - Cash $59,391.85 unchanged. No new capital deployed.
 - Over-cap names (ANET, LITE, MRVL, NVDA, TSM) stay held and blocked from adding, per the cap rule.
 
-## Recent Reflections (last 3 days)
+### 2026-10-30
+_Trading run 14:56–14:57 ET, late against the 10:00 window (lesson 2026-10-12: logged as a late session). The only order was a mandatory 8% stop close, which does not wait for the window. No new buys._
 
-### 2026-10-27
-No orders was the right call: all five top-5 picks (AVGO, MTSI, CIEN, KEYS, GFS) failed their entry rules on live quotes at 15:10, and no 8% stop triggered. The book gained about 1.2% on the session (equity $91,994.20 → $93,091.39), led by LITE and ANET, but the 14:59 research run left no morning window to act on. Since the 15:10 snapshot, equity is down $59.78 (-0.06%) on drift: GLW closed at $126.01 (-3.6% vs $130.76 entry, 4.7% above the $120.30 stop line) is the name to watch. The five over-cap names (ANET, LITE, MRVL, NVDA, TSM) stay held and blocked from adding. Next session: check GLW against its stop at the open, require a close (not an intraday touch) above both MAs before any AVGO or MTSI buy, and run research by 9:45 ET.
+| Time | Symbol | Action | Qty | Price | Reasoning |
+|------|--------|--------|-----|-------|-----------|
+| 14:57 | MRVL | SELL | 22 | $192.20 limit; filled 22 @ $192.31 | Mandatory 8% stop. Live bid $192.56, last $192.58, -11.5% from the $217.56 entry, below the $200.16 stop line. Entry thesis (AI optical DSP demand) is not the reason: the 10/29 Lumentum-talks report and the 10/30 chip selloff are the breakdown. Order 8d5132da-805b-4b47-a74d-73fbe291cdff. |
+
+**Decisions on the five top-5 picks (live IEX quotes; MAs recomputed from a desc-sorted pull that excludes today's partial bar):**
+- **SOFI (low, 15% cap), NO BUY.** Last $16.53 (bid $16.52 / ask $16.53), down from the 10/29 close of $17.61. Recomputed 20d $15.38 and 50d $16.60. Above the 20d, but just under the 50d, and it closed below the 10/29 level. The UBS PT raise is not an entry (lesson 2026-08-21). The scan's $14.29 price is stale.
+- **MTSI (low), NO BUY.** Last $227.86 (bid $213.75 / ask $238.45, wide). Recomputed 20d $285.48 and 50d $276.53, both above price. The 10/27 upgrades alone are not an entry (lessons 2026-07-22, 2026-08-21).
+- **KEYS (low), NO BUY.** Last $302.82 (bid $302.17 / ask $311.00, wide). Recomputed 20d $351.95 and 50d $341.03, both above price. The 6G demo is not a catalyst (lesson 2026-10-20).
+- **VIAV (low), NO BUY.** Last $28.90 (bid $27.86 / ask $28.90). Recomputed 20d $38.43 and 50d $37.82, both above price, roughly 25% under the 20d. The scan's $34.94 was already stale. Product news only.
+- **ALAB (low), NO BUY.** Last $251.59 (bid $240.09 / ask $252.43, wide). Recomputed 20d $311.09 and 50d $308.74, both above price. The sector-only rebound thesis failed: the day's high ($274.23) faded to $251.01.
+
+**Decisions on held names (not in top-5; SELL review per the step-5 checks):**
+- **GLW (held), HOLD, 1.1% above the stop line.** Last $121.65 (bid $121.21), -6.96% from the $130.76 entry. The 8% line is $120.30. It has not traded through, so the rule has not fired. **Next check: if it trades through $120.30, close it at a limit within 0.2% of bid, without waiting.** The trading routine runs once, so there is no intraday stop mechanism; this needs a monitor or an early check next session.
+- **CIEN (held), HOLD, no add.** Last $314.74 (bid $314.97), -2.3% from $322.10 entry, not at the stop line. Down about 10% on the day and below both MAs (20d $374.52, 50d $364.85), so the trend is broken. Not adding; the position is 3.9% of equity, within the cap.
+- **ANET (+18.4%), LITE (+26.8%), TSM (-1.7%), NVDA (-2.4%):** all above the -8% line. Held. ANET, LITE, NVDA and TSM stay over the 5% cap and are blocked from adding (TSM 5.4%, LITE 5.5%, ANET 5.2%, NVDA 5.2%).
+
+## Recent Reflections (last 3 days)
 
 ### 2026-10-28
 No orders, as intended: all five picks failed their entry rules on live quotes, and the late run (research 15:07, decisions 15:20) missed the 10:00 window. Closing equity is $93,395.46, down $398.89 from the 15:20 snapshot and up 0.33% on the day against last_equity $93,090.18. The whole drift came from position marks, since cash held at $59,391.85. LITE (+14.6% today, +53% vs entry) carried the book, and MRVL (-5.5% today, +5.8% vs entry) was the weakest mark among names with room above the stop. Next session: confirm whether SOFI closed above both MAs before any entry, run research and trading inside their windows, and do not add to the five names still over the 5% cap. GLW is the closest to its stop line at -1.7% vs $130.76 entry ($120.30 line).
 
 ### 2026-10-29
 Closing equity is $91,508.35 (cash $59,391.85, positions $32,116.50). That is down $2,290.83 (-2.4%) from the prior close and $1,032 below the 15:22 trading-session mark of $92,540.70. No orders was the right call given the session's rules, but the drift came from the held book. MRVL closed down about 17% on the day (now -4.0% from its $217.56 entry) on an unconfirmed Lumentum acquisition-talk report, and GLW is at $122.57 (-6.3% from entry), only about 1.9% above the $120.30 stop line. Tomorrow: first check GLW against $120.30 (a close below it triggers the 8% sell without discretion), then check whether the Lumentum talks were confirmed or denied and whether MRVL holds $200.16. Positions still over the 5% cap (ANET, LITE, MRVL, NVDA, TSM) stay blocked from adding.
+
+### 2026-10-30
+No new buys. All five top-5 picks failed their entry rules on live data: every one trades below both recomputed MAs, and the scan prices were 11–21% off live. Closing MRVL under the 8% rule was the only trade. Cash is now $63,623.97 (was $59,393.17), and equity is $89,842.51 intraday, down 3.1% from last_equity $92,678.24. The loss is mostly position marks (ANET, LITE, CIEN, TSM down on the day), not the MRVL fill.
+
+Tomorrow: GLW is $1.35 above its $120.30 stop line and needs a check at the open. A trade-through means an immediate limit sell. CIEN is below both MAs and is the next review if it closes under $300. Re-check SOFI only on a confirmed close above both MAs, and do not add to the over-cap names.
+
+**Closing check (EOD routine, 10/30, `research.py account` and `positions`):** Cash is unchanged at $63,623.97, so no trades after the 14:57 MRVL fill. Equity closed at $90,348.39, up $505.88 from the $89,842.51 intraday figure above, and down $2,329.85 (-2.5%) from last_equity $92,678.24. Closing marks: ANET $169.93, CIEN $323.86, GLW $123.61 (2.7% above the $120.30 stop line), LITE $844.58, NVDA $205.38, TSM $408.70. The tomorrow notes above still hold: GLW is the stop watch, and CIEN closed above $300, so its review trigger did not fire.
