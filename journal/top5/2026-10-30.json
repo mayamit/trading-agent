@@ -1,0 +1,10 @@
+{
+  "trading_day": "2026-10-30",
+  "picks": [
+    {"symbol": "SOFI", "thesis": "UBS PT raise to $22 (10/29) on a name that traded above both MAs intraday 10/28-29; only pick with a fresh analyst catalyst, but scan MA read is bearish and price is stale.", "conviction": "low", "thesis_type": "news_catalyst", "signal_source": "UBS PT raise to $22 (10/29)"},
+    {"symbol": "MTSI", "thesis": "Analyst upgrade cluster (10/27) with mixed MA read; price needs a confirmed close above the 20d to act on.", "conviction": "low", "thesis_type": "news_catalyst", "signal_source": "Broadcom-cycle analyst upgrades (10/27)"},
+    {"symbol": "KEYS", "thesis": "Mixed MA read; 6G demo news is weak, so this is a watch name rather than an entry.", "conviction": "low", "thesis_type": "other", "signal_source": "Keysight 6G research demo (10/29)"},
+    {"symbol": "VIAV", "thesis": "Mixed MA read with a fresh product launch (MCP/NITRO AI); no earnings or contract catalyst.", "conviction": "low", "thesis_type": "other", "signal_source": "Viavi NITRO AI MCP framework (10/29)"},
+    {"symbol": "ALAB", "thesis": "Mixed MA read after a sector-wide selloff; a rebound candidate only if it closes above the 20d.", "conviction": "low", "thesis_type": "other", "signal_source": "Sector rebound / chip selloff context (10/30)"}
+  ]
+}
