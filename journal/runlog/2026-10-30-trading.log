@@ -1,0 +1,11 @@
+2026-10-30T18:56:22Z [INFO] [setup/start] setup starting routine=trading et_date=2026-10-30
+2026-10-30T18:56:22Z [INFO] [setup/env] env validated alpaca_base=https://paper-api.alpaca.markets sendgrid_present=false
+2026-10-30T18:56:22Z [INFO] [setup/ready] setup complete runlog=/home/runner/work/trading-agent/trading-agent/journal/runlog/2026-10-30-trading.log marker=journal/.current-routine
+2026-10-30T18:56:43Z [INFO] [trade/market_status] fetched clock http_status=200 is_open=True next_open=2026-11-02T09:30:00-05:00 next_close=2026-10-30T16:00:00-04:00
+2026-10-30T18:56:43Z [INFO] [research/account] fetched account http_status=200 cash=59393.17 portfolio_value=89847.77
+2026-10-30T18:56:44Z [INFO] [research/positions] fetched positions http_status=200 n_positions=7
+2026-10-30T18:57:11Z [INFO] [trade/order_request] received order request symbol=MRVL qty=22 side=sell limit_price=192.20 thesis_type=risk_stop_loss conviction=high
+2026-10-30T18:57:11Z [INFO] [trade/order_submit] alpaca response symbol=MRVL side=sell qty=22 limit_price=192.20 http_status=200 order_id=8d5132da-805b-4b47-a74d-73fbe291cdff order_status=pending_new
+2026-10-30T18:57:23Z [INFO] [research/account] fetched account http_status=200 cash=63623.97 portfolio_value=89842.51
+2026-10-30T18:57:24Z [INFO] [research/positions] fetched positions http_status=200 n_positions=6
+2026-10-30T18:57:56Z [INFO] [finalize/start] finalizing routine=trading et_date=2026-10-30
