@@ -1,0 +1,10 @@
+{
+  "trading_day": "2026-11-03",
+  "picks": [
+    {"symbol": "CSCO", "thesis": "Fresh OpenAI partnership headline (today); price sits just under the 20d and 50d MAs, so a reclaim would be the trigger.", "conviction": "low", "thesis_type": "news+ma", "signal_source": "Cisco x OpenAI AI-security partnership (11/03)"},
+    {"symbol": "FORM", "thesis": "Freedom Capital upgrade to Buy (PT $140) on a stock far below both MAs; analyst call alone is not an entry.", "conviction": "low", "thesis_type": "news_catalyst", "signal_source": "Freedom Capital Markets upgrade to Buy (11/02)"},
+    {"symbol": "SOFI", "thesis": "Only pick near its 20d MA (scan $14.62 vs $15.27); Truist Hold with PT raise to $17. 15% cap applies. Needs a confirmed close above MAs.", "conviction": "low", "thesis_type": "news+ma", "signal_source": "Truist PT raise to $17 (11/03)"},
+    {"symbol": "ALAB", "thesis": "Earnings after the close today is a binary catalyst; price is well below both MAs, so size and timing carry the risk.", "conviction": "low", "thesis_type": "earnings", "signal_source": "Astera Labs Q3 earnings (11/03 after close)"},
+    {"symbol": "KEYS", "thesis": "Product launch (XR3 scope) with no direct revenue catalyst; included as a weak filler pick, below both MAs.", "conviction": "low", "thesis_type": "other", "signal_source": "Keysight XR3 oscilloscope launch (11/03)"}
+  ]
+}
