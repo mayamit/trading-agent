@@ -1,0 +1,10 @@
+{
+  "trading_day": "2026-11-04",
+  "picks": [
+    {"symbol": "SOFI", "thesis": "Truist Hold with PT raised to $17 near price; only a confirmed close above both MAs would make it actionable.", "conviction": "low", "thesis_type": "news+ma", "signal_source": "Truist Hold, PT $17 (11/03)"},
+    {"symbol": "COHR", "thesis": "Q3 earnings Wednesday 11/05 is a binary catalyst, but MAs are bearish and the trend is broken; entry into the print is not supported.", "conviction": "low", "thesis_type": "earnings", "signal_source": "Q3 earnings preview (11/04)"},
+    {"symbol": "FORM", "thesis": "Freedom Capital upgrade to Buy (PT $140) against a bearish MA set; analyst call alone is not an entry.", "conviction": "low", "thesis_type": "news_catalyst", "signal_source": "Freedom Capital upgrade to Buy (11/02)"},
+    {"symbol": "AAOI", "thesis": "Northland upgrade to Outperform, but MAs are bearish; isolated analyst call without confirmation per lesson 2026-07-22.", "conviction": "low", "thesis_type": "news_catalyst", "signal_source": "Northland upgrade to Outperform (11/02)"},
+    {"symbol": "CSCO", "thesis": "Managed Cisco Secure Networking launch via Spectrum; product news only, MAs mixed with price near both averages.", "conviction": "low", "thesis_type": "other", "signal_source": "Spectrum Business managed Cisco service launch (11/04)"}
+  ]
+}
