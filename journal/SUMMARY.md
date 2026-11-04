@@ -1,32 +1,15 @@
 # Journal Summary
 
-_Generated 2026-11-03 02:18 from 7 of 132 entries (2026-10-23 → 2026-11-02)_
+_Generated 2026-11-04 00:36 from 7 of 133 entries (2026-10-26 → 2026-11-03)_
 
-## Latest Portfolio Status _(from 2026-11-02)_
+## Latest Portfolio Status _(from 2026-11-03)_
 
-_not recorded_
+- Cash: $63,623.87
+- Positions: ANET (28 sh @ $141.86), CIEN (11 sh @ $322.10), GLW (30 sh @ $130.76), LITE (6 sh @ $648.89), NVDA (23 sh @ $206.99), TSM (12 sh @ $408.61)
+- Position marks (current_price): ANET $168.64, CIEN $298.04, GLW $126.14, LITE $673.31, NVDA $206.62, TSM $404.23
+- Total Value: $89,050.70 (last_equity $88,580.87; equity up $469.83 vs prior close)
 
 ## Recent Trades (last 7 days)
-
-### 2026-10-23
-| Time | Symbol | Action | Qty | Price | Reasoning |
-|------|--------|--------|-----|-------|-----------|
-| after 14:03 | — | NO ORDERS | — | — | All 5 top-5 picks checked on live IEX quotes and desc-sorted 20/50-day closes. None met an entry rule. No substitute ticker considered. |
-
-**Decisions (live check, shortly after the 14:03 ET market-status pull; late run: the 10:00 window was missed):**
-- **KEYS (medium) — HOLD / no buy.** Bid $302.55 / ask $316.34 / last $316.25. Below the 20d ($358.60) and 50d ($342.10). The scan's "bullish MA stack" read does not hold on live data. The KTL test selection is a real company item, but price is about 12% under the 20d and under the 50d, so it fails the "live price above both MAs" condition the morning set.
-- **MTSI (low) — HOLD / no buy.** Bid $225.49 / ask $247.80 (wide, IEX) / last $237.46. Below the 20d ($292.40) and 50d ($280.45). The only news is the Nov 5 earnings date, so there is no catalyst today and the technical premise is broken.
-- **FN (low) — HOLD / no buy.** Bid $315.37 / ask $334.50 (wide, IEX) / last $315.97. About 24% under the 20d ($416.20) and 25% under the 50d ($421.20). Sector-only news with no company catalyst (lesson 2026-08-21).
-- **CSCO (low) — HOLD / no buy.** Bid $106.24 / ask $106.27 / last $106.29. Under the 20d ($110.83) and 50d ($110.22). Headline is not about Cisco (lesson 2026-07-22).
-- **VIAV (low) — HOLD / no buy.** Bid $31.20 / ask $31.23 / last $31.235. Under the 20d ($40.29) and 50d ($38.58). Macro headline only, and the trend is broken (lesson 2026-10-21: no entry on a stale bullish read).
-
-**Scan reliability:** All five picks carried a bullish MA read in the morning top-5, yet on live data all five trade below both their 20d and 50d MAs, and their scan prices were 19–28% off live quotes. The morning top-5 is not usable as a buy list until the scan's price and MA inputs are fixed (see lessons 2026-10-08 and 2026-10-15).
-
-**Risk checks (live pull):**
-- 8% stop-loss: no trigger. Tightest is GLW at -4.3% from its $130.76 entry (last $125.09). ANET, LITE, MRVL, NVDA, TSM and CIEN are above entry. No forced closes.
-- SELL signals: none. No held name is in today's top 5, and none is at the -8% line.
-- Cash $59,391.85 unchanged. No new capital deployed.
-- Over-cap names (ANET, LITE, MRVL, NVDA, TSM) stay held and blocked from adding, per the cap rule.
 
 ### 2026-10-26
 | Time | Symbol | Action | Qty | Price | Reasoning |
@@ -126,10 +109,29 @@ _Trading run 14:56–14:57 ET, late against the 10:00 window (lesson 2026-10-12:
 ### 2026-11-02
 None today. Session skipped (see above).
 
-## Recent Reflections (last 3 days)
+### 2026-11-03
+_Trading run 15:25 ET, late against the 10:00 window (lesson 2026-10-12: logged as a late session). Market open. Decisions use live IEX quotes (bid/ask/last) and MAs recomputed from a desc-sorted 60-bar pull that excludes today's partial bar. The morning scan's prices and MAs are not used._
 
-### 2026-10-29
-Closing equity is $91,508.35 (cash $59,391.85, positions $32,116.50). That is down $2,290.83 (-2.4%) from the prior close and $1,032 below the 15:22 trading-session mark of $92,540.70. No orders was the right call given the session's rules, but the drift came from the held book. MRVL closed down about 17% on the day (now -4.0% from its $217.56 entry) on an unconfirmed Lumentum acquisition-talk report, and GLW is at $122.57 (-6.3% from entry), only about 1.9% above the $120.30 stop line. Tomorrow: first check GLW against $120.30 (a close below it triggers the 8% sell without discretion), then check whether the Lumentum talks were confirmed or denied and whether MRVL holds $200.16. Positions still over the 5% cap (ANET, LITE, MRVL, NVDA, TSM) stay blocked from adding.
+| Time | Symbol | Action | Qty | Price | Reasoning |
+|------|--------|--------|-----|-------|-----------|
+| 15:25 | — | NO ORDERS | — | — | All five top-5 picks (CSCO, FORM, SOFI, ALAB, KEYS) failed the entry rule on live data. None had a confirmed close above both MAs or a confirmed reclaim. Held-name review found no SELL trigger. No substitute ticker considered. |
+
+**Top-5 decisions (live quotes; recomputed MAs):**
+- **CSCO (low), HOLD / NO BUY.** Bid $102.94 / ask $102.96. Recomputed 20d $110.42 and 50d $109.81, so price is about 6.8% under the 20d. The OpenAI partnership headline is company-specific, but the trend is broken. The scan's "just under both" was stale (scan $106.49).
+- **FORM (low), NO BUY.** Bid $96.23 / ask $96.46. Recomputed 20d $113.41 and 50d $115.70, so price is about 15% under both. The Freedom Capital Buy call alone is not an entry (lesson 2026-08-21). Today's +10% bounce from $87.30 does not change the MAs. The morning MAs ($126.97 / $118.66) differ from this recompute, but price is under both on either set.
+- **SOFI (low, 15% cap), NO BUY.** Bid $16.70 / ask $16.71. Recomputed 20d $15.47 and 50d $16.53. Price is above both intraday, after one close above both on 11/02 ($16.59). That is a start, not a buy. The 50d is only $0.17 under price, the 20d is about 8% under, and the stock has faded from $17.61 (10/29) to $16.76 (10/30) to $16.59 (11/02) after the earnings gap. Lesson 2026-10-21 applies. Re-check at the next close. The scan's $14.62 price was about 12% stale.
+- **ALAB (low), NO BUY.** Bid $234.09 / ask $234.40. Recomputed 20d $299.88 and 50d $307.00, so price is about 22% under the 20d. Earnings after the close are a binary print. No entry into the print with the trend broken (lesson 2026-10-30).
+- **KEYS (low), NO BUY.** Bid $304.80 / ask $321.85. The ask is a thin-feed quote (wide spread), so it is not used as a reference (lesson 2026-10-14). Last close (11/02) $298.89. Recomputed 20d $343.84 and 50d $340.50, so price is about 11% under both. The XR3 launch is product news with no direct catalyst (lesson 2026-10-20).
+
+**Held-name review (CLAUDE.md step 5):**
+- **CIEN (held, 11 sh @ $322.10), HOLD, stop watch.** Bid $299.17 / ask $299.67 / last mark $299.40, which is -7.05% from entry. The 8% line is $296.33, about 1.0% under the bid. Not triggered, so no sell. Price is about 18% under the 20d ($365.72) and 17% under the 50d ($361.17), so the trend is broken. **This run has no intraday monitor.** A trade-through after this check would not be closed until the next routine. The first action next session is to check CIEN against $296.33 and, if it has traded through, sell at a limit at or below bid.
+- **LITE (held, 6 sh @ $648.89), HOLD, deal review flagged.** Bid $673.48 / ask $683.49 / last $673.69, +3.8% from entry. Marvell's confirmed all-stock deal is 4.5 MRVL shares per LITE share. MRVL's last trade of $170.31 implies about $766 per LITE share, so the spread to LITE's $673.69 is about 12%. LITE now trades on MRVL's price plus deal risk, not on its standalone CPO thesis. MRVL is having its worst three days since 2000 (BofA downgrade, Cantor target cut). No rule requires a sale and LITE is above its stop, so it is held. It is the first review item for the next session, and LITE is 4.5% of equity (under cap).
+- **GLW (held, 30 sh @ $130.76), HOLD.** Bid $126.31 / ask $126.57, -3.3% from entry. Stop line $120.30 is about 5% under the bid.
+- **ANET (+19%), NVDA (-0.1%), TSM (-0.9%).** All above the -8% line. ANET 5.3%, NVDA 5.3% and TSM 5.4% of equity, over the 5% cap, so they are blocked from adding and not trimmed.
+
+**Cash and exposure:** Cash $63,623.87 (about 71% of equity), no capital deployed. Equity $89,092.28 at the 15:23 account pull.
+
+## Recent Reflections (last 3 days)
 
 ### 2026-10-30
 No new buys. All five top-5 picks failed their entry rules on live data: every one trades below both recomputed MAs, and the scan prices were 11–21% off live. Closing MRVL under the 8% rule was the only trade. Cash is now $63,623.97 (was $59,393.17), and equity is $89,842.51 intraday, down 3.1% from last_equity $92,678.24. The loss is mostly position marks (ANET, LITE, CIEN, TSM down on the day), not the MRVL fill.
@@ -140,3 +142,18 @@ Tomorrow: GLW is $1.35 above its $120.30 stop line and needs a check at the open
 
 ### 2026-11-02
 The morning run did not produce a top-5 file, so trading was skipped as the routine requires. The CIEN stop breach is the item that matters for tomorrow: the 8% rule applies at the open. Morning research for 2026-11-03 should be checked before the trading run to confirm that top5 is written.
+
+### 2026-11-03
+No orders. The five picks were the morning's universe, and none met the entry rule on live data, so the book is unchanged. The risk today is in the held names, not in new entries. CIEN is about 1% above its -8% line with no intraday monitor. LITE is now a deal-linked position that follows MRVL, with a wide spread to the implied deal value.
+
+Tomorrow, in this order:
+1. CIEN against $296.33. If it has traded through, sell at a limit at or below bid without waiting.
+2. LITE against the MRVL deal: confirm the terms and MRVL's level, and decide whether the deal spread still justifies holding.
+3. GLW against $120.30.
+4. Re-check SOFI only on a confirmed close above both MAs, and the ALAB print outcome, without entering on the print.
+
+### Closing check (EOD routine, 2026-11-04 morning)
+- Closing account pull: cash $63,623.87 (unchanged), equity $89,298.79 (up $717.92 vs the prior close of $88,580.87). Six positions unchanged in quantity. No orders were placed, so the book matches the 15:25 decisions.
+- Drift vs. the morning marks: ANET $168.64 → $181.99 (+7.9%), CIEN $298.04 → $297.00, GLW $126.14 → $124.86, LITE $673.31 → $669.95, NVDA $206.62 → $205.10, TSM $404.23 → $402.45.
+- **CIEN closed at $297.00, -7.79% from entry and only $0.67 (about 0.2%) above the $296.33 stop line.** The stop has not triggered. The next print below $296.33 requires an immediate limit sell at or below bid. Because the routines do not run intraday, a gap below the line overnight would not be caught until the open. Check CIEN first thing next session.
+- LITE, which is tied to the Marvell all-stock deal, closed $3.74 lower on the day at $669.95 and is still about 12% below its implied deal value. This is the second review item.
