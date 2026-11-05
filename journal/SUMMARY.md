@@ -1,33 +1,20 @@
 # Journal Summary
 
-_Generated 2026-11-04 00:36 from 7 of 133 entries (2026-10-26 → 2026-11-03)_
+_Generated 2026-11-05 00:53 from 7 of 134 entries (2026-10-27 → 2026-11-04)_
 
-## Latest Portfolio Status _(from 2026-11-03)_
+## Latest Portfolio Status _(from 2026-11-04)_
 
 - Cash: $63,623.87
 - Positions: ANET (28 sh @ $141.86), CIEN (11 sh @ $322.10), GLW (30 sh @ $130.76), LITE (6 sh @ $648.89), NVDA (23 sh @ $206.99), TSM (12 sh @ $408.61)
-- Position marks (current_price): ANET $168.64, CIEN $298.04, GLW $126.14, LITE $673.31, NVDA $206.62, TSM $404.23
-- Total Value: $89,050.70 (last_equity $88,580.87; equity up $469.83 vs prior close)
+- Live marks (15:32 ET account pull): ANET $179.19 (+26.3%), CIEN $271.04 (-15.9%), GLW $117.63 (-10.0%), LITE $616.35 (-5.0%), NVDA $202.24 (-2.3%), TSM $395.92 (-3.1%)
+- Total Value: $88,252.19 (last_equity $89,158.86; down $906.67, -1.0% intraday)
+- **8% STOP-LOSS BREACHES (CLAUDE.md, mandatory):**
+  - **CIEN** is through the stop. Entry $322.10, 8% line $296.33, live $271.04 (-15.9%). Close at a limit at or below bid, without waiting.
+  - **GLW** is through the stop. Entry $130.76, 8% line $120.30, live $117.63 (-10.0%). Close at a limit at or below bid, without waiting.
+- **Watch, not breached:** LITE is -5.0% from entry and -9.4% today, with a stop line of $596.98. It is about 3% above that line. LITE tracks the Marvell all-stock deal (see Market Research).
+- Over the 5% cap, blocked from adding: ANET (5.7%), NVDA (5.3%), TSM (5.4%). Not trimmed (cap rule applies to new buys). LITE (4.2%), GLW (4.0%) and CIEN (3.4%) are under cap.
 
 ## Recent Trades (last 7 days)
-
-### 2026-10-26
-| Time | Symbol | Action | Qty | Price | Reasoning |
-|------|--------|--------|-----|-------|-----------|
-| 15:41 | — | NO ORDERS | — | — | All 5 top-5 picks checked on live IEX quotes and recomputed 20/50-day closes (desc-sorted pull). None met the entry rule (live close above both MAs). No substitute ticker considered. |
-
-**Decisions (15:41 ET, live quotes; late run, 19 minutes before the close):**
-- **GFS (low) — NO BUY.** Bid $43.63 / ask $45.52 / last $45.55. Recomputed 20d $47.56 and 50d $46.86, so price is about 4% under the 20d and under the 50d. The 10/22 stop-out was a failed reclaim, and there is no confirmed close above either MA (lesson 2026-10-21).
-- **CIEN (low) — HOLD, no add.** Last $337.82. Recomputed 20d $375.79 and 50d $368.65, so the trend is broken. The +4.9% gain on the position is above entry, and the add room is about 2 shares before the cap. The reaffirmed Buy is not a fresh catalyst.
-- **SOFI (low) — NO BUY.** Last $14.44. Recomputed 20d $15.20 and 50d $16.66, both above price. Initiation alone is not an entry (lesson 2026-08-21).
-- **ALAB (low) — NO BUY.** Last $261.68. Recomputed 20d $321.02 and 50d $309.55, both above price. The rebound is sector-only, and the last close ($262.24) is not a reclaim.
-- **FORM (low) — NO BUY.** Last $101.73. Recomputed 20d $125.51 and 50d $118.07, both above price. Facility news does not offset the broken trend.
-
-**Risk checks (15:41 ET):**
-- 8% stop-loss: no trigger. Tightest is GLW at -2.2% from its $130.76 entry (last $127.87). All other held names are above entry. No forced closes.
-- SELL signals: none. No held name's morning thesis is broken on the data, and none is at the -8% line.
-- Cash $59,391.85 unchanged. No new capital deployed.
-- Over-cap names (ANET, LITE, MRVL, NVDA, TSM) stay held and blocked from adding, per the cap rule.
 
 ### 2026-10-27
 | Time | Symbol | Action | Qty | Price | Reasoning |
@@ -131,14 +118,35 @@ _Trading run 15:25 ET, late against the 10:00 window (lesson 2026-10-12: logged 
 
 **Cash and exposure:** Cash $63,623.87 (about 71% of equity), no capital deployed. Equity $89,092.28 at the 15:23 account pull.
 
+### 2026-11-04
+_Trading run 15:38 ET, late against the 10:00 window (lesson 2026-10-12: logged as a late session). The two stop-loss closes ran first, before any buy decision. Live IEX quotes at 15:38 ET: CIEN bid $261.10 / ask $270.55 (thin, 40x40) / last $270.19; GLW bid $116.85 / ask $117.56 / last $117.46. Sell limits set 0.2% under bid._
+
+| Time | Symbol | Action | Qty | Price | Reasoning |
+|------|--------|--------|-----|-------|-----------|
+| 15:39 | CIEN | SELL | 11 | $260.58 limit; filled 11 @ $270.48 | Mandatory 8% stop. Entry $322.10, live $270.19 (-16%), through the $296.33 line. Order d90187f4-b4de-4153-8313-38351e716e3d. Realized about -$568 vs cost basis $3,543.10. |
+| 15:39 | GLW | SELL | 30 | $116.62 limit; filled 30 @ $117.24 | Mandatory 8% stop. Entry $130.756, live $117.46 (-10.2%), through the $120.30 line. Order ab1077d8-2763-4d5b-8866-cfe5ae538daa. Realized about -$405 vs cost basis $3,922.68. |
+
+**Top-5 decisions (no orders; live quotes and MAs from a desc-sorted pull of closed bars through 11/03):**
+- **SOFI (low, 15% cap), NO BUY / HOLD.** Last $17.455. Recomputed 20d $15.52 and 50d $16.50, so price is above both intraday. 11/03 closed at $16.78, also above both, so the morning's "confirmed close above both MAs" condition is arguably met once. Not bought: the stock is now above the only analyst target (Truist PT $17), it is up about 4% on the day into the open, and the morning's conviction was low. A single closed bar above both MAs does not reclaim a trend that was below both for weeks (lesson 2026-10-21). Re-check at the 11/05 close.
+- **COHR (low), NO BUY.** Last $192.83. Recomputed 20d $247.22 and 50d $276.38, both well above price. Earnings 11/05 is a binary event with the trend broken; no entry into the print.
+- **FORM (low), NO BUY.** Last $84.85. Recomputed 20d $111.18 and 50d $115.47, both well above price. Freedom Capital upgrade alone is not an entry (lesson 2026-08-21).
+- **AAOI (low), NO BUY.** Last $59.40. Recomputed 20d $82.79 and 50d $96.64, far above price. Northland upgrade without confirmation (lesson 2026-07-22).
+- **CSCO (low), NO BUY.** Last $103.13. Recomputed 20d $109.67 and 50d $109.66, both above price. Managed-service launch is product news with no direct catalyst.
+
+**Decision framework (15:39 ET):**
+1. Cash: $63,623.87 before the sells, $70,116.35 after both fills.
+2. Open positions after the sells: ANET, LITE, NVDA, TSM. CIEN and GLW closed.
+3. News: picks are low-conviction analyst calls and product news; no buy case cleared the MA test.
+4. MAs: no pick has a confirmed closed-bar trend reclaim except SOFI, which is deferred (above).
+5. Risk on a missed buy: none taken. Cash stays uninvested, which is the book's current posture.
+
+**Risk checks (15:39 ET):**
+- 8% stop-loss: CIEN and GLW closed. ANET (+26%), LITE (-5.3%, stop line $596.98, live about $614.72), NVDA (-2.7%), TSM (-2.5%) are above the line. No other forced closes.
+- LITE is the watch item. It trades on the Marvell all-stock deal (4.5 MRVL per LITE share), and today's drop is -9.6% intraday. Not sold; the position is above its stop, and no thesis rule was broken on the data. Re-check the MRVL level and the spread before the next session.
+- Over-cap names (ANET, NVDA, TSM) stay held and blocked from adding, per the cap rule.
+- Note: CIEN's sell filled at $270.48, above the $260.58 limit, consistent with the limit working as intended.
+
 ## Recent Reflections (last 3 days)
-
-### 2026-10-30
-No new buys. All five top-5 picks failed their entry rules on live data: every one trades below both recomputed MAs, and the scan prices were 11–21% off live. Closing MRVL under the 8% rule was the only trade. Cash is now $63,623.97 (was $59,393.17), and equity is $89,842.51 intraday, down 3.1% from last_equity $92,678.24. The loss is mostly position marks (ANET, LITE, CIEN, TSM down on the day), not the MRVL fill.
-
-Tomorrow: GLW is $1.35 above its $120.30 stop line and needs a check at the open. A trade-through means an immediate limit sell. CIEN is below both MAs and is the next review if it closes under $300. Re-check SOFI only on a confirmed close above both MAs, and do not add to the over-cap names.
-
-**Closing check (EOD routine, 10/30, `research.py account` and `positions`):** Cash is unchanged at $63,623.97, so no trades after the 14:57 MRVL fill. Equity closed at $90,348.39, up $505.88 from the $89,842.51 intraday figure above, and down $2,329.85 (-2.5%) from last_equity $92,678.24. Closing marks: ANET $169.93, CIEN $323.86, GLW $123.61 (2.7% above the $120.30 stop line), LITE $844.58, NVDA $205.38, TSM $408.70. The tomorrow notes above still hold: GLW is the stop watch, and CIEN closed above $300, so its review trigger did not fire.
 
 ### 2026-11-02
 The morning run did not produce a top-5 file, so trading was skipped as the routine requires. The CIEN stop breach is the item that matters for tomorrow: the 8% rule applies at the open. Morning research for 2026-11-03 should be checked before the trading run to confirm that top5 is written.
@@ -157,3 +165,6 @@ Tomorrow, in this order:
 - Drift vs. the morning marks: ANET $168.64 → $181.99 (+7.9%), CIEN $298.04 → $297.00, GLW $126.14 → $124.86, LITE $673.31 → $669.95, NVDA $206.62 → $205.10, TSM $404.23 → $402.45.
 - **CIEN closed at $297.00, -7.79% from entry and only $0.67 (about 0.2%) above the $296.33 stop line.** The stop has not triggered. The next print below $296.33 requires an immediate limit sell at or below bid. Because the routines do not run intraday, a gap below the line overnight would not be caught until the open. Check CIEN first thing next session.
 - LITE, which is tied to the Marvell all-stock deal, closed $3.74 lower on the day at $669.95 and is still about 12% below its implied deal value. This is the second review item.
+
+### 2026-11-04
+Closed at equity $88,130.69, down $1,028.17 (-1.2%) from last_equity $89,158.86. The two mandatory 8% stops (CIEN, GLW) filled at 15:39 above their sell limits and realized about -$973 combined; no buys, and cash of $70,116.35 matches the post-sell balance. Since the 15:32 pull, equity fell another $121.50: LITE slid to $617.23 (-9.3% today, about 3.4% above its $596.98 stop line), NVDA and TSM each fell about 3-4%, and ANET is still +25.8%. Watch next session: LITE against its stop line and the MRVL deal spread, and the over-cap names NVDA and TSM, which are blocked from adding.
