@@ -1,0 +1,23 @@
+2026-11-05T20:54:07Z [INFO] [setup/start] setup starting routine=trading et_date=2026-11-05
+2026-11-05T20:54:07Z [INFO] [setup/env] env validated alpaca_base=https://paper-api.alpaca.markets sendgrid_present=false
+2026-11-05T20:54:07Z [INFO] [setup/ready] setup complete runlog=/home/runner/work/trading-agent/trading-agent/journal/runlog/2026-11-05-trading.log marker=journal/.current-routine
+2026-11-05T20:54:27Z [INFO] [trade/market_status] fetched clock http_status=200 is_open=True next_open=2026-11-06T09:30:00-05:00 next_close=2026-11-05T16:00:00-05:00
+2026-11-05T20:54:27Z [INFO] [research/account] fetched account http_status=200 cash=70116.2 portfolio_value=86223.72
+2026-11-05T20:54:28Z [INFO] [research/positions] fetched positions http_status=200 n_positions=4
+2026-11-05T20:54:58Z [INFO] [trade/order_request] received order request symbol=LITE qty=6 side=sell limit_price=497.50 thesis_type=stop_loss_enforcement conviction=high
+2026-11-05T20:54:58Z [INFO] [trade/order_submit] alpaca response symbol=LITE side=sell qty=6 limit_price=497.50 http_status=200 order_id=453c6b85-da5b-48eb-8d3d-f2f952072494 order_status=pending_new
+2026-11-05T20:55:00Z [INFO] [trade/order_request] received order request symbol=NVDA qty=23 side=sell limit_price=183.00 thesis_type=stop_loss_enforcement conviction=high
+2026-11-05T20:55:00Z [INFO] [trade/order_submit] alpaca response symbol=NVDA side=sell qty=23 limit_price=183.00 http_status=200 order_id=722cc2b9-3aef-47e7-bd49-456ae7ac18f6 order_status=pending_new
+2026-11-05T20:55:01Z [INFO] [trade/order_request] received order request symbol=TSM qty=12 side=sell limit_price=356.00 thesis_type=stop_loss_enforcement conviction=high
+2026-11-05T20:55:01Z [INFO] [trade/order_submit] alpaca response symbol=TSM side=sell qty=12 limit_price=356.00 http_status=200 order_id=89c2cf6b-a190-4895-85bf-8d595f111595 order_status=pending_new
+2026-11-05T20:55:09Z [INFO] [trade/order_request] received order request symbol=ANET qty=14 side=sell limit_price=160.75 thesis_type=trim_ma_breakdown conviction=medium
+2026-11-05T20:55:09Z [INFO] [trade/order_submit] alpaca response symbol=ANET side=sell qty=14 limit_price=160.75 http_status=200 order_id=418bdc59-972f-4219-891c-86d0877e19ad order_status=pending_new
+2026-11-05T20:55:50Z [INFO] [trade/order_request] received order request symbol=TSM qty=12 side=sell limit_price=354.40 thesis_type=stop_loss_enforcement conviction=high
+2026-11-05T20:55:51Z [ERROR] [trade/order_submit] alpaca response symbol=TSM side=sell qty=12 limit_price=354.40 http_status=403 error="insufficient qty available for order (requested: 12, available: 0)"
+2026-11-05T20:55:58Z [INFO] [trade/order_request] received order request symbol=TSM qty=12 side=sell limit_price=354.40 thesis_type=stop_loss_enforcement conviction=high
+2026-11-05T20:55:58Z [INFO] [trade/order_submit] alpaca response symbol=TSM side=sell qty=12 limit_price=354.40 http_status=200 order_id=8ead3fd9-e44a-485e-a875-ec7d7c0e9c2a order_status=pending_new
+2026-11-05T20:55:59Z [INFO] [trade/order_request] received order request symbol=ANET qty=14 side=sell limit_price=159.80 thesis_type=trim_ma_breakdown conviction=medium
+2026-11-05T20:56:00Z [INFO] [trade/order_submit] alpaca response symbol=ANET side=sell qty=14 limit_price=159.80 http_status=200 order_id=849dfe46-3e21-47c3-8a11-fb56a1b0fa77 order_status=pending_new
+2026-11-05T20:56:24Z [INFO] [trade/order_request] received order request symbol=TSM qty=11 side=sell limit_price=352.60 thesis_type=stop_loss_enforcement conviction=high
+2026-11-05T20:56:24Z [INFO] [trade/order_submit] alpaca response symbol=TSM side=sell qty=11 limit_price=352.60 http_status=200 order_id=3ce3187b-35a4-41eb-b61e-b63d412f791e order_status=pending_new
+2026-11-05T20:56:36Z [INFO] [finalize/start] finalizing routine=trading et_date=2026-11-05
