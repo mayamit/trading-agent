@@ -1,0 +1,10 @@
+{
+  "trading_day": "2026-11-05",
+  "picks": [
+    {"symbol": "SOFI", "thesis": "Only watchlist name above both MAs (closed above 20d and 50d on 11/03 and 11/04); Truist Hold with PT raised to $17, but the 15% cap and the broad AI/tech selloff argue for no entry until a live confirmation.", "conviction": "low", "thesis_type": "news+ma", "signal_source": "Truist Hold, PT $17 (11/03) + two-bar close above 20d/50d"},
+    {"symbol": "CSCO", "thesis": "Closest name to its MAs (about 5% under the 20d and 50d at the 11/04 close), with product news but no direct catalyst; a reclaim needs a confirmed close, not a bounce in a selloff.", "conviction": "low", "thesis_type": "other", "signal_source": "Managed-service launch / OpenAI partnership headlines (11/03-11/04)"},
+    {"symbol": "FN", "thesis": "Analyst Overweight retained with PT cut to $496, but the stock is about 8% under the 20d and 50d at the 11/04 close with the AI-sector trend broken; low conviction, not an entry in this tape.", "conviction": "low", "thesis_type": "news_catalyst", "signal_source": "Barclays Overweight, PT $496 (11/04)"},
+    {"symbol": "MTSI", "thesis": "Needham Buy reaffirmed with PT lowered to $300; the stock is about 12% under both MAs at the 11/04 close, so the analyst call alone does not justify an entry.", "conviction": "low", "thesis_type": "news_catalyst", "signal_source": "Needham Buy, PT $300 (11/05)"},
+    {"symbol": "VIAV", "thesis": "Fiscal Q1 earnings with several analysts adjusting PTs on 11/05; the stock is about 16% under the 20d and 50d, so the earnings catalyst is noted but there is no MA support for entry.", "conviction": "low", "thesis_type": "earnings", "signal_source": "Fiscal Q1 results and PT updates from Needham, UBS, B. Riley (11/05)"}
+  ]
+}
