@@ -1,0 +1,10 @@
+{
+  "trading_day": "2026-11-06",
+  "picks": [
+    {"symbol": "CSCO", "thesis": "Mixed MAs: last $110.25 sits on the 50d ($110.20) and 0.7% under the 20d ($111.01), the closest pick to a reclaim; whale-activity headline is not a catalyst.", "conviction": "low", "thesis_type": "other", "signal_source": "Scan MA proximity; Benzinga whale-activity list (no direct news)"},
+    {"symbol": "LASR", "thesis": "Fresh earnings beat with Q4 sales guide above estimates, but both MAs are above price (20d $37.69, 50d $40.41); gap-chase risk, so buy only on a confirmed close above the 20d.", "conviction": "low", "thesis_type": "earnings", "signal_source": "nLIGHT Q3 results and Q4 guidance (11/06)"},
+    {"symbol": "GFS", "thesis": "Under both MAs (20d $47.53, 50d $46.85) by about 4-5%; Deutsche Bank keeps Buy but cut PT to $60 from $75, so the news is weak.", "conviction": "low", "thesis_type": "other", "signal_source": "Deutsche Bank Buy, PT $60 (11/06)"},
+    {"symbol": "MRVL", "thesis": "Under both MAs (20d $255.89, 50d $243.17) after a sharp chip rout; rebound is oversold-driven and the stock is tied to the LITE acquisition, so this is a weak thesis.", "conviction": "low", "thesis_type": "other", "signal_source": "Oversold rebound report (11/06); MRVL/LITE deal context"},
+    {"symbol": "NVDA", "thesis": "Under both MAs (20d $224.93, 50d $222.32) by 3-4%; AI-demand headline is mixed with a research-firm warning. Stopped out 11/05, so this is a re-entry and needs a confirmed close above the 50d.", "conviction": "low", "thesis_type": "other", "signal_source": "AI-demand research note (11/06); scan MAs"}
+  ]
+}
