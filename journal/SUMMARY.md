@@ -1,40 +1,22 @@
 # Journal Summary
 
-_Generated 2026-11-05 00:53 from 7 of 134 entries (2026-10-27 → 2026-11-04)_
+_Generated 2026-11-06 00:58 from 7 of 135 entries (2026-10-28 → 2026-11-05)_
 
-## Latest Portfolio Status _(from 2026-11-04)_
+## Latest Portfolio Status _(from 2026-11-05)_
 
-- Cash: $63,623.87
-- Positions: ANET (28 sh @ $141.86), CIEN (11 sh @ $322.10), GLW (30 sh @ $130.76), LITE (6 sh @ $648.89), NVDA (23 sh @ $206.99), TSM (12 sh @ $408.61)
-- Live marks (15:32 ET account pull): ANET $179.19 (+26.3%), CIEN $271.04 (-15.9%), GLW $117.63 (-10.0%), LITE $616.35 (-5.0%), NVDA $202.24 (-2.3%), TSM $395.92 (-3.1%)
-- Total Value: $88,252.19 (last_equity $89,158.86; down $906.67, -1.0% intraday)
-- **8% STOP-LOSS BREACHES (CLAUDE.md, mandatory):**
-  - **CIEN** is through the stop. Entry $322.10, 8% line $296.33, live $271.04 (-15.9%). Close at a limit at or below bid, without waiting.
-  - **GLW** is through the stop. Entry $130.76, 8% line $120.30, live $117.63 (-10.0%). Close at a limit at or below bid, without waiting.
-- **Watch, not breached:** LITE is -5.0% from entry and -9.4% today, with a stop line of $596.98. It is about 3% above that line. LITE tracks the Marvell all-stock deal (see Market Research).
-- Over the 5% cap, blocked from adding: ANET (5.7%), NVDA (5.3%), TSM (5.4%). Not trimmed (cap rule applies to new buys). LITE (4.2%), GLW (4.0%) and CIEN (3.4%) are under cap.
+- Cash: $70,116.20
+- Positions: ANET (28 sh @ $141.86), LITE (6 sh @ $648.89), NVDA (23 sh @ $206.99), TSM (12 sh @ $408.61)
+- Live marks (15:49 ET): ANET $160.65 (+13.2% vs entry), LITE $519.44 (-20.0%), NVDA $182.29 (-11.9%), TSM $356.14 (-12.8%)
+- Total Value: $86,195.24 (last_equity $88,226.13; down $2,030.89, -2.3% on the day)
+
+**8% STOP-LOSS BREACHES (CLAUDE.md, mandatory). Not executed by this research run. Flagged for the trading routine and the user before the 16:00 close:**
+- **LITE** is through the stop. Entry $648.89, 8% line $596.98, live $519.44 (-20.0%). Close at a limit within 0.2% of bid, without waiting.
+- **NVDA** is through the stop. Entry $206.99, 8% line $190.43, live $182.29 (-11.9%). Close at a limit within 0.2% of bid, without waiting.
+- **TSM** is through the stop. Entry $408.61, 8% line $375.92, live $356.14 (-12.8%). Close at a limit within 0.2% of bid, without waiting.
+- ANET is +13.2% vs entry and above the line. Held.
+- Cap: ANET (5.2%), NVDA (4.9%), TSM (5.0%) are at or over the 5% cap and are blocked from adding. LITE (3.6%) is under cap.
 
 ## Recent Trades (last 7 days)
-
-### 2026-10-27
-| Time | Symbol | Action | Qty | Price | Reasoning |
-|------|--------|--------|-----|-------|-----------|
-| 15:10 | — | NO ORDERS | — | — | All 5 top-5 picks checked on live IEX quotes and recomputed 20/50-day closes (desc-sorted pull). None met its entry rule (live close above both MAs, or a confirmed reclaim). No substitute ticker considered. |
-
-_Trading run 15:10 ET, late against the 10:00 window. Market open, closes 16:00. Decisions below use live quotes, not the morning scan prices._
-
-**Decisions (15:10 ET, live IEX quotes; bid/ask/last and recomputed MAs):**
-- **AVGO (low), HOLD / no buy.** Last $342.49 (bid $342.45 / ask $342.50). Recomputed 20d $347.10 and 50d $354.49, so price is under both. The Anthropic IPO headline and PT raise are not enough without a live reclaim.
-- **MTSI (low), NO BUY.** Last $258.09 (bid $257.30 / ask $258.37). Recomputed 20d $289.18 and 50d $277.54, both above price. The upgrade alone is not an entry (lessons 2026-07-22, 2026-08-21).
-- **CIEN (low, held), HOLD, no add.** Last $352.25 (bid $351.79 / ask $369.22, wide). Recomputed 20d $375.54 and 50d $366.75, both above price, so the trend is broken. The position is +9.3% vs entry ($322.10). The reaffirmed Buy is not a fresh catalyst. Add room is about 2 shares, not used.
-- **KEYS (low), NO BUY.** Last $334.39 (bid $325.00 / ask $349.18, wide). Recomputed 20d $355.50 and 50d $340.90, so price is under the 20d and under the 50d. The 6G-ROCKET news has no direct catalyst (lesson 2026-10-20).
-- **GFS (low, re-entry), NO BUY.** Last $46.50 (bid $46.39 / ask $46.53). Recomputed 20d $47.46 and 50d $46.71, so price is under both. No confirmed close above either MA (lesson 2026-10-21).
-
-**Risk checks (15:10 ET):**
-- 8% stop-loss: no trigger. Tightest is GLW at -2.8% from its $130.76 entry (last $127.03; stop line $120.30). ANET, CIEN, LITE, MRVL, NVDA and TSM are above entry. No forced closes.
-- SELL signals: none. No held name's morning thesis is broken on the morning data, and none is at the -8% line.
-- Cash $59,391.85 unchanged. No new capital deployed.
-- Over-cap names (ANET, LITE, MRVL, NVDA, TSM) stay held and blocked from adding, per the cap rule.
 
 ### 2026-10-28
 | Time | Symbol | Action | Qty | Price | Reasoning |
@@ -146,10 +128,17 @@ _Trading run 15:38 ET, late against the 10:00 window (lesson 2026-10-12: logged 
 - Over-cap names (ANET, NVDA, TSM) stay held and blocked from adding, per the cap rule.
 - Note: CIEN's sell filled at $270.48, above the $260.58 limit, consistent with the limit working as intended.
 
-## Recent Reflections (last 3 days)
+### 2026-11-05
+_Filled in by the EOD routine from the Alpaca order record (orders 20:54–20:56 UTC = 15:54–15:56 ET). The trading routine did not write this section. All orders were limit orders; all are in a terminal state, with none open._
 
-### 2026-11-02
-The morning run did not produce a top-5 file, so trading was skipped as the routine requires. The CIEN stop breach is the item that matters for tomorrow: the 8% rule applies at the open. Morning research for 2026-11-03 should be checked before the trading run to confirm that top5 is written.
+| Time | Symbol | Action | Qty | Price | Reasoning |
+|------|--------|--------|-----|-------|-----------|
+| 15:54 | LITE | SELL | 6 | $517.28 fill (limit $497.50) | 8% stop enforcement: -20.0% vs $648.89 entry |
+| 15:55 | NVDA | SELL | 23 | $183.06 fill (limit $183.00) | 8% stop enforcement: -11.9% vs $206.99 entry |
+| 15:55 | TSM | SELL | 12 | $352.85 avg (1 @ $354.41 + 11 @ $352.71) | 8% stop enforcement: -13.6% vs $408.61 entry. The first TSM order (limit $356.00) was canceled unfilled. The 403 "insufficient qty" on the retry was shares held by that pending order, not an error. |
+| 15:56 | ANET | SELL | 14 | $160.13 fill (limit $159.80) | Trim half on MA breakdown: +12.9% vs $141.86 entry, below both MAs. The first ANET order (limit $160.75) was canceled unfilled. |
+
+## Recent Reflections (last 3 days)
 
 ### 2026-11-03
 No orders. The five picks were the morning's universe, and none met the entry rule on live data, so the book is unchanged. The risk today is in the held names, not in new entries. CIEN is about 1% above its -8% line with no intraday monitor. LITE is now a deal-linked position that follows MRVL, with a wide spread to the implied deal value.
@@ -168,3 +157,6 @@ Tomorrow, in this order:
 
 ### 2026-11-04
 Closed at equity $88,130.69, down $1,028.17 (-1.2%) from last_equity $89,158.86. The two mandatory 8% stops (CIEN, GLW) filled at 15:39 above their sell limits and realized about -$973 combined; no buys, and cash of $70,116.35 matches the post-sell balance. Since the 15:32 pull, equity fell another $121.50: LITE slid to $617.23 (-9.3% today, about 3.4% above its $596.98 stop line), NVDA and TSM each fell about 3-4%, and ANET is still +25.8%. Watch next session: LITE against its stop line and the MRVL deal spread, and the over-cap names NVDA and TSM, which are blocked from adding.
+
+### 2026-11-05
+The three mandatory 8% stops (LITE, NVDA, TSM) executed as intended, all filled, and the ANET trim locked in a gain, but the enforcement came at 15:54–15:56 ET, six minutes before the close. The research and trading runs were both late, against the 9:45 and 10:00 windows, so the stops were not enforced in the morning. Realized losses on the three stops total about $2,009, and LITE's exit at $517 was about 20% below its entry. Next session: decide the hold-or-exit call on the remaining 14 ANET shares, which are below both MAs, under lesson 2026-11-04. The morning and trading routines must run inside their ET windows, and the account is now almost all cash, so any new buy has to pass the confirmed-close rule.
