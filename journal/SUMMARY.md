@@ -1,40 +1,16 @@
 # Journal Summary
 
-_Generated 2026-11-06 00:58 from 7 of 135 entries (2026-10-28 → 2026-11-05)_
+_Generated 2026-11-07 00:06 from 7 of 136 entries (2026-10-29 → 2026-11-06)_
 
-## Latest Portfolio Status _(from 2026-11-05)_
+## Latest Portfolio Status _(from 2026-11-06)_
 
-- Cash: $70,116.20
-- Positions: ANET (28 sh @ $141.86), LITE (6 sh @ $648.89), NVDA (23 sh @ $206.99), TSM (12 sh @ $408.61)
-- Live marks (15:49 ET): ANET $160.65 (+13.2% vs entry), LITE $519.44 (-20.0%), NVDA $182.29 (-11.9%), TSM $356.14 (-12.8%)
-- Total Value: $86,195.24 (last_equity $88,226.13; down $2,030.89, -2.3% on the day)
-
-**8% STOP-LOSS BREACHES (CLAUDE.md, mandatory). Not executed by this research run. Flagged for the trading routine and the user before the 16:00 close:**
-- **LITE** is through the stop. Entry $648.89, 8% line $596.98, live $519.44 (-20.0%). Close at a limit within 0.2% of bid, without waiting.
-- **NVDA** is through the stop. Entry $206.99, 8% line $190.43, live $182.29 (-11.9%). Close at a limit within 0.2% of bid, without waiting.
-- **TSM** is through the stop. Entry $408.61, 8% line $375.92, live $356.14 (-12.8%). Close at a limit within 0.2% of bid, without waiting.
-- ANET is +13.2% vs entry and above the line. Held.
-- Cap: ANET (5.2%), NVDA (4.9%), TSM (5.0%) are at or over the 5% cap and are blocked from adding. LITE (3.6%) is under cap.
+- Cash: $83,906.05 (97.2% of equity)
+- Positions: ANET (14 sh @ $143.37 avg; live $170.14, +18.7%)
+- Total Value: $86,287.87 (last_equity $86,134.29; up $153.58 vs prior close)
+- Note: the 8% stop check passes. ANET is the only holding and is +18.7%. It is 2.8% of equity, under the 5% cap.
+- **Updated 15:12 ET (trading routine):** ANET was sold in full (see Trading Session below). Post-trade: cash about $86,292, no open positions. The morning status above is pre-trade.
 
 ## Recent Trades (last 7 days)
-
-### 2026-10-28
-| Time | Symbol | Action | Qty | Price | Reasoning |
-|------|--------|--------|-----|-------|-----------|
-| 15:20 | — | NO ORDERS | — | — | All 5 top-5 picks checked on live IEX quotes and a desc-sorted 20/50-day pull (84 bars). None met its entry rule (confirmed close above both MAs, or a confirmed reclaim). No substitute ticker considered. Late run: the 10:00 window was missed. |
-
-**Decisions (15:20 ET, live quotes; the morning scan's MAs and prices are not used):**
-- **MTSI (low), NO BUY.** Last $258.65 (bid $256.74 / ask $273.97, wide). Recomputed 20d $287.81 and 50d $276.83, so price is under both. The 10/27 upgrade alone is not an entry (lessons 2026-07-22, 2026-08-21).
-- **ALAB (low), NO BUY.** Last $296.46 (bid $283.00 / ask $313.83, wide). Recomputed 20d $314.36 and 50d $308.69, both above price. The 10/27 key signal did not hold into the close.
-- **SOFI (low, 15% cap), NO BUY.** Last $16.87 (bid $16.88 / ask $16.89). This is the one pick that now trades above both recomputed MAs (20d $15.28, 50d $16.61). The move is an earnings gap on Q3 results and raised PTs (Scotiabank $26, StoneX $27, TD Cowen Hold $18), up about 18% from the morning's $14.29. It is intraday, with no confirmed close above either MA, and an earnings gap chased at the 15% cap is the failure mode in lessons 2026-10-21 and 2026-07-16. Re-check at the next close. Still not a buy this session.
-- **GFS (low, re-entry), NO BUY.** Last $45.53 (bid $45.50 / ask $45.54). Recomputed 20d $47.35 and 50d $46.63, so price is under both. No confirmed reclaim (lesson 2026-10-21).
-- **CIEN (low, held), HOLD, no add.** Last $362.60 (ask $379.94 is a thin-feed quote, not used; lesson 2026-10-14). Recomputed 20d $376.03 and 50d $365.86. Price is under the 20d and above the 50d, so the trend is still mixed. The position is +12.6% vs $322.10 entry. Add room is about 1 share under the 5% cap, not used.
-
-**Risk checks (15:20 ET):**
-- 8% stop-loss: no trigger. Tightest is GLW at +1.4% from its $130.76 entry (last $132.56). All held names are above entry. No forced closes.
-- SELL signals: none. No held name's thesis is broken on live data, and none is at the -8% line.
-- Cash $59,391.85 unchanged. No new capital deployed.
-- Over-cap names (ANET, LITE, MRVL, NVDA, TSM) stay held and blocked from adding, per the cap rule.
 
 ### 2026-10-29
 Trading run 15:22 ET, late against the 10:00 window. Market open, closes 16:00. Decisions use live IEX quotes (bid/ask/last) and a desc-sorted 20/50-day pull that excludes today's partial bar. The morning scan's MAs and prices are not used.
@@ -138,25 +114,19 @@ _Filled in by the EOD routine from the Alpaca order record (orders 20:54–20:56
 | 15:55 | TSM | SELL | 12 | $352.85 avg (1 @ $354.41 + 11 @ $352.71) | 8% stop enforcement: -13.6% vs $408.61 entry. The first TSM order (limit $356.00) was canceled unfilled. The 403 "insufficient qty" on the retry was shares held by that pending order, not an error. |
 | 15:56 | ANET | SELL | 14 | $160.13 fill (limit $159.80) | Trim half on MA breakdown: +12.9% vs $141.86 entry, below both MAs. The first ANET order (limit $160.75) was canceled unfilled. |
 
+### 2026-11-06
+| Time | Symbol | Action | Qty | Price | Reasoning |
+|------|--------|--------|-----|-------|-----------|
+| 15:12 | ANET | SELL | 14 | $164.82 limit; filled 14 @ $170.44 | Discretionary exit, not a stop. +19% vs $143.37 entry; below both MAs (20d $182.88, 50d $193.26). Per lesson 2026-11-04, exit the broken-trend remainder rather than default to HOLD. Order 450c5057-45bd-4759-92c3-6c52028a3c7a. |
+| — | — | NO BUY | — | — | All five top-5 picks (CSCO, LASR, GFS, MRVL, NVDA) failed the entry rule on live data. No substitute ticker considered. |
+
 ## Recent Reflections (last 3 days)
-
-### 2026-11-03
-No orders. The five picks were the morning's universe, and none met the entry rule on live data, so the book is unchanged. The risk today is in the held names, not in new entries. CIEN is about 1% above its -8% line with no intraday monitor. LITE is now a deal-linked position that follows MRVL, with a wide spread to the implied deal value.
-
-Tomorrow, in this order:
-1. CIEN against $296.33. If it has traded through, sell at a limit at or below bid without waiting.
-2. LITE against the MRVL deal: confirm the terms and MRVL's level, and decide whether the deal spread still justifies holding.
-3. GLW against $120.30.
-4. Re-check SOFI only on a confirmed close above both MAs, and the ALAB print outcome, without entering on the print.
-
-### Closing check (EOD routine, 2026-11-04 morning)
-- Closing account pull: cash $63,623.87 (unchanged), equity $89,298.79 (up $717.92 vs the prior close of $88,580.87). Six positions unchanged in quantity. No orders were placed, so the book matches the 15:25 decisions.
-- Drift vs. the morning marks: ANET $168.64 → $181.99 (+7.9%), CIEN $298.04 → $297.00, GLW $126.14 → $124.86, LITE $673.31 → $669.95, NVDA $206.62 → $205.10, TSM $404.23 → $402.45.
-- **CIEN closed at $297.00, -7.79% from entry and only $0.67 (about 0.2%) above the $296.33 stop line.** The stop has not triggered. The next print below $296.33 requires an immediate limit sell at or below bid. Because the routines do not run intraday, a gap below the line overnight would not be caught until the open. Check CIEN first thing next session.
-- LITE, which is tied to the Marvell all-stock deal, closed $3.74 lower on the day at $669.95 and is still about 12% below its implied deal value. This is the second review item.
 
 ### 2026-11-04
 Closed at equity $88,130.69, down $1,028.17 (-1.2%) from last_equity $89,158.86. The two mandatory 8% stops (CIEN, GLW) filled at 15:39 above their sell limits and realized about -$973 combined; no buys, and cash of $70,116.35 matches the post-sell balance. Since the 15:32 pull, equity fell another $121.50: LITE slid to $617.23 (-9.3% today, about 3.4% above its $596.98 stop line), NVDA and TSM each fell about 3-4%, and ANET is still +25.8%. Watch next session: LITE against its stop line and the MRVL deal spread, and the over-cap names NVDA and TSM, which are blocked from adding.
 
 ### 2026-11-05
 The three mandatory 8% stops (LITE, NVDA, TSM) executed as intended, all filled, and the ANET trim locked in a gain, but the enforcement came at 15:54–15:56 ET, six minutes before the close. The research and trading runs were both late, against the 9:45 and 10:00 windows, so the stops were not enforced in the morning. Realized losses on the three stops total about $2,009, and LITE's exit at $517 was about 20% below its entry. Next session: decide the hold-or-exit call on the remaining 14 ANET shares, which are below both MAs, under lesson 2026-11-04. The morning and trading routines must run inside their ET windows, and the account is now almost all cash, so any new buy has to pass the confirmed-close rule.
+
+### 2026-11-06
+The session was mostly a non-event: all five top-5 picks failed the entry rule on live data, and the one trade was the discretionary ANET exit, which realized about +18.9% and left the account in cash. That exit followed lesson 2026-11-04 rather than defaulting to HOLD, and it worked. The main failure was process: the research ran at 15:06 and trading at 15:12 ET, so both the 9:45 and 10:00 windows were missed, and the morning scan's MAs and prices were stale again. Closing state matches the trading entry (cash $86,292.17, no positions, equity up $1.64 from the 15:12 pull). Next session: confirm the scheduled 9:45 and 10:00 runs fire on time, and re-check LASR and CSCO only on a confirmed close above their 20d MAs.
