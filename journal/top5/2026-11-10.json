@@ -1,0 +1,10 @@
+{
+  "trading_day": "2026-11-10",
+  "picks": [
+    {"symbol": "SOFI", "thesis": "Only scan name above both MAs (last $16.76 vs 20d $15.43 / 50d $16.57) with a fresh Scotiabank Buy reaffirmation; entry still needs a confirmed close and live-quote check.", "conviction": "low", "thesis_type": "news+ma", "signal_source": "Scotiabank Buy reaffirmed, $26 PT (11/09)"},
+    {"symbol": "LASR", "thesis": "Q3 beat with Q4 sales guidance well above estimates; price only ~0.7% under the 20d MA ($37.40), closest name to a reclaim.", "conviction": "low", "thesis_type": "earnings", "signal_source": "nLIGHT Q3 beat and strong Q4 guide (11/06)"},
+    {"symbol": "ALAB", "thesis": "Strong Q3 and Q4 guidance drove a +14% move on 11/09, but price is ~16% under the 20d MA, so trend is broken; earnings-driven entry only if it holds above MAs.", "conviction": "low", "thesis_type": "earnings", "signal_source": "Q3 earnings beat and Q4 guide, +14% (11/09)"},
+    {"symbol": "COHR", "thesis": "Analyst PT raised to $525 (Rothschild Redburn), but price (~$210) is well under both MAs, so this is a news-only pick with no trend support.", "conviction": "low", "thesis_type": "news_catalyst", "signal_source": "Rothschild Redburn PT raise to $524.96 (11/09)"},
+    {"symbol": "VECO", "thesis": "Citi Buy maintained with PT cut to $55; price (~$38.81) sits ~17% under the 20d MA, so this is a weak-trend, news-only pick.", "conviction": "low", "thesis_type": "news_catalyst", "signal_source": "Citi Buy maintained, PT $55 (11/06)"}
+  ]
+}
