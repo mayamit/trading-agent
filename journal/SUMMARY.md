@@ -1,36 +1,12 @@
 # Journal Summary
 
-_Generated 2026-11-07 00:06 from 7 of 136 entries (2026-10-29 → 2026-11-06)_
+_Generated 2026-11-10 02:44 from 7 of 137 entries (2026-10-30 → 2026-11-09)_
 
-## Latest Portfolio Status _(from 2026-11-06)_
+## Latest Portfolio Status _(from 2026-11-09)_
 
-- Cash: $83,906.05 (97.2% of equity)
-- Positions: ANET (14 sh @ $143.37 avg; live $170.14, +18.7%)
-- Total Value: $86,287.87 (last_equity $86,134.29; up $153.58 vs prior close)
-- Note: the 8% stop check passes. ANET is the only holding and is +18.7%. It is 2.8% of equity, under the 5% cap.
-- **Updated 15:12 ET (trading routine):** ANET was sold in full (see Trading Session below). Post-trade: cash about $86,292, no open positions. The morning status above is pre-trade.
+_not recorded_
 
 ## Recent Trades (last 7 days)
-
-### 2026-10-29
-Trading run 15:22 ET, late against the 10:00 window. Market open, closes 16:00. Decisions use live IEX quotes (bid/ask/last) and a desc-sorted 20/50-day pull that excludes today's partial bar. The morning scan's MAs and prices are not used.
-
-| Time | Symbol | Action | Qty | Price | Reasoning |
-|------|--------|--------|-----|-------|-----------|
-| 15:22 | — | NO ORDERS | — | — | All 5 top-5 picks checked. None met its entry rule (confirmed close above both MAs, or a confirmed reclaim). No substitute ticker considered. |
-
-**Decisions (15:22 ET, live quotes; closed-bar MAs):**
-- **SOFI (low), NO BUY.** Last $17.53 (bid $17.52 / ask $17.53). Recomputed 20d $15.38 and 50d $16.60, so intraday it is above both. That is not a confirmed close, and the move is an earnings gap with PT raises (lesson 2026-10-21). Re-check at the next close. Not a buy this session.
-- **CIEN (low, held), HOLD, no add.** Last $349.91 (bid $348.71 / ask $350.06). Recomputed 20d $374.57 and 50d $364.87, so price is under both. The position is +8.6% vs $322.10 entry. The AllianceBernstein reaffirmation is not a fresh catalyst. Add room is about 1 share, not used.
-- **KEYS (low), NO BUY.** Last $329.08 (bid $318.06 / ask $329.41). Recomputed 20d $351.93 and 50d $341.02, both above price. The 6G demo has no direct catalyst (lesson 2026-10-20).
-- **FORM (low), NO BUY.** Last $97.50 (bid $93.19 / ask $97.76). Recomputed 20d $119.53 and 50d $116.80, both above price. The TD Cowen Hold is not enough (lesson 2026-08-21).
-- **ALAB (low), NO BUY.** Last $286.99 (bid $285.30 / ask $287.36). Recomputed 20d $310.91 and 50d $308.67, both above price. The 10/27 signal did not hold.
-
-**Risk checks (15:22 ET):**
-- 8% stop-loss: no trigger. Tightest is GLW at -1.6% from its $130.76 entry (last $128.68; stop line $120.30). All other held names are at or above entry.
-- SELL signals: none. MRVL fell about 14% on a Benzinga report (10/29) that Marvell is in talks to acquire Lumentum. That is an unconfirmed report, not a thesis break, and MRVL is -1% from its $217.56 entry, well inside the -8% line. Held and reviewed; no sell. Re-check if the deal is confirmed or the stock closes below the stop line ($200.16).
-- Cash $59,391.85 unchanged. No new capital deployed.
-- Over-cap names (ANET, LITE, MRVL, NVDA, TSM) stay held and blocked from adding, per the cap rule.
 
 ### 2026-10-30
 _Trading run 14:56–14:57 ET, late against the 10:00 window (lesson 2026-10-12: logged as a late session). The only order was a mandatory 8% stop close, which does not wait for the window. No new buys._
@@ -122,11 +98,11 @@ _Filled in by the EOD routine from the Alpaca order record (orders 20:54–20:56
 
 ## Recent Reflections (last 3 days)
 
-### 2026-11-04
-Closed at equity $88,130.69, down $1,028.17 (-1.2%) from last_equity $89,158.86. The two mandatory 8% stops (CIEN, GLW) filled at 15:39 above their sell limits and realized about -$973 combined; no buys, and cash of $70,116.35 matches the post-sell balance. Since the 15:32 pull, equity fell another $121.50: LITE slid to $617.23 (-9.3% today, about 3.4% above its $596.98 stop line), NVDA and TSM each fell about 3-4%, and ANET is still +25.8%. Watch next session: LITE against its stop line and the MRVL deal spread, and the over-cap names NVDA and TSM, which are blocked from adding.
-
 ### 2026-11-05
 The three mandatory 8% stops (LITE, NVDA, TSM) executed as intended, all filled, and the ANET trim locked in a gain, but the enforcement came at 15:54–15:56 ET, six minutes before the close. The research and trading runs were both late, against the 9:45 and 10:00 windows, so the stops were not enforced in the morning. Realized losses on the three stops total about $2,009, and LITE's exit at $517 was about 20% below its entry. Next session: decide the hold-or-exit call on the remaining 14 ANET shares, which are below both MAs, under lesson 2026-11-04. The morning and trading routines must run inside their ET windows, and the account is now almost all cash, so any new buy has to pass the confirmed-close rule.
 
 ### 2026-11-06
 The session was mostly a non-event: all five top-5 picks failed the entry rule on live data, and the one trade was the discretionary ANET exit, which realized about +18.9% and left the account in cash. That exit followed lesson 2026-11-04 rather than defaulting to HOLD, and it worked. The main failure was process: the research ran at 15:06 and trading at 15:12 ET, so both the 9:45 and 10:00 windows were missed, and the morning scan's MAs and prices were stale again. Closing state matches the trading entry (cash $86,292.17, no positions, equity up $1.64 from the 15:12 pull). Next session: confirm the scheduled 9:45 and 10:00 runs fire on time, and re-check LASR and CSCO only on a confirmed close above their 20d MAs.
+
+### 2026-11-09
+No trades today. The morning routine ran after the close, and the top-5 handoff file for 11/09 is missing, so there was no research or entry evaluation and the 9:45 and 10:00 windows were missed (logged as a missed session per lesson 2026-10-12). The account stayed in cash with no positions, so there was no stop-loss exposure to manage. Next session: confirm the 9:45 research and 10:00 trading runs actually fire inside their ET windows and that `journal/top5/YYYY-MM-DD.json` is written before trading starts. Lessons step skipped: no new non-obvious lesson beyond the existing 2026-10-12 late-run entry.
