@@ -1,31 +1,14 @@
 # Journal Summary
 
-_Generated 2026-11-10 02:44 from 7 of 137 entries (2026-10-30 → 2026-11-09)_
+_Generated 2026-11-11 00:39 from 7 of 138 entries (2026-11-02 → 2026-11-10)_
 
-## Latest Portfolio Status _(from 2026-11-09)_
+## Latest Portfolio Status _(from 2026-11-10)_
 
-_not recorded_
+- Cash: $86,292.11
+- Positions: none
+- Total Value: $86,292.11 (equity per 2026-11-09 account pull)
 
 ## Recent Trades (last 7 days)
-
-### 2026-10-30
-_Trading run 14:56–14:57 ET, late against the 10:00 window (lesson 2026-10-12: logged as a late session). The only order was a mandatory 8% stop close, which does not wait for the window. No new buys._
-
-| Time | Symbol | Action | Qty | Price | Reasoning |
-|------|--------|--------|-----|-------|-----------|
-| 14:57 | MRVL | SELL | 22 | $192.20 limit; filled 22 @ $192.31 | Mandatory 8% stop. Live bid $192.56, last $192.58, -11.5% from the $217.56 entry, below the $200.16 stop line. Entry thesis (AI optical DSP demand) is not the reason: the 10/29 Lumentum-talks report and the 10/30 chip selloff are the breakdown. Order 8d5132da-805b-4b47-a74d-73fbe291cdff. |
-
-**Decisions on the five top-5 picks (live IEX quotes; MAs recomputed from a desc-sorted pull that excludes today's partial bar):**
-- **SOFI (low, 15% cap), NO BUY.** Last $16.53 (bid $16.52 / ask $16.53), down from the 10/29 close of $17.61. Recomputed 20d $15.38 and 50d $16.60. Above the 20d, but just under the 50d, and it closed below the 10/29 level. The UBS PT raise is not an entry (lesson 2026-08-21). The scan's $14.29 price is stale.
-- **MTSI (low), NO BUY.** Last $227.86 (bid $213.75 / ask $238.45, wide). Recomputed 20d $285.48 and 50d $276.53, both above price. The 10/27 upgrades alone are not an entry (lessons 2026-07-22, 2026-08-21).
-- **KEYS (low), NO BUY.** Last $302.82 (bid $302.17 / ask $311.00, wide). Recomputed 20d $351.95 and 50d $341.03, both above price. The 6G demo is not a catalyst (lesson 2026-10-20).
-- **VIAV (low), NO BUY.** Last $28.90 (bid $27.86 / ask $28.90). Recomputed 20d $38.43 and 50d $37.82, both above price, roughly 25% under the 20d. The scan's $34.94 was already stale. Product news only.
-- **ALAB (low), NO BUY.** Last $251.59 (bid $240.09 / ask $252.43, wide). Recomputed 20d $311.09 and 50d $308.74, both above price. The sector-only rebound thesis failed: the day's high ($274.23) faded to $251.01.
-
-**Decisions on held names (not in top-5; SELL review per the step-5 checks):**
-- **GLW (held), HOLD, 1.1% above the stop line.** Last $121.65 (bid $121.21), -6.96% from the $130.76 entry. The 8% line is $120.30. It has not traded through, so the rule has not fired. **Next check: if it trades through $120.30, close it at a limit within 0.2% of bid, without waiting.** The trading routine runs once, so there is no intraday stop mechanism; this needs a monitor or an early check next session.
-- **CIEN (held), HOLD, no add.** Last $314.74 (bid $314.97), -2.3% from $322.10 entry, not at the stop line. Down about 10% on the day and below both MAs (20d $374.52, 50d $364.85), so the trend is broken. Not adding; the position is 3.9% of equity, within the cap.
-- **ANET (+18.4%), LITE (+26.8%), TSM (-1.7%), NVDA (-2.4%):** all above the -8% line. Held. ANET, LITE, NVDA and TSM stay over the 5% cap and are blocked from adding (TSM 5.4%, LITE 5.5%, ANET 5.2%, NVDA 5.2%).
 
 ### 2026-11-02
 None today. Session skipped (see above).
@@ -96,13 +79,34 @@ _Filled in by the EOD routine from the Alpaca order record (orders 20:54–20:56
 | 15:12 | ANET | SELL | 14 | $164.82 limit; filled 14 @ $170.44 | Discretionary exit, not a stop. +19% vs $143.37 entry; below both MAs (20d $182.88, 50d $193.26). Per lesson 2026-11-04, exit the broken-trend remainder rather than default to HOLD. Order 450c5057-45bd-4759-92c3-6c52028a3c7a. |
 | — | — | NO BUY | — | — | All five top-5 picks (CSCO, LASR, GFS, MRVL, NVDA) failed the entry rule on live data. No substitute ticker considered. |
 
-## Recent Reflections (last 3 days)
+### 2026-11-10
+_Trading run 15:40 ET, late against the 10:00 window (lesson 2026-10-12: logged as a late session). Market open. Decisions use live IEX quotes (15:40 ET) and MAs recomputed from a desc-sorted 60-day pull that excludes today's partial bar. The morning's "last" prices and MAs were stale and are not used: e.g. LASR morning last $37.15 vs live $43.98, ALAB morning last $258.72 vs live $214.5, and the morning 20d MAs differ from the recompute (SOFI $15.43 vs $15.72; ALAB $306.52 vs $262.82)._
 
-### 2026-11-05
-The three mandatory 8% stops (LITE, NVDA, TSM) executed as intended, all filled, and the ANET trim locked in a gain, but the enforcement came at 15:54–15:56 ET, six minutes before the close. The research and trading runs were both late, against the 9:45 and 10:00 windows, so the stops were not enforced in the morning. Realized losses on the three stops total about $2,009, and LITE's exit at $517 was about 20% below its entry. Next session: decide the hold-or-exit call on the remaining 14 ANET shares, which are below both MAs, under lesson 2026-11-04. The morning and trading routines must run inside their ET windows, and the account is now almost all cash, so any new buy has to pass the confirmed-close rule.
+| Time | Symbol | Action | Qty | Price | Reasoning |
+|------|--------|--------|-----|-------|-----------|
+| 15:40 | — | NO ORDERS | — | — | All five top-5 picks (SOFI, LASR, ALAB, COHR, VECO) failed the entry rule on live data. No pick has a confirmed close above both MAs today. No substitute ticker considered. No held positions, so no stop or SELL review. |
+
+**Top-5 decisions (live bid/ask/last at 15:40 ET; closed-bar MAs):**
+- **SOFI (low, 15% cap), NO BUY.** Bid $16.18 / ask $16.19 / last $16.18. 20d $15.72, 50d $16.33. Price is above the 20d but back under the 50d intraday. The 11/09 close ($16.75) was above both, but that is a prior-day close, and today's trade has undone it. Morning's own gate is a confirmed close, which has not happened today. Lesson 2026-10-21 applies. Re-check at the 11/10 close.
+- **LASR (low, 3% cap), NO BUY.** Last $43.98 (bid $43.50 / ask $44.09). 20d $36.47, 50d $38.47. Price is above both, and the 11/06 and 11/09 closes ($38.11, $43.24) were above the 20d. But price is about 21% over the 20d after a one-day gap from $29.29 (11/05) to $43.24 (11/09). Morning's gate was a confirmed close above the 20d, and today's close is not yet in. Chasing a gap with low conviction is the pattern in lessons 2026-06-02 and 2026-07-22. Re-check at the 11/10 close, and only enter if it holds above the 20d.
+- **ALAB (low), NO BUY.** Bid $214.43 / ask $214.79 / last $214.52. 20d $262.82, 50d $299.00. About 18% under the 20d and 26% under the 50d. The 11/09 +14% earnings pop does not reclaim the trend (lesson 2026-10-30).
+- **COHR (low), NO BUY.** Bid $211.27 / ask $225.57 (wide; thin-feed ask, not used, lesson 2026-10-14) / last $214.23. 20d $224.49, 50d $268.90. Price is under both. Rothschild PT raise alone is not an entry (lesson 2026-08-21).
+- **VECO (low), NO BUY.** Bid $33.97 / ask $39.83 (wide, thin feed, not used) / last $39.71. 20d $41.66, 50d $44.95. Price is under both. Citi maintained Buy with a cut PT is not an entry (lesson 2026-08-21).
+
+**Decision framework (15:40 ET):**
+1. Cash: $86,292.11 before and after. No orders placed.
+2. Open positions: none.
+3. News: all picks are analyst or earnings headlines, and none cleared the MA test on live data.
+4. MAs: only LASR and SOFI are above the 20d intraday; SOFI is under the 50d.
+5. Risk on a missed buy: none taken. Cash stays uninvested, consistent with the book's posture.
+
+## Recent Reflections (last 3 days)
 
 ### 2026-11-06
 The session was mostly a non-event: all five top-5 picks failed the entry rule on live data, and the one trade was the discretionary ANET exit, which realized about +18.9% and left the account in cash. That exit followed lesson 2026-11-04 rather than defaulting to HOLD, and it worked. The main failure was process: the research ran at 15:06 and trading at 15:12 ET, so both the 9:45 and 10:00 windows were missed, and the morning scan's MAs and prices were stale again. Closing state matches the trading entry (cash $86,292.17, no positions, equity up $1.64 from the 15:12 pull). Next session: confirm the scheduled 9:45 and 10:00 runs fire on time, and re-check LASR and CSCO only on a confirmed close above their 20d MAs.
 
 ### 2026-11-09
 No trades today. The morning routine ran after the close, and the top-5 handoff file for 11/09 is missing, so there was no research or entry evaluation and the 9:45 and 10:00 windows were missed (logged as a missed session per lesson 2026-10-12). The account stayed in cash with no positions, so there was no stop-loss exposure to manage. Next session: confirm the 9:45 research and 10:00 trading runs actually fire inside their ET windows and that `journal/top5/YYYY-MM-DD.json` is written before trading starts. Lessons step skipped: no new non-obvious lesson beyond the existing 2026-10-12 late-run entry.
+
+### 2026-11-10
+No trades, and that held up. All five top-5 names failed the entry rule on live quotes, and the morning's stale scan prices (LASR $37.15 vs $43.98 live) would have looked like entries if used. Cash stayed at $86,292.11 with no positions, and the closing account pull matches the trading session with no drift. What didn't work was timing: both the research and trading runs logged around 15:40 ET, so the 9:45 and 10:00 windows were missed (lesson 2026-10-12). Next session, check the morning run time first; if it is late, log it as a missed session and re-check SOFI's close against both MAs, since it is the only name above both on the 11/09 close.
