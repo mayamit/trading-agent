@@ -1,17 +1,12 @@
 # Journal Summary
 
-_Generated 2026-11-11 00:39 from 7 of 138 entries (2026-11-02 → 2026-11-10)_
+_Generated 2026-11-12 01:54 from 7 of 139 entries (2026-11-03 → 2026-11-11)_
 
-## Latest Portfolio Status _(from 2026-11-10)_
+## Latest Portfolio Status _(from 2026-11-11)_
 
-- Cash: $86,292.11
-- Positions: none
-- Total Value: $86,292.11 (equity per 2026-11-09 account pull)
+_not recorded_
 
 ## Recent Trades (last 7 days)
-
-### 2026-11-02
-None today. Session skipped (see above).
 
 ### 2026-11-03
 _Trading run 15:25 ET, late against the 10:00 window (lesson 2026-10-12: logged as a late session). Market open. Decisions use live IEX quotes (bid/ask/last) and MAs recomputed from a desc-sorted 60-bar pull that excludes today's partial bar. The morning scan's prices and MAs are not used._
@@ -102,11 +97,11 @@ _Trading run 15:40 ET, late against the 10:00 window (lesson 2026-10-12: logged 
 
 ## Recent Reflections (last 3 days)
 
-### 2026-11-06
-The session was mostly a non-event: all five top-5 picks failed the entry rule on live data, and the one trade was the discretionary ANET exit, which realized about +18.9% and left the account in cash. That exit followed lesson 2026-11-04 rather than defaulting to HOLD, and it worked. The main failure was process: the research ran at 15:06 and trading at 15:12 ET, so both the 9:45 and 10:00 windows were missed, and the morning scan's MAs and prices were stale again. Closing state matches the trading entry (cash $86,292.17, no positions, equity up $1.64 from the 15:12 pull). Next session: confirm the scheduled 9:45 and 10:00 runs fire on time, and re-check LASR and CSCO only on a confirmed close above their 20d MAs.
-
 ### 2026-11-09
 No trades today. The morning routine ran after the close, and the top-5 handoff file for 11/09 is missing, so there was no research or entry evaluation and the 9:45 and 10:00 windows were missed (logged as a missed session per lesson 2026-10-12). The account stayed in cash with no positions, so there was no stop-loss exposure to manage. Next session: confirm the 9:45 research and 10:00 trading runs actually fire inside their ET windows and that `journal/top5/YYYY-MM-DD.json` is written before trading starts. Lessons step skipped: no new non-obvious lesson beyond the existing 2026-10-12 late-run entry.
 
 ### 2026-11-10
 No trades, and that held up. All five top-5 names failed the entry rule on live quotes, and the morning's stale scan prices (LASR $37.15 vs $43.98 live) would have looked like entries if used. Cash stayed at $86,292.11 with no positions, and the closing account pull matches the trading session with no drift. What didn't work was timing: both the research and trading runs logged around 15:40 ET, so the 9:45 and 10:00 windows were missed (lesson 2026-10-12). Next session, check the morning run time first; if it is late, log it as a missed session and re-check SOFI's close against both MAs, since it is the only name above both on the 11/09 close.
+
+### 2026-11-11
+No trades today: the morning top-5 handoff for 11/11 was never written, so the trading session skipped by design and no orders were placed. Closing state is flat with $86,292.11 cash and no positions, unchanged from the 11/10 account pull, so there is no drift to explain. Next session: confirm `journal/top5/2026-11-12.json` exists before the 10:00 ET decision window, and check whether the 11/11 morning routine ever ran, since no `2026-11-11-morning.log` exists in the runlog. No new lesson is recorded, because this was a pipeline gap and not a market outcome.
