@@ -1,34 +1,12 @@
 # Journal Summary
 
-_Generated 2026-11-12 01:54 from 7 of 139 entries (2026-11-03 → 2026-11-11)_
+_Generated 2026-11-13 01:04 from 7 of 140 entries (2026-11-04 → 2026-11-12)_
 
-## Latest Portfolio Status _(from 2026-11-11)_
+## Latest Portfolio Status _(from 2026-11-12)_
 
-_not recorded_
+Not recorded this session. No account pull was made because the session stopped at step 1. Last recorded status (2026-11-10 close, per `journal/SUMMARY.md`): cash $86,292.11, no open positions.
 
 ## Recent Trades (last 7 days)
-
-### 2026-11-03
-_Trading run 15:25 ET, late against the 10:00 window (lesson 2026-10-12: logged as a late session). Market open. Decisions use live IEX quotes (bid/ask/last) and MAs recomputed from a desc-sorted 60-bar pull that excludes today's partial bar. The morning scan's prices and MAs are not used._
-
-| Time | Symbol | Action | Qty | Price | Reasoning |
-|------|--------|--------|-----|-------|-----------|
-| 15:25 | — | NO ORDERS | — | — | All five top-5 picks (CSCO, FORM, SOFI, ALAB, KEYS) failed the entry rule on live data. None had a confirmed close above both MAs or a confirmed reclaim. Held-name review found no SELL trigger. No substitute ticker considered. |
-
-**Top-5 decisions (live quotes; recomputed MAs):**
-- **CSCO (low), HOLD / NO BUY.** Bid $102.94 / ask $102.96. Recomputed 20d $110.42 and 50d $109.81, so price is about 6.8% under the 20d. The OpenAI partnership headline is company-specific, but the trend is broken. The scan's "just under both" was stale (scan $106.49).
-- **FORM (low), NO BUY.** Bid $96.23 / ask $96.46. Recomputed 20d $113.41 and 50d $115.70, so price is about 15% under both. The Freedom Capital Buy call alone is not an entry (lesson 2026-08-21). Today's +10% bounce from $87.30 does not change the MAs. The morning MAs ($126.97 / $118.66) differ from this recompute, but price is under both on either set.
-- **SOFI (low, 15% cap), NO BUY.** Bid $16.70 / ask $16.71. Recomputed 20d $15.47 and 50d $16.53. Price is above both intraday, after one close above both on 11/02 ($16.59). That is a start, not a buy. The 50d is only $0.17 under price, the 20d is about 8% under, and the stock has faded from $17.61 (10/29) to $16.76 (10/30) to $16.59 (11/02) after the earnings gap. Lesson 2026-10-21 applies. Re-check at the next close. The scan's $14.62 price was about 12% stale.
-- **ALAB (low), NO BUY.** Bid $234.09 / ask $234.40. Recomputed 20d $299.88 and 50d $307.00, so price is about 22% under the 20d. Earnings after the close are a binary print. No entry into the print with the trend broken (lesson 2026-10-30).
-- **KEYS (low), NO BUY.** Bid $304.80 / ask $321.85. The ask is a thin-feed quote (wide spread), so it is not used as a reference (lesson 2026-10-14). Last close (11/02) $298.89. Recomputed 20d $343.84 and 50d $340.50, so price is about 11% under both. The XR3 launch is product news with no direct catalyst (lesson 2026-10-20).
-
-**Held-name review (CLAUDE.md step 5):**
-- **CIEN (held, 11 sh @ $322.10), HOLD, stop watch.** Bid $299.17 / ask $299.67 / last mark $299.40, which is -7.05% from entry. The 8% line is $296.33, about 1.0% under the bid. Not triggered, so no sell. Price is about 18% under the 20d ($365.72) and 17% under the 50d ($361.17), so the trend is broken. **This run has no intraday monitor.** A trade-through after this check would not be closed until the next routine. The first action next session is to check CIEN against $296.33 and, if it has traded through, sell at a limit at or below bid.
-- **LITE (held, 6 sh @ $648.89), HOLD, deal review flagged.** Bid $673.48 / ask $683.49 / last $673.69, +3.8% from entry. Marvell's confirmed all-stock deal is 4.5 MRVL shares per LITE share. MRVL's last trade of $170.31 implies about $766 per LITE share, so the spread to LITE's $673.69 is about 12%. LITE now trades on MRVL's price plus deal risk, not on its standalone CPO thesis. MRVL is having its worst three days since 2000 (BofA downgrade, Cantor target cut). No rule requires a sale and LITE is above its stop, so it is held. It is the first review item for the next session, and LITE is 4.5% of equity (under cap).
-- **GLW (held, 30 sh @ $130.76), HOLD.** Bid $126.31 / ask $126.57, -3.3% from entry. Stop line $120.30 is about 5% under the bid.
-- **ANET (+19%), NVDA (-0.1%), TSM (-0.9%).** All above the -8% line. ANET 5.3%, NVDA 5.3% and TSM 5.4% of equity, over the 5% cap, so they are blocked from adding and not trimmed.
-
-**Cash and exposure:** Cash $63,623.87 (about 71% of equity), no capital deployed. Equity $89,092.28 at the 15:23 account pull.
 
 ### 2026-11-04
 _Trading run 15:38 ET, late against the 10:00 window (lesson 2026-10-12: logged as a late session). The two stop-loss closes ran first, before any buy decision. Live IEX quotes at 15:38 ET: CIEN bid $261.10 / ask $270.55 (thin, 40x40) / last $270.19; GLW bid $116.85 / ask $117.56 / last $117.46. Sell limits set 0.2% under bid._
@@ -95,13 +73,19 @@ _Trading run 15:40 ET, late against the 10:00 window (lesson 2026-10-12: logged 
 4. MAs: only LASR and SOFI are above the 20d intraday; SOFI is under the 50d.
 5. Risk on a missed buy: none taken. Cash stays uninvested, consistent with the book's posture.
 
-## Recent Reflections (last 3 days)
+### 2026-11-12
+None. Session skipped (top5 missing).
 
-### 2026-11-09
-No trades today. The morning routine ran after the close, and the top-5 handoff file for 11/09 is missing, so there was no research or entry evaluation and the 9:45 and 10:00 windows were missed (logged as a missed session per lesson 2026-10-12). The account stayed in cash with no positions, so there was no stop-loss exposure to manage. Next session: confirm the 9:45 research and 10:00 trading runs actually fire inside their ET windows and that `journal/top5/YYYY-MM-DD.json` is written before trading starts. Lessons step skipped: no new non-obvious lesson beyond the existing 2026-10-12 late-run entry.
+## Recent Reflections (last 3 days)
 
 ### 2026-11-10
 No trades, and that held up. All five top-5 names failed the entry rule on live quotes, and the morning's stale scan prices (LASR $37.15 vs $43.98 live) would have looked like entries if used. Cash stayed at $86,292.11 with no positions, and the closing account pull matches the trading session with no drift. What didn't work was timing: both the research and trading runs logged around 15:40 ET, so the 9:45 and 10:00 windows were missed (lesson 2026-10-12). Next session, check the morning run time first; if it is late, log it as a missed session and re-check SOFI's close against both MAs, since it is the only name above both on the 11/09 close.
 
 ### 2026-11-11
 No trades today: the morning top-5 handoff for 11/11 was never written, so the trading session skipped by design and no orders were placed. Closing state is flat with $86,292.11 cash and no positions, unchanged from the 11/10 account pull, so there is no drift to explain. Next session: confirm `journal/top5/2026-11-12.json` exists before the 10:00 ET decision window, and check whether the 11/11 morning routine ever ran, since no `2026-11-11-morning.log` exists in the runlog. No new lesson is recorded, because this was a pipeline gap and not a market outcome.
+
+### 2026-11-12
+Two consecutive sessions (11/09 and 11/11) and now 11/12 have no top-5 handoff. The morning research pipeline is not producing `journal/top5/YYYY-MM-DD.json`, and the morning run logged at 16:06 ET is too late to fix the day. No position is open, so no 8% stop exposure exists and nothing was left unmanaged. Follow-up for the next session: confirm the morning routine fires inside its 9:45 ET window and writes the top5 file before 10:00 ET. Lessons step skipped: this is a pipeline gap, not a market outcome, so no new lesson is recorded.
+
+### Closing-state check (EOD routine, run 2026-11-13)
+Account pulled at close review: cash $86,292.11, equity $86,292.11, no open positions. This matches the last recorded status (2026-11-10 close), so there is no drift and no stop-loss exposure. The 11/12 session produced no trades. The gap is in the pipeline: no top-5 handoff has been written since 11/08, and the 11/12 morning routine ran after the close. Next session, confirm the morning research fires inside its 9:45 ET window and writes `journal/top5/YYYY-MM-DD.json` before the 10:00 ET trading window. Lessons step skipped: this is a pipeline issue already covered by the 2026-10-12 lesson, not a new market lesson.
