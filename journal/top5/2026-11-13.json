@@ -1,0 +1,10 @@
+{
+  "trading_day": "2026-11-13",
+  "picks": [
+    {"symbol": "SOFI", "thesis": "Only name with scan price above both MAs (16.59 vs 20d 15.47 / 50d 16.53), but the news is weak (TGL partnership renewal), so this is a thin low-conviction pick.", "conviction": "low", "thesis_type": "ma_crossover", "signal_source": "Scan MA position; TGL/SYNLawn partnership renewal (non-catalyst)"},
+    {"symbol": "FORM", "thesis": "Jefferies upgrade with $102 PT vs $87.30 scan price (+17%), but trend is bearish and the lesson 2026-08-21 says an analyst call alone is not an entry.", "conviction": "low", "thesis_type": "news_catalyst", "signal_source": "Jefferies upgrade, PT $102 (11/11)"},
+    {"symbol": "GFS", "thesis": "Fresh fab groundbreaking news (Malta, NY) with mixed MAs; price $41.86 sits below both MAs, so this is a low-conviction pick pending a close above the MAs.", "conviction": "low", "thesis_type": "news_catalyst", "signal_source": "Malta NY fab groundbreaking (11/13)"},
+    {"symbol": "CSCO", "thesis": "Mixed MA signal with several analysts adjusting PTs, but the 11/13 AMD/Nasdaq selloff cited Cisco margin weakness, so the thesis is weak.", "conviction": "low", "thesis_type": "other", "signal_source": "Multiple analyst PT adjustments (11/13)"},
+    {"symbol": "CIEN", "thesis": "Mixed MA signal with fiscal Q4 earnings on 12/10 as a later catalyst, but the price is well below its 20d MA, so this is a speculative low-conviction pick.", "conviction": "low", "thesis_type": "earnings", "signal_source": "FQ4 2026 earnings date announcement (12/10)"}
+  ]
+}
