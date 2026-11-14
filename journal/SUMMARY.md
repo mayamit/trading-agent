@@ -1,40 +1,14 @@
 # Journal Summary
 
-_Generated 2026-11-13 01:04 from 7 of 140 entries (2026-11-04 → 2026-11-12)_
+_Generated 2026-11-14 00:53 from 7 of 141 entries (2026-11-05 → 2026-11-13)_
 
-## Latest Portfolio Status _(from 2026-11-12)_
+## Latest Portfolio Status _(from 2026-11-13)_
 
-Not recorded this session. No account pull was made because the session stopped at step 1. Last recorded status (2026-11-10 close, per `journal/SUMMARY.md`): cash $86,292.11, no open positions.
+- Cash: $86,292.11
+- Positions: none
+- Total Value: $86,292.11
 
 ## Recent Trades (last 7 days)
-
-### 2026-11-04
-_Trading run 15:38 ET, late against the 10:00 window (lesson 2026-10-12: logged as a late session). The two stop-loss closes ran first, before any buy decision. Live IEX quotes at 15:38 ET: CIEN bid $261.10 / ask $270.55 (thin, 40x40) / last $270.19; GLW bid $116.85 / ask $117.56 / last $117.46. Sell limits set 0.2% under bid._
-
-| Time | Symbol | Action | Qty | Price | Reasoning |
-|------|--------|--------|-----|-------|-----------|
-| 15:39 | CIEN | SELL | 11 | $260.58 limit; filled 11 @ $270.48 | Mandatory 8% stop. Entry $322.10, live $270.19 (-16%), through the $296.33 line. Order d90187f4-b4de-4153-8313-38351e716e3d. Realized about -$568 vs cost basis $3,543.10. |
-| 15:39 | GLW | SELL | 30 | $116.62 limit; filled 30 @ $117.24 | Mandatory 8% stop. Entry $130.756, live $117.46 (-10.2%), through the $120.30 line. Order ab1077d8-2763-4d5b-8866-cfe5ae538daa. Realized about -$405 vs cost basis $3,922.68. |
-
-**Top-5 decisions (no orders; live quotes and MAs from a desc-sorted pull of closed bars through 11/03):**
-- **SOFI (low, 15% cap), NO BUY / HOLD.** Last $17.455. Recomputed 20d $15.52 and 50d $16.50, so price is above both intraday. 11/03 closed at $16.78, also above both, so the morning's "confirmed close above both MAs" condition is arguably met once. Not bought: the stock is now above the only analyst target (Truist PT $17), it is up about 4% on the day into the open, and the morning's conviction was low. A single closed bar above both MAs does not reclaim a trend that was below both for weeks (lesson 2026-10-21). Re-check at the 11/05 close.
-- **COHR (low), NO BUY.** Last $192.83. Recomputed 20d $247.22 and 50d $276.38, both well above price. Earnings 11/05 is a binary event with the trend broken; no entry into the print.
-- **FORM (low), NO BUY.** Last $84.85. Recomputed 20d $111.18 and 50d $115.47, both well above price. Freedom Capital upgrade alone is not an entry (lesson 2026-08-21).
-- **AAOI (low), NO BUY.** Last $59.40. Recomputed 20d $82.79 and 50d $96.64, far above price. Northland upgrade without confirmation (lesson 2026-07-22).
-- **CSCO (low), NO BUY.** Last $103.13. Recomputed 20d $109.67 and 50d $109.66, both above price. Managed-service launch is product news with no direct catalyst.
-
-**Decision framework (15:39 ET):**
-1. Cash: $63,623.87 before the sells, $70,116.35 after both fills.
-2. Open positions after the sells: ANET, LITE, NVDA, TSM. CIEN and GLW closed.
-3. News: picks are low-conviction analyst calls and product news; no buy case cleared the MA test.
-4. MAs: no pick has a confirmed closed-bar trend reclaim except SOFI, which is deferred (above).
-5. Risk on a missed buy: none taken. Cash stays uninvested, which is the book's current posture.
-
-**Risk checks (15:39 ET):**
-- 8% stop-loss: CIEN and GLW closed. ANET (+26%), LITE (-5.3%, stop line $596.98, live about $614.72), NVDA (-2.7%), TSM (-2.5%) are above the line. No other forced closes.
-- LITE is the watch item. It trades on the Marvell all-stock deal (4.5 MRVL per LITE share), and today's drop is -9.6% intraday. Not sold; the position is above its stop, and no thesis rule was broken on the data. Re-check the MRVL level and the spread before the next session.
-- Over-cap names (ANET, NVDA, TSM) stay held and blocked from adding, per the cap rule.
-- Note: CIEN's sell filled at $270.48, above the $260.58 limit, consistent with the limit working as intended.
 
 ### 2026-11-05
 _Filled in by the EOD routine from the Alpaca order record (orders 20:54–20:56 UTC = 15:54–15:56 ET). The trading routine did not write this section. All orders were limit orders; all are in a terminal state, with none open._
@@ -76,10 +50,27 @@ _Trading run 15:40 ET, late against the 10:00 window (lesson 2026-10-12: logged 
 ### 2026-11-12
 None. Session skipped (top5 missing).
 
-## Recent Reflections (last 3 days)
+### 2026-11-13
+None. NO BUY on all five top-5 picks. Trading session ran about 15:44 ET, after the 10:00 ET window (see Run timing above), so this is logged as a late session with no orders placed.
 
-### 2026-11-10
-No trades, and that held up. All five top-5 names failed the entry rule on live quotes, and the morning's stale scan prices (LASR $37.15 vs $43.98 live) would have looked like entries if used. Cash stayed at $86,292.11 with no positions, and the closing account pull matches the trading session with no drift. What didn't work was timing: both the research and trading runs logged around 15:40 ET, so the 9:45 and 10:00 windows were missed (lesson 2026-10-12). Next session, check the morning run time first; if it is late, log it as a missed session and re-check SOFI's close against both MAs, since it is the only name above both on the 11/09 close.
+**Live decision check (about 15:44 ET; IEX quotes; MAs recomputed from a desc-sorted 60-day pull excluding today's partial bar):**
+
+| Symbol | Morning scan last | Live bid / ask | 20d MA | 50d MA | Decision |
+|--------|------------------|----------------|--------|--------|----------|
+| SOFI (15% cap) | $16.59 | $15.42 / $15.43 | $15.91 | $16.23 | NO BUY. Below both MAs. The morning's "above both" read was stale. |
+| FORM | $87.30 | $87.31 / $87.59 | $95.66 | $113.01 | NO BUY. Below both. Jefferies upgrade alone is not an entry (lesson 2026-08-21). |
+| GFS | $41.86 | $41.11 / $41.28 | $43.38 | $45.62 | NO BUY. Below both. Fab groundbreaking is not a confirmed trend reclaim. |
+| CSCO | $101.67 | $95.55 / $95.59 | $104.08 | $108.02 | NO BUY. Below both. Margin-weakness selloff. |
+| CIEN | $284.28 | $264.94 / $280.27 (wide ask, not used; lesson 2026-10-14) / last $279.87 | $310.24 | $343.93 | NO BUY. Below both. 12/10 earnings date is a later catalyst, not an entry. |
+
+**Decision framework (about 15:44 ET):**
+1. Cash: $86,292.11. No orders placed.
+2. Open positions: none. No 8% stop exposure and no SELL review needed.
+3. News: all five are analyst, partnership, or product headlines. None is a confirmed catalyst.
+4. MAs: every pick is below both its 20d and 50d on live data. The morning scan MAs and prices were stale again (lesson 2026-10-08).
+5. Risk on a missed buy: none taken. Cash stays uninvested, consistent with the book's posture.
+
+## Recent Reflections (last 3 days)
 
 ### 2026-11-11
 No trades today: the morning top-5 handoff for 11/11 was never written, so the trading session skipped by design and no orders were placed. Closing state is flat with $86,292.11 cash and no positions, unchanged from the 11/10 account pull, so there is no drift to explain. Next session: confirm `journal/top5/2026-11-12.json` exists before the 10:00 ET decision window, and check whether the 11/11 morning routine ever ran, since no `2026-11-11-morning.log` exists in the runlog. No new lesson is recorded, because this was a pipeline gap and not a market outcome.
@@ -89,3 +80,6 @@ Two consecutive sessions (11/09 and 11/11) and now 11/12 have no top-5 handoff. 
 
 ### Closing-state check (EOD routine, run 2026-11-13)
 Account pulled at close review: cash $86,292.11, equity $86,292.11, no open positions. This matches the last recorded status (2026-11-10 close), so there is no drift and no stop-loss exposure. The 11/12 session produced no trades. The gap is in the pipeline: no top-5 handoff has been written since 11/08, and the 11/12 morning routine ran after the close. Next session, confirm the morning research fires inside its 9:45 ET window and writes `journal/top5/YYYY-MM-DD.json` before the 10:00 ET trading window. Lessons step skipped: this is a pipeline issue already covered by the 2026-10-12 lesson, not a new market lesson.
+
+### 2026-11-13
+Closing state matches the trading entry: cash $86,292.11, no positions, no drift (account and positions pulls at EOD, 11/14 run). Nothing worked or failed in P&L terms because no orders were placed. The session was a late run (15:40 research, 15:44 trading), so the 9:45 and 10:00 ET windows were missed and the day's "no trade" outcome reflects that timing as much as the signals. Every top-5 name was below both MAs on live data, and the morning scan's stale MAs and prices misled the morning read on SOFI again. Next session: run research and trading inside their windows, and re-check every scan MA and price against a live quote before any decision. Watch SOFI for a confirmed close above both MAs, and watch FORM and GFS for a base before any entry.
