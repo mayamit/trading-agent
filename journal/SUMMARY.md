@@ -1,24 +1,12 @@
 # Journal Summary
 
-_Generated 2026-11-14 00:53 from 7 of 141 entries (2026-11-05 → 2026-11-13)_
+_Generated 2026-11-17 02:55 from 7 of 142 entries (2026-11-06 → 2026-11-16)_
 
-## Latest Portfolio Status _(from 2026-11-13)_
+## Latest Portfolio Status _(from 2026-11-16)_
 
-- Cash: $86,292.11
-- Positions: none
-- Total Value: $86,292.11
+_not recorded_
 
 ## Recent Trades (last 7 days)
-
-### 2026-11-05
-_Filled in by the EOD routine from the Alpaca order record (orders 20:54–20:56 UTC = 15:54–15:56 ET). The trading routine did not write this section. All orders were limit orders; all are in a terminal state, with none open._
-
-| Time | Symbol | Action | Qty | Price | Reasoning |
-|------|--------|--------|-----|-------|-----------|
-| 15:54 | LITE | SELL | 6 | $517.28 fill (limit $497.50) | 8% stop enforcement: -20.0% vs $648.89 entry |
-| 15:55 | NVDA | SELL | 23 | $183.06 fill (limit $183.00) | 8% stop enforcement: -11.9% vs $206.99 entry |
-| 15:55 | TSM | SELL | 12 | $352.85 avg (1 @ $354.41 + 11 @ $352.71) | 8% stop enforcement: -13.6% vs $408.61 entry. The first TSM order (limit $356.00) was canceled unfilled. The 403 "insufficient qty" on the retry was shares held by that pending order, not an error. |
-| 15:56 | ANET | SELL | 14 | $160.13 fill (limit $159.80) | Trim half on MA breakdown: +12.9% vs $141.86 entry, below both MAs. The first ANET order (limit $160.75) was canceled unfilled. |
 
 ### 2026-11-06
 | Time | Symbol | Action | Qty | Price | Reasoning |
@@ -72,9 +60,6 @@ None. NO BUY on all five top-5 picks. Trading session ran about 15:44 ET, after 
 
 ## Recent Reflections (last 3 days)
 
-### 2026-11-11
-No trades today: the morning top-5 handoff for 11/11 was never written, so the trading session skipped by design and no orders were placed. Closing state is flat with $86,292.11 cash and no positions, unchanged from the 11/10 account pull, so there is no drift to explain. Next session: confirm `journal/top5/2026-11-12.json` exists before the 10:00 ET decision window, and check whether the 11/11 morning routine ever ran, since no `2026-11-11-morning.log` exists in the runlog. No new lesson is recorded, because this was a pipeline gap and not a market outcome.
-
 ### 2026-11-12
 Two consecutive sessions (11/09 and 11/11) and now 11/12 have no top-5 handoff. The morning research pipeline is not producing `journal/top5/YYYY-MM-DD.json`, and the morning run logged at 16:06 ET is too late to fix the day. No position is open, so no 8% stop exposure exists and nothing was left unmanaged. Follow-up for the next session: confirm the morning routine fires inside its 9:45 ET window and writes the top5 file before 10:00 ET. Lessons step skipped: this is a pipeline gap, not a market outcome, so no new lesson is recorded.
 
@@ -83,3 +68,6 @@ Account pulled at close review: cash $86,292.11, equity $86,292.11, no open posi
 
 ### 2026-11-13
 Closing state matches the trading entry: cash $86,292.11, no positions, no drift (account and positions pulls at EOD, 11/14 run). Nothing worked or failed in P&L terms because no orders were placed. The session was a late run (15:40 research, 15:44 trading), so the 9:45 and 10:00 ET windows were missed and the day's "no trade" outcome reflects that timing as much as the signals. Every top-5 name was below both MAs on live data, and the morning scan's stale MAs and prices misled the morning read on SOFI again. Next session: run research and trading inside their windows, and re-check every scan MA and price against a live quote before any decision. Watch SOFI for a confirmed close above both MAs, and watch FORM and GFS for a base before any entry.
+
+### 2026-11-16
+No trading day to review: the session was missed (morning routine ran after the close), so no research, top-5 handoff, or orders happened. Closing state matches that: account cash and portfolio value are $86,292.11 with no open positions, so there was no drift from the trading-session entry. Next session (2026-11-17): run the 9:45 research and 10:00 trading routines on schedule, and confirm the routines fire inside their windows so the top-5 file exists before the trading decision.
