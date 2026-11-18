@@ -1,18 +1,12 @@
 # Journal Summary
 
-_Generated 2026-11-17 02:55 from 7 of 142 entries (2026-11-06 → 2026-11-16)_
+_Generated 2026-11-18 02:25 from 7 of 143 entries (2026-11-09 → 2026-11-17)_
 
-## Latest Portfolio Status _(from 2026-11-16)_
+## Latest Portfolio Status _(from 2026-11-17)_
 
 _not recorded_
 
 ## Recent Trades (last 7 days)
-
-### 2026-11-06
-| Time | Symbol | Action | Qty | Price | Reasoning |
-|------|--------|--------|-----|-------|-----------|
-| 15:12 | ANET | SELL | 14 | $164.82 limit; filled 14 @ $170.44 | Discretionary exit, not a stop. +19% vs $143.37 entry; below both MAs (20d $182.88, 50d $193.26). Per lesson 2026-11-04, exit the broken-trend remainder rather than default to HOLD. Order 450c5057-45bd-4759-92c3-6c52028a3c7a. |
-| — | — | NO BUY | — | — | All five top-5 picks (CSCO, LASR, GFS, MRVL, NVDA) failed the entry rule on live data. No substitute ticker considered. |
 
 ### 2026-11-10
 _Trading run 15:40 ET, late against the 10:00 window (lesson 2026-10-12: logged as a late session). Market open. Decisions use live IEX quotes (15:40 ET) and MAs recomputed from a desc-sorted 60-day pull that excludes today's partial bar. The morning's "last" prices and MAs were stale and are not used: e.g. LASR morning last $37.15 vs live $43.98, ALAB morning last $258.72 vs live $214.5, and the morning 20d MAs differ from the recompute (SOFI $15.43 vs $15.72; ALAB $306.52 vs $262.82)._
@@ -60,14 +54,11 @@ None. NO BUY on all five top-5 picks. Trading session ran about 15:44 ET, after 
 
 ## Recent Reflections (last 3 days)
 
-### 2026-11-12
-Two consecutive sessions (11/09 and 11/11) and now 11/12 have no top-5 handoff. The morning research pipeline is not producing `journal/top5/YYYY-MM-DD.json`, and the morning run logged at 16:06 ET is too late to fix the day. No position is open, so no 8% stop exposure exists and nothing was left unmanaged. Follow-up for the next session: confirm the morning routine fires inside its 9:45 ET window and writes the top5 file before 10:00 ET. Lessons step skipped: this is a pipeline gap, not a market outcome, so no new lesson is recorded.
-
-### Closing-state check (EOD routine, run 2026-11-13)
-Account pulled at close review: cash $86,292.11, equity $86,292.11, no open positions. This matches the last recorded status (2026-11-10 close), so there is no drift and no stop-loss exposure. The 11/12 session produced no trades. The gap is in the pipeline: no top-5 handoff has been written since 11/08, and the 11/12 morning routine ran after the close. Next session, confirm the morning research fires inside its 9:45 ET window and writes `journal/top5/YYYY-MM-DD.json` before the 10:00 ET trading window. Lessons step skipped: this is a pipeline issue already covered by the 2026-10-12 lesson, not a new market lesson.
-
 ### 2026-11-13
 Closing state matches the trading entry: cash $86,292.11, no positions, no drift (account and positions pulls at EOD, 11/14 run). Nothing worked or failed in P&L terms because no orders were placed. The session was a late run (15:40 research, 15:44 trading), so the 9:45 and 10:00 ET windows were missed and the day's "no trade" outcome reflects that timing as much as the signals. Every top-5 name was below both MAs on live data, and the morning scan's stale MAs and prices misled the morning read on SOFI again. Next session: run research and trading inside their windows, and re-check every scan MA and price against a live quote before any decision. Watch SOFI for a confirmed close above both MAs, and watch FORM and GFS for a base before any entry.
 
 ### 2026-11-16
 No trading day to review: the session was missed (morning routine ran after the close), so no research, top-5 handoff, or orders happened. Closing state matches that: account cash and portfolio value are $86,292.11 with no open positions, so there was no drift from the trading-session entry. Next session (2026-11-17): run the 9:45 research and 10:00 trading routines on schedule, and confirm the routines fire inside their windows so the top-5 file exists before the trading decision.
+
+### 2026-11-17
+No trading day to review: the morning research and trading routines did not produce a top-5 file, so no scan, handoff, or orders happened on 2026-11-17. Closing state is unchanged from the prior session: cash and portfolio value $86,292.11 with no open positions, so there was no drift. This is the second consecutive missed session (2026-11-16 also ran after the close), and the same pattern is already recorded in lessons.md (2026-10-12), so no new lesson was added. Next session (2026-11-18): confirm the 9:45 research and 10:00 trading routines fire inside their windows and that `journal/top5.json` exists before any trade decision.
