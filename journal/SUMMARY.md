@@ -1,33 +1,12 @@
 # Journal Summary
 
-_Generated 2026-11-19 01:52 from 7 of 144 entries (2026-11-10 → 2026-11-18)_
+_Generated 2026-11-20 01:46 from 7 of 145 entries (2026-11-11 → 2026-11-19)_
 
-## Latest Portfolio Status _(from 2026-11-18)_
+## Latest Portfolio Status _(from 2026-11-19)_
 
 _not recorded_
 
 ## Recent Trades (last 7 days)
-
-### 2026-11-10
-_Trading run 15:40 ET, late against the 10:00 window (lesson 2026-10-12: logged as a late session). Market open. Decisions use live IEX quotes (15:40 ET) and MAs recomputed from a desc-sorted 60-day pull that excludes today's partial bar. The morning's "last" prices and MAs were stale and are not used: e.g. LASR morning last $37.15 vs live $43.98, ALAB morning last $258.72 vs live $214.5, and the morning 20d MAs differ from the recompute (SOFI $15.43 vs $15.72; ALAB $306.52 vs $262.82)._
-
-| Time | Symbol | Action | Qty | Price | Reasoning |
-|------|--------|--------|-----|-------|-----------|
-| 15:40 | — | NO ORDERS | — | — | All five top-5 picks (SOFI, LASR, ALAB, COHR, VECO) failed the entry rule on live data. No pick has a confirmed close above both MAs today. No substitute ticker considered. No held positions, so no stop or SELL review. |
-
-**Top-5 decisions (live bid/ask/last at 15:40 ET; closed-bar MAs):**
-- **SOFI (low, 15% cap), NO BUY.** Bid $16.18 / ask $16.19 / last $16.18. 20d $15.72, 50d $16.33. Price is above the 20d but back under the 50d intraday. The 11/09 close ($16.75) was above both, but that is a prior-day close, and today's trade has undone it. Morning's own gate is a confirmed close, which has not happened today. Lesson 2026-10-21 applies. Re-check at the 11/10 close.
-- **LASR (low, 3% cap), NO BUY.** Last $43.98 (bid $43.50 / ask $44.09). 20d $36.47, 50d $38.47. Price is above both, and the 11/06 and 11/09 closes ($38.11, $43.24) were above the 20d. But price is about 21% over the 20d after a one-day gap from $29.29 (11/05) to $43.24 (11/09). Morning's gate was a confirmed close above the 20d, and today's close is not yet in. Chasing a gap with low conviction is the pattern in lessons 2026-06-02 and 2026-07-22. Re-check at the 11/10 close, and only enter if it holds above the 20d.
-- **ALAB (low), NO BUY.** Bid $214.43 / ask $214.79 / last $214.52. 20d $262.82, 50d $299.00. About 18% under the 20d and 26% under the 50d. The 11/09 +14% earnings pop does not reclaim the trend (lesson 2026-10-30).
-- **COHR (low), NO BUY.** Bid $211.27 / ask $225.57 (wide; thin-feed ask, not used, lesson 2026-10-14) / last $214.23. 20d $224.49, 50d $268.90. Price is under both. Rothschild PT raise alone is not an entry (lesson 2026-08-21).
-- **VECO (low), NO BUY.** Bid $33.97 / ask $39.83 (wide, thin feed, not used) / last $39.71. 20d $41.66, 50d $44.95. Price is under both. Citi maintained Buy with a cut PT is not an entry (lesson 2026-08-21).
-
-**Decision framework (15:40 ET):**
-1. Cash: $86,292.11 before and after. No orders placed.
-2. Open positions: none.
-3. News: all picks are analyst or earnings headlines, and none cleared the MA test on live data.
-4. MAs: only LASR and SOFI are above the 20d intraday; SOFI is under the 50d.
-5. Risk on a missed buy: none taken. Cash stays uninvested, consistent with the book's posture.
 
 ### 2026-11-12
 None. Session skipped (top5 missing).
@@ -54,11 +33,11 @@ None. NO BUY on all five top-5 picks. Trading session ran about 15:44 ET, after 
 
 ## Recent Reflections (last 3 days)
 
-### 2026-11-16
-No trading day to review: the session was missed (morning routine ran after the close), so no research, top-5 handoff, or orders happened. Closing state matches that: account cash and portfolio value are $86,292.11 with no open positions, so there was no drift from the trading-session entry. Next session (2026-11-17): run the 9:45 research and 10:00 trading routines on schedule, and confirm the routines fire inside their windows so the top-5 file exists before the trading decision.
-
 ### 2026-11-17
 No trading day to review: the morning research and trading routines did not produce a top-5 file, so no scan, handoff, or orders happened on 2026-11-17. Closing state is unchanged from the prior session: cash and portfolio value $86,292.11 with no open positions, so there was no drift. This is the second consecutive missed session (2026-11-16 also ran after the close), and the same pattern is already recorded in lessons.md (2026-10-12), so no new lesson was added. Next session (2026-11-18): confirm the 9:45 research and 10:00 trading routines fire inside their windows and that `journal/top5.json` exists before any trade decision.
 
 ### 2026-11-18
 No trading day to review: the research and trading windows (9:45 and 10:00 ET) were missed, and the morning routine did not run until 16:36 ET, so no scan, top-5 handoff (`journal/top5/2026-11-18.json` was not written), or orders happened. Closing state matches the prior session: cash and portfolio value $86,292.11 with no open positions, so there was no drift. This is the third consecutive late or missed session (11/16, 11/17, 11/18), already covered by lesson 2026-10-12, so no new lesson was added. Next session (2026-11-19): confirm the research run starts inside its 9:45 ET window and that `journal/top5/2026-11-19.json` exists before any trade decision.
+
+### 2026-11-19
+No trading day to review: the morning research ran at 16:48 ET and the trading routine at 16:56 ET, both after the close, so there was no scan, no top-5 handoff (`journal/top5/2026-11-19.json` was not written), and no orders. Closing state matches the prior session: cash and portfolio value $86,292.11 with no open positions, so there was no drift. This is the fourth consecutive late or missed session (11/16 through 11/19), already covered by lesson 2026-10-12, so no new lesson was added. Next session (2026-11-20): confirm the research run starts inside its 9:45 ET window and that `journal/top5/2026-11-20.json` exists before any trade decision.
