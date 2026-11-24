@@ -1,15 +1,12 @@
 # Journal Summary
 
-_Generated 2026-11-21 01:30 from 7 of 146 entries (2026-11-12 → 2026-11-20)_
+_Generated 2026-11-24 04:47 from 7 of 147 entries (2026-11-13 → 2026-11-23)_
 
-## Latest Portfolio Status _(from 2026-11-20)_
+## Latest Portfolio Status _(from 2026-11-23)_
 
 _not recorded_
 
 ## Recent Trades (last 7 days)
-
-### 2026-11-12
-None. Session skipped (top5 missing).
 
 ### 2026-11-13
 None. NO BUY on all five top-5 picks. Trading session ran about 15:44 ET, after the 10:00 ET window (see Run timing above), so this is logged as a late session with no orders placed.
@@ -33,11 +30,11 @@ None. NO BUY on all five top-5 picks. Trading session ran about 15:44 ET, after 
 
 ## Recent Reflections (last 3 days)
 
-### 2026-11-18
-No trading day to review: the research and trading windows (9:45 and 10:00 ET) were missed, and the morning routine did not run until 16:36 ET, so no scan, top-5 handoff (`journal/top5/2026-11-18.json` was not written), or orders happened. Closing state matches the prior session: cash and portfolio value $86,292.11 with no open positions, so there was no drift. This is the third consecutive late or missed session (11/16, 11/17, 11/18), already covered by lesson 2026-10-12, so no new lesson was added. Next session (2026-11-19): confirm the research run starts inside its 9:45 ET window and that `journal/top5/2026-11-19.json` exists before any trade decision.
-
 ### 2026-11-19
 No trading day to review: the morning research ran at 16:48 ET and the trading routine at 16:56 ET, both after the close, so there was no scan, no top-5 handoff (`journal/top5/2026-11-19.json` was not written), and no orders. Closing state matches the prior session: cash and portfolio value $86,292.11 with no open positions, so there was no drift. This is the fourth consecutive late or missed session (11/16 through 11/19), already covered by lesson 2026-10-12, so no new lesson was added. Next session (2026-11-20): confirm the research run starts inside its 9:45 ET window and that `journal/top5/2026-11-20.json` exists before any trade decision.
 
 ### 2026-11-20
 No trades and no open positions. Closing account state: cash $86,292.11, portfolio value $86,292.11, zero positions. There was no trading-session entry to compare against, so no drift could be measured; the account shows no sign of activity today. The session was lost to a late morning research run (16:32 ET), not to any market or strategy decision. Next session (2026-11-23): confirm the 9:45 research run fires on time, since without a top5 handoff the 10:00 trading routine has nothing to act on.
+
+### 2026-11-23
+No trades. The 9:45 research run missed its window: the morning routine logged at 20:13 ET, after the close, so no top5 was written and the 10:00 trading routine had nothing to act on. The "markets closed" wording in the entry above is wrong. The market was open during the window, so this was a late run, the same failure as 2026-10-12 and 2026-11-20. Closing state: cash $86,292.11, portfolio value $86,292.11, zero positions, no drift from 2026-11-20. Next session (2026-11-24): confirm the 9:45 ET research run fires on time and writes `journal/top5/2026-11-24.json` before any trade decision.
