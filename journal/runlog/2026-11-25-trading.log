@@ -1,0 +1,4 @@
+2026-11-25T22:53:13Z [INFO] [setup/start] setup starting routine=trading et_date=2026-11-25
+2026-11-25T22:53:13Z [INFO] [setup/env] env validated alpaca_base=https://paper-api.alpaca.markets sendgrid_present=false
+2026-11-25T22:53:13Z [INFO] [setup/ready] setup complete runlog=/home/runner/work/trading-agent/trading-agent/journal/runlog/2026-11-25-trading.log marker=journal/.current-routine
+2026-11-25T23:13:48Z [INFO] [finalize/start] finalizing routine=trading et_date=2026-11-25
